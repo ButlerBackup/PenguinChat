@@ -1,0 +1,538 @@
+1|17|7|Q|G|geilonge
+1|17|L|F|E|
+1
+1|5|7|Q|G|geilonge
+1|5|I|F|F|
+1|5|H|8|K|
+3|17|8|Q|G|minhthanh
+3|17|H|B|K|
+3|14|1|B|K|/a2WL
+3|14|1|B|K|/j0
+3|14|H|B|K|
+3|5|1|B|K|
+3|5|H|B|K|
+3|5|H|B|K|hello
+1|5|8|8|K|
+1|5|K|8|K|
+3|5|H|B|K|DO YOU LIKE THIS GAME
+3|5|2|C|E|
+1|5|K|8|K|fala portugues
+3|5|7|F|E|
+3|5|8|B|K|
+1|5|K|8|K|no
+3|5|8|B|K|I DON'T UNDERSTAND
+3|5|7|B|K|/e4
+1|5|K|8|K|no tem game
+3|5|8|B|K|/e10
+1|5|2|J|K|
+1|5|5|J|K|/e4
+3|5|2|F|K|
+3|5|7|9|M|/a2EM
+1|5|L|G|M|
+3|5|5|O|J|
+1|14|1|G|M|/a2CO
+3|5|1|M|K|
+3|5|1|M|K|I'V BEEN DELAYED
+1
+3
+3|18|8|Q|G|Gluby Gluby
+3
+2|17|8|Q|G|HarryMaker
+2
+2|18|7|Q|G|HarryMaker
+1|18|4|Q|G|marce123456
+2|18|1|M|H|
+1|18|7|Q|G|
+2|18|1|M|H|que tal
+1|18|6|K|M|
+2|18|1|M|H|a antiga caldeira
+2|18|L|J|J|
+2|18|L|J|J|/e2
+1|18|1|K|M|ok
+2|18|L|J|J|gostou?
+1|18|5|Q|I|
+1|18|2|O|H|
+1|18|2|O|H|sim
+2|18|1|L|J|
+1|18|7|R|E|
+1
+2|18|6|L|J|tem um capacete
+2
+2|18|7|Q|G|HarryMaker
+2
+9|17|8|Q|G|Allan grant
+9|17|4|O|L|
+9|17|3|A|H|
+9
+9|17|8|Q|G|Allan grant
+9
+10|18|8|Q|G|Billy
+10|18|2|D|K|
+9|17|8|Q|G|Allan grant
+10|18|3|U|N|
+9|17|1|H|K|
+10|18|4|U|N|/e1
+9|17|1|H|K|é eu vi
+10|18|4|H|I|
+10|18|5|Q|K|
+9|17|7|H|K|sabia que aquele dj no danc é o dj player
+9|17|7|N|L|
+9|17|7|N|L|gostei daqui
+9|17|4|N|L|aconchegante
+9|17|7|U|K|
+9|17|3|U|K|legal aqui
+10|18|2|Q|K|muito feio as salas
+9|17|4|U|K|ainda prefiro o cp
+9|17|4|U|K|o que vc esperava
+10|18|2|Q|K|qual seu nome no cp?
+10|18|2|Q|K|nada
+9|17|3|U|K|é a faze de teste do cp
+10|18|2|Q|K|estamos no final de 2004 para 2005
+10|18|2|Q|K|ou em 2003 para 2004
+10|18|2|Q|K|1998
+9|17|3|U|K|verdade
+10|18|2|Q|K|1999
+10|18|2|Q|K|2000
+10|18|2|Q|K|2001
+10|18|2|Q|K|2002
+9|17|2|U|K|o que tem 1999
+10|18|2|Q|K|2003
+10|18|2|Q|K|nada
+10
+9|17|3|U|K|nossa louco
+9
+9|5|1|Q|G|Allan grant
+9|5|2|A|J|
+9|5|7|M|K|
+9|5|7|P|E|
+9
+1|17|8|Q|G|HarryMaker
+5|17|7|Q|G|nene991
+1|17|L|L|J|
+5|17|6|L|J|
+1|17|L|L|J|/e1
+5
+1|17|L|L|J|legal né
+1
+5|17|1|Q|G|nene991
+5|17|4|E|H|
+5|17|7|P|I|
+5
+2|11|7|Q|G|jubernardom
+2|11|1|G|L|
+2
+1|17|1|Q|G|Banbdee
+1|17|K|L|J|
+1|17|2|N|L|
+6|18|7|Q|G|Empoleon
+6|18|1|I|J|
+6|18|L|K|E|
+6|18|L|L|G|
+6|18|2|M|E|
+6|18|L|M|E|
+6|18|6|L|F|
+6|18|3|M|F|
+8|12|1|Q|G|plog12
+6|18|2|M|F|
+6|18|3|M|F|
+8|12|4|D|E|
+8|12|7|H|I|
+6|18|6|L|G|
+6|18|5|L|F|
+8
+6|18|5|L|F|
+6|18|6|L|F|
+6
+1
+4|17|7|Q|G|Banbdee
+4|17|7|Q|G|
+4|17|K|A|M|
+9|6|7|Q|G|Starty
+9|6|4|K|J|
+9|6|K|K|J|
+9
+1|18|1|Q|G|eduardo1002
+1|18|3|D|M|
+1|18|H|D|M|
+1|18|H|D|M|/j0
+1|18|H|D|M|/a2W8
+1|18|L|D|M|/a2CK
+1|18|H|D|M|
+1|18|H|R|E|
+1
+1|18|1|Q|G|eduardo1002
+1
+7|8|1|Q|G|isabela4327
+1|18|8|Q|G|eduardo1002
+7|8|1|E|K|
+1|18|5|I|F|
+7|8|8|9|M|
+1|18|4|S|K|
+1
+7|8|8|9|M|!add eduardo1002
+7|8|5|A|G|
+1|18|8|Q|G|eduardo1002
+1
+7|8|6|E|J|
+7|8|7|Q|F|
+7
+4
+21|8|8|Q|G|lele09
+20|4|8|Q|G|Dargon 26
+20
+20|4|5|Q|G|Dargon 26
+21|8|3|Q|G|
+2|18|7|Q|G|eduardo1002
+21|8|3|G|G|
+20|4|3|L|I|
+2|18|8|I|L|
+2|14|1|I|L|
+21|8|1|G|G|nao acontece nada
+20|4|2|L|I|!add ninja fail
+21|8|1|G|G|add ninja fail
+2|14|1|I|L|!add ninja fail
+2|18|1|I|L|pronto
+21|8|1|G|G|!add ninja fail
+21|8|1|G|G|o que
+2|18|1|I|L|/e1
+2|18|1|I|L|1 de abril
+2|18|1|I|L|patetas
+21|8|1|G|G|ah muito facil ne daaaa
+2
+21|8|1|G|G|manezao
+21|8|7|J|E|
+20|4|1|L|I|/e10
+20|4|8|I|I|bua
+20|4|3|N|F|/a2MF
+21|18|1|I|J|
+21|18|1|I|J|que foi
+20|4|3|I|H|/a2GB
+20|4|1|I|H|como ganho
+20|4|5|E|N|
+21|18|2|I|J|como ganha o que
+2|18|5|Q|G|eduardo1002
+21|18|8|I|N|
+2|18|1|L|M|
+20|4|1|E|N|a roupa
+21|8|1|I|N|
+21|8|1|I|N|em
+2|18|1|L|M|consseguiram
+20|4|8|E|N|demais
+21|8|1|I|N|de ninja
+21|8|1|I|N|ah facil
+22|6|1|Q|G|Danila39
+21|8|1|I|N|so vc
+2|18|1|L|M|lele nao diz
+21|8|1|I|N|clicar
+22|6|5|Q|G|
+21|8|1|I|N|por que nao
+21|8|1|I|N|vou falar
+2|18|1|L|M|nao diga
+22|6|2|Q|G|/a2OM
+21|8|1|I|N|so clicar
+2|18|1|L|M|pq
+22|6|2|Q|G|/a2JO
+21|8|1|I|N|nessa
+21|8|1|I|N|seta
+22|6|2|Q|G|/a2LL
+20|4|6|K|F|
+2|18|1|L|M|ninguem revela
+22|6|2|Q|G|/a2MO
+20|4|5|I|E|
+22|6|2|Q|G|/a2LN
+20|4|3|J|G|
+22|6|2|Q|G|/a2IK
+20|4|4|F|N|
+21|8|1|I|N|e clicar na chave de fenda
+21|8|1|I|N|/a2T8
+22|6|2|Q|G|/a2JL
+2|18|1|L|M|o segredo
+21|8|1|I|N|/a26I
+22|6|2|Q|G|/a2MK
+20|4|5|J|E|
+2|18|1|L|M|nesse dia
+2|18|1|L|M|amanha pode
+22|6|2|Q|G|/a2JJ
+21|8|1|I|N|clicou?
+20|4|4|J|E|
+2|18|8|L|O|
+22|6|2|Q|G|/a2GP
+22|6|2|Q|G|/a2JL
+21|8|1|J|H|
+20|4|1|J|E|sim
+22|6|5|R|H|
+20|4|3|I|J|
+22
+21|8|1|J|H|ai clica
+20|4|4|L|E|
+20|4|7|G|F|
+21|8|1|J|H|no final
+20|4|6|I|J|
+21|8|1|J|H|do penguin
+20|4|3|L|G|/a2IJ
+2|18|2|L|O|/a2HI
+2|18|5|A|G|
+20|4|3|L|G|/a2ON
+2|18|1|A|G|/a2FA
+2|18|1|A|G|/e4
+2|18|1|A|G|vc vai desonrrar
+21|8|1|J|H|clica em new penguin
+21|8|1|J|H|ai clica no final de penguin
+20|4|3|C|E|
+2|18|1|A|G|/a2ME
+20|4|5|9|H|
+2|18|1|A|G|NO N
+20|4|4|K|E|
+21|8|1|D|H|viu
+2|18|1|A|G|IDIOTA
+21|18|1|D|H|
+2|18|1|K|J|
+21|18|1|D|H|ele nao sabe fazer
+2|18|2|O|J|
+20|4|5|K|E|
+21|18|8|H|J|
+20|4|5|J|E|
+21|18|1|M|K|
+21|18|1|M|K|desculpa
+2|18|1|O|J|QUE DIA E HOJE
+20|4|2|K|N|
+21|18|1|M|K|1 de abril
+21|18|1|M|K|pq
+20|4|2|K|N|1 de abril
+2|18|1|O|J|1 DE ABRIL
+2|18|1|O|J|EU NUMCA NUNCA NUNCA DIRIA HOJE
+20|4|2|K|N|passou e vc n viu
+21|18|1|M|K|que estranho vc é
+21|18|1|M|K|am?
+20|4|2|M|O|
+21|18|1|M|K|nao entendo
+20|4|2|M|O|/j7
+20|4|L|M|O|
+20|4|L|M|O|/e11
+21|18|1|M|K|do que estao falando
+20|4|K|M|O|/a2UF
+21|18|2|M|K|loucos
+20|4|6|P|E|
+20
+2|18|5|H|J|
+2|18|7|C|L|
+21|18|1|M|K|e eu me desourei ne
+21|18|2|F|J|
+21|18|8|E|L|
+21|18|8|E|L|entao
+21|18|8|E|L|me desculpa
+2|1|1|C|L|
+2
+20|14|8|Q|G|Dargon 26
+20|14|5|J|E|
+21|18|6|J|I|
+21|18|2|J|I|buaaaaaaa
+20|14|6|K|E|
+21|18|2|J|I|buaaaaaaaaa
+20|14|2|F|K|
+20|14|7|P|J|
+21|18|J|J|I|
+21|18|L|J|I|
+20|10|1|P|J|
+21|18|L|J|I|buaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+20|11|1|P|J|q foi
+21|18|L|J|I|eu eu nada
+20|11|1|P|J|/j4
+21
+20
+25|18|7|Q|G|ghhg67754
+25
+1|18|2|Q|G|sara45618
+1
+19|18|7|Q|G|andre11111
+19|18|L|A|G|
+19|18|3|L|E|
+19|18|8|8|I|
+19|18|L|H|I|
+19
+19|18|7|Q|G|andre11111
+19|18|K|F|H|
+19
+18|18|8|Q|G|Licas74
+18|18|7|V|J|
+18|18|6|F|F|
+18
+6|18|5|Q|G|Arthur
+6|18|1|B|K|
+6|18|7|Q|G|
+6
+4|18|8|Q|G|andre11111
+4|18|2|Q|G|
+4|18|6|I|K|
+4
+8|14|8|Q|G|EPF
+8|14|4|I|L|
+8|14|5|Q|E|
+8
+8|14|7|Q|G|EPF
+8|14|4|Q|G|
+4|18|5|Q|G|drelegal08
+4
+1|7|7|Q|G|Doug12
+4|18|1|Q|G|drelegal08
+1|7|H|K|L|
+4|18|7|D|H|
+4
+1|6|1|I|I|
+1|9|1|I|I|
+1|12|1|G|M|
+1|12|2|J|K|/j13
+1|12|H|J|K|
+8
+1|12|H|Q|F|
+1
+2|13|8|Q|G|deividsan
+2|13|7|W|J|
+2
+12|11|6|Q|G|EPF
+12|11|H|H|M|
+12
+17|4|7|Q|G|Dargon 26
+17|4|4|J|E|
+17|4|3|I|O|
+17|4|4|K|E|
+17
+11|9|1|Q|G|WHEEZZY1
+11|9|1|K|I|
+11
+7|18|7|Q|G|Doug12
+7|18|K|F|M|
+7|18|K|O|K|
+7
+7|17|7|Q|G|Doug12
+7|5|1|K|O|
+7|5|L|H|K|
+7|5|L|P|M|
+7|5|5|L|M|
+7|12|1|F|M|
+7
+7|4|7|Q|G|Dargon 26
+7|4|8|D|K|
+7|4|4|J|E|
+7
+1|18|7|Q|G|Doug12
+1|18|2|H|M|
+1|18|6|T|M|
+1|18|6|N|K|
+1
+8|18|7|Q|G|Banbdee
+8|18|K|F|J|
+8|18|4|B|N|
+8|18|4|D|F|
+8|18|8|U|K|
+8|18|2|O|I|
+8|18|1|A|G|
+8
+10|17|2|Q|G|Dargon 26
+10
+13|4|1|Q|G|junior
+13|4|4|Q|G|
+13
+11|18|1|Q|G|Felipe sw
+11|18|7|G|I|
+11
+6|17|7|Q|G|Banbdee
+6|17|1|A|G|
+6|17|L|A|G|
+3|1|8|Q|G|rodrigojbmts
+3|1|3|C|E|
+3|1|3|D|E|
+3|1|5|C|I|
+3|1|L|A|H|
+3|1|L|I|J|
+3|1|5|T|L|
+3|18|1|T|L|
+3|18|L|T|L|
+3|18|L|C|J|
+6
+3
+3|1|3|Q|G|Oscorp
+3
+1|18|5|Q|G|ben 10461
+1|18|3|Q|G|
+1|18|5|Q|M|
+1|18|1|P|H|
+1
+1|4|8|Q|G|victorrei3
+1|4|4|M|L|
+1
+8|7|7|Q|G|Doug12
+8
+3|18|8|Q|G|guirinho
+3|18|1|H|J|
+3
+4|18|1|Q|G|victorrei3
+4|18|4|J|F|
+4|18|8|R|J|
+4
+2|17|6|Q|G|Anakin2309
+2
+5|18|8|Q|G|gabrielrock
+2|17|8|Q|G|Anakin2309
+5|18|8|C|K|
+2|17|1|M|J|
+2|17|7|M|J|como me tornar um ninja?
+5|18|7|C|K|/e5
+2|17|3|S|K|
+5|18|3|T|J|
+2|17|6|E|J|
+5
+2|17|7|E|J|/e4
+2
+5|18|7|Q|G|gabrielrock
+5|18|7|Q|F|
+5
+6|18|8|Q|G|sofia
+6|18|2|G|M|
+6
+11|1|7|Q|G|Allan grant
+11|1|1|J|M|
+11|1|7|Q|F|
+11
+5|18|8|Q|G|pinguim 100
+5
+1|18|8|Q|G|Liv linda
+1|18|2|M|N|
+1
+1|12|2|Q|G|amarelado10
+1|18|1|A|I|
+1|18|L|A|G|
+1
+4|18|8|Q|G|dudunick132
+4
+4|18|7|Q|G|dudunick132
+4
+4|18|7|Q|G|dudunick132
+4|18|7|J|E|
+4
+1|18|1|Q|G|superpenguin
+1|18|3|B|I|
+1|6|1|E|L|
+1|1|5|Q|F|
+1
+11|18|L|Q|G|Empoleon
+11|18|1|J|F|
+11
+8|4|1|Q|G|cp demais
+8|4|3|S|N|
+8|4|1|H|K|
+8
+7|1|3|Q|G|Joaovitor
+7|1|7|B|F|
+7
+2|9|8|Q|G|ryan0511
+2
+1|18|L|Q|G|RockSnail
+1|18|5|Q|E|
+1
+1|18|7|Q|G|Duque130
+1|18|1|C|I|
+1
+1|5|7|Q|G|Cadu Eduardo
+1|5|4|Q|G|
+1

@@ -1,0 +1,133 @@
+1|16|8|4|D|pin wii7852
+1|16|7|c|D|
+1|16|3|2|G|
+1
+1|16|7|4|D|ghhg
+1
+1|16|8|4|D|Kampfer
+1|16|4|c|I|
+1|16|3|d|I|
+1|16|5|Z|I|
+1|16|3|K|K|
+1|16|7|d|C|
+1|16|2|P|M|
+1|16|3|L|L|
+1
+1|16|7|4|D|Kampfer
+2|16|8|4|D|Milah
+1|16|1|B|G|
+2|16|8|H|H|
+2|16|8|H|H|eu em
+1|16|1|E|I|
+2|16|1|H|H|q lugar e esse
+1|16|1|a|D|
+1|16|1|a|D|kk'-'
+1|16|1|a|D|ancoradouro
+1|16|2|M|J|
+1|16|1|M|J|oopa
+2|16|8|H|H|aewho
+1|16|1|M|J|e o forte nevado
+2|16|I|H|H|
+2|16|I|H|H|serio '-'
+1|16|1|M|J|nuss
+1|16|1|M|J|LA E O PLAZA
+2|16|I|H|H|/a2J6
+1
+2|16|J|H|H|/a2MD
+2|16|1|d|D|
+1|16|8|4|D|Kampfer
+2|16|3|d|C|
+1|16|7|I|H|/e3
+1|16|2|O|H|N DA PRA SAI
+2|16|2|d|H|N CONSIGO
+2|16|2|d|H|AAAAAAAAAAAAAAAAAAAAAA
+2|16|2|U|F|
+2|16|2|U|F|'-'
+1|16|1|O|H|kkk
+1|16|1|O|H|--
+1|16|1|O|H|'-'
+2|16|2|U|F|.-.
+2|16|K|U|F|
+2|16|K|U|F|'-'
+2|16|K|U|F|aqui e mais normal
+2|16|K|U|F|'-'
+1|16|3|A|J|
+2|16|K|U|F|pq os pinguins n usam roupas
+2|16|K|U|F|'-'
+2|16|K|U|F|e os pinguins vivem no deserto
+2|16|K|U|F|'-'
+1|16|3|A|J|KKKK
+1|16|3|A|J|'-'
+1|16|3|A|J|Milah
+1|16|6|M|J|
+2|16|K|U|F|??
+2|16|K|U|F|deserto gelado :P
+1|16|1|M|J|aki
+2|16|H|U|F|
+1|16|1|M|J|n tem pizzaria ._.
+2|16|H|U|F|;-;
+2|16|H|U|F|q bosta ;-;
+1|16|1|M|J|pq
+1|16|1|M|J|no plaza tem pizzaria
+1|16|1|M|J|e aki n tem
+1|16|1|M|J|<<
+2|16|H|U|F|'-'
+1|16|1|M|J|la e o plaza <<
+2|16|H|U|F|afs
+1|16|1|M|J|..
+2|16|H|U|F|.-.
+2|16|H|U|F|q bosta ;-;
+1|16|6|M|J|;;
+1|16|6|M|J|;-;
+2|16|H|U|F|vamu murre de fomi
+2|16|H|U|F|;-;
+1|16|3|A|I|vamos
+2|16|H|U|F|pizza e vida;-;
+1|16|3|A|I|vdd ;-;
+2|16|H|5|D|
+1|16|3|A|I|mas
+1|16|3|A|I|tem o café
+2|16|H|5|D|n tem prainha?
+2|16|H|5|D|so isso
+1|16|3|A|I|nau '-'
+2|16|H|5|D|'-'
+1|16|3|A|I|aham
+2|16|H|5|D|sim '-'
+1|16|3|1|J|
+1
+2|16|H|5|D|intupi
+2
+1|16|2|4|D|Kampfer
+1
+2|16|3|4|D|Milah
+2|16|8|1|F|
+2
+1|16|6|4|D|Kampfer
+1|16|7|d|H|
+1
+4|16|5|4|D|swegmaster
+4|16|1|c|R|
+4|16|4|d|J|
+4
+1|16|7|4|D|trotop
+1|16|1|d|G|
+1|16|3|W|E|
+1|16|1|H|F|
+1|16|L|1|H|
+1
+1|16|L|4|D|Sowaro
+1|16|1|d|M|
+1|16|5|1|L|
+1|16|6|d|M|
+1|16|6|1|L|
+1
+2|16|1|4|D|Sowaro
+2|16|7|J|J|
+2|16|7|R|D|
+2|16|2|L|L|
+2|16|2|S|E|
+2|16|3|1|I|
+2|16|6|8|H|
+2|12|L|M|K|
+2|8|7|O|I|
+2

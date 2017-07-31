@@ -1,0 +1,451 @@
+1|14|2|a|D|jhonn lenon
+1|14|4|F|F|
+1|17|3|6|D|
+1
+1|5|3|a|D|cppshqhu
+1|5|3|8|E|
+1|5|8|X|K|
+1
+1|5|7|4|D|cppshqhu
+1
+1|14|4|a|D|Pavol2002
+1
+1|14|2|4|D|Pavol2002
+1
+1|14|3|a|D|dipper5687
+1
+1|10|3|a|D|pier416
+1
+1|14|2|a|D|S A N I T Y
+1
+1|12|4|a|D|jillfairy
+1|12|5|2|I|
+1
+1|1|3|a|D|nick1234
+1
+1|13|7|4|D|nick1234
+1
+2|14|3|a|D|xalibela
+2
+3|1|3|a|D|bubblegum
+3|1|1|N|G|
+3
+1|1|3|a|D|prueba1000
+1
+2|14|2|a|D|PotatoHI
+2
+1|14|2|a|D|derpbob
+1|14|1|Q|F|
+1|14|6|L|E|
+1
+1|14|3|4|D|derpbob
+1
+1|1|1|a|D|Samel Camel1
+1|1|6|M|9|
+1
+1|10|3|a|D|Elsafrozen
+1|10|7|C|L|
+1|10|7|G|R|
+1|10|8|K|L|
+1|10|1|K|C|
+1|10|7|1|H|
+1
+1|13|3|a|D|Pato fu
+1|13|5|M|J|
+1
+1|14|3|a|D|TiagoFelix1
+1|17|7|L|H|
+1|17|L|1|J|
+1
+1|17|7|4|D|TiagoFelix1
+1|17|L|N|A|
+1
+2|4|8|a|D|GabrielLima
+2|4|6|N|E|
+2
+3|18|3|a|D|idolnyan
+3|17|L|K|A|
+3
+3|17|3|a|D|idolnyan
+3
+5|14|3|a|D|Redgate1
+5|17|6|K|E|
+5|17|1|K|G|
+5|14|1|K|I|
+5|14|5|M|9|
+5|14|1|L|F|
+5|1|1|K|G|
+5|14|1|Q|H|
+5
+1|1|5|a|D|PufflesMG
+1|1|8|M|B|
+1|1|2|K|H|
+1|1|2|4|R|
+1|1|6|c|O|
+1|1|3|b|I|
+1|1|6|P|E|
+1
+2|4|3|a|D|idolnyan
+2
+1|4|4|a|D|murilo12
+1|17|2|N|A|
+1|17|3|1|C|
+1
+1|1|3|a|D|Goku7000
+1|1|8|D|I|
+1|1|4|H|M|
+1
+1|4|3|a|D|coolio guy1
+1
+4|4|3|a|D|tigrex6893
+4
+4|4|3|a|D|tigrex6893
+4|4|5|1|N|
+4
+2|6|3|a|D|belencita
+2|6|3|2|J|
+2|6|2|d|N|
+2|6|L|H|K|
+2
+2|4|3|a|D|Master Jas
+2
+3|1|3|a|D|Pengie 1941
+3|17|1|c|K|
+3
+2|7|1|a|D|Saltybacon2
+2|7|3|R|J|/a2EI
+2
+3|17|3|a|D|Pengie 1941
+1|1|8|a|D|vlad
+5|1|3|a|D|Saltybacon2
+1|1|7|M|A|
+3|17|8|d|E|
+3
+5|1|7|T|I|
+1|1|3|U|D|
+1|1|3|U|D|/e1
+3|17|3|a|D|Pengie 1941
+5|1|7|d|F|
+5
+1|1|8|O|H|
+3|17|3|B|C|
+1
+3|17|5|B|9|
+5|1|2|a|D|Saltybacon2
+3|17|5|Q|M|
+5|1|5|E|9|
+3|17|1|Q|G|
+5|1|8|X|O|
+5|1|8|X|O|how
+3|17|1|N|J|
+5|1|2|Q|K|
+5|1|3|Q|K|/e4
+3|17|8|L|M|
+3|17|8|L|M|with cursor
+5|1|4|L|A|
+3|17|8|J|F|
+3|17|8|J|F|or mouse
+5|1|4|Q|F|
+3|17|4|G|B|
+1|18|3|a|D|vlad
+5|17|4|O|N|
+1|18|3|E|G|
+5|17|1|O|N|/a2ZB
+4|13|3|a|D|coolkicool.
+3|17|8|6|K|
+1|17|1|E|G|
+5|17|1|c|G|
+3|17|5|B|9|
+4|17|1|M|A|
+1|17|1|E|G|ohh
+1|17|1|E|G|okay
+5|17|1|Q|J|
+1|17|1|E|G|i get it
+4|17|1|I|J|
+4|17|1|I|J|why do i look ugly
+5|17|3|Y|G|
+3|17|1|C|E|
+1|17|1|E|G|thanks
+5
+4|17|4|T|J|
+3|17|8|C|E|yeah
+4|12|4|Q|J|
+3|17|8|C|E|youre welcome
+4|13|1|2|O|
+1|17|1|E|G|if you look ugly i look ugly
+4|13|8|B|G|dad
+3|17|8|N|N|
+3|17|K|N|N|/j0
+4|13|8|A|G|
+3|17|K|N|N|/a2WO
+4|13|8|A|G|ok
+3|17|L|N|N|/e1
+4|13|8|J|M|d ad
+5|17|3|a|D|Saltybacon2
+4|13|5|J|M|/e3
+5|17|3|J|I|
+4|13|1|Q|I|
+1|17|I|E|G|
+4|13|2|Q|N|
+4|13|2|Q|N|ww
+1|17|I|E|G|
+3|17|L|J|N|
+5|17|3|J|I|how did u get the suit
+1|17|1|H|E|
+3|17|L|J|N|im leaving now
+5|17|L|J|I|
+1|17|1|H|E|okay
+1|17|1|H|E|go to the wrench
+5|17|L|J|I|bye
+3|17|L|J|N|Im bored of this game
+1|17|1|H|E|then press new penguin
+5|17|1|S|G|
+1|17|8|J|H|
+3|17|L|J|N|Who here plays club penguin?
+5|17|2|S|G|and
+1|18|8|M|J|
+5|17|2|S|G|me
+1|18|1|M|J|i used to
+3|17|L|J|N|that game is similar
+1|18|1|M|L|
+3|17|L|J|N|i do
+5|8|4|Q|I|
+3|17|L|J|N|im beta
+1|18|1|M|L|yeah
+5|14|2|P|L|
+3|17|8|J|N|
+1|18|1|M|L|wow
+5|14|2|P|L|how do u get the black
+4
+5|7|1|P|L|
+1|18|1|M|L|so you must have played the original pc3
+5|17|1|R|M|
+1|18|1|M|L|thats really cool
+3|14|1|J|N|
+5|17|2|R|M|yup yup
+5|17|3|R|M|/a2PN
+1|18|1|M|L|was it like this?
+5|17|2|S|J|
+3|14|8|K|M|
+1|18|3|P|M|/a2NN
+5|17|2|S|J|how u get the black swords
+5|17|L|S|J|
+1|18|3|O|I|/a2UK
+1|18|1|O|I|go to new penguin
+1|18|1|O|I|then press the 'n' in select a new penguin
+3|14|1|K|M|
+1|18|4|O|K|
+1|17|1|O|K|/a2KO
+5|17|L|S|J|then press what
+1|17|L|O|K|
+5|17|L|S|J|i diddnt see
+5|17|7|S|L|
+5|17|3|P|O|
+5|17|4|P|O|/e4
+3|14|1|O|N|
+5|17|2|V|L|
+1|18|1|O|K|
+3|14|8|K|M|
+5|17|4|Q|L|
+1|18|L|O|K|
+5|17|2|Q|L|press what
+3|14|6|K|M|/a2PK
+5|17|2|Q|L|i know new penguin
+1|18|L|O|K|the N in "Select your new penguiN"
+3|14|6|K|M|/a2QI
+5|17|4|S|G|
+3|14|6|K|M|/a2SK
+5|17|1|S|G|
+1|18|L|M|H|
+1|18|1|P|9|
+3|18|1|K|M|
+5|14|2|S|I|
+1|18|2|P|D|/a2NL
+3|18|1|K|M|/a2QH
+1|17|1|Q|H|/a2UG
+3|18|1|K|M|/a2RI
+5|14|1|S|I|
+1|17|2|M|M|/a2UJ
+1|17|2|M|M|/a2JL
+1|17|8|H|I|
+5|14|1|S|I|didnt work
+1|17|8|J|L|
+1|17|4|N|J|
+3|18|1|P|J|
+3|18|1|P|J|ee where is says select new penguin
+5|18|8|S|O|
+3|18|3|6|C|
+5|18|2|R|L|
+5|18|2|R|L|yeah
+3|18|3|P|O|
+3|18|2|P|O|yea
+3|18|2|P|O|lol
+5|18|L|U|H|
+5|18|4|X|M|
+3|18|2|P|O|I'll see you guys later now
+5|18|7|T|H|
+3|18|L|P|O|
+3|5|L|P|O|
+3|18|1|P|O|
+3|18|1|P|O|Bye guys
+5|18|1|U|K|
+3|18|L|P|O|
+5|17|L|R|J|
+1
+5
+2|18|3|a|D|Saltybacon2
+2|18|8|M|I|/a2QN
+2|18|2|T|J|/a2QO
+2|18|3|V|O|/a2EJ
+2|18|L|V|O|/e1
+2|18|K|V|O|
+2|18|H|V|O|
+2|18|K|V|O|
+2|18|H|V|O|
+2|18|2|V|M|
+2|18|1|c|P|
+2|18|3|d|R|
+2|18|1|d|Q|
+2|18|5|b|R|
+2|18|4|U|K|
+2|18|2|d|I|
+3
+2
+1|1|3|a|D|Master Jas
+2|18|3|a|D|Saltybacon2
+1|18|1|X|L|
+2|18|3|N|G|
+1
+3|1|4|a|D|idolnyan
+2|18|8|U|M|
+2
+3|1|3|M|D|
+3
+1|18|3|a|D|Master Jas
+1
+3|4|3|a|D|SANLOLUIS
+3
+1|18|1|a|D|Master Jas
+1
+1|18|2|a|D|Master Jas
+1|17|6|G|B|
+1|17|2|d|R|
+1|17|5|c|K|
+1
+2|1|2|a|D|Saltybacon2
+1|1|2|a|D|Master Jas
+2
+1
+1|18|2|a|D|Master Jas
+1|17|1|a|D|
+1|17|5|L|I|
+1
+1|1|2|a|D|BenPlaysCP
+1|1|3|H|F|
+1|1|3|1|I|
+1|1|4|V|F|
+1|18|1|N|F|
+1
+1|13|8|a|D|BenPlaysCP
+1|17|7|1|H|
+1|17|8|c|Q|
+1
+1|10|3|a|D|Fofa2005
+1
+1|13|8|a|D|dumdum
+1|13|7|S|H|
+1|13|3|R|O|
+1|13|4|I|H|
+1
+2|4|4|a|D|vortex
+2
+2|12|2|a|D|Azul Peng
+2|12|4|V|O|
+2|18|1|b|M|
+2
+2|18|6|4|D|Azul Peng
+2
+1|1|2|a|D|azulito2802
+1
+1|1|2|a|D|azulito2802
+1|17|1|E|H|
+1|17|L|N|A|
+1
+1|17|2|a|D|azulito2802
+1
+1|1|3|a|D|awesome120
+1
+1|1|2|a|D|awesome120
+1
+2|12|8|a|D|zapt2
+2
+2|17|7|4|D|zapt2
+2|17|4|1|D|
+2
+2|1|1|a|D|Master Jas
+2
+1|18|3|a|D|Saltybacon2
+1
+2|18|2|a|D|Master Jas
+2|17|8|A|F|
+2|17|2|D|I|
+2|17|2|D|D|
+2
+1|17|2|a|D|Saltybacon2
+1
+1|18|2|a|D|Saltybacon2
+1|17|6|d|E|
+1
+2|18|2|a|D|Master Jas
+2
+2|18|7|4|D|Master Jas
+2|18|1|c|O|
+2
+2|18|7|4|D|Master Jas
+2
+2|18|7|a|D|Master Jas
+2
+1|18|2|a|D|Saltybacon2
+1|17|L|P|L|
+1
+1|14|2|a|D|spook246
+1
+1|14|7|4|D|spook246
+1|14|7|c|F|
+1
+1|13|3|a|D|foodboy07
+1
+1|18|7|a|D|foodboy07
+1|17|L|H|C|
+1|17|1|I|C|
+1|18|8|d|G|
+1
+1|18|3|a|D|foodboy07
+1
+4|18|1|a|D|Master Jas
+4
+4|17|8|a|D|Master Jas
+4
+2|18|3|a|D|Saltybacon2
+2|18|4|a|D|
+2
+5|17|3|a|D|hearbrekkidd
+5|17|L|I|K|
+5
+4|18|2|a|D|Master Jas
+2|17|6|4|D|Saltybacon2
+2|17|7|1|F|
+2
+4|17|1|2|H|
+4
+4|18|2|a|D|Master Jas
+4
+4|9|1|a|D|Master Jas
+4|17|L|A|C|
+4
+4|18|7|4|D|Master Jas
+4
+4|18|3|a|D|Master Jas
+4
+4|18|7|4|D|Master Jas
+4

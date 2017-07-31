@@ -1,0 +1,57 @@
+1|5|7|Q|G|guyguyrosik
+1
+1|13|7|Q|G|guyguyrosik
+1
+1|5|7|Q|G|guyguyrosik
+2|13|L|Q|G|test
+1|5|3|Q|G|
+2|13|7|L|K|
+1|5|7|E|K|
+1
+2
+1|17|L|Q|G|guyguyrosik
+2|17|L|Q|G|test
+2|17|6|P|L|
+2|17|4|P|L|/e1
+1|17|3|L|J|
+2|17|5|P|L|/a2OI
+1|17|7|L|J|/a2MM
+1|17|7|K|M|/a2RJ
+1|17|7|P|E|
+1
+1|17|7|Q|G|guyguyrosik
+1|17|8|M|I|/a2RL
+1
+1|17|7|Q|G|guyguyrosik
+1|17|7|G|L|/a2NM
+1|17|3|O|I|
+2
+1
+2|1|6|Q|G|
+2|1|2|K|J|
+1|13|7|Q|G|rocky 233
+1
+1|1|1|Q|G|lion joe 1
+1|1|8|I|K|
+1
+1|18|1|Q|G|detonador
+1|18|5|Q|G|
+1
+1|18|1|Q|G|lion joe 1
+1|18|L|J|I|
+1|18|L|I|G|
+1
+1|18|1|Q|G|lion joe 1
+1|18|1|K|K|
+1
+1|5|1|Q|G|:.jessica.:
+1|5|4|M|I|
+1|5|7|T|H|
+1
+1|17|8|Q|G|linda60853
+1|17|3|G|H|
+1
+2|17|7|Q|G|64371k
+2|17|6|G|F|
+2|17|7|K|L|
+2

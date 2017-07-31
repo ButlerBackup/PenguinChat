@@ -1,0 +1,922 @@
+1|10|1|K|L|2fab3
+1|10|1|K|N|
+1|10|7|R|K|
+1
+1|10|3|M|D|2fab3
+1|10|1|N|L|
+1
+1|1|1|K|L|james40439
+1|1|4|F|D|
+1
+1|11|1|K|L|james40439
+1
+1|11|1|C|L|james40439
+1
+1|11|5|E|F|james40439
+1
+1|14|1|K|L|Ninja O Dark
+1|14|3|Q|N|
+1|14|5|M|I|
+1|14|2|I|D|
+1
+1|13|1|K|L|zayn54
+1
+1|13|3|M|D|zayn54
+1
+1|13|6|E|F|zayn54
+1|13|7|W|I|
+1|13|6|X|L|
+1
+1|10|1|K|L|Miss Selena
+1|10|3|O|N|
+1|10|6|O|M|
+1
+1|10|1|K|L|Miss Selena
+1|10|L|E|N|
+1|10|5|N|I|
+1|10|L|N|J|
+1
+1|10|6|E|F|Miss Selena
+1
+1|10|3|M|D|Miss Selena
+1
+1|10|4|V|L|Miss Selena
+1
+1|9|1|K|L|sk1ppy1
+1|9|6|N|N|
+1|18|2|9|S|
+1
+1|18|4|M|D|sk1ppy1
+1
+1|18|3|V|L|sk1ppy1
+1|18|1|H|I|
+1|18|L|I|J|
+1|18|1|N|K|
+1
+1|18|6|E|F|sk1ppy1
+1
+1|18|3|V|L|sk1ppy1
+1|18|1|K|M|
+1|18|6|P|G|
+1|18|4|G|N|
+1|18|7|G|D|
+1
+1|18|4|M|D|sk1ppy1
+1
+1|11|1|K|L|nogam1
+1|11|3|G|M|
+1|11|4|P|J|
+1
+1|11|3|M|D|nogam1
+1
+1|11|4|E|F|nogam1
+1|11|6|N|L|
+1|11|6|T|F|
+1|11|6|T|F|
+1
+1|5|1|K|L|nogam1
+1|5|2|K|L|
+1|1|1|G|L|
+1|1|6|6|I|
+1
+1|1|1|K|L|nogam1
+1
+1|1|6|E|F|nogam1
+1
+1|1|3|M|D|nogam1
+1
+1|1|K|E|F|nogam1
+1|1|7|Y|K|
+1
+1|1|5|V|L|nogam1
+1
+1|1|L|V|L|nogam1
+1
+1|4|1|K|L|samuf1
+1
+1|4|4|V|L|samuf1
+1|4|6|H|N|
+1|4|5|S|F|
+1
+1|10|1|K|L|samuf1
+1|10|L|H|O|
+1
+1|10|4|E|F|samuf1
+1
+1|10|3|M|D|samuf1
+1|10|1|Q|H|
+1|10|6|S|F|
+1|10|4|T|F|
+1
+1|4|1|K|L|samuf1
+1
+1|17|7|C|L|samuf1
+1
+1|18|4|V|L|samuf1
+1
+1|18|L|E|F|samuf1
+1
+2|5|1|K|L|sillyfish22
+2
+1|14|1|K|L|homi
+1|14|1|T|K|
+1
+1|14|7|V|L|homi
+1|14|3|D|J|
+1
+1|9|1|K|L|iwcio
+1|9|4|I|H|
+1|9|2|K|M|
+1
+2|6|1|K|L|Coolsara
+1|9|3|M|D|iwcio
+2|6|1|S|G|
+1|9|2|N|L|
+1|9|2|N|L|hi
+2|6|2|S|G|/j13
+1|9|5|T|K|
+1
+2|6|1|S|G|hi
+2|6|K|T|M|
+1|9|L|V|L|iwcio
+2
+1|9|3|7|J|
+2|6|6|E|F|Coolsara
+2|6|4|T|F|
+1|9|1|S|E|
+2|6|1|T|J|
+2
+1|9|2|M|J|
+1|9|8|Z|L|
+1
+1|14|1|K|L|goldiGolden
+1|14|4|H|M|
+1|14|2|A|N|
+1
+1|7|1|K|L|Pulí
+1|7|3|R|J|
+1|7|4|9|G|
+1
+1|11|1|K|L|Saea332
+1|11|2|L|N|
+1|11|4|U|F|
+1|11|4|O|J|
+1|11|3|M|G|
+1|11|7|S|F|
+1
+1|8|1|K|L|candy xD
+1|8|6|I|E|
+1
+1|8|3|M|D|candy xD
+1
+1|8|4|M|D|candy xD
+1
+1|8|6|E|F|candy xD
+1
+1|8|3|V|L|candy xD
+1|8|8|7|J|
+1
+1|8|1|C|L|candy xD
+1|8|1|I|L|
+1
+1|9|1|K|L|candy xD
+1|9|6|T|F|
+1|9|2|Q|M|
+1|9|2|Q|N|
+1
+1|9|1|K|L|LittleGuppy
+1|9|8|R|J|
+1|9|8|E|F|
+1
+1|4|1|K|L|daniel38201
+1|4|3|J|L|
+1|4|4|Q|I|
+1
+1|18|3|M|D|daniel38201
+1
+1|18|3|V|L|daniel38201
+1
+2|5|1|K|L|Herbert bear
+2|5|1|O|L|
+2
+2|5|2|V|L|Herbert bear
+2
+2|5|K|E|F|Herbert bear
+2
+2|5|5|M|D|Herbert bear
+2
+2|5|2|M|D|Herbert bear
+2
+2|5|4|E|F|Herbert bear
+2|5|3|R|I|
+2|5|7|W|K|
+2
+1|4|1|K|L|daniel cp
+1|4|8|I|J|
+1|18|8|X|L|
+1
+1|18|3|V|L|daniel cp
+1
+1|8|1|K|L|candy xD
+1|8|L|I|D|
+1
+1|8|L|M|D|candy xD
+1|8|1|K|L|
+1
+1|8|1|E|F|candy xD
+1|8|8|J|M|
+1
+1|8|4|E|F|candy xD
+1
+1|13|1|K|L|ajseal355
+1|13|2|N|H|
+1|13|8|F|K|
+1
+1|1|1|K|L|ninja1223
+1
+1|13|1|K|L|Elegance56
+1
+1|13|1|K|L|Elegance56
+1
+1|13|1|K|L|Elegance56
+2|13|1|K|L|carcar
+2|13|1|N|M|
+2|13|1|N|M|ahola
+2|13|1|N|M|lol
+2|13|1|N|M|hi
+2|13|1|N|M|im american
+2|13|1|N|M|fyi
+2
+1
+1|11|1|K|L|Happy77 ™
+1|11|6|K|L|
+2|14|1|K|L|Quantum
+2
+1
+2|14|4|M|D|Quantum
+2
+2|14|3|M|D|Quantum
+2
+2|14|3|M|D|Quantum
+2
+1|14|1|K|L|Elvis2500
+1
+1|14|L|M|D|Elvis2500
+1
+1|14|3|V|L|Elvis2500
+1
+1|4|1|K|L|josuesh1020
+1|4|6|I|M|
+1|4|6|T|G|
+1
+1|4|3|V|L|josuesh1020
+1
+1|4|2|M|D|josuesh1020
+1|4|5|S|H|
+1|4|3|D|G|
+1
+1|4|4|E|F|josuesh1020
+1|4|5|S|E|
+1|4|2|T|F|
+1|4|2|S|I|
+1|4|4|U|F|
+1
+1|4|1|K|L|josuesh1020
+1|4|6|R|H|
+2|10|1|K|L|lela123
+2|10|8|G|K|hi
+2|10|3|J|M|
+2|10|4|I|D|
+2
+1
+2|10|3|M|D|lela123
+2|10|8|I|N|
+2|10|7|Y|K|
+2
+2|10|3|V|L|lela123
+2
+2|10|6|E|F|lela123
+2|10|6|E|F|
+2
+2|10|6|C|L|lela123
+2|10|6|L|G|
+2|10|7|Y|K|
+2|10|7|Y|K|
+2
+2|10|6|C|L|lela123
+2|10|6|C|L|
+2|10|5|J|K|
+2
+2|10|3|M|D|lela123
+2
+2|10|2|E|F|lela123
+2|10|4|G|I|
+2|10|8|L|N|
+2
+2|10|3|V|L|lela123
+2|10|7|7|J|
+2
+1|13|1|K|L|Nicolas1247
+1|13|5|I|D|
+1
+2|10|4|V|L|lela123
+2|10|5|I|D|
+2
+2|10|3|M|D|lela123
+2|10|3|M|D|
+2
+2|10|3|M|D|lela123
+2
+1|8|1|K|L|Roxinha568
+2|10|6|E|F|lela123
+1|8|3|O|L|
+2|10|8|J|O|
+1|8|6|M|L|
+1|8|2|M|L|legal
+2|10|1|J|O|yes
+1|8|6|M|N|
+2|10|1|J|O|sere
+1|8|2|M|N|de onde voce é
+2
+1|8|8|F|J|
+2|10|2|M|D|lela123
+2|10|7|Y|L|
+2
+1|8|1|N|I|
+1|8|2|N|I|/j2
+1
+1|8|3|V|L|Roxinha568
+1
+2|10|7|C|L|lela123
+1|8|6|C|L|Roxinha568
+2|10|7|L|J|
+1|8|3|F|L|
+1|8|3|F|L|game: CLUB PENGUIN
+1|8|6|F|L|/e1
+2|10|1|L|J|yes
+2|10|1|L|J|game on cpps.me
+2|10|2|H|L|
+1|8|1|F|L|yes
+2|10|1|H|L|follow me
+2
+1
+1|8|3|V|L|Roxinha568
+1
+2|10|3|M|D|lela123
+2
+2|10|6|E|F|lela123
+2|10|6|E|F|
+2
+1|10|1|K|L|lela123
+1
+1|10|8|V|L|lela123
+1|10|5|J|L|
+1
+1|10|3|M|D|lela123
+1
+1|10|1|K|L|lela123
+1|10|4|G|L|
+1
+1|10|3|C|L|lela123
+1|10|5|C|L|
+1|10|2|O|M|
+1|10|2|A|G|
+1|10|2|C|K|
+1|10|4|L|L|
+1
+1|10|6|E|F|lela123
+1
+1|4|1|K|L|cpupcptp
+1
+2|10|1|K|L|lela123
+1|4|2|V|L|cpupcptp
+1|4|3|O|O|
+1|4|8|L|N|
+1|4|2|L|N|hi
+1|4|4|C|H|
+1|4|8|G|L|
+1|4|7|G|L|/a2NK
+1|4|7|G|L|/a2KK
+1|4|8|G|G|/a2ML
+1|4|7|Q|J|/a2KM
+1|4|7|Q|J|/a2LM
+1|4|7|T|L|/a29C
+1|4|7|9|K|/a2EG
+2
+1
+1|4|7|V|L|cpupcptp
+2|10|1|K|L|lela123
+1
+2|10|3|F|L|
+1|4|3|M|D|cpupcptp
+1
+2
+1|4|5|E|F|cpupcptp
+2|10|3|M|D|lela123
+2|10|4|M|D|
+1|4|5|T|F|
+1|4|4|K|G|
+2|10|2|H|N|
+1|4|6|K|G|/a2MA
+2|10|1|H|N|hi
+2
+2|10|7|E|F|lela123
+2|10|8|K|N|
+2|10|8|K|N|hola amigos de youtube
+2|10|8|K|N|en este video
+2|10|8|K|N|les ensñare la isla de penguin chat 3
+2|10|8|K|N|bamos
+2
+2|10|3|M|D|lela123
+2|10|1|H|N|
+2|10|1|H|N|es la cafeteria
+2
+2|10|7|V|L|lela123
+2|10|3|J|L|
+2|10|1|J|L|hi i am talk 2 lenguages
+2|18|1|J|L|
+2|18|1|Y|K|
+2
+2|18|3|V|L|lela123
+2|18|5|M|N|
+2|10|1|M|N|
+2|10|1|M|N|penguin chat 3
+2|10|8|H|N|
+2|10|8|H|N|hi friend of youtube
+2|10|8|H|N|in this video
+2|10|8|H|N|wath the ninja secret penguin
+2|10|8|H|N|hola amigos de youtube
+2|10|8|H|N|en este video
+2|10|8|H|N|les enseñae
+2|10|8|H|N|todos los secretos de
+2|10|2|H|N|penguin chat 3
+2|10|2|H|N|empecemos
+1
+1|4|1|K|L|cpupcptp
+1|4|2|M|K|
+2|10|7|Y|K|
+2
+1|4|4|M|N|
+1|4|4|J|H|
+1|4|2|A|H|
+1
+2|17|3|V|L|lela123
+2|10|1|K|L|
+2
+1|4|L|M|D|cpupcptp
+1
+2|10|1|V|L|lela123
+2
+2|10|3|M|D|lela123
+2|10|7|T|F|
+2
+2|10|1|C|L|lela123
+2|10|7|C|L|
+1|1|1|K|L|adam
+1|1|1|K|L|hello
+2|10|8|C|L|hi
+1|1|4|M|J|
+2|10|1|L|N|
+1|1|1|M|J|follow me
+1
+2
+2|10|3|M|D|lela123
+2
+1|17|3|V|L|adam
+2|10|3|M|D|lela123
+2
+2|10|6|E|F|lela123
+1|17|3|6|J|
+1
+2|10|7|R|N|
+1|17|8|C|L|adam
+1|17|7|P|L|
+2
+2|10|3|C|L|lela123
+2
+2|10|5|E|F|lela123
+2|10|1|L|M|
+1|17|L|P|L|
+1|17|L|P|L|/a2Y7
+1|17|L|P|L|/a2C8
+1|4|1|P|L|
+2|10|1|L|M|this place is small
+1|1|1|X|L|
+1|1|2|U|L|come
+2|18|1|L|M|
+2|18|1|L|M|ok
+1|1|3|N|M|
+1|1|3|N|M|how u do that
+2|18|1|T|L|
+1|1|5|P|M|
+2|18|2|P|M|
+1|1|4|R|O|/a2QO
+2|18|2|P|M|in the n of acount
+1|1|2|S|M|
+1|1|2|S|M|how
+2|10|1|P|M|
+2|10|1|P|M|follow me
+2
+1|1|2|R|N|
+2|10|4|M|D|lela123
+1|1|3|L|K|
+2|10|1|I|L|
+1|1|5|L|K|/a2NA
+2|10|1|I|L|hi
+1|1|5|L|K|u are uinvisibe
+1|1|5|L|K|when u do that
+2|10|1|I|L|in edit acount new penguin
+1|1|8|K|M|
+2|10|1|I|L|in the n
+1|4|1|K|M|
+2|10|1|I|L|and
+1|1|1|P|N|
+1|14|1|P|N|
+2|10|1|I|L|never
+1|14|1|P|N|HOW
+2|10|1|I|L|eny
+1|14|1|P|N|I DID IT
+2|18|1|I|L|
+2|18|1|I|L|going to edit acount
+1|14|1|P|N|/copy lela123
+1|14|1|P|N|how
+2|18|L|I|L|
+2|18|L|G|O|
+2|10|1|G|O|
+2|10|5|L|K|
+2|10|2|L|K|i told
+2|10|8|N|O|
+2|18|1|N|O|
+2|10|1|N|O|
+2|10|1|N|O|see a video of this
+2|10|1|D|E|
+2
+2|10|6|E|F|lela123
+2|10|5|J|N|
+2
+2|10|3|M|D|lela123
+1|14|2|N|M|
+1|14|5|M|M|
+2|10|1|L|N|
+2|10|1|L|N|bay see
+3|4|1|K|L|cpps2
+3|4|7|R|K|
+3|4|7|R|K|/a2KO
+2
+4|10|1|K|L|lela123
+4|10|1|K|L|cpps.meeee
+4|10|1|K|L|!clonen adam
+1|14|1|M|M|what
+4|10|5|I|D|
+3
+4
+1|14|1|M|M|sorry
+1|14|4|I|D|
+1
+4|10|3|M|D|lela123
+4|10|2|H|K|
+4|10|8|M|Q|
+1|14|4|M|D|adam
+1|14|1|M|D|
+1|14|1|M|D|!ninja
+1|14|1|M|D|!clone lela123
+1|14|1|M|D|!commands
+5|4|1|K|L|Jcooly
+5
+5|4|7|M|D|Jcooly
+5|4|1|K|O|/a2MQ
+5|4|1|K|O|hey!
+5|4|4|H|L|
+5|4|4|L|L|
+5|4|8|J|N|
+5|4|I|J|N|
+5|4|H|J|N|
+5|4|3|H|K|
+5
+4|10|2|M|Q|hi
+5|4|6|E|F|Jcooly
+5|4|4|K|H|/a2JB
+5|4|7|C|L|/a2OT
+4|10|4|E|F|
+5|4|7|M|M|/a2ME
+4
+5|4|1|G|K|
+5
+5|4|5|E|F|Jcooly
+1|14|2|H|E|
+1|14|1|I|J|hi
+5|4|3|L|G|
+1|14|4|I|J|/a2ED
+5|4|8|G|K|
+1|14|8|I|M|
+5|4|8|G|K|hey man!
+5|4|6|J|L|
+5|4|2|K|O|
+1|14|8|I|M|no anything?
+5|4|2|K|O|this is an old game lol
+5|4|2|M|O|
+1|14|8|I|M|anything for this game
+5|4|2|M|O|thats what i know
+4|10|1|E|F|lela123
+1|14|8|I|M|i dont no
+1|14|8|I|M|i want commands
+5|4|1|L|N|
+4|10|4|E|F|
+5|4|1|L|N|not really
+1|14|8|I|M|me too
+5|4|1|K|N|
+1|14|8|I|M|i saw on youtube
+5|4|2|N|O|
+5|4|2|N|O|do you play club penguin?
+1|14|8|I|M|!beta
+5|4|5|N|P|
+1|14|8|I|M|uyea
+1|14|8|I|M|yea
+5|4|2|N|P|!beta
+1|14|8|I|M|but i dont have chat
+1|14|8|I|M|becuse
+5|4|1|K|M|
+5|4|1|K|M|nice
+1|14|8|I|M|one of myu acounts
+5|4|7|P|O|
+5|4|2|K|M|
+1|14|8|I|M|are banned 28 houers
+5|4|H|K|M|
+5|4|H|K|M|/e4
+1|14|8|I|M|hours
+1|14|8|I|M|but
+5|4|H|K|M|item adder?
+1|14|8|I|M|i have another
+1|14|8|I|M|acount
+1|14|8|I|M|yea
+1|14|8|I|M|risks
+5|4|H|K|M|/e11
+1|14|8|I|M|becuse i got beta adder
+1|14|8|I|M|for beta hat
+1|14|8|I|M|red lei
+5|4|H|K|M|lol
+1|14|8|I|M|everyu thing
+1|14|8|I|M|then
+1|14|8|I|M|hour later
+1|14|8|I|M|baned
+1|14|8|I|M|68 hours
+5|4|H|K|M|TELLLLL MEEEEEEE ADDDDDDEEEEEEEEERRRRRRRRRRRRR
+1|14|1|I|M|bens 2 dayus
+5|4|2|L|M|
+1|14|1|I|M|so
+1|14|1|I|M|i went
+1|14|1|I|M|to
+1|14|1|I|M|google
+4|10|1|E|F|so
+5|4|2|L|M|whats dat adder doh wats it called i wanna get b
+4
+1|14|1|I|M|and serched
+5|4|3|E|Q|
+5|4|3|L|M|
+1|14|1|I|M|i serched
+5|4|2|M|I|
+5|4|5|I|O|
+5|4|3|L|N|
+1|14|1|I|M|i serch that
+1|14|1|I|M|i go down
+5|4|5|A|P|
+5|4|5|A|N|
+1|14|1|I|M|it says
+5|4|4|K|I|
+1|14|1|I|M|get rae items!
+5|4|3|F|M|
+5|4|3|H|I|lol
+5|4|8|F|O|
+1|14|1|I|M|get rare items!
+5|4|3|G|P|
+1|14|1|I|M|so i got the stuf
+5|4|3|C|N|
+5|4|3|Q|M|ok i get it
+1|14|1|I|M|and gave out guids
+5|4|1|L|N|
+1|14|1|I|M|and got banned
+5|4|1|L|N|stop the story waaaayyyy to long
+1|14|8|M|O|
+5|4|4|M|P|
+1|14|8|I|N|yea
+5|4|5|O|L|
+5
+4|10|2|E|F|lela123
+4|10|8|J|N|
+4|10|7|S|O|
+4
+1
+3|14|1|K|L|adam
+5|4|4|M|D|Jcooly
+5
+5|4|2|E|F|Jcooly
+5
+4|10|3|M|D|lela123
+3
+4|10|1|M|N|
+4|10|4|M|G|
+4
+4|10|6|E|F|lela123
+4
+4|10|3|M|D|lela123
+4
+4|10|3|M|D|lela123
+4
+4|10|3|V|L|lela123
+4
+4|10|6|E|F|lela123
+4|10|7|E|F|
+4|10|5|I|J|
+4|10|8|K|N|
+4|10|3|F|O|
+3|9|1|K|L|akiva
+3|9|5|N|P|
+3|9|5|N|P|where is he
+4|10|8|F|O|lela123
+4|10|8|F|O|and you
+4|10|1|K|P|
+4|10|1|K|P|im goin to cpps.me
+4|10|1|J|O|
+3|9|8|N|P|ok
+4|10|1|J|O|and you
+3|9|4|6|L|
+3
+4
+3|9|3|V|L|akiva
+4|10|3|V|L|lela123
+3|9|3|L|P|
+4|10|3|V|L|
+4|10|3|L|K|
+4|10|3|L|K|hi
+4
+4|10|5|V|L|lela123
+4|10|5|I|L|
+4|18|1|I|L|
+2|1|1|K|L|Spuddy6
+4|18|L|I|L|
+2|1|3|D|O|
+4|6|1|I|L|
+2|1|H|D|O|
+2|1|H|D|O|/a2HN
+2|1|7|C|K|
+2|1|I|P|H|
+4|10|1|C|M|
+4|10|1|C|M|/a2M6
+2|1|L|P|H|/e1
+3|9|1|I|G|
+3|9|8|T|G|
+2|1|L|P|H|/a2FE
+3|9|2|I|E|
+2|1|4|H|P|/a2BJ
+3
+2|1|4|H|P|/a2FD
+2|1|4|R|F|/a2SD
+2|1|3|K|I|
+2|1|2|P|H|
+2|1|3|G|H|
+3|9|5|E|F|akiva
+2
+4
+3|9|8|I|L|
+2|10|1|K|L|lela123
+2|10|8|F|N|
+2|10|8|F|N|hi
+2|10|2|N|N|
+2|10|2|N|N|akiva
+2|10|4|N|N|/e3
+2
+3|9|4|L|L|/a2DC
+3|9|4|L|L|/a2FE
+3|9|4|M|K|
+2|10|3|M|D|lela123
+3
+2|10|3|M|D|
+2|10|1|M|O|aaaa
+1|1|1|K|L|Plumb
+2|10|4|D|E|
+2
+1|1|7|H|N|/a2KP
+1
+2|10|6|E|F|lela123
+2|10|8|I|O|
+1|1|6|E|F|Plumb
+1|1|2|K|L|
+1|1|2|K|L|/a2FM
+1|4|1|K|L|
+2
+1
+1|10|1|K|L|lela123
+1
+1|11|1|K|L|snowstorm
+1|11|4|O|J|
+1
+1|11|3|M|D|snowstorm
+1|11|2|L|M|
+2|14|1|K|L|douglas
+2|14|2|Q|M|
+1
+2|14|6|R|O|
+1|11|1|K|L|snowstorm
+1|11|7|G|K|
+2|14|4|M|I|
+1
+2|14|2|M|I|/a2HJ
+2|14|7|Y|M|/a2GN
+1|11|6|E|F|snowstorm
+2
+1|11|1|L|L|
+1|11|6|X|K|
+1
+1|11|7|V|L|snowstorm
+1
+1|13|1|K|L|Gamzeemakara
+2|11|1|K|L|MedeMejones
+2|11|5|I|D|
+2
+1
+2|11|3|M|D|MedeMejones
+2
+1|1|1|K|L|vegeta777
+1|1|7|S|G|
+1|1|5|H|F|
+1
+1|1|2|E|F|vegeta777
+1
+1|1|3|M|D|vegeta777
+1|1|2|S|F|
+1|1|2|L|I|
+1
+1|1|1|K|L|vegeta888
+1|1|1|S|M|
+1
+1|17|5|V|L|vegeta888
+1
+1|17|1|C|L|vegeta888
+1
+1|5|1|K|L|roco
+1
+1|5|5|E|F|roco
+1
+1|5|3|M|D|roco
+1
+1|5|3|V|L|roco
+1
+1|17|3|V|L|roco
+1|17|3|6|I|
+1
+1|5|5|E|F|roco
+1
+1|4|1|K|L|daniel38201
+1|4|4|O|D|
+1|4|4|O|G|
+1
+1|4|1|K|L|daniel38201
+1
+1|18|3|V|L|daniel38201
+1|18|6|I|E|
+1
+1|18|3|M|D|daniel38201
+1|18|K|E|M|
+1
+1|18|3|V|L|daniel38201
+1
+1|10|1|K|L|2fab3
+1|10|5|D|F|
+1
+1|9|1|K|L|2fab3
+1|9|1|I|L|
+1|9|8|L|K|
+1|9|7|L|J|
+1|9|2|C|L|
+1
+1|11|1|K|L|gur202
+1|11|7|S|E|
+1
+1|11|6|E|F|gur202
+1|11|5|T|F|
+1|11|L|S|E|
+1
+1|10|1|K|L|lisa1051
+1|10|L|H|N|
+1|10|2|M|J|
+1
+1|10|4|V|L|lisa1051
+1|10|K|V|L|
+1
+1|14|1|K|L|Fastgabes
+1|14|3|A|K|
+1
+1|14|5|E|F|Fastgabes
+1
+1|14|3|M|D|Fastgabes
+1
+1|14|3|V|L|Fastgabes
+1
+1|13|1|K|L|Flesh
+1
+1|13|4|M|D|Flesh
+1
+1|13|5|E|F|Flesh
+1
+1|13|1|V|L|Flesh
+1

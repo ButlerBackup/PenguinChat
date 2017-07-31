@@ -1,0 +1,590 @@
+1|12|8|4|D|soper man
+1|12|1|C|B|
+1|12|L|U|J|
+1|12|3|d|C|
+1|12|5|1|F|
+1|12|5|D|N|
+1
+1|12|3|a|D|soper man
+1
+1|12|5|4|D|Johnny1742
+1|12|3|Y|B|
+1|12|3|1|C|
+1
+1|12|7|4|D|Johnny1742
+1|12|7|4|D|
+1|17|4|R|F|
+1
+1|14|6|4|D|Austyn11
+1|16|6|R|D|
+1|16|7|X|C|
+1
+1|16|3|a|D|Austyn11
+1
+1|17|3|a|D|Austyn11
+1|16|L|O|E|
+1
+1|14|H|4|D|Dommy
+1|14|8|d|B|
+1
+1|14|3|a|D|Dommy
+1
+1|9|3|a|D|Dommy
+1|9|6|S|G|
+1
+1|13|3|4|D|bacon
+1|13|7|Y|E|
+1|13|3|L|H|
+1|13|5|D|I|
+1|13|3|6|P|
+1|17|1|H|L|
+1
+1|13|7|4|D|cpgirl52
+1|13|8|4|D|
+1
+2|13|7|4|D|auden1236
+2|13|7|W|C|
+2|13|3|B|B|
+1|13|7|4|D|cpgirl52
+1|13|8|9|D|
+1|13|8|9|D|hi again
+1|13|8|9|D|i was looking for you
+1|13|6|9|D|/a28A
+1|13|6|9|D|so hows it going
+1|13|6|9|D|/e2
+1|13|I|9|D|
+1|13|J|9|D|
+1|13|J|9|D|/a2DA
+1|13|J|9|D|hey why aren't you talking to me
+1|13|J|9|D|/e4
+2
+1
+1|13|7|4|D|cpgirl52
+1
+1|14|7|4|D|BDWGamertag
+1|17|2|W|C|
+1|17|L|U|G|
+1|17|3|1|C|
+1
+2|5|6|4|D|minion1046
+2|5|2|G|M|
+2|5|6|E|M|
+2|5|1|7|J|
+2
+1|14|2|4|D|Edward 234
+1|14|2|H|N|
+1
+1|9|7|4|D|Sprinkleg4
+1|16|8|M|H|
+1|16|3|H|J|
+1|16|5|W|G|
+1
+1|4|6|4|D|junior 5568
+1|4|7|I|H|
+2|12|7|4|D|aron945
+1|4|L|J|E|
+2|17|6|N|G|
+2|17|2|O|C|
+1|4|L|4|O|
+2|17|L|O|C|
+1|4|4|C|E|
+1
+1|4|7|4|D|junior 5568
+1|4|1|C|B|
+2|17|L|A|B|
+1|4|8|U|J|
+2|17|1|U|D|
+1|4|L|U|J|
+2|12|1|V|J|
+1|4|L|U|J|/a2RC
+1|4|2|S|K|/a2WJ
+1|4|7|d|E|
+2|12|L|V|J|
+2|12|L|a|B|
+2|12|7|d|B|
+2|12|2|d|B|ven
+2|12|1|d|C|/a2bD
+2|12|6|R|E|
+1|4|6|W|I|
+2|16|3|R|D|
+1|4|3|A|G|
+2
+2|16|4|a|D|aron945
+1|4|5|R|G|
+2|16|3|a|D|
+1|16|2|H|H|
+2|12|7|d|C|
+1|16|L|H|H|
+2|16|1|R|D|
+1|16|L|7|E|
+1
+2|16|3|8|E|
+2
+1|4|2|4|D|junior 5568
+1|16|3|I|B|
+1|16|L|V|H|
+1
+2|9|3|a|D|Dommy
+2
+1|18|6|4|D|sparklz
+1
+2|8|5|a|D|patsy40
+2
+3|18|7|4|D|lok
+3
+2|8|8|4|D|patsy40
+2
+3|18|7|4|D|lok
+2|18|6|4|D|patsy40
+3
+3|18|7|4|D|lok
+2|18|1|E|G|
+3|18|8|A|G|mira
+2|18|4|C|F|
+3|16|7|L|L|
+2|18|8|C|F|que?
+3|17|6|A|E|
+2|16|8|G|H|
+2|16|8|G|H|lo se
+3|17|8|R|D|
+2|17|L|F|H|
+3|18|1|J|I|
+2|17|7|P|D|
+3|17|8|8|J|
+3|17|8|8|J|eeee
+3|17|2|U|E|
+2|18|L|J|I|
+2|17|1|V|E|
+2|17|L|W|B|
+2|17|L|W|B|/e1
+3|18|1|U|E|
+2|17|L|W|B|lok
+3|17|1|U|E|vamos ala disco
+3|17|6|U|C|
+2|17|L|W|B|espera!!
+3|17|2|U|C|ok
+2|17|L|W|B|en la disco
+3|17|2|U|C|si
+2|17|1|R|C|
+2|17|1|R|C|un dj fantasma!!
+3|17|3|1|D|
+3
+2|17|8|O|E|
+3|17|7|4|D|lok
+2
+3|17|7|O|H|
+3
+1|18|7|a|D|ninja nin
+1
+1|18|4|a|D|ninja nin
+1
+1|18|7|4|D|ninja nin
+1|16|3|I|H|
+1|16|1|J|G|
+1
+2|18|7|4|D|lok
+1|16|1|a|D|ninja nin
+2|18|3|3|D|
+1|16|3|F|H|
+1|16|3|F|H|hola
+2|18|3|Z|H|
+2|18|3|Z|H|hola
+1|16|8|8|G|
+2|16|1|J|K|
+1|16|8|8|G|quieres ser mi amigo?
+1|16|8|F|J|
+2|16|8|J|K|as visto a algien
+1|16|8|F|J|lok soy patsy40
+2|17|1|H|K|
+1|16|2|O|K|
+1|16|2|O|K|soy patsy40
+2|17|8|H|K|patsy
+2|17|1|J|N|
+2|17|1|J|N|hola
+1|16|2|O|K|hice otro pinguino
+2|17|1|I|M|
+2|17|1|I|M|soy lok
+1|16|1|O|K|es un ninja
+2|17|1|I|M|quien
+1|18|1|N|L|
+1|18|1|N|L|yo!
+2|18|1|I|M|
+1|18|1|N|L|yo soy un ninja!
+2|18|1|K|M|
+2|18|1|K|M|eeeeeeeeeee
+2|18|1|K|M|yo igual
+1|18|1|N|L|el ninja mortal compack
+2|18|6|M|O|
+1|18|1|N|L|el mas mortal de todos los ninjas
+2|18|2|M|O|quien ese
+1|18|1|N|L|ese soy yo!
+1|18|3|K|J|
+1|18|8|E|L|
+2|18|4|M|O|/e5
+2|18|2|I|N|
+2|18|6|9|K|
+1|18|8|E|L|soy el ninja mas grande de todos
+1
+2
+2|18|8|4|D|lok
+2|17|3|6|E|
+2
+2|18|7|4|D|lok
+2
+1|18|8|4|D|ninja nin
+1
+1|16|7|a|D|ninja nin
+1
+4|13|8|4|D|516306
+4|13|1|P|L|
+4|14|5|R|L|
+1|18|1|4|D|ninja nin
+1|18|8|L|M|
+4|14|5|J|L|
+1|18|8|L|M|oye tu!
+1|18|8|H|L|
+1|18|8|H|L|hello
+1|18|8|H|L|holaaaaaaaaaaaaaaaaaa
+1|18|8|H|L|holaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+4|14|4|C|I|
+4|14|1|K|L|
+1|18|8|H|L|5163
+4|14|1|K|L|HOLA
+1|18|8|H|L|06
+1|18|8|H|L|hola
+4|14|8|J|M|
+4|14|1|J|M|456
+1|18|8|H|L|quieres ser mi amigo?
+4|14|1|J|M|!ai 50
+4|14|2|J|M|ok
+4|14|I|J|M|
+1|18|8|H|L|!ai 50
+4|14|L|J|M|/a2FI
+1|18|8|H|L|:)
+4|14|1|L|J|
+1|18|2|H|L|/a2AH
+1|18|6|E|L|/e1
+1|16|7|K|M|
+4|14|1|L|J|olle como puedes ser ninja
+4|14|3|N|M|/a2KJ
+1|16|7|K|M|PUES
+4|14|3|N|M|o aso
+4|14|3|N|M|asi
+4|14|4|L|M|/a2IL
+1|16|7|K|M|PON LA HERRAMIENTA
+4|14|2|R|M|
+4|14|2|R|M|o asi
+1|16|8|K|M|LUEGO PON
+1|16|8|K|M|PONNNÇ
+4|14|1|N|M|
+1|16|8|K|M|NEW PENGUIN
+1|16|8|K|M|DICE
+1|16|8|K|M|SELECT A NEW PENGUINÇ
+1|16|8|K|M|EN LA ULTIMA LETRA
+1|16|8|K|M|LA TOCAS
+1|16|8|K|M|Y LISTO :)
+1|18|1|K|M|
+4|18|1|N|M|
+1|18|1|K|M|DE NADA
+4|18|1|N|M|grasias
+1|18|1|K|M|:)
+4|18|J|P|L|
+1|18|1|K|M|no fue nada
+4|18|L|P|L|/a2LK
+4|18|2|P|N|
+1|18|L|K|M|
+4|18|2|P|N|y de camion
+4|18|6|R|E|
+1|18|L|K|M|mira
+4|18|4|L|N|
+1|18|1|O|H|
+4|18|7|N|M|
+4|18|5|R|K|
+4|18|3|Q|H|
+1|18|1|O|H|dice coming soon ¿no?
+1|18|1|O|H|arriba hay una pelotita
+4|18|7|K|G|
+1|18|1|O|H|la tocas y listo
+4|18|7|S|G|
+4|16|2|R|K|
+1|16|6|N|G|
+4|16|2|R|K|/j14
+4|16|H|R|K|/e1
+1|16|3|F|J|
+1|16|8|F|J|de nada
+4|16|H|L|M|
+4|16|H|L|M|ven
+1|16|8|F|J|ahora este
+4|16|8|9|H|
+1|17|7|H|M|
+4|16|8|9|H|sip
+1|17|3|E|I|
+1|17|3|E|I|/a2BI
+4|16|5|N|M|
+1|17|8|8|H|
+4|16|1|H|I|
+1|17|8|8|H|lo sabes a este?
+1|17|1|C|L|
+4|16|1|H|I|como me transfprmo
+4|16|1|H|I|no
+1|17|1|C|L|de este constructor?
+4|16|6|G|L|
+1|17|1|C|L|bueno
+4|18|1|E|L|
+4|18|6|H|M|
+1|17|1|C|L|ahi algo que levanta cosas
+4|16|8|F|L|
+1|17|6|W|B|
+1|17|2|W|B|eso
+1|17|2|W|B|/a2G6
+4|17|1|U|B|
+1|17|5|V|B|
+4|17|L|U|B|
+4|17|L|U|B|/e1
+1|17|2|V|B|de nada
+1|17|3|W|B|/e1
+1|17|L|W|B|
+4|17|1|T|D|
+4|17|5|Z|B|
+1|16|L|G|J|
+4|17|L|Y|B|
+1|16|3|J|H|
+4|16|L|F|N|
+1|16|3|L|B|
+4|16|1|Q|D|
+1|16|4|S|B|
+1|16|4|7|C|
+4|18|1|L|I|
+1|16|L|I|F|
+4|18|7|J|F|
+4|16|1|W|G|
+4|16|3|L|J|
+4|16|1|M|F|
+1|16|L|I|F|A TRABAJAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAR!!
+4|16|5|R|E|
+4|16|3|M|F|
+1|16|L|I|F|A TRABAJAAAAAAAAAAAAAAR!!!
+1|16|L|I|F|/e1
+4|16|1|I|B|
+1|16|2|I|M|
+4|16|1|Y|K|
+1|16|2|W|B|
+4|16|1|X|P|
+4|16|8|X|P|aaaaaaaaaaaaaa
+1|16|8|R|F|
+4|16|8|X|P|ayuda
+1|16|L|R|F|
+1|16|L|R|F|ESTOY
+1|16|L|R|F|:o
+1|16|L|R|F|:O
+4|16|8|V|M|
+1|16|3|Y|Q|
+1|16|3|Y|Q|aaaaaaaaaaa
+4|16|7|I|G|
+1|16|1|X|Q|
+4|16|4|V|N|
+4|16|8|U|O|
+4|16|3|O|P|
+1|16|2|X|Q|un monton de nieve cayo encima de mi!!
+4|16|3|T|Q|ven
+1|16|2|X|Q|aaaaaaaaaaaaaaaaaaaa
+4|16|7|T|P|
+4|16|3|N|P|
+1|16|4|T|R|
+1|16|5|P|P|
+1|16|3|S|O|
+4|16|5|G|I|
+1|16|2|P|P|
+4|17|1|X|B|
+1|16|5|I|K|
+1|17|1|V|B|
+4|17|L|X|B|
+4|17|L|X|B|aca
+1|17|L|V|B|
+4|17|L|X|B|taladra
+4|17|L|X|B|a la cafe
+1|17|L|V|B|oki
+1|17|L|1|D|
+1
+4
+4|17|8|4|D|516306
+4
+1|18|7|4|D|ninja nin
+1
+1|12|7|4|D|jor
+1|12|2|R|E|
+1|12|1|D|C|
+1|12|1|c|B|
+1|12|2|b|E|
+1
+1|5|1|4|D|jor
+1|5|5|L|O|
+1|5|3|U|K|
+1|5|8|H|J|
+1|5|6|K|F|
+1|5|6|M|J|
+1
+1|18|6|4|D|lok
+1|17|2|C|B|
+1|17|8|H|B|
+1|17|L|d|D|
+1|16|8|9|G|
+1|16|6|K|J|
+1|18|1|Q|K|
+1|16|3|A|F|
+1
+1|10|2|4|D|lexicxnt
+1|10|7|d|C|
+4|4|7|4|D|lok
+4|17|7|d|D|
+4
+4|18|3|a|D|lok
+4|18|7|d|D|
+4|16|1|d|D|
+4
+4|16|8|a|D|lok
+4|16|7|d|F|
+4
+4|16|3|a|D|lok
+1|10|3|V|D|
+4
+2|4|8|4|D|rosiedoggie1
+2|4|2|R|F|
+2|4|2|R|F|hi
+2|4|4|N|I|
+2|4|1|N|I|hello
+2|4|1|N|I|lol
+2|4|6|Z|C|
+2
+2|4|3|a|D|rosiedoggie1
+2|4|2|3|E|
+2
+2|4|7|4|D|rosiedoggie1
+4|16|3|a|D|lok
+2|4|7|d|C|
+2
+4|16|6|R|D|
+2|4|2|a|D|rosiedoggie1
+4|17|5|J|G|
+2|4|4|V|H|/a2QE
+4|16|7|d|D|
+2|4|3|G|G|/a2LI
+4
+4|16|3|a|D|lok
+2|4|8|Q|L|
+4|16|3|J|B|
+2
+4|16|4|I|B|
+4|16|4|K|B|
+2|4|7|4|D|rosiedoggie1
+4|17|2|F|E|
+2|4|7|T|K|
+4|17|8|A|C|
+4|18|1|M|J|
+2|4|2|T|K|roket snail
+2|4|2|L|H|
+4|18|3|J|L|
+2|4|1|H|J|
+1|10|3|2|D|
+4|18|7|M|K|
+2|4|6|C|C|
+1
+4|18|4|9|H|
+2|4|1|F|C|
+2|4|1|F|C|hi
+4|18|5|C|E|/a2C9
+2|4|8|C|I|
+4|18|7|C|C|
+4|18|8|C|C|hola
+4|16|7|R|D|
+4|17|5|I|Q|
+2|4|1|C|I|how do i get clothes
+4|18|1|I|Q|
+4
+4|18|3|4|D|lok
+4
+1|10|3|a|D|lexicxnt
+1|10|L|F|D|
+2|4|3|A|F|
+2|4|4|G|Q|
+2|4|7|b|B|
+2
+4|17|7|4|D|lok
+1
+4|17|5|B|B|
+4|17|3|C|G|
+4|17|4|8|E|
+4|17|3|9|E|
+4|17|7|5|G|
+4|17|7|E|K|
+4|17|3|M|G|
+4|17|1|M|G|hi
+4|17|3|5|D|
+4|17|8|I|J|
+4|17|3|5|E|
+4|17|8|5|E|kiss me baby
+4|17|8|5|E|/e12
+4|17|3|5|D|
+4|17|7|a|E|
+4|17|7|1|C|
+4
+4|17|3|4|D|lok
+4
+4|17|8|4|D|lok
+4|17|4|Q|B|/a2JL
+4|17|5|A|B|
+4|17|2|A|B|
+4|17|7|N|H|
+4
+4|16|4|a|D|lok
+4|18|1|G|B|
+4
+4|18|6|4|D|lok
+4|18|7|Q|B|
+4|17|1|6|D|
+4|17|1|H|H|
+4
+4|18|7|4|D|lok
+4
+4|18|3|a|D|lok
+4
+4|17|8|4|D|lok
+4|17|4|V|B|
+4|17|2|M|J|
+4|16|7|R|D|
+4
+4|16|7|a|D|lok
+4
+4|16|3|a|D|lok
+4
+1|14|7|4|D|lok
+1
+1|16|3|a|D|lok
+1|17|1|1|C|
+1
+1|10|7|4|D|CutePie
+1|16|6|Y|I|
+1
+1|10|3|a|D|CutePie
+1|17|1|C|B|
+1
+1|17|3|a|D|CutePie
+1|16|4|a|M|
+1|16|1|Y|Q|
+1|17|1|L|I|
+1|17|7|7|B|
+1
+1|17|7|4|D|CutePie
+1|17|5|K|Q|
+1|16|6|R|D|
+1|16|3|J|B|
+1|16|L|V|B|
+1|16|3|4|B|
+1|16|7|T|B|
+1|16|5|Z|B|
+1|16|3|A|F|
+1
+1|18|1|4|D|CutePie
+1
+2|1|1|4|D|raul
+2

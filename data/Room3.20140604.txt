@@ -1,0 +1,26 @@
+1|13|8|Q|G|Suneroo5
+1|13|1|Q|F|
+1
+2|18|2|Q|G|cadence eg
+2|18|3|C|M|
+2
+1|8|8|Q|G|MMaxwell989
+1|8|2|D|M|
+1
+1|8|7|Q|G|MMaxwell989
+1|8|4|Q|G|
+1
+1|9|3|Q|G|Pock
+1
+1|9|7|Q|G|Pock
+1|9|5|V|J|
+1|9|1|A|J|
+1|9|4|A|G|
+1|9|4|J|E|
+1
+1|9|1|Q|G|Pock
+1
+1|9|7|Q|G|Pock
+1
+1|13|7|Q|G|abe1
+1

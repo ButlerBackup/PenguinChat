@@ -1,0 +1,47 @@
+1|1|1|Q|G|rabbid2
+1|1|2|Q|G|
+1|1|2|D|E|
+1
+1|12|7|Q|G|aron945
+1|12|2|Q|G|
+1|12|1|J|I|
+1|12|4|P|M|
+1
+2|13|7|Q|G|marecekm
+2
+3|18|1|Q|G|jaloute
+3
+1|4|1|Q|G|emanuelvela
+1|4|6|C|G|
+1|4|7|U|G|
+1
+1|4|4|Q|G|emanuelvela
+1
+1|13|6|Q|G|iper gato
+1|13|L|B|K|
+1
+1|13|8|Q|G|iper gato
+1
+1|18|8|Q|G|berry4
+1|18|8|Q|G|
+1
+1|18|8|Q|G|iper gato
+1
+2|18|2|Q|G|maria123
+2
+1|15|1|Q|G|DFATS
+1
+1|1|L|Q|G|Java
+1
+1|1|1|Q|G|Java
+1
+1|1|7|Q|G|Java
+1
+1|1|7|Q|G|Java
+1
+1|1|L|Q|G|Java
+1|1|7|F|H|
+1|1|7|P|F|
+1
+1|1|1|Q|G|Java
+1

@@ -1,0 +1,19 @@
+1|10|7|Q|G|Coolcat
+1|10|5|P|J|
+1
+1|18|1|Q|G|Perry 822
+1|18|2|L|H|
+1
+1|1|6|Q|G|camilomejia
+1
+1|4|3|Q|G|enormossauro
+1
+2|8|7|Q|G|Happy
+2|8|5|Q|G|
+2
+1|17|1|Q|G|zeleste
+1|17|L|A|I|
+1|17|1|J|F|
+1|17|6|C|E|
+1|17|1|A|N|
+1

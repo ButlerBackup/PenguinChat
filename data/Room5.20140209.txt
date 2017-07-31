@@ -1,0 +1,214 @@
+1|18|1|4|D|Rock
+1|16|8|K|G|
+2|14|6|4|D|cool
+2|14|7|4|D|/a2ID
+2|17|1|E|L|
+2|17|L|K|L|
+2|17|5|d|B|
+2|17|3|R|E|
+2|17|3|L|F|
+2|17|6|J|K|/a2LG
+2|17|1|B|H|/j2
+2|17|1|B|H|/a2JC
+2|17|6|H|K|/a2LF
+2
+2|17|8|4|D|cool
+2|17|7|D|E|
+2|17|8|1|D|
+2
+4|14|7|4|D|cool
+4
+4|14|3|4|D|cool
+4|16|7|R|D|
+4|16|7|I|K|
+4|16|8|H|M|
+1
+4
+1|18|1|4|D|Vortex
+1|18|7|D|G|
+1
+1|18|7|4|D|Vortex
+1|18|8|H|K|
+1
+4|15|7|4|D|Rock
+4|15|3|E|P|
+4|15|5|c|C|
+4|15|5|Z|M|
+4|15|2|U|K|
+4|15|5|I|L|
+4|15|7|U|I|
+4|15|3|E|K|
+4
+4|15|7|4|D|Rock
+4|16|1|O|N|
+4|16|4|9|H|
+4|16|3|I|F|
+4|16|8|L|K|
+4|18|L|G|K|
+4
+2|18|6|4|D|Vortex
+2|18|8|J|L|
+2|17|1|2|D|
+2
+2|18|7|4|D|Vortex
+2|18|7|C|K|
+2
+1|18|7|4|D|Anderson
+1|16|3|3|C|
+1
+4|18|8|4|D|Vortex
+4|16|3|D|I|
+4|16|6|b|D|
+4|16|1|3|C|
+4
+2|18|8|4|D|Vortex
+2|18|3|K|K|
+2
+2|18|8|4|D|Vortex
+2
+1|18|7|4|D|Anderson
+1|18|6|M|L|
+1|16|4|R|D|
+1|16|8|C|M|
+1|16|L|F|M|
+1|16|7|1|E|
+1
+4|4|7|4|D|MemoriesCP
+4|4|7|R|F|
+2|17|7|4|D|Vortex
+2|17|5|G|K|
+2|16|6|G|C|
+2|16|8|D|K|
+2|16|6|U|D|
+2|16|2|E|J|
+4|4|4|K|B|
+4|4|7|W|B|
+2|16|7|L|K|
+4|17|8|V|G|
+4|17|1|J|C|
+4|17|2|M|J|
+4|17|2|Q|J|
+4|17|2|Q|J|/j6
+4|17|L|Q|J|
+4|17|L|D|B|
+2|17|L|L|K|
+2|16|2|O|H|
+2|16|3|P|I|
+2|16|5|D|C|
+2|16|1|D|C|Smash
+4|17|1|E|G|
+2|16|7|N|B|
+4|17|1|9|C|
+2|16|7|J|M|
+4|17|1|9|C|Ugh, I cant find where to get the car lol
+4|17|6|B|B|
+4|17|1|B|B|
+4|17|1|B|B|/a2HO
+4|17|1|d|C|
+4|17|5|W|B|
+4|17|1|W|B|
+2|16|5|K|E|
+2
+4
+4|17|7|4|D|MemoriesCP
+4|17|7|R|F|
+2|18|7|4|D|Vortex
+2|18|2|F|N|
+2|18|4|3|D|
+2
+4|17|L|W|B|
+4
+8|15|6|4|D|Vortex
+8
+8|15|7|4|D|Vortex
+9|10|6|4|D|MemoriesCP
+9|10|7|W|B|
+8|15|6|O|G|
+9|16|8|Q|D|
+9|16|1|Q|D|oh
+9|16|1|Q|D|lol
+8|15|6|R|D|
+9|16|3|R|E|
+8|16|1|H|H|
+9|16|8|J|K|
+8|16|1|H|H|You cant leave this room
+8|16|1|H|H|With the dozer
+9|16|8|J|K|so how do you get the ninja penguin
+8|16|7|Q|M|
+8|16|2|Q|M|Expand the tool bar
+9|16|1|J|K|but you cant
+8|16|2|Q|M|Cant?
+9|16|1|J|K|I cant
+9|16|1|J|K|Its not a link for me
+8|16|2|Q|M|What link?
+8|16|2|Q|M|This tool bar where you type
+9|16|1|J|K|no
+9|16|1|J|K|I mean that I cant become a ninja
+8|16|4|Q|M|/e3
+9|16|1|J|K|When you login and pick a color...
+8|16|2|Q|M|Yeah im telling you how
+9|16|1|J|K|the n in penguin is not a link..
+8|16|2|Q|M|Its not at the login
+8|16|2|Q|M|its right here
+9|16|1|J|K|Oh, I;m sorry
+9|16|7|J|K|/a2QP
+9|16|H|J|K|/a2V8
+9|16|H|J|K|/j4
+9|16|L|J|K|
+8|18|1|Q|M|
+8|18|1|Q|M|Did you do it?
+9|16|1|L|M|
+9|16|1|L|M|Explain to me once more... sorry
+9|16|5|L|M|/e2
+8|18|1|Q|M|Ok where you type right?
+9|16|7|M|M|
+9|16|5|J|J|yes
+9|16|5|J|J|ninja
+9|16|1|J|J|tell me on twitter
+9|16|1|J|J|in a dm
+9|16|6|R|E|
+9|17|1|R|H|
+9|17|1|R|H|ninja
+9|17|4|L|I|
+9|18|1|L|I|
+8|18|1|I|H|
+8|18|1|I|H|cool
+8|18|8|J|C|
+8|18|1|2|D|
+8
+8|18|8|4|D|Vortex
+8|18|7|L|G|
+8
+8|18|8|4|D|Vortex
+8|18|8|M|M|
+8|18|4|4|E|
+8
+8|18|L|4|D|Vortex
+8|18|8|G|L|
+8|18|4|7|G|
+8
+8|18|8|4|D|Vortex
+8|18|8|C|I|
+8|9|1|C|I|/a2LL
+8|9|7|L|D|
+8|9|3|2|C|
+8
+9
+1|1|6|4|D|Vortex
+1
+1|18|3|4|D|Vortex
+1
+1|1|7|4|D|Vortex
+1
+1|18|7|4|D|Vortex
+1
+1|18|7|4|D|Vortex
+1|18|7|I|J|
+1|1|5|4|D|Vortex
+1|16|3|M|J|
+1
+2|4|7|4|D|memoriescp
+2|17|1|S|G|
+2
+1|4|8|4|D|memoriescp
+1|4|3|W|D|

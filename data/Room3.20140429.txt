@@ -1,0 +1,6 @@
+1|17|7|Q|G|AngelArmand
+1|17|6|O|G|
+1
+1|17|2|Q|G|AngelArmand
+1|17|5|O|O|
+1

@@ -1,0 +1,3440 @@
+1|6|1|K|L|vilutini122
+1|6|5|K|K|
+1|6|5|I|O|
+1|6|5|I|E|
+1|6|2|T|F|
+1
+1|14|1|K|L|vilutini122
+1
+1|14|3|V|L|vilutini122
+1|14|3|9|K|
+1
+1|14|1|C|L|vilutini122
+1|14|2|6|P|
+1|14|6|6|S|
+1
+1|7|1|K|L|remm
+1|7|6|Q|F|
+1|7|6|G|L|
+1|7|5|S|F|
+1
+1|1|1|K|L|HarryMaker
+1|1|1|N|L|
+1|1|2|I|M|
+1
+1|14|1|K|L|Beta2005
+1|14|L|O|M|
+1
+1|1|1|K|L|lucas
+1|1|1|H|J|
+1|1|7|N|L|
+1
+1|1|1|M|D|lucas
+1|1|7|M|D|
+1
+1|1|3|C|L|lucas
+1|1|3|C|L|
+1|1|5|D|D|
+1
+2|14|1|K|L|Beta2005
+2|14|L|M|M|
+2|14|L|K|N|
+2|14|H|K|L|
+1|1|6|E|F|lucas
+1|1|8|E|F|/a2IL
+1|1|8|E|F|/a2KN
+1|1|8|J|M|/a2LM
+1|1|8|J|M|ola
+2|14|8|E|M|
+2|14|8|E|M|como seleciono o locar de bola de neve?
+2|14|7|O|M|local*
+2|14|2|O|M|/j6
+2|14|L|O|M|
+2|18|3|B|K|
+1|1|8|J|M|hello
+2|18|I|D|L|
+2|18|7|E|F|
+2
+1|1|7|B|J|
+1|1|7|T|F|
+1|1|6|T|F|
+2|18|2|E|F|Beta2005
+2|18|2|E|F|
+1|1|8|R|H|
+1
+1|1|3|V|L|lucas
+1|1|4|V|L|
+1
+2|18|7|X|K|
+2
+2|18|2|V|L|Beta2005
+2
+1|1|1|K|L|HarryMaker
+2|13|1|K|L|football9
+2|13|7|S|O|
+2|13|1|M|E|
+2|13|8|U|N|
+2|13|8|U|N|/a2MI
+2|13|8|U|N|/a2KJ
+2|13|8|O|K|
+2
+1
+1|5|1|K|L|fabio neni
+1|5|5|P|I|
+1|5|2|N|M|
+1
+2|9|1|K|L|TrollCp
+2|9|4|N|I|
+1|17|3|V|L|fabio neni
+2|9|4|K|M|
+1|17|7|E|L|
+2|9|1|L|P|
+1|18|3|9|L|
+2|9|1|L|P|Hey
+1|18|6|E|J|
+2|9|3|H|O|
+1
+1|18|6|E|F|fabio neni
+1|18|8|T|M|
+1|18|2|T|F|
+1|18|2|S|H|/a2HP
+1|18|1|H|H|/a2GN
+1|18|8|B|L|/a2JL
+1|18|8|B|L|/e1
+1|18|8|Z|K|
+1
+2
+1|14|1|K|L|caaCaca2020
+1|14|8|K|P|
+1|14|8|Q|N|
+1|14|I|A|K|
+1
+1|14|3|V|L|caaCaca2020
+1|14|5|T|L|
+1
+1|14|1|K|L|RockSnail
+1|14|8|G|H|
+1|18|6|O|G|
+1
+1|11|1|K|L|tdfix
+1|18|L|L|L|
+1
+1|18|3|V|L|tdfix
+1|18|6|S|F|
+1|18|3|I|J|
+1
+1|18|6|E|F|tdfix
+1|18|1|E|F|
+1|18|H|L|K|
+1
+1|17|1|V|L|tdfix
+1|17|8|J|I|
+1
+2|12|1|K|L|karinelli
+2|12|3|N|L|
+2|12|2|Q|N|
+2|12|4|D|D|
+2
+2|12|6|E|F|karinelli
+2
+2|17|7|C|L|karinelli
+2|17|7|S|E|
+2
+1|12|1|K|L|Johnny Fire
+1|12|2|K|M|
+1|12|6|H|R|
+3|12|1|K|L|A11619
+3|18|1|K|L|
+3|18|L|K|L|
+3|18|5|G|N|
+1
+3
+3|18|3|C|L|A11619
+3
+3|18|4|M|D|A11619
+3
+3|18|5|C|L|A11619
+3
+3|18|5|E|F|A11619
+3
+1|9|1|K|L|TrollCp
+2|14|1|K|L|marce123456
+1|9|2|J|N|
+2|14|4|J|M|
+1|9|L|J|N|
+2|14|7|H|M|
+1|9|I|J|N|
+1|9|I|J|N|Hey dude
+1|9|1|F|M|/a2WC
+2|18|7|9|K|
+1|9|1|Q|H|/a2R8
+1|9|4|B|L|
+2|18|L|9|K|
+2
+1|9|7|Y|K|
+1
+2|17|1|C|L|marce123456
+2|17|8|8|J|
+1|9|4|V|L|TrollCp
+1|9|1|F|M|Hey
+1|9|4|F|M|/a29H
+1|9|L|F|M|
+1|9|L|F|M|/e1
+1|9|L|F|M|/e12
+2
+2|12|1|K|L|pingoposser
+2|18|1|K|L|
+2|18|L|K|L|
+2|18|L|K|L|/e1
+2|18|1|J|J|
+2|18|1|J|J|nossa legla
+1|9|L|F|M|hey
+2|18|1|J|J|nossa legal
+1|9|L|F|M|How to get that suit?
+2|18|2|M|L|
+2|18|2|M|L|tem
+2|18|2|M|L|espada
+2|18|2|M|L|what?
+1|9|L|F|M|??
+1|9|L|F|M|:P
+2|18|2|M|L|my brasilian
+1|9|L|F|M|Puta
+1|9|L|F|M|:3
+2|18|3|M|L|/e5
+2|18|3|M|L|/a2FN
+1|9|1|K|L|
+1|9|1|K|L|o really?
+1|9|1|G|L|/j0
+1|9|1|G|L|ha ha ha
+1|9|1|G|L|:\
+2|18|3|M|L|I'm from Brazil so I have no idea what they are
+2|18|1|K|N|
+2|18|3|K|N|/e9
+1
+2
+2|12|1|V|L|pingoposser
+2
+1|12|1|K|L|pingoposser
+1|12|7|Z|N|
+1
+1|12|3|V|L|pingoposser
+1
+1|12|3|V|L|pingoposser
+1|12|3|H|G|
+1
+1|12|6|E|F|pingoposser
+1
+2|5|1|K|L|tiagoflach1
+2|5|4|I|L|
+2|1|2|P|K|
+2|1|1|S|J|
+1|12|2|M|D|pingoposser
+1|12|4|T|F|
+2
+2|1|6|E|F|tiagoflach1
+2|1|7|S|E|
+2|1|6|K|D|
+2
+2|1|3|M|D|tiagoflach1
+2|1|4|M|D|
+2|1|1|S|K|
+2|1|1|S|K|/a2SH
+2|1|1|S|K|/a2QF
+1
+2
+1|5|1|K|L|geilonge
+1|5|8|L|D|
+1|5|L|M|F|
+1|5|K|9|H|
+1|5|K|6|M|
+1
+1|12|1|K|L|luan100
+1|12|6|I|D|
+1
+1|12|5|M|D|luan100
+1
+1|12|5|E|F|luan100
+1|12|5|T|F|
+1|12|7|L|G|
+1
+1|12|1|K|L|LloydSparkle
+1|12|7|N|J|
+1|12|3|H|E|
+1
+1|8|1|K|L|LloydSparkle
+1
+1|17|5|C|L|LloydSparkle
+1|17|1|Z|L|
+1
+1|14|1|K|L|walacee2
+1|14|4|I|E|
+1|14|2|S|L|
+1
+1|12|1|K|L|snif
+2|13|1|K|L|luan100
+2|13|7|R|K|
+1|12|7|F|O|
+2|13|2|Q|N|eai
+1|12|6|F|O|/e2
+1|12|8|F|O|ie
+1|12|8|F|O|to vendo como e esse penguin chat
+1|12|6|F|O|/e2
+1|12|H|F|O|/a2S8
+1|12|H|F|O|/j0
+1|12|H|L|N|/a2LB
+1|12|2|L|N|/a2RI
+1|12|2|X|O|
+1
+2|18|L|R|N|
+2
+1|12|3|V|L|snif
+1
+2|18|5|V|L|luan100
+2
+1|18|3|V|L|snif
+1
+1|18|4|M|D|snif
+1
+1|18|6|E|F|snif
+2|18|7|V|L|luan100
+1
+2|18|3|I|D|
+2
+3|8|1|K|L|soldadinho7
+3|8|2|V|M|
+3|8|4|S|G|
+3
+3|8|3|M|D|soldadinho7
+3|8|6|R|G|
+3
+3|8|6|E|F|soldadinho7
+4|12|1|K|L|Jacke
+3
+2|14|3|M|D|luan100
+3|8|3|V|L|soldadinho7
+4|12|5|O|M|
+3|8|2|V|L|
+3|8|2|V|L|oi
+4|4|1|K|J|
+3|8|3|Q|M|
+3|8|2|Q|M|/j2
+3|8|2|Q|M|/a2IE
+4|4|1|K|J|Eu?
+2|14|8|B|O|
+3|8|L|Q|M|
+4|4|2|M|L|
+4|4|2|M|L|/a2T8
+2|14|6|B|O|/e3
+3|8|7|F|N|
+4|4|2|M|L|/a2OC
+2|14|1|D|J|
+3|8|1|F|N|oi
+4|4|3|E|J|/a2DP
+3|8|7|T|L|
+4|4|3|K|L|/a2DQ
+4|4|3|K|L|/a2DI
+3|8|6|S|F|
+4|4|5|L|I|
+3|8|7|J|L|/a2NJ
+2|14|1|D|J|cara q nome é esse ?
+4|18|1|M|H|
+3|8|I|J|L|
+2|14|1|D|J|soldadinho7
+4|18|1|M|H|o meu?
+4|18|8|L|J|
+3|8|I|E|K|
+4|18|L|P|L|
+4|18|1|K|L|/e11
+4|18|3|K|I|/a2FL
+3|8|1|E|K|vamos para o cafe
+2|14|1|D|J|q nome zuado
+3
+4|18|4|N|K|
+4
+2
+1|8|1|K|L|soldadinho7
+1
+4|18|3|V|L|Jacke
+4
+2|14|6|E|F|luan100
+4|17|1|V|L|Jacke
+2|18|1|G|O|
+4|17|L|L|K|
+4
+2
+2|18|4|E|F|luan100
+2|18|6|X|M|
+2
+4|17|2|M|D|Jacke
+2|18|4|V|L|luan100
+2|18|2|V|L|fdp
+2|18|3|7|J|
+2
+2|18|5|C|L|luan100
+2
+2|18|4|M|D|luan100
+2|18|1|G|D|
+2|18|6|G|D|ei
+2|18|1|J|J|
+2|18|1|N|F|
+2|18|1|N|F|?????
+2|18|7|K|F|
+2|18|8|K|F|seu noob
+2|18|1|I|G|
+2|18|1|I|G|lixao
+4
+2
+2|18|4|M|D|luan100
+2
+2|18|5|C|L|luan100
+2
+2|18|2|V|L|luan100
+2
+2|18|3|M|D|luan100
+2
+1|4|1|K|L|Sparky
+1|4|2|6|I|
+1
+1|17|1|C|L|Sparky
+1
+1|8|1|K|L|lulu pigo
+1
+1|5|3|V|L|lulu pigo
+1|5|6|S|F|
+1
+1|14|1|K|L|Robocop
+1|14|1|L|L|
+1
+1|14|3|M|D|Robocop
+1|14|1|N|H|
+1|14|6|T|F|
+1
+1|14|5|E|F|Robocop
+1
+1|14|3|V|L|Robocop
+1
+1|14|3|V|L|Robocop
+1|14|6|S|E|
+1|14|3|L|K|
+1
+1|7|1|K|L|rider2915
+1|7|H|N|I|
+1|7|1|O|O|
+1|7|3|S|L|
+1
+1|7|4|M|D|rider2915
+1
+1|7|6|E|F|rider2915
+1|7|4|S|E|
+1
+1|12|1|K|L|Molly III
+1|12|3|H|N|
+1|12|2|H|M|
+1|12|2|C|L|
+1|12|6|F|N|
+1|12|5|I|E|
+1|12|7|I|L|
+1|12|7|K|O|
+1|12|2|N|M|
+1|12|7|Q|O|
+1|12|7|R|L|
+1|12|8|I|N|
+1|12|7|P|P|
+1|12|5|J|Q|
+1|12|8|N|P|
+1|12|L|M|M|
+1
+1|10|1|K|L|Molly III
+1
+1|12|1|K|L|Molly III
+1|12|4|K|L|
+1
+1|8|1|K|L|Molly III
+1|8|J|L|E|
+1
+1|12|1|K|L|Pingurelas
+2|12|1|K|L|Giih
+1|12|8|H|L|
+1|12|8|H|L|oi
+2|12|7|O|L|
+1|12|7|H|P|
+1|12|5|H|P|/e1
+2|12|2|O|L|oii
+1|12|3|8|L|
+1|12|8|I|M|
+2|12|4|O|L|/e2
+1|12|L|I|M|
+2|12|4|R|K|
+2|12|H|P|J|
+1|12|L|I|M|/e2
+2|12|K|P|J|/a2N9
+1|12|3|E|L|
+2|12|K|P|J|/a28B
+1|12|4|E|N|
+2|12|L|P|J|
+1
+2|12|L|I|E|
+1|12|L|M|D|Pingurelas
+2|12|8|S|I|
+2
+1|12|2|N|K|
+1
+1|12|5|E|F|Pingurelas
+1
+2|18|H|V|L|Giih
+2|18|1|I|M|
+2|18|L|G|K|
+2|18|L|C|E|
+2
+3|4|1|K|L|victor9982
+3|4|1|G|I|
+2|18|3|E|F|Giih
+2
+3|4|L|G|I|/e11
+2|18|4|M|D|Giih
+3|4|8|L|M|
+2|18|4|N|I|/e2
+2|18|5|R|I|
+3|4|4|H|J|
+2|18|2|M|H|/a2DJ
+3
+2
+1|4|1|K|L|victor9982
+1|4|4|B|J|
+1
+1|4|1|K|L|VICTOR9982
+1|14|5|S|E|
+1|14|2|O|I|
+1
+1|14|2|V|L|VICTOR9982
+1|14|2|I|M|
+1
+2|4|1|K|L|WHEEZZY1
+2|4|1|R|M|
+2
+1|12|1|K|L|Tiaarctic
+1|12|L|H|M|
+1
+1|12|2|M|D|Tiaarctic
+1
+1|12|7|E|F|Tiaarctic
+2|9|1|K|L|pipoca
+1
+3|13|1|K|L|blob2
+3|13|3|U|N|
+3|13|3|R|N|
+2|9|1|K|L|vamos no meu cantinho secreto
+3|13|2|R|N|/a29G
+2
+3|13|2|R|N|ta
+3
+2|4|4|V|L|pipoca
+2
+4|1|1|K|L|vinicius159
+4|1|4|L|M|
+5|9|1|K|L|naruto
+4|14|1|R|I|
+5|9|1|K|L|oi
+4|14|4|T|G|
+5|9|I|K|L|
+5|9|I|K|L|/a2E8
+4|14|2|M|L|
+3|13|3|V|L|blob2
+5|9|I|K|L|/j0
+4|14|2|M|L|ola
+5|9|L|K|L|/e11
+3|13|2|9|J|
+3
+5|9|2|S|L|ola
+4|14|4|M|L|/e3
+4|14|8|M|L|ooi
+5|9|3|S|L|/a2KN
+3|13|3|V|L|blob2
+5|9|3|S|L|oii
+3|13|5|S|E|
+4|14|3|M|L|aff
+4|14|5|9|I|
+4
+5|5|1|S|L|
+4|17|4|V|L|vinicius159
+5|18|1|K|N|
+3
+4|17|4|P|J|
+1|12|3|V|L|Tiaarctic
+1|12|3|V|L|/a2HO
+4|17|3|P|J|/e5
+1|12|3|B|J|
+4|17|2|M|N|
+4|17|2|M|N|onde conseguio
+4|17|2|M|N|a roupa de ninja
+4|17|4|M|N|/a2KO
+4|17|1|Q|L|
+1|12|7|S|I|
+5|18|L|K|N|
+4|1|1|N|H|/a2KP
+1|12|7|S|F|
+5|18|L|M|O|
+4|1|3|P|N|
+5|18|L|M|O|sim
+1|12|2|E|H|
+5|18|L|M|O|e o capacete
+4|1|2|P|N|onde conseguio
+1
+4|1|3|O|O|
+4|1|3|O|O|primerio me dis
+5|18|L|R|N|
+4|1|3|O|O|onde achou a roupa
+4|1|3|O|O|ninja
+5|18|3|R|N|vem aqui
+5
+4|1|5|S|I|
+5|17|1|V|L|naruto
+5|17|3|V|L|achei
+1|12|3|V|L|Tiaarctic
+4
+5|17|1|K|K|
+1|12|7|S|K|
+5|17|1|K|K|o capacete
+1
+4|17|1|V|L|vinicius159
+5|17|7|K|K|/a2QM
+4|17|4|H|E|
+4|17|5|H|G|
+5|5|1|K|K|
+4
+5
+5|18|4|M|D|naruto
+5
+6|13|1|K|L|ikaroc
+6|13|2|M|I|
+1|1|1|K|L|penafina
+6|13|3|L|H|
+6|13|3|C|O|
+1|1|5|K|O|/a2KG
+1|1|5|K|O|oi
+1|1|5|H|J|
+1
+6
+1|1|3|V|L|penafina
+6|12|5|E|F|ikaroc
+1
+6|12|8|I|J|
+1|1|3|M|D|penafina
+1|1|1|M|D|hello
+1|1|1|M|D|
+1|1|2|M|D|/a26C
+1|1|3|M|N|
+1|1|4|M|N|/e1
+6|12|2|K|M|
+6|12|4|K|M|hi
+1|1|6|R|H|
+6|12|4|F|M|
+6|12|6|T|F|
+1|1|2|D|P|
+6|12|3|H|F|/e1
+6|12|1|M|N|
+6|12|2|M|N|im brasil
+1|1|2|D|P|you are english?
+6|12|4|M|N|no
+1|1|6|L|K|
+1|1|1|K|M|
+6|12|2|M|N|brasil
+6|12|3|M|N|go
+6
+1|1|2|K|M|do you speak portuguese?
+1|1|4|P|L|
+1|1|3|P|L|/a2LP
+6|12|7|V|L|ikaroc
+6|12|2|V|L|
+1|1|4|H|I|
+1
+6|12|7|N|M|
+1|9|1|K|L|penafina
+1|9|6|S|M|
+1|9|5|T|F|
+1|9|5|S|E|
+1
+6
+2|4|4|M|D|pipoca
+2|4|4|M|D|
+2|4|1|K|I|
+1|8|1|K|L|vitoria35007
+1|8|7|P|G|
+1|8|1|R|G|
+1|8|7|R|G|olá
+1
+1|8|1|K|L|vitoria35007
+1|8|2|K|L|/j4
+1|8|H|K|L|
+1|18|2|M|M|
+1|18|4|M|M|/e1
+1
+1|18|2|V|L|vitoria35007
+1|18|3|6|I|
+1|18|5|F|I|
+1|18|4|I|E|
+1|18|1|I|E|/a2MH
+1|18|6|F|L|/a2LH
+1|18|6|H|I|
+1
+1|18|3|M|D|vitoria35007
+1
+3|7|1|K|L|rokkie
+3|7|6|E|N|
+3|7|5|T|H|
+3|7|4|S|F|
+3|7|2|S|F|puta
+3
+3|7|3|M|D|rokkie
+3|7|7|T|F|
+4|1|1|K|L|mathias01
+4|1|6|O|Q|/a2SE
+4|1|6|O|Q|/a2RD
+4|1|7|Y|K|
+2
+4
+1|8|4|V|L|vitoria35007
+1|8|5|E|E|
+1
+1|8|6|E|F|vitoria35007
+1|8|5|S|I|
+1|8|2|O|K|
+1|8|6|S|E|
+3
+4|1|3|V|L|mathias01
+4|1|7|P|I|
+4|1|2|P|I|/e7
+4|1|6|T|F|
+4|1|3|D|L|
+1
+4
+4|1|3|E|F|mathias01
+4|1|L|J|H|
+4
+3|14|1|K|L|joca2502
+3|14|7|6|J|
+3
+3|14|1|K|L|joca2502
+3|14|5|V|N|
+3|14|6|T|F|
+3
+3|14|3|M|D|joca2502
+3
+3|5|1|V|L|joca2502
+3
+3|14|K|E|F|joca2502
+3|14|1|J|I|
+2|4|1|K|L|Dargon 26
+2|18|1|K|L|
+3|14|2|Q|L|
+2|18|2|B|P|
+3|14|5|O|N|
+2
+3|14|6|W|H|
+3|14|6|O|K|
+3
+3|6|1|K|L|Jujubaluba
+3|6|1|K|K|
+3|6|I|P|J|
+3
+2|6|1|K|L|violetta
+2|6|1|K|N|
+2|6|2|N|N|
+2|6|K|H|M|
+2|6|2|H|O|
+2|6|6|R|G|
+2|6|6|S|F|
+2|6|3|C|G|
+2
+2|6|6|E|F|violetta
+2
+2|6|4|M|D|violetta
+2|6|1|T|F|
+2
+1|5|1|K|L|rafajuca
+1|5|6|Q|E|
+1|5|2|P|J|
+2|18|3|V|L|violetta
+1|5|5|T|H|
+2|18|3|V|L|
+1|5|2|I|E|
+2|18|3|5|J|
+2|18|2|6|L|
+2
+1|5|4|L|O|
+1
+2|18|3|V|L|violetta
+2|18|7|G|M|
+2
+2|8|1|K|L|Jujubaluba
+1|5|3|M|D|rafajuca
+1|5|3|D|E|
+1
+1|5|8|E|F|rafajuca
+1|5|8|E|F|
+1|5|4|T|F|
+1|5|5|U|I|
+1|5|5|T|F|
+2
+1
+1|5|5|E|F|rafajuca
+1
+2|14|1|K|L|victor58888
+2|14|1|L|G|
+2|14|6|9|J|
+2
+3|1|1|K|L|Robson
+1|5|6|C|L|rafajuca
+3|18|1|J|L|
+1
+3|18|3|6|I|
+3
+4|7|1|K|L|Mauro G
+4|7|4|R|I|
+1|5|3|V|L|rafajuca
+4
+1|5|5|T|H|
+1|5|1|Q|M|
+1|5|7|Q|M|/a2SK
+1|5|L|Q|M|
+1|5|L|Q|M|/e11
+1|5|8|H|G|
+1
+1|12|1|K|L|Marycrazy123
+1|12|8|P|L|
+1|12|H|L|M|
+1|12|L|G|J|
+1
+1|12|1|K|L|Marycrazy123
+1
+1|12|3|V|L|Marycrazy123
+1
+1|12|3|V|L|Marycrazy123
+1
+1|12|L|M|D|Marycrazy123
+1
+1|12|3|E|F|Marycrazy123
+1|12|6|T|F|
+1|12|H|J|K|
+1|12|2|O|M|
+1|12|J|J|L|
+1|12|7|H|M|
+1
+2|13|1|K|L|
+2|6|1|K|L|Selenaflor2
+2|6|4|M|I|
+2|6|4|V|K|
+2|6|4|H|E|
+2
+2|14|1|K|L|Habner9714
+2|14|4|P|I|
+2
+2|14|6|E|F|Habner9714
+2|14|2|U|F|
+2|14|5|S|E|
+2|14|3|N|Q|
+2|14|2|J|N|
+2
+2|14|8|C|L|Habner9714
+2
+1|14|1|K|L|Habner9714
+1|9|2|N|I|
+1
+2|13|1|K|L|PenguinChat
+2|13|8|M|J|
+2|13|4|D|M|
+2|13|8|G|O|
+1|13|1|K|L|thiagoventu
+2|18|L|K|L|
+1|13|4|K|Q|oi
+3|7|1|K|L|rockpopmi
+1|13|2|M|L|
+3|7|5|S|O|
+3|7|3|S|O|/j3
+3|7|3|D|N|
+2|18|1|S|L|
+3
+2|18|1|S|L|OI gente
+2|18|1|S|L|Oi gente
+4|10|1|K|L|biica18
+1|13|2|M|L|vc é bot?
+4|10|4|J|J|
+3|7|3|V|L|rockpopmi
+2|18|8|Y|M|
+2
+3|7|3|S|I|
+1|13|2|M|L|n né
+4|10|1|J|J|que ?
+1|13|2|M|L|é que
+3|7|7|T|F|
+4|10|2|I|O|
+1|13|2|M|L|oi
+1|13|2|M|L|bem
+4|10|8|I|O|oi
+4|10|1|I|O|td
+1|13|2|M|L|o penguin chat
+4|10|1|H|K|
+1|13|2|M|L|parecia
+1|13|2|M|L|ser bot
+4|10|H|H|K|/a2VG
+1|13|2|M|L|pelo
+1|13|2|M|L|nome né
+4|10|H|H|K|ata
+3|7|4|O|J|
+1|13|H|M|L|
+1|13|H|M|L|/e2
+4|10|H|H|K|/e1
+1|13|L|M|L|
+4|10|6|S|G|
+1|13|L|M|L|/e1
+4|10|3|I|E|
+4
+1
+3
+5|11|1|K|L|rockpopmi
+5
+1|13|4|M|D|thiagoventu
+1
+2|18|2|V|L|PenguinChat
+2|18|6|T|F|
+2|18|2|H|F|
+1|17|7|V|L|thiagoventu
+2
+1|17|8|H|K|
+2|18|3|M|D|PenguinChat
+2
+2|18|4|M|D|PenguinChat
+6|14|1|K|L|MicroMatrix
+2
+6|14|4|Q|F|
+1|17|8|K|K|sabe a placa coming soon que tem lá
+6|14|3|O|J|
+6|14|3|O|J|/a2HK
+7|7|1|K|L|leonardoxc1
+7|7|2|E|O|
+1|17|1|K|K|devia ser
+6|14|3|O|J|nao
+7|7|6|F|O|
+1|17|1|K|K|coming já
+1|17|1|K|K|pq
+7|7|1|F|O|/j3
+6|14|3|S|E|
+7|7|1|F|O|/a2QN
+2|13|1|E|F|PenguinChat
+1|17|1|K|K|já lançou
+7|7|L|F|O|
+2|13|1|E|F|
+1|17|1|K|K|o cp
+7|7|L|F|O|/e1
+1|17|1|K|K|né
+6|14|2|Q|J|
+1|17|1|K|K|kk
+7|13|1|F|O|
+6|14|5|S|E|
+1|17|L|K|K|
+1|17|L|K|K|yay
+7|13|1|F|O|/a2ML
+7|13|2|O|N|
+7|13|2|O|N|/j1
+1|18|1|K|K|
+1|18|1|K|K|eu sou
+7|7|1|O|N|
+1|18|1|K|K|o ninja!
+6|14|3|S|E|/e1
+1|18|L|K|K|
+7
+6|14|3|8|K|
+6|14|8|I|L|
+6|14|5|I|L|ei
+1|18|L|K|K|/e11
+7|7|1|K|L|leonardoxc1
+1|18|L|K|K|/e1
+7|7|4|K|L|
+6|14|6|I|L|onde arranjou isso?
+1|18|L|K|K|que?
+6|14|4|I|L|/a2BI
+7|7|3|L|J|
+6|14|4|I|L|a roupa
+7|7|3|H|D|
+7
+6|14|3|G|N|
+6
+2|13|8|Q|K|
+7|7|3|M|D|leonardoxc1
+1|18|L|K|K|vai em trocar a com e clica no penguiN
+2|13|8|Q|K|EAI
+2|13|8|Q|K|gente
+7
+2|13|H|O|M|
+2|13|H|O|M|oi thiago
+1|18|L|K|K|oi
+2|18|1|O|M|
+6|14|3|V|L|MicroMatrix
+1|18|7|L|N|
+2|18|1|N|K|joga
+6|14|2|Q|J|/a2RO
+1|18|L|L|N|
+2|18|1|N|K|Club Penguin?
+2|18|L|O|N|
+2|18|2|O|N|/j2
+1|18|L|L|N|sim
+6|14|2|Q|J|sim
+2|18|L|O|N|joga
+2|18|L|O|N|eu tbm
+6|14|2|Q|J|/a2LN
+2|18|L|O|N|esse foi o primeiro CP
+1|18|L|L|N|e a danças especial é a mesma
+7|7|3|V|L|leonardoxc1
+2|18|L|O|N|antes
+6|14|4|I|E|
+1|18|L|L|N|a dança especial
+7|7|3|6|J|
+2|18|L|O|N|do EXPERIENCIE
+7
+2|18|L|O|N|penguin
+1|18|L|L|N|na verdade n
+6
+1|18|L|L|N|o primeiro
+2|18|2|Q|N|
+7|7|3|V|L|leonardoxc1
+6|14|3|M|D|MicroMatrix
+6
+2|18|1|Q|N|foi qual?
+7|7|3|9|L|
+6|14|3|M|D|MicroMatrix
+1|18|L|L|N|experimental penguin
+2|18|2|O|N|
+2|18|2|O|N|eu vi
+7|7|6|T|F|
+6|14|7|T|F|
+7|7|2|D|D|
+7
+2|18|2|O|N|FOI OQUE EU DISSE
+2|18|2|O|N|mais eu disse
+2|18|2|O|N|em ingles
+1|18|L|L|N|dps teve
+2|18|4|O|N|/e3
+2|18|2|O|N|Penguin Chat
+6|14|3|H|K|
+6
+2|18|2|O|N|... cp
+6|14|5|E|F|MicroMatrix
+2|18|2|O|N|e depois cpps.me
+1|18|L|L|N|penguin chat depois o 2 e agora que no caso já
+6|14|K|A|J|
+1|18|L|L|N|teve
+2|18|1|Q|M|
+1|18|L|L|N|o 3
+6
+2|18|2|O|N|
+1|18|L|L|N|ops
+2|18|1|O|N|teve o quatro
+1|18|L|L|N|bug
+1|18|L|L|N|teve?:
+2|18|1|O|N|MEU DEUS
+2|18|1|P|O|AFF
+1|18|L|L|N|:o
+2|18|1|P|O|NOSSAA
+2|18|1|P|O|KK
+1|18|L|L|N|bem
+2|18|1|P|O|aqui tem iglu?
+6|14|2|V|L|MicroMatrix
+1|18|1|M|O|
+2|18|7|H|M|
+6|14|6|O|J|
+6
+1|18|2|M|O|não
+2|18|1|H|M|aqui tem
+6|14|3|V|L|MicroMatrix
+2|18|1|H|M|iglu?
+1|18|2|M|O|mais o dois teve
+1|18|2|M|O|mais
+2|18|4|6|I|
+6|14|7|V|L|
+2
+1|18|2|M|O|O DOIS TEVE
+2|18|6|C|L|PenguinChat
+1|18|2|M|O|E O
+2|18|3|P|L|/e3
+1|18|2|M|O|TRES N????
+2|18|8|H|O|
+2|18|8|H|O|eii
+1|18|4|M|O|/e3
+2|18|8|H|O|CADEE
+1|18|2|M|O|perai
+2|18|8|H|O|OS IGLUS?
+1|18|4|6|I|
+6|14|3|V|L|/e1
+1|18|8|C|O|
+6|14|L|V|L|/j2
+1|18|8|C|O|teve só no dois
+6|14|L|V|L|/a2KF
+2|18|1|G|O|
+1|18|5|9|I|
+6|14|L|V|L|/a2CF
+2|18|1|G|O|num tem?
+1
+2|18|1|G|O|AAFFF
+6|14|4|G|K|
+2|18|1|G|O|caramba
+2|18|2|6|I|
+2
+6
+2|13|1|C|L|PenguinChat
+6|17|1|C|L|MicroMatrix
+2|18|1|J|N|
+6|17|3|C|L|
+1|17|5|C|L|thiagoventu
+2|18|L|J|N|RUIAA
+2|18|L|J|N|kk
+1|17|1|K|O|
+1|17|1|K|O|to com fome
+1
+2|18|L|J|N|ja sei
+2|18|L|J|N|vamos
+2|18|L|J|N|pra
+2|18|L|J|N|pizzaria!!
+2
+6
+2|18|7|C|L|PenguinChat
+2|18|7|H|M|
+1|17|5|E|F|thiagoventu
+2|18|7|O|K|
+2|18|7|G|L|
+1|17|1|J|N|
+2|18|7|G|L|thiago
+2|18|7|G|L|...
+1|17|8|J|N|toma um café
+1|17|3|J|M|
+2|18|7|G|L|que aqui
+2|18|7|G|L|nao te
+2|18|7|G|L|nao tem
+1|17|1|O|L|
+2|18|7|G|L|pizzaria?
+6|14|3|V|L|MicroMatrix
+1|17|1|O|L|bem
+2|18|7|G|L|/a2WJ
+6|14|4|V|L|
+2|18|7|K|M|/a2NM
+1|17|1|O|L|se o forte nevado
+2|18|1|L|K|
+1|17|1|O|L|é ali
+2|18|1|L|K|não né...
+1|17|K|O|L|
+6|14|5|Q|N|
+6|14|4|D|F|
+2|18|1|L|K|BEM
+2|18|1|L|K|ENTAO VAMOS
+1|17|K|O|L|é que
+6
+2
+1|17|K|O|L|bem
+1
+6|14|4|E|F|MicroMatrix
+6
+1|17|K|E|F|thiagoventu
+6|17|1|C|L|MicroMatrix
+1
+6|17|7|Y|K|
+6
+6|17|7|V|L|MicroMatrix
+2|17|4|V|L|PenguinChat
+6|17|5|O|D|
+7|1|1|K|L|pedroreii
+6|17|8|O|D|/a2YK
+2|17|8|H|K|
+6|17|8|F|H|/a2KN
+7|1|1|K|N|
+2|17|8|H|K|AFF
+6|17|8|F|H|/a2UC
+2|17|8|H|K|aqui nao tem
+7|1|7|V|L|
+6|17|I|F|H|/a2IH
+2|17|8|H|K|pizzariaa
+7|1|L|V|L|/j9
+2|18|1|Q|P|
+6|17|I|F|H|/e3
+7|1|H|V|L|
+2|13|1|O|J|
+7
+2|13|1|O|J|É HORA DE SE TRANSFORMAR
+2|13|1|O|J|JUNTANDO AS DUAS MAOS
+2|13|1|O|J|FAZENDO POSE DE NINJA
+2|18|1|O|J|
+2|18|1|C|L|raia
+2|18|1|C|L|RAIA
+2
+7|1|2|V|L|pedroreii
+7|1|3|8|J|
+7
+2|18|8|M|D|PenguinChat
+2
+2|18|5|E|F|PenguinChat
+2|18|2|T|F|
+2|18|2|T|F|NAO TEM
+2|18|2|T|F|LOJA D EPRESENTE
+2|18|2|P|K|
+2|18|3|D|J|
+2|18|1|D|J|/a2VN
+2|18|1|D|J|/j7
+2|18|L|K|L|
+7|1|2|V|L|pedroreii
+2|18|4|M|I|
+2|18|3|I|N|
+6|17|I|F|H|/a2IN
+6|17|4|I|E|
+6
+2|18|6|O|K|
+7
+1|13|1|K|L|pedroreii
+1|13|7|K|L|/a2NJ
+1|13|6|Q|I|
+1|13|2|G|J|
+1
+1|10|1|K|L|GoldGui
+1|10|6|K|L|/a2PK
+1|10|6|M|H|/a2LI
+1|10|1|P|H|/a2OI
+1|10|L|P|H|/j10
+1|10|H|N|I|
+1|10|7|U|I|
+1
+1|10|4|M|D|GoldGui
+1
+1|10|6|E|F|GoldGui
+1|10|6|T|F|
+1|10|7|S|E|
+1|10|4|Q|M|/a2MK
+1|10|4|Q|M|/a2MK
+1|10|4|Q|M|/a2QH
+1|10|4|Q|M|/a2OK
+1|10|4|Q|M|/a2RL
+2
+1
+1|13|1|K|L|azulinho11
+1|13|7|G|J|
+1
+1|18|3|V|L|azulinho11
+1|18|2|Q|I|
+1
+1|18|4|M|D|azulinho11
+1|18|6|T|F|
+1|18|7|H|K|
+1
+1|14|1|K|L|Bernardo
+1|14|4|R|H|
+1
+1|4|1|K|L|Bernardo
+1|4|1|D|J|
+1|4|7|Y|K|
+1
+1|4|3|V|L|Bernardo
+1|4|3|7|I|
+1
+2|1|1|K|L|Gabriell
+2|1|6|I|K|
+2
+3|1|1|K|L|Anakin2309
+2|1|4|M|D|Gabriell
+2|1|8|B|K|
+3|18|1|Q|L|
+3|18|7|P|L|
+2|18|1|B|K|
+3|18|7|T|M|
+2
+3
+2|18|H|E|F|Gabriell
+2|18|1|Y|L|
+2
+3|18|5|V|L|Anakin2309
+3
+1|10|1|K|L|vitoria35007
+1
+4|1|1|K|L|Gabriell
+4|1|4|N|M|
+4|18|L|7|J|
+4
+4|18|7|C|L|Gabriell
+4|18|7|P|J|
+4|18|2|N|G|
+1|18|2|V|L|vitoria35007
+1
+4|18|8|G|G|
+1|18|4|M|D|vitoria35007
+1
+4|18|8|G|G|ou seja
+1|18|6|E|F|vitoria35007
+1|18|7|S|F|
+4|18|8|G|G|oque eu mais gosto
+1|18|2|K|K|
+4|18|8|G|G|é o cp
+4|18|1|I|D|
+4
+4|18|3|M|D|Gabriell
+1|18|3|6|J|
+1
+4|18|6|S|F|
+4|18|5|S|E|
+4
+1|17|7|C|L|vitoria35007
+4|18|7|C|L|Gabriell
+1|17|2|9|S|
+4
+1|17|7|V|S|
+1|17|5|G|J|
+1
+4|17|3|C|L|Gabriell
+4|18|1|H|L|
+1|6|3|M|D|vitoria35007
+1|6|6|S|E|
+1|6|8|T|F|
+4
+1
+2|6|1|K|L|Lindalovecp
+2|6|8|N|N|
+2|6|7|F|K|
+3|9|1|K|L|ghhg67754
+2|6|4|F|M|
+3|9|H|Q|K|
+3|9|H|Q|K|hello!
+2|6|6|H|I|
+2|6|8|K|L|
+2|6|8|K|L|hi!
+2|6|8|L|J|
+3
+2|6|I|L|J|
+3|17|1|V|L|ghhg67754
+3|17|L|V|L|/e1
+2
+3
+3|17|4|V|L|ghhg67754
+3
+2|6|L|M|D|Lindalovecp
+2
+3|17|L|M|D|ghhg67754
+3
+3|17|6|E|F|ghhg67754
+3
+3|17|7|C|L|ghhg67754
+1|8|1|K|L|vitoria35007
+3
+1|8|1|I|O|
+3|17|3|V|L|ghhg67754
+3|17|2|V|L|
+3|17|2|V|L|hi
+1|8|5|H|F|
+1
+4|1|1|K|L|Lindalovecp
+3|17|4|Q|J|
+4|1|4|J|I|
+4|1|3|6|I|
+4|1|8|H|F|
+4|1|7|S|E|
+1|8|3|M|D|vitoria35007
+1|8|3|M|D|
+4|1|3|T|F|
+4|1|1|S|F|
+3|17|J|M|M|
+3|17|J|M|M|..
+1|8|3|6|J|
+4|1|8|S|F|
+1|8|7|I|K|
+4|1|3|D|G|
+4
+1|8|7|I|K|como se joga o cp chat?
+1|8|2|R|N|
+1|8|2|R|N|sou nova
+3|17|J|G|I|
+1
+3|17|8|G|I|what?
+4|1|H|E|F|Lindalovecp
+4|1|7|S|K|
+4|1|3|6|I|
+4|1|7|Y|K|
+4
+3|17|7|O|J|
+2|12|1|K|L|Mis fofura
+1|8|1|K|L|bellepet
+2|12|7|E|N|
+1|8|1|J|N|
+1|8|1|J|N|uau
+2|12|6|E|N|/e5
+2|12|6|E|N|/e1
+2|12|1|E|N|/a2AK
+1|8|2|F|Q|
+2|12|1|H|K|/a2EG
+1|8|5|F|Q|/e1
+2|12|2|F|H|
+5|13|1|K|L|Pinguim 44
+2|12|5|J|D|
+2
+1|8|8|D|L|
+2|12|4|M|D|Mis fofura
+1|8|8|D|L|/e10
+2
+1|8|1|J|I|
+1|8|1|J|I|nao sei jogar!
+2|12|6|E|F|Mis fofura
+1|8|7|S|F|
+2|12|6|S|F|
+1|8|4|I|H|
+3|17|4|O|N|
+4|14|1|K|L|Lindalovecp
+1|8|7|I|H|/a2LJ
+2|12|6|Q|J|/a2UG
+3|17|4|O|N|/e3
+4|14|5|J|H|
+2|12|2|S|F|
+1|8|7|I|H|/a2KK
+3|17|6|Q|J|
+4|14|1|K|H|
+1|8|1|S|G|
+2|12|L|S|F|
+4|14|2|K|H|/a26M
+1|8|3|S|N|/a2TK
+4|14|2|K|H|/a2ED
+1|8|I|D|M|
+2|12|3|C|K|
+4|14|2|K|H|/a27B
+1|8|J|F|O|
+2|12|8|B|K|
+4|14|2|K|H|/a2EE
+2|12|8|B|K|que antigo
+1|8|H|F|O|
+4|14|2|K|H|/a2IH
+1|8|L|F|O|
+4|14|2|K|H|/a28N
+4|14|2|K|H|LoL
+3|17|1|P|N|
+3|17|2|P|N|BACK!
+4|14|7|H|G|
+2|12|8|B|O|
+3|17|L|H|N|/e1
+4|14|3|N|F|
+2|12|L|B|O|
+1|8|L|F|O|aff]
+4|14|2|N|J|
+4|14|2|N|J|/a2JM
+1|8|1|E|N|
+4|14|L|K|N|
+1|8|L|E|N|
+2|12|8|D|L|
+3|17|L|U|I|
+1|8|8|H|K|
+2|12|7|D|L|/a2VK
+1|8|8|H|K|nao conheço quase q nada
+2|12|6|D|N|/a2FN
+1|8|1|K|I|
+1|8|1|K|I|dese lugar
+2|12|7|P|I|
+1|8|7|T|N|
+1|8|1|P|K|
+3|17|3|K|H|
+1|8|1|P|K|o club penguin e mais legal1
+1|8|6|S|O|
+5
+1
+1|8|4|V|L|bellepet
+1|8|8|M|O|
+1|8|6|b|R|
+5|14|1|K|L|Pepe12345
+4|14|L|K|N|/e1
+1|8|3|5|S|
+5|14|8|F|L|
+1
+2|12|3|D|L|
+5|18|1|F|L|
+2|12|7|O|J|
+5|18|2|O|K|
+2
+5|18|2|O|K|/e11
+1|8|8|C|L|bellepet
+4|14|L|K|N|/a2LL
+5|18|1|P|N|
+1|8|2|7|S|
+4|14|L|K|N|WHAT
+1|8|7|7|S|uau
+5|18|8|P|N|legal
+3
+1
+5|18|3|V|L|
+4|14|L|K|N|WAIT...
+5
+1|8|3|V|L|bellepet
+4
+1|8|1|L|K|
+1|8|4|E|D|
+1
+1|8|5|E|F|bellepet
+1
+4|18|3|V|L|Lindalovecp
+4
+5|8|1|K|L|pop1518
+5|8|8|I|L|
+4|18|3|M|D|Lindalovecp
+5|8|1|F|M|
+4|18|8|L|K|
+5|8|7|K|J|
+4
+5|8|3|K|M|
+5|8|4|Q|I|
+5
+4|18|L|M|D|Lindalovecp
+4
+5|8|2|M|D|pop1518
+5|8|2|T|F|
+5|8|6|T|F|
+5
+5|8|7|E|F|pop1518
+5|8|7|L|H|
+5
+4|18|3|V|L|Lindalovecp
+4|18|7|Y|K|
+4
+5|17|7|C|L|pop1518
+5
+3|5|1|K|L|naruto
+3|18|2|M|K|
+3
+2|10|1|K|L|Clubcamila
+3|18|4|V|L|naruto
+3|18|4|G|H|
+3
+3|18|3|E|F|naruto
+3
+2
+5|8|3|V|L|pop1518
+4|1|3|V|L|Lindalovecp
+4
+3|18|4|M|D|naruto
+3|18|2|M|D|
+3|18|2|M|D|123456789op
+3
+3|17|5|C|L|naruto
+3
+5
+4|1|L|M|D|Lindalovecp
+4
+3|18|4|V|L|naruto
+3|18|8|8|M|
+3|18|7|C|F|
+3|18|3|C|L|
+2|10|1|K|L|Clubcamila
+2|10|2|K|L|oi
+2|10|4|K|L|e brasileiro?
+2|9|1|K|L|
+3|18|8|C|L|no
+2|9|3|6|I|
+3|18|8|C|L|japones
+2|9|7|9|R|
+3|18|8|C|L|sou br
+3|18|3|C|L|/a29I
+2|9|4|F|O|
+3
+3|18|3|C|L|naruto
+2|9|1|F|O|/a2TG
+3|18|7|J|L|
+3|18|7|J|L|sou brasileiro
+3|18|7|J|L|tinha cp beta
+3|18|2|J|L|/a2BB
+2
+3|18|2|L|K|/a2CF
+2|9|5|E|F|Clubcamila
+3|18|L|I|J|
+2|9|3|L|H|
+3|18|L|I|J|
+2|9|7|L|F|
+3|18|L|I|J|/e9
+2
+3|18|6|T|G|
+2|9|L|M|D|Clubcamila
+3|18|4|S|F|
+2|9|2|M|D|vai pro dance club
+2|9|2|M|D|como vira ninja?
+2|9|6|O|K|
+3|18|2|I|K|
+3|18|2|I|K|es= segredo
+3|18|2|I|K|do ondas do cp
+3|18|2|I|K|vou te ensinar
+3|18|2|I|K|sou d eça
+2|9|2|O|K|eu sou seguidora do OCP
+3|18|2|I|K|sou a manu kiki
+3|18|8|J|O|
+3|9|1|K|J|
+2|9|2|O|K|O manu kiki
+2|9|2|K|O|
+3|18|1|K|J|sim
+2|9|5|L|M|
+3
+2|9|5|K|K|
+2
+3|18|3|M|D|naruto
+3|18|5|K|D|
+3
+2|9|3|V|L|Clubcamila
+2|9|4|H|M|
+3|18|4|M|D|naruto
+3|18|8|G|M|
+3|18|8|G|M|/e11
+3|18|8|K|M|
+3|18|J|K|M|/a2M8
+3|18|I|K|M|
+3|18|1|G|L|cu cara
+3|18|1|G|L|vai toma
+3|18|1|G|L|no
+3
+2
+1|4|1|K|L|Mankey
+1
+1|8|1|K|L|Snow Cool
+1
+1|13|1|K|L|Pete
+1
+1|13|4|M|D|Pete
+1
+1|13|3|V|L|Pete
+1
+1|13|4|V|L|Pete
+1|13|4|V|L|
+1
+1|14|1|K|L|pingu fcf
+1|14|2|L|J|
+1
+1|14|2|M|D|pingu fcf
+1
+1|14|6|E|F|pingu fcf
+1
+1|18|4|V|L|pingu fcf
+1|18|3|8|I|
+1|18|7|J|J|
+1
+1|18|L|V|L|pingu fcf
+1
+1|14|1|K|L|victor58888
+1|14|1|J|J|
+1|14|5|I|D|
+1
+1|14|3|M|D|victor58888
+1|14|3|M|D|
+1|14|7|S|G|
+1|14|2|F|I|
+1|14|4|J|K|
+1
+1|14|K|E|F|victor58888
+1|14|K|E|F|
+1|14|3|7|H|
+1
+1|14|3|V|L|victor58888
+1
+1|12|1|K|L|Phineas3888
+1|12|7|N|K|
+1|12|3|S|K|
+1|12|7|C|L|
+1
+1|12|3|M|D|Phineas3888
+1
+1|13|1|K|L|Phineas3888
+1
+1|13|6|E|F|Phineas3888
+1
+1|13|2|V|L|Phineas3888
+1
+1|13|3|V|L|Phineas3888
+1|13|3|J|L|
+1|13|8|K|N|
+1|13|7|K|H|
+1
+1|7|1|K|L|Pepe12345
+1|18|1|G|K|
+1|18|H|G|N|
+1
+1|8|3|M|D|Pepe12345
+1|8|6|Q|I|
+1
+1|8|6|E|F|Pepe12345
+1
+1|8|7|C|L|Pepe12345
+1
+1|8|7|V|L|Pepe12345
+1|8|6|M|N|
+1
+1|5|1|K|L|said isaac
+1|5|7|O|L|
+1
+1|5|6|E|F|said isaac
+1|5|6|S|F|
+1|5|5|I|H|
+1
+2|14|1|K|L|guilhas men
+2|14|6|S|F|
+2|14|4|X|K|
+2
+1|5|4|M|D|said isaac
+1
+1|5|3|V|L|said isaac
+1|5|7|7|R|
+1|5|5|O|O|
+1
+2|5|1|K|L|guilhas men
+2
+1|5|3|V|L|said isaac
+1
+1|5|3|M|D|said isaac
+1
+1|13|1|K|L|Pinguim 44
+1|13|H|K|M|
+1|18|L|P|L|
+1|18|6|K|G|
+1|18|3|R|I|
+1
+1|18|5|E|F|Pinguim 44
+1|18|5|T|F|
+1
+1|18|2|V|L|Pinguim 44
+1|18|6|I|F|
+1|18|5|I|D|
+1
+1|14|1|K|L|Beta2005
+1
+1|14|8|V|L|Beta2005
+1
+1|14|7|C|L|Beta2005
+1|14|L|G|M|
+2|1|1|K|L|asdfpingu
+3|14|1|K|L|AngeloSilva
+2|1|7|J|L|
+2|1|2|H|O|
+3|14|2|K|L|/j8
+3|14|2|K|L|/a2LD
+3|14|I|K|L|/e11
+2|1|5|O|M|
+3|14|5|T|F|
+3|14|1|Q|I|
+2|1|3|H|I|
+2
+2|1|3|M|D|asdfpingu
+2
+2|1|7|V|L|asdfpingu
+3
+2|1|3|V|K|
+2
+2|1|3|V|L|asdfpingu
+2
+2|1|7|V|L|asdfpingu
+1
+2
+1|4|1|K|L|Mankey
+1
+1|18|3|V|L|Mankey
+1
+1|18|L|M|D|Mankey
+1|18|2|L|I|
+1|18|4|P|L|
+1|18|6|O|J|
+2|4|1|K|L|LionFighter
+2|4|1|K|L|MANKEY?
+2|4|6|N|K|
+2|18|1|Q|I|
+2|18|2|Q|I|/j2
+1
+1|4|1|K|L|Mankey
+1|4|1|N|J|
+1|18|2|O|I|
+1|18|2|O|I|/a2HI
+1|18|J|O|I|/a2OO
+1|18|J|O|I|ok
+2|18|7|G|D|
+2
+1
+3|6|1|K|L|lily
+3|6|4|R|N|
+3|6|1|G|M|
+3|6|H|I|M|
+3|6|7|Q|J|
+3|6|1|I|G|
+3|6|L|G|L|
+4|1|1|K|L|Robson
+3|6|5|M|M|
+4|1|1|N|H|
+4|18|1|O|N|
+4|18|7|6|I|
+4
+3|18|L|J|L|
+3
+3|8|1|V|L|lily
+3|8|4|D|D|
+3
+4|1|1|K|L|Allan grant
+4|1|6|J|P|
+3|8|6|E|F|lily
+3|8|4|E|F|
+4|18|L|K|L|
+3
+4|18|5|L|D|
+4
+1|18|K|M|D|Mankey
+1
+3|8|3|M|D|lily
+3|8|7|S|F|
+3
+1|14|1|K|L|leopaoca
+1|14|4|M|M|
+1|14|2|H|N|
+1|14|7|X|L|
+1|14|7|R|F|
+1
+1|6|1|K|L|Mela7278
+1|6|4|T|F|
+2|1|1|K|L|Rockopper
+1
+1|6|1|K|L|mela7278
+1|6|2|P|L|
+2|1|1|L|I|
+2|1|1|L|I|oi?
+2|1|L|L|I|
+2|1|H|L|I|/a2EO
+2|1|H|L|I|/j0
+2|1|L|L|I|
+2|1|L|L|I|/e1
+2|1|L|L|I|hi
+3|4|1|K|L|P. jet pack
+2|1|4|G|H|
+3|4|1|I|J|
+2|1|7|W|L|
+1
+2
+3|4|L|I|J|
+3|4|6|T|F|
+3|4|5|T|F|
+2|17|3|V|L|Rockopper
+3|4|6|T|F|
+2|17|6|N|M|
+2|17|5|R|I|
+3|4|2|Q|G|/a2MP
+2|17|3|I|E|
+3|4|2|Q|K|hola
+2
+3|4|3|O|H|
+3|4|7|T|F|
+2|17|5|E|F|Rockopper
+2|17|8|P|K|
+2|17|3|S|F|
+2
+3
+3|4|2|M|D|P. jet pack
+3
+1|6|1|K|L|mela7278
+1
+1|6|3|M|D|mela7278
+1
+3|4|L|M|D|P. jet pack
+3
+3|4|1|E|F|P. jet pack
+3
+3|4|2|V|L|P. jet pack
+3
+1|6|L|M|D|mela7278
+3|17|7|C|L|P. jet pack
+3|17|7|P|H|
+1
+3|17|4|P|H|/a2OC
+3|17|2|M|D|/a2BM
+3|17|4|G|L|
+1|17|3|C|L|mela7278
+3|17|7|M|L|
+1|17|3|C|L|
+3
+3|4|3|V|L|P. jet pack
+1
+3
+3|4|5|V|L|P. jet pack
+3|4|3|5|J|
+3
+3|17|1|C|L|P. jet pack
+3
+3|4|3|V|L|P. jet pack
+3
+3|4|7|V|L|P. jet pack
+3
+2|13|1|K|L|aekj
+2|13|3|Q|E|
+2
+2|13|L|V|L|aekj
+2|13|L|V|L|
+3|4|3|V|L|P. jet pack
+3|4|6|Q|K|
+3|4|2|Q|K|/a2OM
+3|4|2|Q|K|/a2UJ
+3|4|8|N|H|/a2VK
+3|4|8|N|H|/a2VJ
+3|4|8|N|H|/a2WK
+3|4|8|N|H|/a2WI
+3
+3|4|6|E|F|P. jet pack
+3
+2|13|3|G|I|
+1|13|1|K|L|ffelipe8509
+2|13|8|O|O|
+1|13|2|B|I|
+2|13|4|O|M|/e1
+1|13|8|E|K|
+4|13|1|K|L|picole54
+2|13|2|O|M|oi
+2|13|2|O|M|bom dia
+4|13|3|K|L|/a2GI
+2|13|2|O|M|eae
+2|13|2|O|M|como vai
+2|13|2|O|M|bom dia
+2|13|2|O|M|sou aekj
+4|13|7|Z|L|
+2|13|2|O|M|sou demais
+2|13|4|O|M|/e1
+4|13|2|O|I|ola
+1|13|8|E|K|nossa que cp feio meu deus
+3|4|3|V|L|P. jet pack
+4
+2|13|5|A|H|
+2
+1|13|1|E|K|/j6
+3|4|4|K|M|/e5
+3|4|2|K|M|
+3|4|2|K|M|hola
+1|13|L|E|K|
+3|4|1|H|K|
+1|13|L|E|K|/e11
+3|4|1|H|K|gola
+1|13|L|E|K|/a2XA
+3|4|1|H|K|hola
+1|13|L|E|K|/a2OL
+3|4|3|I|D|
+3
+4|13|1|K|L|picole54
+1|13|I|E|K|/a2D9
+2|13|5|C|L|aekj
+3|4|2|M|D|P. jet pack
+4|13|6|T|F|
+1|13|H|E|K|
+3
+4|13|2|S|E|
+2|13|4|D|E|
+2
+4|13|2|P|L|
+1|13|6|J|J|
+4|13|2|T|F|
+1|13|5|S|H|
+3|17|7|C|L|P. jet pack
+4|13|4|E|E|
+4
+3|17|7|N|K|
+4|13|6|E|F|picole54
+3|17|7|N|I|
+4|13|7|T|F|
+3|17|5|L|H|
+4|13|1|S|F|
+3|17|1|Q|L|
+4
+3|17|7|L|H|
+3|17|7|P|H|/a2UE
+3|17|5|K|M|
+3|4|1|K|M|
+3|4|8|P|I|
+1|13|5|S|K|
+3|4|1|P|H|
+3|4|7|P|I|
+3|4|4|U|H|
+3|4|5|W|H|
+1
+3|4|7|Q|J|
+3
+1|13|4|E|F|ffelipe8509
+2|13|5|E|F|aekj
+2|13|8|Q|N|to pelado
+4|13|3|V|L|picole54
+2|13|2|O|K|/e9
+1
+2|13|6|T|F|
+4|13|3|V|L|
+2
+3|17|1|C|L|P. jet pack
+4|13|6|P|J|
+3
+4|13|2|H|D|
+4
+4|13|3|M|D|picole54
+4|13|3|T|F|
+4|13|2|Q|J|
+4|13|6|T|F|
+3|4|3|V|L|P. jet pack
+1|13|L|M|D|ffelipe8509
+1|13|1|R|F|
+1|13|6|R|F|/a2SI
+1|13|6|R|F|/a2RE
+1|13|8|Y|J|
+4
+1
+3
+1|13|1|K|L|aekj
+1|13|4|R|P|
+1
+1|11|1|K|L|lupik
+1|11|6|N|M|
+1|18|L|O|L|
+1
+1|18|3|M|D|lupik
+1
+1|18|6|E|F|lupik
+1|18|1|I|M|
+1|18|7|R|K|
+1
+1|5|1|K|L|lupik
+1
+1|17|3|V|L|lupik
+1
+1|17|8|C|L|lupik
+1
+1|5|1|V|L|lupik
+1
+1|13|1|K|L|dinopuffle
+1
+1|14|1|K|L|cacaio
+1
+2|14|1|K|L|Olga 2200
+2|14|6|9|K|
+2|14|4|S|F|
+3|4|1|K|L|soukaka
+1|14|3|M|D|cacaio
+1|14|1|M|D|
+3|4|1|M|H|
+3|4|1|K|M|
+2|14|2|O|M|Como
+1|14|1|M|D|oi gente
+2|14|2|O|M|Entro nas Lojas /?
+2
+1|14|1|N|G|
+1|14|4|S|E|
+1|14|3|U|I|
+3|4|6|M|J|
+2|14|3|M|D|Olga 2200
+2|14|1|P|J|/a2PJ
+3|4|1|I|M|
+3|4|1|I|M|oi
+2|14|3|R|F|
+1|14|3|F|L|
+2|14|2|R|E|
+2|14|2|R|E|Oi
+1|14|8|F|L|oi
+2|14|2|R|E|Co mo entro na Loja q
+1|14|7|M|M|
+2|14|3|M|K|
+1|14|6|T|F|
+2|14|8|C|J|
+2
+3|4|8|I|M|/e12
+3|4|L|I|M|/a2XC
+2|14|3|V|L|Olga 2200
+3|4|I|I|M|/a2MK
+3|4|I|I|M|/a2BE
+2|14|3|R|F|
+3|4|I|I|M|/a2WA
+3|4|I|I|M|/j14
+2|14|3|S|G|
+2
+3|4|6|S|G|
+3|4|3|6|I|
+3|4|7|N|I|
+1
+3
+3|4|5|C|L|soukaka
+3
+2|9|1|K|L|Olga 2200
+1|4|1|K|L|zero 444
+1|4|1|H|K|eita
+1|4|1|H|K|/j12
+1|4|L|H|K|
+1|4|H|H|K|
+1|4|H|H|K|/j6
+1|4|H|H|K|/a2X8
+1|4|H|S|H|
+3|4|5|C|L|soukaka
+2
+3|4|1|I|E|
+1|4|3|U|N|
+3|4|I|I|E|
+1|4|3|6|K|
+1
+3|4|H|I|E|
+1|4|7|C|L|zero 444
+1|4|7|C|L|porra
+1|4|2|Q|M|
+1|4|2|Q|M|vai se fude
+3|4|H|I|E|porra
+3|4|H|I|E|filha da puta
+3|4|H|N|M|
+3|4|1|N|M|pau no cu
+3|4|1|N|M|otario
+3|4|2|N|M|vc xingo agora aguenta viado
+3|4|3|J|M|
+3|4|L|G|K|
+3
+1
+1|12|1|K|L|Ginho3000
+1|12|3|G|M|
+1
+1|12|5|E|F|Ginho3000
+1|12|L|H|J|
+1|12|1|R|M|
+1|12|4|U|G|
+1
+1|12|3|V|L|Ginho3000
+1
+2|4|1|K|L|Arthur 8766
+2|4|4|Q|L|
+2|4|1|F|L|
+1|14|1|K|L|tytyluis
+2
+1|14|4|K|L|/e1
+2|4|1|K|L|Arthur 8766
+2|4|3|L|N|
+2|4|8|7|J|
+2|4|3|L|P|
+2
+1|1|1|K|L|
+2|4|I|C|L|Arthur 8766
+1
+2|4|I|C|L|
+1|7|1|K|L|tytyluis
+1|7|6|T|G|
+1|7|2|6|J|
+1
+2|4|7|b|O|
+2
+1|17|L|V|L|tytyluis
+1
+1|17|3|M|D|tytyluis
+1
+1|17|4|E|F|tytyluis
+1
+1|14|1|K|L|Tony Sharay
+1|14|1|I|J|
+1|14|7|P|H|
+1|14|1|E|K|
+1|14|1|P|L|
+1|14|8|K|K|
+1|14|2|H|M|
+1|14|6|K|K|
+1
+2|11|1|K|L|!ai 1218
+2|11|2|K|N|
+2|11|4|L|N|
+2|11|2|I|O|
+1|14|L|M|D|Tony Sharay
+1|14|3|K|N|/a2GN
+1|14|1|G|M|
+1|14|1|G|M|hello!
+2|11|2|L|N|
+1|14|2|G|M|/a2BF
+2|11|2|L|N|THIS STINKS
+1|14|2|G|M|/e3
+1|14|2|G|M|DUDE!
+1|14|2|G|M|/e3
+1
+1|14|4|M|D|Tony Sharay
+2
+1|14|6|K|N|
+1|14|8|N|J|
+1|14|5|M|H|/a2OE
+1|14|5|M|H|hey
+1|14|5|M|H|I'm you!
+1|14|5|M|H|/e9
+1|14|7|L|F|
+1|14|6|T|F|
+1|14|5|T|F|
+1|14|5|D|D|
+1
+2|14|1|K|L|undefind
+3|6|1|K|L|violetta
+3|6|1|F|K|
+1|14|6|E|F|Tony Sharay
+3|6|1|F|K|oi!
+1|14|6|C|K|
+3|6|7|N|J|
+3|6|5|S|E|
+1|14|7|C|K|oi
+2|14|1|K|L|!ai 413
+3|6|7|R|H|
+1|14|3|Q|H|
+1|14|3|Q|H|/e2
+3|6|3|E|L|
+2|14|7|C|J|
+2|14|7|C|J|/a2TE
+1|14|3|Q|H|/e3
+2|14|7|C|J|/j4
+1|14|2|Q|H|ele ta loucO?
+3|6|1|E|L|quer ser meu amigo?
+2|14|I|C|J|
+1|14|2|G|I|
+3|6|7|M|J|
+1|14|1|G|I|/j11
+2|14|L|C|J|
+1|14|1|G|I|pode ser
+1|14|1|G|I|mas como
+3|6|1|D|M|
+3|6|8|D|M|Heath Ledger
+2|11|1|C|J|
+2|11|5|K|M|
+3|6|7|S|I|ah
+1|14|7|G|I|esse CP n da pra add
+1|14|7|G|L|
+1|14|7|G|L|/a2RJ
+1|14|7|G|L|/e3
+2|11|4|K|M|/a2GN
+3|6|2|S|I|que que eu falei
+1|14|1|M|E|
+2|11|3|S|K|/a2IM
+2|11|3|S|K|/a2EI
+3|6|2|I|N|
+1|14|7|M|J|
+1|14|7|M|J|/a2TI
+3|6|2|I|N|e mesmo
+2|11|3|S|K|/a2KD
+1|14|7|F|J|
+2|11|3|S|K|/a2WN
+3|6|5|L|M|
+2|11|3|S|K|/a2DJ
+3|6|3|7|J|
+2|11|3|S|K|/a2EJ
+1|14|7|R|F|
+3
+2|11|2|N|I|/a2KC
+1|14|2|E|G|
+1
+1|14|7|C|L|Tony Sharay
+1|14|7|Y|K|
+1
+2|11|2|N|I|fffjjjfjfjfjfjjfjjfjfjfjjffffjfjfjjfjjfjffj
+2
+1|14|5|C|L|Tony Sharay
+1
+1|14|6|M|D|Tony Sharay
+1|14|2|C|O|
+3|6|2|M|D|violetta
+3|6|2|K|K|
+2|11|3|V|L|undefind
+3|6|2|K|K|/j12
+2|11|3|6|J|
+2
+3|6|H|K|K|
+3|6|I|K|K|/a2WM
+2|11|3|C|L|undefind
+3|6|L|K|K|
+2|11|6|T|F|
+2|11|2|N|M|
+2|11|2|L|K|
+2|11|1|L|K|/e12
+3|6|L|K|K|/e2
+2|13|1|L|K|
+3|18|1|K|K|
+2|13|L|L|K|
+2|13|4|L|L|/a2HI
+3|18|8|I|K|
+2|13|2|M|O|/a2MN
+2|13|4|M|O|/a2HK
+3|6|1|I|K|
+3|6|8|M|I|
+3|6|3|5|J|
+3|6|4|B|N|
+1
+3|6|1|E|L|/j6
+1|6|1|K|L|MissFortune
+3|6|3|7|J|
+3|6|2|6|I|
+1|6|5|F|Q|
+3|6|8|M|M|
+2|13|K|M|O|
+1|6|8|F|Q|cp beta
+3
+2|13|K|M|O|!transform
+1|6|8|F|Q|pra vcs seus noob
+2|13|K|M|O|!ninja
+2|13|K|M|O|!cf
+1|6|1|K|H|
+1|6|1|K|H|/a2PN
+1|6|1|K|H|/a2MN
+1|6|4|E|J|/a2JQ
+1|6|1|7|J|
+1|6|H|7|J|
+1|6|H|7|J|/a277
+1|6|H|7|J|/j9
+1|6|L|7|J|
+1|6|L|7|J|/e1
+1|6|L|W|K|
+1|6|8|Z|O|
+1
+1|6|3|V|L|MissFortune
+2
+1
+1|6|3|C|L|MissFortune
+1|6|4|Q|K|
+1|6|1|I|M|
+1|6|H|F|L|
+1|6|2|9|H|
+1
+1|6|4|E|F|MissFortune
+1
+1|6|6|E|F|MissFortune
+1
+1|6|8|M|D|MissFortune
+1
+1|6|3|E|F|MissFortune
+1|6|5|T|F|
+1|6|3|H|L|
+1|6|J|A|G|
+1
+1|12|1|K|L|CandyGirl
+1|12|2|N|L|
+1|12|5|E|K|
+1|12|L|V|M|
+1|12|3|K|H|
+1
+1|14|1|K|L|rock0000per
+1|14|5|H|M|
+2|6|1|K|L|violetta
+2|6|2|M|L|
+1|14|4|J|K|
+2|6|2|M|L|/j0
+2|6|2|P|M|
+2|6|2|P|M|/a2SH
+2|6|2|F|M|
+2|6|H|F|M|
+1|14|8|J|K|no speak inglish
+2|6|H|F|M|/e2
+1|14|7|I|N|
+2|6|L|F|M|
+1|14|2|I|O|/j10
+2|6|L|F|M|what?
+1|14|L|L|N|
+1|14|L|L|N|/e11
+2|6|2|O|L|
+1|14|H|L|N|/a2DF
+2|6|2|O|L|sou do brasil
+1|14|H|L|N|/a2B9
+2|6|1|R|O|
+1|14|H|L|N|/a2GH
+1|14|H|L|N|eu tb
+1|14|1|N|M|
+1|14|2|N|M|vem cmg
+1|14|4|7|J|
+1
+1|14|7|C|L|rock0000per
+1|14|7|N|O|ei
+2|18|8|H|L|
+1|14|1|N|O|vou andar por ai
+2|18|1|H|L|que foi?
+1|14|4|N|O|/a2KJ
+2|18|3|K|N|
+1|14|4|N|O|onde consegue isso
+2|18|5|I|E|
+1|14|8|N|P|
+2|18|1|H|N|
+2|18|1|H|N|isso o que?
+2|18|8|K|N|
+1|14|1|N|P|em?
+1|14|1|N|P|essa roupa
+2|18|2|K|N|em o que?
+1|14|2|N|P|vem comigo
+2|18|2|K|N|bom e fassio
+1|14|6|S|G|
+2|18|2|K|N|nao espera
+1|14|2|O|N|
+1|14|2|O|N|como?
+2|18|1|O|J|
+1|14|5|O|N|/a2MJ
+1|14|5|O|N|/a2OK
+3|12|1|K|L|FionnaeCake
+1|14|5|O|N|/a2QJ
+3|12|8|M|N|oi
+2|18|2|O|J|clica em new pinguin
+1|14|5|O|N|/a2QL
+3|12|1|I|P|
+1|14|5|O|N|oi
+3|12|4|G|M|
+1|14|5|O|N|onde?
+3|12|7|S|G|
+2|18|1|O|J|e depois no ultimo n da palavra pinguin
+1|14|5|V|M|/a2OG
+3|12|1|F|O|
+1
+3|12|1|F|O|n dá pra sair daqui?
+2|18|8|K|L|
+3|12|4|J|F|
+1|14|4|V|L|rock0000per
+3|12|2|J|F|/e3
+3
+1|14|5|I|D|
+1
+3|12|6|E|F|FionnaeCake
+2|18|1|K|L|
+3|12|H|D|L|/a29E
+2|18|5|I|E|
+2
+3|12|H|S|N|/a2ML
+3|12|8|T|G|
+3
+1|14|4|M|D|rock0000per
+1
+3|12|5|V|L|FionnaeCake
+3
+1|14|5|E|F|rock0000per
+3|12|2|M|D|FionnaeCake
+1|14|2|T|G|
+1
+3|12|2|M|D|
+1|14|4|V|L|rock0000per
+1|14|3|5|J|
+1
+3|12|L|I|M|
+1|7|1|V|L|rock0000per
+1|7|5|K|N|
+1|14|1|K|N|
+1|14|5|M|N|
+3|12|L|K|J|
+1
+3|12|K|I|M|
+3|12|K|I|M|Oi
+3|12|K|I|M|/a2KO
+3
+1|6|1|K|L|soldadinho7
+1|6|1|R|G|
+1|18|5|R|M|
+1
+1|8|3|V|L|soldadinho7
+1
+2|14|1|K|L|arturgurgel
+2|14|3|D|M|
+2|14|1|I|G|
+2|14|L|D|L|
+2|14|8|M|Q|
+2|14|5|S|E|
+1|6|1|K|L|soldadinho7
+1|6|6|K|L|/a2QG
+1|6|6|K|L|/a2UC
+2|14|5|O|N|
+1
+2|14|2|H|M|
+1|6|3|M|D|soldadinho7
+2|14|5|I|O|
+1|6|5|I|I|
+2|14|6|J|H|
+1
+2
+3|1|1|K|L|white stark
+3|1|8|G|J|
+3
+3|14|1|K|L|white stark
+1|18|4|M|D|soldadinho7
+1
+2|18|3|M|D|arturgurgel
+2
+2|18|3|M|D|arturgurgel
+2
+1|18|6|E|F|soldadinho7
+3
+1
+2|18|5|E|F|arturgurgel
+2|18|5|R|J|
+2|18|6|I|J|
+2
+2|18|3|M|D|arturgurgel
+2|18|2|B|O|
+2|18|6|8|Q|
+1|18|6|V|L|soldadinho7
+1|18|2|V|L|
+2|18|1|G|I|
+1|18|3|6|O|
+2|18|8|O|K|
+1|18|7|V|L|
+1
+2|18|1|T|J|
+2|18|1|J|L|
+1|18|1|V|L|soldadinho7
+1|18|3|6|L|oiiiiiiii
+1
+2|18|I|G|K|
+2|18|4|I|L|
+2
+1|18|4|C|L|soldadinho7
+1
+2|18|6|E|F|arturgurgel
+2|18|8|E|F|
+2|11|8|I|K|
+1|8|6|E|F|soldadinho7
+2
+1
+2|14|1|K|L|rais quadrad
+2|18|1|I|H|
+2
+2|18|1|M|D|rais quadrad
+2|18|1|L|J|
+1|7|3|M|D|soldadinho7
+2|18|7|9|Q|
+1|18|1|N|J|
+1|18|2|F|O|/a2AT
+1|18|5|8|Q|
+2|11|1|9|Q|
+2|11|1|X|R|
+1|18|4|4|O|
+1
+1|18|8|C|L|soldadinho7
+1|18|7|6|Q|
+2|13|1|X|R|
+2|13|1|8|S|
+2|13|7|Y|T|
+1
+1|18|8|C|L|soldadinho7
+1|18|7|5|Q|
+2|18|1|Y|T|
+1|14|1|5|Q|
+2|18|1|8|T|
+2|18|L|K|J|
+2|14|1|K|J|
+2|14|L|K|J|
+3|14|1|K|L|rai quadrada
+1
+3|14|8|I|K|
+2|14|L|W|R|
+2|14|4|O|M|
+3|14|7|Z|S|
+3|14|8|M|N|
+1|14|1|K|L|luca4738
+1|14|3|D|M|
+1|14|H|H|J|
+1|14|1|H|J|/a2AL
+2|14|6|G|N|
+2|18|1|G|N|
+2|18|L|G|N|
+1|14|3|J|J|
+1
+3|18|L|M|N|
+3|18|L|D|N|
+4|13|1|K|L|Gimz
+4|13|8|L|N|
+4|18|1|L|N|
+1|5|3|V|L|luca4738
+1
+4|18|L|I|L|
+4|18|2|S|H|
+4|18|4|P|J|
+4
+3|18|5|N|H|
+3|18|1|I|N|
+3|18|L|I|N|
+2
+4|18|3|M|D|Gimz
+3|18|L|I|N|/a2NE
+4|18|1|6|I|
+3|18|L|M|L|/a2NB
+4|18|7|O|L|
+3|18|L|7|J|
+4|18|7|Y|K|
+4
+3|18|7|D|M|
+3
+2|14|1|K|L|darwin
+2|14|7|8|R|
+3|18|3|V|L|rai quadrada
+3|18|4|V|L|
+2|7|1|8|R|
+3|18|3|V|L|/a2AU
+3|18|3|V|L|/a2BU
+1|5|1|K|L|Gimz
+1|5|3|P|N|
+2|7|1|P|L|
+1|5|7|J|H|
+2|7|2|S|L|
+1|5|7|J|P|
+2|7|1|O|L|
+1|5|7|I|P|
+1|5|6|G|O|
+1|18|1|G|O|/a29H
+1|18|1|C|L|/a2B9
+1|18|L|C|L|/e5
+2
+4|14|1|K|L|darwin
+1|5|1|6|J|
+1
+4|7|6|Q|N|
+4|7|L|Q|N|
+1|17|5|C|L|Gimz
+3
+4|7|1|L|N|
+1
+1|17|7|E|F|Gimz
+4|7|6|S|E|
+1|17|L|D|K|
+4|7|3|H|G|
+1|10|1|D|K|
+1|5|8|E|M|
+1|5|8|E|M|voce é brasileiro?
+4|7|3|H|G|como consegue o capacete
+1|5|7|F|H|
+4|7|3|I|M|
+4|7|1|I|M|sim
+1|5|8|F|H|vem
+4|7|3|H|I|
+1
+4
+4|7|6|E|F|darwin
+4
+4|7|4|M|D|darwin
+4|7|4|M|J|
+1|17|1|V|L|Gimz
+4
+4|7|6|E|F|darwin
+1|17|2|J|M|
+4|7|8|S|L|
+4|7|8|S|L|aonde
+1|17|2|J|M|/e11
+1|17|7|O|N|
+4|7|3|L|N|
+4|7|3|L|N|oce
+1|17|2|O|N|vem comigo
+4|7|3|L|N|voce foi
+1|17|8|U|M|
+4|7|8|L|N|aonde
+1|17|2|S|O|
+4|7|7|T|M|
+1|17|2|S|O|ali
+1|17|3|S|O|/a2NO
+1|17|2|Q|K|/a2NE
+1|9|1|M|K|
+1|9|1|M|K|/a2FI
+1|9|1|L|N|/a27I
+4|7|2|T|M|ali onde
+1|9|4|R|O|
+4|7|3|T|M|/a2IA
+1|7|3|V|M|
+4|7|7|R|N|
+1|7|2|V|M|me siga
+4|7|2|R|N|ta
+1|7|3|V|M|aqui
+1|7|3|V|M|do lado
+1|7|3|V|M|assim
+1
+1|7|3|V|L|Gimz
+1
+4|7|2|V|N|
+1|7|8|V|L|Gimz
+1|7|3|M|K|/a2VP
+5|13|1|K|L|
+1|7|3|H|M|
+1|7|1|M|L|
+1|7|1|M|L|vio?
+4|7|3|M|M|
+5|13|7|O|O|
+1|7|1|T|O|
+1|7|2|T|L|/a2QE
+1|7|2|T|L|/a2EB
+4|7|1|M|M|nâo
+5|13|1|O|O|oiiiiiiiii
+1|7|2|T|L|/a2EB
+1
+1|17|1|V|L|Gimz
+1|17|L|D|N|
+1|17|L|D|N|/j8
+4|7|3|I|M|
+5|13|1|O|O|
+1|17|L|D|N|/a2XK
+4|7|2|I|M|/a2QL
+5|13|1|O|O|/a2JL
+4|7|2|I|M|/a2TJ
+1|18|1|G|I|
+5|13|5|M|N|
+4|7|2|I|M|/a29E
+1|18|2|B|J|
+1|18|1|B|J|/a2EC
+1|18|1|B|J|/j6
+4|7|1|F|F|/a2OA
+5|13|4|I|D|
+4|7|7|I|M|
+1|18|7|F|L|
+5|13|8|M|D|
+1|18|3|F|O|
+1|18|8|C|M|
+5|13|8|M|D|
+5|13|7|X|K|
+5|13|3|H|H|
+1|18|4|L|M|
+5|13|7|U|L|
+5|13|3|U|L|/a2JO
+5|13|3|U|L|/a2MK
+5|13|3|N|E|
+5|13|1|K|L|test rsnail
+5|13|6|F|O|/a2JK
+5|13|6|R|P|
+5|13|6|R|P|oi
+5|13|4|G|Q|
+5|13|8|O|K|
+5|13|4|O|K|/e1
+5|13|3|D|K|ola
+5|13|3|D|K|youtube
+5|13|3|D|K|hije vou mostrar
+5|13|3|D|K|penguin chat 3
+5|13|8|D|K|vejam
+5|13|8|D|K|eu sou test rsnail
+5|13|H|D|K|/a2TO
+5|13|H|D|K|/j9
+5|13|L|D|K|/e1
+5|13|2|P|N|
+5|13|2|P|N|olha um ninja
+5|13|2|P|N|um penguin laranja
+5|13|3|D|J|
+1
+3|14|1|K|L|Miner
+3
+4|7|1|I|M|prciso saber ter o capacete
+5
+4|7|7|N|N|
+3|17|7|V|L|Miner
+3|17|7|G|L|/a2LP
+4|7|1|F|F|
+3|17|5|D|D|
+3
+4|7|1|L|K|/a2X7
+5|13|6|C|L|test rsnail
+4
+5|13|1|M|I|
+5|13|7|A|K|
+5
+4|7|6|E|F|darwin
+4|7|7|J|K|
+5|13|7|E|F|test rsnail
+4
+5|13|8|L|K|
+4|7|4|V|L|darwin
+5|13|4|S|K|
+5|13|8|U|N|
+4|7|3|P|L|
+4
+5|13|6|R|L|
+5|13|5|O|P|
+5|18|L|F|P|
+4|7|4|V|L|darwin
+4|7|6|Y|K|
+4
+4|7|8|V|L|darwin
+4
+3|1|1|K|L|said isaac
+4|7|7|V|L|darwin
+3|1|1|H|J|
+4|7|4|M|I|
+3|1|1|H|J|/a2DO
+5|18|1|F|P|
+3|1|1|O|O|/a2UI
+5|18|1|F|P|/e1
+4|7|7|6|K|
+4
+3|1|4|H|L|
+2|13|1|K|L|gummball
+2|13|2|H|N|
+5|18|1|F|P|/e12
+2|13|2|S|F|
+5|18|3|C|N|
+4|7|5|C|L|darwin
+5|18|7|C|N|/e8
+2|13|2|M|P|
+3|1|8|H|L|como te hiziste ninja
+5|18|3|E|P|
+4|7|7|O|J|
+2|13|4|M|M|
+4|7|7|R|L|
+4
+5|18|6|E|P|darwin e gumbaal
+3|1|7|H|L|/a2NP
+2|13|5|S|K|
+3|1|7|H|L|/a2CP
+2
+4|7|5|V|L|darwin
+3|1|2|L|L|
+2|13|3|V|L|gummball
+4
+2|13|3|O|M|
+3|1|7|L|L|/a2VN
+2|13|2|R|L|
+2|13|3|R|L|/a2KK
+3|1|5|D|D|
+3
+2|13|6|S|L|
+3|1|5|E|F|said isaac
+4|17|1|V|L|darwin
+3
+2|13|6|U|H|
+4|17|3|V|L|
+3|1|3|M|D|said isaac
+4|17|4|S|K|
+3|1|6|S|F|
+1|10|1|K|L|gelinho4332
+3
+4
+1|10|8|J|K|
+2|13|6|O|N|
+5|18|6|E|P|/e3
+2|13|7|S|K|
+1|10|7|O|M|
+5|18|6|E|P|/e2
+4|17|3|V|L|darwin
+2|13|3|S|K|
+1|10|4|R|H|
+4|17|3|Q|J|
+3|1|4|V|L|said isaac
+1|10|7|S|E|
+2|13|6|M|N|
+3|1|3|E|L|
+5|18|4|G|R|
+3|1|3|E|L|/a2CR
+4
+1|10|5|G|G|
+3|1|3|E|L|/a2TJ
+2|13|3|R|L|
+5|18|8|N|L|
+3|1|1|H|J|/a2ER
+2|13|4|T|L|
+2|13|2|P|N|
+3|1|1|H|J|nnnnn12234
+4|17|1|V|L|darwin
+4|17|3|R|K|
+3|1|7|E|M|/a2MJ
+3|1|7|E|M|nnn
+1|10|7|N|G|
+3|1|7|H|P|
+2|13|6|T|F|
+1|10|4|R|E|
+4|17|7|X|L|
+3|1|5|F|J|
+1|10|8|W|J|
+4|17|7|V|K|
+1
+1|10|6|Y|J|
+3|1|3|I|J|
+3|1|7|7|J|
+2|13|4|U|J|
+3|1|6|I|E|
+2|13|8|U|J|
+3|1|1|H|K|
+2|13|6|U|L|
+3
+2|13|8|U|J|
+2|13|4|W|L|
+4|17|7|U|K|
+2|13|4|U|I|
+2|13|7|S|K|
+4|17|5|W|L|
+2|13|3|W|K|
+5
+4
+2|13|1|W|K|/a2YK
+2|13|3|W|M|
+4|17|7|V|L|darwin
+4|17|7|V|L|
+2|13|3|W|L|
+2|13|7|V|M|
+2|13|5|V|O|
+2|13|1|V|M|
+4|17|3|M|L|
+4|17|7|Y|K|
+4
+2
+1|1|1|K|L|Matheus A.
+3|4|3|M|D|said isaac
+1|1|5|K|L|
+1
+3|4|1|M|D|
+3|4|1|M|D|/e8
+3|4|1|E|L|
+1|1|4|M|D|Matheus A.
+2|17|3|V|L|gummball
+1|1|8|J|O|
+2
+3|4|5|J|O|
+3|13|1|J|O|
+3|13|2|L|L|/a2LN
+1|18|1|W|N|
+1
+4|17|3|V|L|darwin
+3|5|1|L|L|
+4|17|2|V|L|
+3|5|1|X|L|
+3
+3|5|8|V|L|said isaac
+2|17|4|V|L|gummball
+3|5|3|N|M|
+2
+1|17|4|V|L|Matheus A.
+1|17|L|J|J|
+3|5|2|N|M|como conseguiste eso
+2|17|1|C|L|gummball
+2
+4|17|3|F|L|
+4
+1|17|8|H|O|
+3|5|3|N|M|como lo hizieron
+3|5|3|N|M|/a2HP
+3|5|4|J|J|
+1|18|1|H|O|
+3|5|2|J|J|/j10
+1|18|1|R|L|
+1|18|8|J|O|
+3|5|1|J|J|como te hiziste ninja
+1|18|4|P|K|/e1
+2|17|3|V|L|gummball
+2
+4|17|L|C|L|darwin
+1|18|3|P|K|/e7
+3|5|8|M|K|
+4|17|6|C|L|
+2|17|L|E|F|gummball
+3|5|2|M|K|/e10
+4|17|7|T|G|
+2|17|8|S|M|
+3|5|3|K|N|
+3
+1|18|2|P|K|/j13
+1|18|7|C|O|
+3|17|L|C|L|said isaac
+1|18|5|H|H|
+1
+1|18|3|M|D|Matheus A.
+3|17|5|L|L|
+1
+3|5|1|8|J|
+4|17|7|M|K|
+1|18|6|E|F|Matheus A.
+3
+4|17|7|Y|K|
+4
+1|18|6|Q|O|
+3|17|1|C|L|said isaac
+1
+3|17|1|L|J|
+3|17|L|L|J|
+4|1|3|V|L|darwin
+2
+4
+1|18|6|V|L|Matheus A.
+1|18|3|6|J|
+1
+1|17|2|V|L|Matheus A.
+2|13|L|V|L|gummball
+1|17|3|5|J|
+2|13|7|Y|L|
+1
+2
+1|17|5|C|L|Matheus A.
+1|17|3|I|J|
+1|17|L|I|J|
+1|17|1|J|J|
+1|17|L|J|J|
+3|17|2|H|M|
+3|14|1|H|M|
+1
+3
+1|13|1|K|L|gummball
+2|14|1|K|L|darwin
+1|13|4|L|Q|
+2|14|1|K|L|/a2NR
+2|14|1|L|M|
+1|13|7|X|K|
+1
+2
+2|7|3|V|L|darwin
+2
+2|17|7|C|L|darwin
+2|17|4|C|L|
+2
+1|9|1|K|L|Banido
+1|9|2|N|N|
+2|14|1|K|L|Skipine
+3|12|1|K|L|Molly III
+2|14|1|O|K|
+2|14|1|O|K|e3
+3|12|2|O|M|
+3|12|2|O|M|oi
+2|14|1|O|K|Hello.l
+3|12|8|H|L|
+2|14|1|O|K|Hello.
+2|14|7|R|L|
+3|12|1|H|L|de onde vc veio
+2|14|4|R|L|/e1
+3|12|1|H|L|eu sou
+2|14|2|R|L|pengin chat
+3|12|1|H|L|do club penguin
+3|12|1|H|L|novo
+2|14|4|I|F|
+2
+3|12|1|H|L|ai nossa
+3|12|1|H|L|sabia q
+3|12|1|H|L|aki
+3|12|1|H|L|da pra falar
+3|12|1|H|L|plv
+3
+2|14|L|M|D|Skipine
+1
+3|12|3|M|D|Molly III
+3
+2|14|4|P|M|
+2|14|3|Q|K|
+2|14|4|Q|K|/a2MG
+2|14|4|Q|K|/a2MB
+3|12|6|E|F|Molly III
+2|14|4|Q|K|/a2PG
+3|12|2|R|G|
+2|14|4|J|N|/a2GH
+3|12|6|Q|I|
+2|14|4|J|N|mollt
+3|12|2|S|M|
+2|14|4|J|N|molly
+3|12|4|H|D|
+3
+2|14|4|J|N|Do you play the CP original?
+3|12|7|M|D|Molly III
+2|14|4|I|D|
+2
+3|12|2|N|N|
+3|12|2|N|N|oi
+2|14|2|M|D|Skipine
+2|14|2|K|O|
+2|14|2|K|O|molly
+2|14|4|E|K|
+3|12|2|O|N|
+2|14|6|E|K|/e3
+3|12|I|O|N|
+2|14|8|M|O|
+2|14|8|M|O|molly
+3|12|I|O|N|q foi
+3|12|K|O|N|
+2|14|8|M|O|vc joga cp original?
+3|12|I|P|N|
+3|12|H|P|N|
+3|12|H|P|N|sim
+2|14|H|M|O|
+3|12|H|P|N|e vc
+2|14|2|L|N|
+2|14|1|L|N|parei
+3|12|H|P|N|responde
+2|14|1|L|N|de jogar
+2|14|4|L|N|/e3
+3|12|H|P|N|ah
+2|14|8|L|N|quual e o nome do seu pinguim
+3|12|H|P|N|o mesmo
+2|14|K|L|N|
+3|12|H|P|N|ei
+2|14|K|L|N|ata
+3|12|H|P|N|de onde vc veio
+3|12|H|P|N|eu vim
+3|12|H|P|N|de um blog
+3|12|H|P|N|Prainha do CP
+3|12|H|P|N|e vc
+2|14|K|L|N|Eu vim
+3|12|L|P|N|
+2|14|K|L|N|de um blog
+2|14|K|L|N|Ondas do CP
+2|14|K|L|N|vc conhece esse blog?
+3|12|H|P|N|
+2|14|K|L|N|só que nao gosto de la
+3|12|H|P|N|conheco
+3|12|H|P|N|eu sou member
+3|12|H|P|N|la no xat
+3|12|H|P|N|do ondas
+2|14|K|L|N|legal
+3|12|H|P|N|nossa
+3|12|H|P|N|como o CP era chato
+2|14|K|L|N|que bom
+2|14|K|L|N|te conhecer
+3|12|H|P|N|so da pra conversar
+2|14|K|L|N|Penguin Chat?
+3|12|H|P|N|hmm
+2|14|K|L|N|sim
+3|12|H|P|N|como asim
+2|14|K|L|N|n tem nada pra fazer
+2|14|K|L|N|mas da pra conversar com alguem
+2|14|K|L|N|que estiver online
+3|12|H|P|N|eu queria
+3|12|H|P|N|ver o 2
+2|14|K|L|N|o penguin chat
+3|12|H|P|N|sabia q eu ja vi o 1
+3|12|H|P|N|mas
+3|12|H|P|N|eu vi
+3|12|H|P|N|so no you tube
+3|12|H|P|N|o 1
+2|14|K|L|N|foi feito pra conversar com outros
+3|12|H|P|N|mas n entrei
+2|14|K|L|N|ah
+3|12|H|P|N|mas
+2|14|K|L|N|vc
+3|12|H|P|N|o problema
+3|12|H|P|N|é q pode falar plv
+2|14|K|L|N|sim
+3|12|H|P|N|e tbm
+2|14|K|L|N|antigamente
+3|12|H|P|N|tem outra coisa
+2|14|K|L|N|nao podia falar
+2|14|K|L|N|/e3
+2|14|K|L|N|coisas inapropriadas?
+3|12|H|Q|M|
+2|14|K|L|N|/e3
+3|12|H|Q|M|
+3|12|H|Q|M|desculpa
+2|14|8|P|N|
+3|12|H|Q|M|oq vc disse?
+2|14|3|D|M|
+2|14|8|D|M|coisas inapropriadas?
+2|14|8|D|M|vc tava falando disso?
+3|12|H|Q|M|eiii
+2|14|7|O|M|
+3|12|H|Q|M|sim
+2|14|K|O|M|
+3|12|H|Q|M|pq
+3|12|H|Q|M|nesse chat
+3|12|H|Q|M|pode falar
+2|14|K|O|M|/e3
+3|12|H|Q|M|ainda bem
+2|14|K|O|M|ah
+3|12|H|Q|M|q se falar
+2|14|K|O|M|sim
+3|12|H|Q|M|eh banido
+3|12|H|Q|M|no CP original
+3|12|H|Q|M|e tem outra coisa
+2|14|K|O|M|é penguin chat pirata
+3|12|H|Q|M|se a gnt falar informacoes
+3|12|H|Q|M|pessoas
+3|12|H|T|M|
+3|12|H|T|M|ah ta
+3|12|H|T|M|mas
+2|14|K|O|M|sim
+3|12|H|T|M|o CP pirata
+2|14|K|O|M|eh banido
+3|12|H|T|M|sabe
+3|12|H|T|M|CPPs.me
+2|14|K|O|M|por passar as informações pessoais
+2|14|K|O|M|sei
+2|14|K|R|M|
+2|14|7|R|M|/a2SJ
+2|14|1|O|L|
+2|14|1|O|L|nao da pra clicar
+2|14|4|O|L|/e3
+3|12|H|T|M|e sei pq n pode falar numeros no CP original
+3|12|H|T|M|sabe pq?
+2|14|L|O|L|
+2|14|L|O|L|/a2SO
+3|12|H|T|M|olha
+3|12|H|T|M|100
+2|14|L|O|L|nao
+3|12|H|T|M|sual
+3|12|H|T|M|entendeu?
+3|12|H|T|M|100
+3|12|H|T|M|sual
+3|12|H|T|M|100
+3|12|H|T|M|nhor
+2|14|L|O|L|sim
+3|12|H|T|M|é porisso
+2|14|L|O|L|entendi
+2|14|L|O|L|o CP
+2|14|L|O|L|é seguro
+3|12|H|T|M|mas eu n sei a vírugula
+2|14|L|O|L|pra proibir as coisas inapropriadas
+2|14|L|O|L|mas
+3|12|H|T|M|é vdd
+2|14|L|O|L|os mods podem falar numeros
+3|12|H|T|M|mas
+2|14|L|O|L|so que nao passam as informações pessoais
+2|14|2|R|M|
+2|14|K|R|M|
+2|14|K|R|M|/e3
+3|12|H|T|M|eu n acho q divia probir a vírgula
+3|12|H|T|M|pq
+3|12|H|T|M|qual o problema?
+3|12|H|T|M|é estranho
+3|12|H|T|M|pq olha
+2|14|K|R|M|tambem os pontos
+3|12|H|T|M|N obg
+3|12|H|T|M|N, Obg!
+3|12|H|T|M|n obg
+2|14|K|R|M|pois é
+3|12|H|T|M|viu como muda?
+2|14|K|R|M|sim
+3|12|H|T|M|a vírugula inporta mt
+2|14|K|R|M|vi
+3|12|H|T|M|ainda bem q pode falar o
+3|12|H|T|M|! e o ?
+2|14|K|R|M|mas
+2|14|K|R|M|n acho
+2|14|K|R|M|que deviam proibir
+3|12|H|T|M|mas n pode fazer isso
+1|1|1|K|L|austar
+2|14|K|R|M|os pontos e as virgulas
+3|12|2|V|N|
+3|12|2|V|N|? oi
+1|1|1|O|M|
+1|1|J|O|M|
+3|12|2|V|N|vdd
+2|14|K|R|M|sim
+1|1|5|P|N|
+3|12|H|V|N|
+3|12|H|V|N|oi
+1|18|1|P|N|
+1|18|3|R|O|
+3|12|H|V|N|pera
+3|12|H|V|N|gente
+3|12|H|V|N|OMG
+1|18|I|R|O|oi
+3|12|H|V|N|COMO VC FEZ ISSO?
+3|12|K|O|N|
+3|12|K|O|N|COMO VC VIROU NINJA???
+2|14|L|R|M|
+1|18|I|R|O|ja te falo
+2|14|7|N|N|
+3|12|K|O|N|ok
+3|12|K|O|N|pera
+3|12|K|O|N|eu vou
+3|12|K|O|N|entrar
+3|12|K|O|N|com outra cor
+3|12|K|O|N|ja volto
+3|12|K|O|N|aff
+3|12|K|O|N|mt chato
+2|14|7|I|L|
+3|12|K|O|N|tem q sair pra mudar de cor
+3
+2|14|4|N|N|
+3|8|1|K|L|Molly III
+2|14|1|L|J|
+3|8|3|R|N|voltei
+3|8|2|R|N|/a2DH
+3|8|2|N|L|/a2XK
+3|8|L|N|L|/a2WG
+1|18|I|R|O|vc sabe mudar de cor
+1|18|I|R|O|/a2LD
+3|8|L|N|L|tem poucos emotes
+2|14|5|M|M|
+3|8|L|N|L|/e3
+1|18|I|R|O|ali
+1|18|2|Q|P|
+1|18|2|Q|P|no chat
+3|8|2|R|M|
+3|8|2|R|M|onde?
+2
+3|8|2|R|M|/j8
+1|18|3|Q|P|ai vai e new penguin
+4|14|1|K|L|Skipine
+3|8|L|R|M|
+1|18|6|N|L|
+3|8|L|R|M|/a2KN
+4|14|1|P|M|
+4|14|3|B|L|/e12
+3|12|1|R|M|ata
+1|18|2|N|L|ali tipo manual
+4|14|7|G|M|
+4|14|7|G|M|lol
+4|14|7|G|M|ainda
+4|14|7|G|M|eista
+1|18|2|P|O|
+4|14|7|G|M|esse coração
+4|14|K|G|M|/a2OL
+1|18|1|N|L|
+3|13|8|K|N|mas
+3|13|8|K|N|como vira ninga
+4|14|K|G|M|/a2PM
+1|18|8|K|K|
+3|13|8|K|N|ninja
+4|14|K|G|M|/a2PK
+1|18|1|O|L|
+3|13|6|P|K|
+1|18|1|O|L|entao
+3|12|1|P|K|
+4|14|7|J|N|
+4|14|7|J|N|/a2MK
+3|12|I|S|O|
+3|12|I|S|O|
+3|12|I|S|O|=)
+1|18|L|O|L|
+3|12|I|S|O|fala pf
+3|12|I|S|O|/a2OM
+1|18|5|N|N|
+3|12|I|S|O|/a2GP
+3|12|I|S|O|ei
+1|1|1|P|N|
+1|1|1|P|N|asim
+1|1|3|P|N|/a2QL
+3|12|I|S|O|se vc clicar nos outros pinguins
+3|12|I|S|O|vc ataca
+1|1|3|Q|P|
+1|1|2|Q|P|clica na cor
+3|12|I|S|O|/a2PN
+3|12|I|S|O|/a2GN
+3|12|I|S|O|ok
+3|1|1|U|N|
+3|1|2|U|N|e agr
+4|14|7|J|N|/a2QO
+1|1|3|Q|P|coloca en selecionar pinguin
+4|14|6|P|P|/a2SP
+4|14|8|Q|L|
+3|1|3|U|N|/a2MM
+1|1|6|Q|P|de pinguin
+3|1|3|U|N|? n entendi
+1|18|1|L|L|
+1|18|4|L|L|/e3
+3|1|5|O|O|
+1|18|8|L|L|assiste o video
+3|1|4|R|O|
+3|1|4|R|O|/e4
+4|14|5|Q|N|
+1|18|1|L|L|no ondas do cp
+3|1|2|R|O|ok
+3|1|2|R|O|pera
+1|18|5|N|M|
+1|4|1|L|M|
+3|1|2|R|O|ta carregando
+1|4|J|L|M|
+1|18|1|L|M|
+1|18|1|L|M|/j13
+1|18|K|L|M|
+4|18|1|Q|N|
+4|18|5|S|O|
+1|18|K|L|M|/e1
+4|18|2|O|K|
+4|18|2|O|K|/j14
+4|18|L|O|K|
+1|18|8|H|M|
+3|1|3|R|O|/e5
+1|18|8|H|M|viu
+3|1|3|R|O|legal
+4|18|8|O|N|
+1|18|5|H|M|/e1
+3|18|1|R|O|
+4|18|1|O|N|clica em configurações
+1|10|1|H|M|
+3|18|J|L|M|
+3|18|J|L|M|/e1
+3|18|L|L|M|
+4|18|2|M|M|
+4|18|2|M|M|/e12
+1|18|1|H|M|olha isso
+3|18|2|O|K|
+4|18|4|M|M|/a2JP
+1|18|2|R|M|
+3|18|L|O|K|
+1|18|2|R|M|espera
+1|18|2|R|M|ai
+1
+4|18|2|P|K|
+1|18|7|V|L|austar
+1|18|2|S|M|
+4|18|3|P|K|/e7
+1|18|2|S|M|vem
+3|18|4|J|L|/e5
+1
+3|18|2|W|N|
+4
+3|18|2|S|N|
+3|18|8|Q|O|
+3|18|3|V|M|
+3|18|4|X|K|
+3|18|3|M|M|
+4|14|2|V|L|Skipine
+4|14|3|O|M|
+4|14|4|N|M|
+4|14|I|N|M|
+4|14|7|V|K|
+3
+4
+4|5|3|V|L|Skipine
+4
+1|14|1|K|L|Skipine
+1
+1|14|6|E|F|Skipine
+1
+1|14|3|M|D|Skipine
+1|14|4|M|L|
+1|14|7|I|M|
+1
+1|14|5|M|D|Skipine
+1|14|5|O|M|
+1
+1|1|1|K|L|Skipine
+1|1|7|G|J|
+1|1|6|S|E|
+1|1|7|T|F|
+1
+1|1|1|K|L|Skipine
+1|1|5|I|H|
+1|1|1|L|O|
+1
+1|1|6|E|F|Skipine
+1
+1|1|3|M|D|Skipine
+1|1|7|Y|K|
+1
+1|1|2|V|L|Skipine
+1|1|1|L|K|
+1
+1|14|1|K|L|undefined12
+1|14|3|P|O|
+1
+1|14|5|C|L|undefined12
+1
+1|14|1|K|L|Cascaboy
+1|14|6|P|J|
+1
+1|14|3|M|D|Cascaboy
+1|14|3|I|J|
+1
+1|14|3|V|L|Cascaboy
+1|14|4|T|F|
+1
+1|9|1|K|L|madelona123
+1|9|1|P|M|
+1|9|2|T|H|
+1|9|1|O|M|
+2|8|1|K|L|cadence2005
+2|8|6|S|E|
+2|8|4|M|J|
+2
+2|10|1|K|L|cadence2005
+2|10|2|K|L|/j4
+2|10|2|K|L|/a2HE
+2|10|L|K|L|
+2|10|L|K|L|/e11
+2|10|6|Z|L|
+2
+2|18|1|V|L|cadence2005
+1
+2|18|4|N|K|
+2|18|7|K|N|/a2TM
+2|18|6|P|P|/a2VJ
+2|6|1|Y|K|
+2
+2|18|4|V|L|cadence2005
+2
+2|18|6|E|F|cadence2005
+2
+2|10|4|M|D|cadence2005
+2|10|1|H|L|
+2
+2|10|4|V|L|cadence2005
+2|10|3|J|M|
+2
+1|13|1|K|L|vagafa
+1|13|2|I|M|
+1|13|2|M|L|
+1|13|5|J|D|
+1
+1|14|3|M|D|vagafa
+1
+2|14|1|K|L|hercul2
+2|14|3|N|H|
+2
+2|14|3|M|D|hercul2
+2
+2|14|6|E|F|hercul2
+2|14|6|W|J|
+2
+2|5|1|V|L|hercul2
+2

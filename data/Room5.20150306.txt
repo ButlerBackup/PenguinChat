@@ -1,0 +1,198 @@
+1|10|1|4|D|Leanne jessi
+1|10|4|R|E|
+1
+1|14|7|4|D|carli915
+1|14|7|R|F|
+1|14|7|a|D|
+1|14|3|N|I|
+2|1|6|4|D|Tundruin
+2|16|1|O|J|
+2|16|1|Q|O|Hello Carli
+0|1|1||H|Hello there
+2|16|2|T|M|
+2|16|3|C|G|
+2|16|3|C|G|Hello Wyatt! :)
+0|1|1|A|K|Hey!
+0|1|1|H|F|I'm cool
+2|16|7|C|G|/e1
+0|1|1|C|C|( ͡° ͜ʖ ͡°)
+2|16|1|D|K|
+2|16|1|D|K|yeah.
+2|16|8|D|K|You say it
+0|1|1|I|J|Hi
+2|17|1|V|B|
+2|16|3|R|B|
+2|16|1|R|B|I'm cool!
+2|16|1|U|M|
+2|17|1|S|L|
+2|17|1|S|L|/a2GH
+2|17|2|M|N|/a2IG
+2|17|2|P|K|/a27G
+2|17|2|P|K|/a2LJ
+1
+2
+1|4|7|4|D|mario16
+1|4|7|E|P|
+1|4|7|c|C|
+1
+1|4|5|a|D|mario16
+1|4|8|Q|F|
+1|4|3|X|B|
+1|4|3|1|C|
+1
+1|4|7|4|D|mario16
+1|16|7|R|D|
+1|16|6|N|F|
+1|16|3|K|F|
+1|16|1|R|E|
+1
+1|4|8|4|D|mario16
+1|4|7|R|F|
+1|16|1|S|B|
+1|16|1|d|F|
+1
+1|16|5|a|D|mario16
+1|16|5|a|D|
+1|16|2|V|J|
+1|16|2|V|J|/a29F
+1|16|2|V|J|/j7
+0|1|1|C|I|/e8
+1|16|2|V|G|
+1|16|3|V|G|what heppend?
+0|1|1|D|H|Ask Anderson, the owner.
+1|16|4|E|J|
+1|16|1|E|J|you can help me?
+0|1|1|L|K|Helloooo
+1|16|1|E|J|do you can help me?
+0|1|1|G||Heyy
+1|16|7|I|K|
+1|16|7|I|K|please
+1|16|6|R|D|
+1|4|1|K|M|
+1|4|4|K|M|/a2FK
+1|4|4|K|M|/a2WM
+1|4|H|K|M|
+1|4|H|K|M|/j10
+0|1|1|E|I|I'm rolling on the floor laughing! Can't you tell?
+1|4|H|K|M|/j1
+0|1|1|G|C|Haha, very funny.
+1|4|H|K|M|/j6
+0|1|1|||No, not funny at all.
+1|4|H|K|M|/j1
+0|1|1||H|Haha, very funny.
+1|4|H|K|M|/j5
+0|1|1|F|H|/e2
+1|4|H|K|M|/j6
+0|1|1|A|K|No, not funny at all.
+1|4|H|K|M|do you want to be my friend?
+0|1|1||J|Heyy
+1|4|H|K|M|heyy
+1|4|4|D|J|
+1|4|5|L|L|
+1|4|8|O|K|
+1|4|2|S|H|
+1|4|4|P|M|
+1|4|7|7|B|
+1|4|7|R|G|
+1|16|3|2|D|
+1
+1|4|2|a|D|mario16
+1|16|7|b|C|
+1
+1|16|4|a|D|mario16
+1|16|2|Y|B|
+1|16|7|c|C|
+1
+1|16|4|a|D|mario16
+1|16|2|1|D|
+1
+1|14|2|4|D|Smurfan
+1|14|7|W|C|
+1|14|2|W|C|you are fast
+0|1|1|I|J|Hi
+1|14|2|W|C|hi are you a real person?
+0|1|1|F|J|Hello there
+0|1|1|A|K|Hey!
+1|14|2|W|C|you are a computer
+0|1|1|A|K|Hey!
+1|14|2|K|O|
+1|14|2|K|O|HELP!!!!!
+1|14|2|K|O|/a2SE
+1|14|2|K|O|/a28L
+1|14|2|K|O|Hey
+1|14|1|K|J|
+1|14|1|6|F|
+1
+1|18|7|4|D|Crash33
+1
+2|8|7|4|D|yoyo123456
+2|8|7|W|B|
+2|8|2|D|H|
+2|8|3|1|B|
+2
+1|18|H|4|D|Crash33
+1|18|7|R|F|
+1|17|1|R|F|
+1|17|3|S|L|
+1|17|I|S|L|
+1|17|2|V|B|
+1|17|J|V|B|
+1|18|K|V|B|
+1|18|H|V|B|
+1|18|H|V|B|
+1|18|H|9|E|
+1|16|3|F|F|
+1|16|I|F|L|
+1|16|K|H|K|
+1|16|6|J|H|/a2IN
+1|16|6|I|K|
+1|16|H|I|K|
+1|16|1|J|L|
+1|16|I|J|L|
+1|18|1|A|H|
+1|18|1|I|J|
+1|18|K|2|D|
+1
+1|13|2|4|D|Miner
+1|13|7|K|K|
+1|13|6|R|D|
+1
+3|18|L|4|D|ufreddygold
+3|18|7|R|F|
+3|16|1|R|D|
+3|16|4|N|K|
+3|16|3|N|K|/e3
+0|1|1|A|E|/e3
+3|16|3|N|K|wyatt
+0|1|1||F|I'm just happy to be alive!
+3|16|3|D|J|
+3|16|8|D|J|ok
+3|16|7|U|G|
+3|16|3|9|F|
+3|16|2|T|J|
+3|16|4|J|I|
+3|16|4|J|I|bye
+0|1|1|A|G|Bye bye!
+3|16|5|d|I|
+3
+3|16|2|a|D|ufreddygold
+3|16|3|a|D|
+3|16|3|B|G|
+3|16|3|B|G|wyatt
+0|1|1|L|K|Why did you say my name
+3|16|3|B|G|yes
+3|16|8|7|F|
+3|16|8|7|F|wyatt
+0|1|1|K|I|LOL, sorry I laugh a lot.
+3|16|8|H|K|
+3|16|6|H|K|o}
+3|16|6|H|K|ok
+3|16|7|6|E|
+3|18|1|G|M|
+3|18|6|G|M|/e2
+0|1|1|E|C|/e2
+3|18|8|G|M|love
+3|18|8|G|M|penguin chat
+3|18|4|D|D|
+3|18|3|5|D|
+3

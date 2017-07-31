@@ -1,0 +1,205 @@
+1|14|2|N|D|llll
+1
+1|14|4|N|D|katieed
+1|14|2|I|O|
+1
+1|12|5|N|D|Johnny1742
+1
+1|14|6|N|D|Austyn11
+1|14|8|G|C|
+1|14|K|8|F|
+1
+1|9|3|N|D|Dommy
+1|9|3|A|I|
+1|9|K|G|C|
+1
+1|13|4|N|D|bacon
+1|13|4|P|D|
+1
+1|13|2|N|D|cpgirl52
+1
+1|13|5|N|D|cpgirl52
+1
+1|14|3|N|D|BDWGamertag
+1|14|4|X|L|
+1
+2|5|5|N|D|minion1046
+2|5|2|b|Q|
+2|5|I|8|G|
+2|5|2|R|F|
+2
+1|9|7|N|D|Sprinkleg4
+1
+1|14|2|N|D|hoqwbfbbqwub
+1
+1|4|1|N|D|junior 5568
+1
+1|13|5|N|D|KuhKewl
+1|13|8|6|K|
+2|6|4|N|D|emma56
+2|6|2|K|I|
+1|13|6|M|G|
+1
+2
+1|9|L|N|D|gogog
+1
+2|18|2|N|D|patsy40
+3|18|2|N|D|lok
+2|18|L|G|C|
+2|18|L|G|C|te estoy vijilando
+3|18|1|J|J|
+2|18|7|O|R|
+3|18|1|J|J|yo soy chico
+2|18|L|O|R|buuuu
+2|18|1|H|M|
+3|18|2|J|J|aaaaaaaaaaaaaaaaaaaaa
+2|18|1|H|M|yo soy una chica
+3|18|1|E|C|
+2|18|1|E|K|
+2|18|2|G|C|
+3|18|1|E|C|yo cico
+3|18|1|E|C|chico
+2|18|1|G|C|pregunta
+3|18|1|E|C|si
+2|18|1|G|C|quien vende cafE?
+2|18||G|C|
+2|18||G|C|a ya se
+3|18|1|E|C|nose
+2|18||G|C|robemos cafe!!
+3|18|1|F|G|
+3|18|1|F|G|quien
+2|18|1|I|G|
+3|18|1|F|G|si
+2|18|1|I|G|somos espias
+3|18|6|U|F|
+2|18|1|I|G|tan tan
+3|18|4|N|I|
+3|18|4|N|I|/e1
+2|18|2|U|I|
+2|18|1|M|L|
+2|18|4|M|L|/e1
+3|18|1|N|I|y la EPF
+2|18|1|K|I|
+2|18|1|K|I|mira esto
+3|18|2|N|I|O LA OC
+2|18|1|K|I|queweeeeeeeeeeeeeee???
+3|18|2|N|I|SI
+2|18|8|K|I|conosco la EPF
+2|18|8|K|I|Y LA OC
+3|18|1|C|K|
+2|18|8|K|I|PERO ACA EN
+3|18|7|C|K|NO SE
+2|18|8|K|I|PENGUIN CHAT
+3|18|5|L|L|
+2|18|8|K|I|NO EXISTE EN PENGUIN CHAT LA EPF O LA OC
+2|18|2|O|K|
+3|18|2|L|L|QUE
+2|18|L|O|K|/e2
+2|18|8|I|L|
+2|18|8|I|L|NO EXISTE!
+3|18|2|L|L|Y GARY
+2|18|8|I|L|NO LO SE
+2|18|5|I|L|/e5
+2
+2|18|4|N|D|patsy40
+3
+3|18|4|N|D|lok
+2|18|1|I|M|LOK
+2|18|1|I|M|;(
+3|18|6|P|D|
+2|18|1|I|M|:)
+3|18|2|M|M|SI
+2|18|1|I|M|LOK!!!
+2|18|1|I|M|HAGAMOS UNA ELI
+2|18|1|I|M|PELI
+2|18|1|I|M|SE LLAMARA
+3|18|2|M|M|SI
+2|18|1|I|M|EN BUSCA DE GARY
+2|18|1|I|M|EN PENGUIN CHAT
+2|18|1|I|M|TAN TAN TAN!!!
+3|18|2|M|M|VAMOS
+2|18|2|M|N|
+2|18|4|M|N|/e1
+2|18|2|J|N|
+2|18|2|J|N|SIGUEME
+3|18|1|M|M|DISFRASEMONOS
+2|18|7|Y|L|
+3|18|2|K|O|
+2|18|1|K|M|
+3|18|5|Z|M|
+2|18|1|K|M|DE QUE ?
+3|18|3|M|N|
+3|18|2|M|N|NOSE
+2|18|1|K|M|DE QUE NOS DISFRAZAMOS?
+2|18|1|I|M|MM
+2|18|5|I|M|/e3
+2|18|1|I|M|SIGUEME!
+3|18|8|K|M|
+3|18|8|K|M|A ENTRAR ALA TIENDA DE REGALOS
+2|18|6|L|E|
+2
+3|18|5|M|F|
+3
+1|18|3|N|D|ninja nin
+1
+2|18|3|N|D|lok
+2
+2|18|2|N|D|lok
+2
+2|18|8|N|D|lok
+2
+1|18|6|N|D|ninja nin
+1
+4|13|2|N|D|516306
+4
+1|18|4|N|D|ninja nin
+1
+1|18|5|N|D|ninja nin
+1
+1|17|3|N|D|ninja nin
+1|18|L|P|R|
+4|18|4|N|D|516306
+4|18|1|A|H|
+4|18|8|8|F|
+4|18|7|6|I|
+4|18|7|S|F|
+4|18|2|L|G|
+4
+1|18|L|K|I|
+1
+1|5|6|N|D|jor
+1
+2|4|5|N|D|rosiedoggie1
+2|4|5|K|M|
+2
+4|4|2|N|D|lok
+4
+1|10|2|N|D|lexicxnt
+1|10|2|S|F|
+1|10|1|G|N|
+1
+4|17|3|N|D|lok
+4
+2|4|5|N|D|rosiedoggie1
+2|4|1|G|C|
+2|4|4|I|M|
+4|17|2|N|D|lok
+4|17|2|N|D|
+4|17|7|U|G|
+4|17|8|9|O|
+4|17|5|F|N|
+4|17|7|D|L|
+4|17|7|H|L|
+4|17|8|G|L|/a2GM
+2
+4
+2|13|3|N|D|TebanIsrael
+2|13|4|N|E|
+2
+1|18|3|N|D|CutePie
+1|18|2|N|H|
+1|18|4|Z|N|
+1|18|4|P|O|
+1
+2|1|6|N|D|raul
+2

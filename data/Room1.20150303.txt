@@ -1,0 +1,538 @@
+1
+1|4|1|K|L|megalogan
+1|4|2|K|L|hola
+1|4|1|J|N|
+1|4|1|J|N|que bueno
+1|4|1|J|N|estar
+1|4|1|J|N|en club penguin 0
+1|4|I|J|N|
+1|4|2|L|N|
+1|4|4|L|N|/e1
+0|1|1|D|H|( ͡° ͜ʖ ͡°)
+1|4|2|L|N|/e11
+1|4|4|L|N|/e1
+0|1|1|G|E|( ͡° ͜ʖ ͡°)
+1|4|2|H|L|
+1|4|2|H|L|/a2FL
+1|4|2|H|L|/a2CN
+1|4|2|I|M|/j10
+0|1|1|G|K|I'm rolling on the floor laughing! Can't you tell?
+1|4|1|I|M|mmmmmmmm
+1|4|3|I|M|oye
+1|4|4|I|M|ablas
+1|4|4|I|M|o ingles
+1|4|1|I|M|
+1|14|1|I|M|ven
+1
+1|14|8|X|L|
+1|14|1|K|L|geneu45
+1|14|7|N|G|
+1|14|3|1|T|
+1
+1|13|1|K|L|arda1982
+1|13|4|M|I|
+1|13|3|N|K|
+1|13|3|N|K|/a2HK
+1|13|3|N|K|/a2HN
+1|13|3|S|E|
+1|13|6|S|G|
+1
+1|13|1|K|L|arda1982
+1
+1|13|5|E|F|arda1982
+1|13|8|E|F|
+1
+1|13|2|E|F|arda1982
+1|13|2|S|F|/a2HL
+1|13|7|Q|H|
+1|13|6|T|F|
+1
+1|14|1|K|L|asdfpingu
+1|14|3|H|M|
+1|14|4|K|J|
+1
+1|14|4|E|F|asdfpingu
+1
+1|14|2|V|L|asdfpingu
+1|14|3|V|L|/a2KL
+1|14|3|E|J|/a2JK
+1|14|2|K|I|/a2KK
+1
+1|14|5|V|L|asdfpingu
+1|14|3|F|E|
+1|14|8|7|I|/j5
+0|1|1|F|H|/e2
+1|14|H|7|I|/a2SL
+1|14|8|E|K|
+1|14|8|E|K|oi
+1|14|1|H|I|
+1|14|1|H|I|hi
+0|1|1|B|D|Hi there!
+1|14|4|E|D|
+1
+1|14|7|E|F|asdfpingu
+1|14|8|F|J|
+1|14|7|P|H|
+1|14|8|M|N|
+1
+1|14|4|E|F|asdfpingu
+1
+1|10|1|K|L|asdfpingu
+1|10|8|G|L|
+1
+1|1|1|K|L|Tundruin
+1|1|5|L|P|
+1|1|1|L|P|I have a question
+1|1|1|L|P|I HAVE A QUESTION FOR YOU!
+0|1|1|I|J|Hi
+1|1|1|L|P|hi
+0|1|1|H|G|Hello there
+1|1|5|L|P|How are you?
+0|1|1|I||Hello there
+0|1|1||G|I'm great, and your self?
+1|1|4|K|K|/a2GD
+1|1|4|M|O|/a2HH
+1|1|4|N|J|
+1|1|3|L|F|/a2HG
+1
+1|1|3|M|D|Tundruin
+1
+1|9|1|K|L|humma
+1|9|1|H|N|
+1|9|6|S|E|
+1
+1|8|1|K|L|tittyfish
+1|8|1|K|L|dis is gr8 fam
+1|8|4|U|J|
+1|8|4|N|O|
+1|8|1|N|O|got the club goin up on tuesday
+1|8|4|A|H|
+1|8|6|I|F|
+1|8|7|L|F|
+1|8|2|I|E|
+1|8|2|M|N|
+1|8|2|M|N|wyatt pls
+0|1|1|A|F|I'm cool
+1|8|8|G|J|
+1|8|4|P|M|
+1|8|2|P|M|aw man
+1|8|8|R|P|
+1|8|3|R|P|i can say the alphabet backwards though
+1|8|3|R|P|does that not impress you
+0|1|1|L|K|Helloooo
+1|8|2|R|P|i could tell you your horoscope
+0|1|1|L|K|What's poppin'?
+1|8|2|R|P|that's lie
+1|8|2|R|P|i actually can't
+1|8|2|R|P|cereal sometimes
+1|8|2|R|P|bubble wrap does
+1|8|2|R|P|bubbles in general
+1|8|2|R|P|wyatt can i sing you a song
+0|1|1|L|K|What's poppin'?
+0|1|1|J|I|LOL, sorry I laugh a lot.
+1|8|1|N|N|
+1|8|1|N|N|wyatt
+0|1|1|B|K|That's my name.
+1|8|3|E|M|
+1|8|7|E|M|we're no strangers to love
+1|8|8|E|M|you know the rules
+0|1|1|L|K|What's poppin'?
+1|8|8|E|M|and so do i
+1|8|8|E|M|well
+1|8|4|R|O|
+1|8|4|W|I|
+1|8|2|P|N|
+1|8|2|P|N|i feel like we've really bonded
+1|8|2|P|N|we're basically family now
+1|8|3|P|K|
+1|8|2|P|K|we've really connected
+1|8|8|C|I|
+1|8|1|E|N|
+1|8|3|6|P|
+1
+1|8|5|C|L|tittyfish
+1|8|7|Z|Q|
+1|8|7|b|R|
+1
+1|8|1|K|L|tittyfish
+1|8|3|R|I|
+1|8|2|M|E|
+1|8|4|B|F|
+1
+1|7|1|K|L|Disney00301
+1|7|4|J|G|
+1|7|2|F|M|
+1
+1|6|1|K|L|Babyifoo
+1|6|8|O|M|
+1|6|7|T|K|
+1|6|3|7|L|
+1|6|6|F|G|
+1
+1|14|1|K|L|franco20144
+1|14|8|M|G|
+1|14|2|M|G|/j7
+0|1|1||E|/e8
+1|14|8|H|M|
+1|14|L|H|M|
+1|14|I|H|M|
+1
+1|6|1|K|L|franco20144
+1|6|6|O|K|
+1|6|3|C|L|
+1|6|6|H|N|
+1|6|1|H|N|mmmm
+2|1|1|K|L|adamadamelf
+1|6|6|H|N|/a2IN
+2|1|7|R|M|
+1|6|6|H|N|/a2VC
+2|1|5|T|G|
+2|1|6|S|E|
+1|6|6|H|N|/a2ID
+2|1|3|I|I|
+1|6|3|X|L|
+2
+1|6|2|X|L|/j6
+0|1|1|J|H|No, not funny at all.
+2|1|3|M|D|adamadamelf
+2
+1|6|3|X|L|/e2
+0|1|1|A|H|/e2
+2|1|3|M|D|adamadamelf
+2|1|8|T|F|
+2|1|5|W|M|
+2
+1
+1|14|1|K|L|nury88888888
+1|14|2|P|N|
+1|14|4|P|N|/a2IH
+1|14|J|P|N|
+1|14|J|A|M|
+1|14|7|1|S|
+1|14|5|1|T|
+1|14|7|X|N|
+1
+1|17|3|V|L|nury88888888
+1|17|3|6|I|
+1|17|6|D|E|
+1
+1|17|4|E|F|nury88888888
+1|17|7|I|F|
+1
+1|17|3|M|D|nury88888888
+1|17|6|S|F|
+1|17|5|S|E|
+1|17|8|S|F|
+1
+1|17|4|V|L|nury88888888
+1|17|5|N|K|
+1|17|6|S|E|
+1|17|1|T|F|
+1|17|2|Q|N|
+1
+1|12|1|K|L|78910
+1|12|7|L|E|/a2JI
+2|13|1|K|L|Yurigabriel
+1|12|7|S|F|
+2|13|1|K|L|hello
+0|1|1|H|E|Hi there!
+1|12|2|N|M|
+2|13|7|P|J|
+1|12|2|Q|N|
+1|12|2|Q|N|hola
+2|13|2|P|J|pinguin shop ;9
+2|13|2|P|J|:9
+1|12|5|K|I|
+1|12|1|O|M|
+2|13|2|P|J|hola ou enrola
+2|13|3|S|J|
+2|13|7|G|N|
+1
+2|13|H|G|N|/a2WI
+2|13|H|G|N|/j3
+0|1|1|G|B|Excuse my language, but lol!
+2|13|L|G|N|
+2|13|L|G|N|/e10
+2|13|L|G|N|map :(
+2|13|L|G|N|/e4
+0|1|1|H|B|/e4
+2|13|I|G|N|/e3
+0|1|1|B||/e3
+2|13|3|G|H|
+1|12|3|V|L|78910
+2|13|1|G|H|pinguin chat 3 ¨%$%$#
+1
+2|13|7|Q|N|
+2|13|2|X|L|
+2
+2|1|1|K|L|Yurigabriel
+2|1|1|K|L|
+2|1|1|K|L|o-0
+3|1|1|K|L|jorge
+2|1|3|H|L|
+3|1|8|F|N|
+2|1|3|4|N|
+2
+3|1|8|F|N|wow soy nuevo aqui es re aburriod
+2|17|L|C|L|Yurigabriel
+3|1|1|F|N|wow estoy en el año 1999
+2|17|L|C|L|
+3|1|5|G|I|
+3
+3|1|1|K|L|jorge
+3|1|8|H|N|
+3|1|4|H|N|/a2FJ
+1|12|1|K|L|78910
+1|12|7|O|P|
+2|17|L|C|L|LOL
+1|12|8|M|M|
+3|1|4|H|N|/a2LO
+2|17|L|C|L|/e1
+0|1|1||I|( ͡° ͜ʖ ͡°)
+3|1|6|S|F|
+2|17|2|K|I|
+2|17|2|K|I|/j2
+3
+2|17|7|Y|K|
+2
+1
+2|17|5|C|L|Yurigabriel
+2|17|8|C|L|
+2|17|8|C|L|WHAT
+0|1|1|I|A|???
+3|1|6|E|F|jorge
+1|1|3|V|L|78910
+2|17|8|C|L|WHAT VAF
+0|1|1|I|J|Hi
+3
+2
+1|1|8|E|J|
+2|17|7|C|L|Yurigabriel
+1|1|7|T|I|
+2|17|2|I|I|
+1|1|3|S|G|
+2|17|L|R|H|
+1|1|2|E|F|
+1
+2|17|6|T|F|
+2
+3|1|L|M|D|jorge
+3|1|6|S|F|
+3|1|3|6|J|
+3
+1|1|4|E|F|78910
+1|1|5|I|I|
+1|1|5|K|N|
+2|17|L|M|D|Yurigabriel
+3|1|3|V|L|jorge
+2|17|5|E|H|
+3|1|3|L|J|/a2HN
+2|17|5|D|F|
+3|1|3|L|J|/a2KN
+3|1|3|F|F|
+3|1|4|F|F|hola
+3|1|4|F|F|quieres
+2|17|1|D|F|que??
+3|1|4|F|F|quieres ir a la disco
+3
+2|17|1|D|F|ta seg
+2
+1|1|4|N|J|/e1
+0|1|1|F||( ͡° ͜ʖ ͡°)
+1|1|4|N|J|/e2
+0|1|1|H|I|/e2
+1|1|3|N|J|/e3
+0|1|1|E|H|/e3
+1|1|3|N|J|/e4
+0|1|1|H|D|/e4
+1|1|3|N|J|/e5
+0|1|1|H|J|/e5
+1|1|2|N|J|/e8
+0|1|1|H|F|/e8
+1|1|3|N|J|/e6
+0|1|1|F||/e6
+1|1|2|N|J|/e7
+0|1|1|G|K|/e7
+1|1|2|N|J|/e8
+0|1|1|I|E|/e8
+1|1|2|N|J|/e9
+0|1|1|J|A|/e9
+1|1|2|N|J|/e10
+1|1|2|N|J|/e11
+1|1|2|N|J|/e12
+1|1|4|K|H|
+1
+3|12|1|K|L|jorge
+3
+4|5|1|K|L|Yurigabriel
+4|5|4|7|K|
+4
+4|17|1|C|L|Yurigabriel
+4|17|6|O|I|
+4
+4|5|1|K|L|Yurigabriel
+4|5|3|I|E|
+1|1|4|M|D|78910
+4|5|6|G|F|
+1|1|4|P|K|
+4
+3|12|4|M|D|jorge
+3|12|3|L|K|
+3
+1
+1|9|1|K|L|ItsEvann
+1|9|7|T|M|
+1|9|2|Q|M|wow
+1|9|2|U|K|
+1|9|2|U|K|/j0
+0|1|1|H|I|/e1
+1|9|3|U|K|/a2KI
+1|9|3|U|K|/a2IG
+1|9|3|U|K|/a2KK
+1|9|3|J|E|
+1|9|1|J|E|wait
+1|9|1|J|E|wyatt
+0|1|1|F|D|That's my name.
+1|9|1|J|E|Is this all we do?
+0|1|1|L|K|What's poppin'?
+1|9|8|J|L|
+1|9|1|J|L|is this all you do?}
+0|1|1|H||Heyy
+0|1|1|G|C|Hello
+1|9|1|J|L|there is nothin else to do here right?
+0|1|1|B|I|Heyy
+1|9|1|F|D|
+1|9|1|F|D|just
+1
+1|5|1|K|L|ooii
+1
+1|5|3|V|L|ooii
+1
+1|5|3|M|D|ooii
+1
+1|12|1|K|L|ooii
+1
+1|12|7|C|L|ooii
+1
+2|11|1|K|L|Strongmann
+2|11|3|R|H|
+2|11|3|O|M|
+2
+2|11|3|M|D|Strongmann
+2|11|3|T|F|
+2|11|5|K|L|
+1|14|1|K|L|mattme7000
+2|11|H|Q|Q|
+1|14|4|L|N|
+2|11|L|O|L|
+2|11|L|O|L|/j10
+0|1|1||D|I'm rolling on the floor laughing! Can't you tell?
+2|11|L|O|L|/a2DI
+1|14|5|L|N|/a2KE
+2|11|2|N|M|/a2BG
+1|14|5|H|H|
+2|11|2|N|M|/a2PJ
+1|14|4|V|J|
+2|11|2|N|M|/a2CK
+2|11|2|N|M|/a2HN
+2|11|2|N|M|/a2OG
+2|11|2|N|M|/a2HI
+0|1|1|J||Hello
+1|18|1|V|J|
+1|18|2|O|J|
+1
+1|18|L|V|L|mattme7000
+2
+1|18|4|V|L|
+1|18|3|6|I|
+1
+1|12|1|K|L|Eduardo6776
+1|12|4|P|M|
+1|12|4|P|M|Hello
+0|1|1|I|J|Hi
+1|12|1|L|L|
+1|12|1|L|L|Where are you from?
+0|1|1|E|K|Hello
+1|12|1|L|L|IM From Brazil
+1|12|8|L|L|Bye!
+0|1|1|C|F|Bye bye!
+1|12|5|X|N|
+1
+1|12|2|V|L|Eduardo6776
+1|12|3|G|M|
+1
+1|12|4|M|D|Eduardo6776
+1
+1|6|1|K|L|cococlocks
+1|6|1|O|M|
+1|6|1|O|M|hi wyatt
+0|1|1|I|J|Hi
+0|1|1|J|K|I'm just happy to be alive!
+1|6|1|O|M|again
+1|6|1|O|M|me too
+1
+1|6|L|M|D|cococlocks
+1|6|1|M|D|/a2GK
+1|6|1|M|D|/a2QB
+1|6|4|L|N|/a2KI
+1|6|4|G|N|/a2IH
+1|6|8|G|N|wyatt
+0|1|1|I|J|What's up?
+1|6|8|G|N|do you have club penguin
+0|1|1||K|Hello
+1|6|8|G|N|hi
+0|1|1|I|J|Hi
+1|6|6|S|F|
+1|6|4|G|E|
+1|6|1|G|E|want to get coffee
+1
+2|5|1|K|L|z ,am:
+2|5|7|P|H|
+2|5|5|V|K|
+2|5|3|D|P|
+2|5|6|D|P|/a2HK
+2|5|1|I|I|
+2|5|1|I|I|boring
+2|5|2|L|Q|/j2
+2|5|3|L|Q|/a2II
+2
+2|5|3|V|L|z ,am:
+2|5|3|U|F|
+2|5|3|S|G|
+2|5|2|S|G|/a2JJ
+2|5|3|U|N|/a2II
+2|5|3|U|N|/a2GM
+2|5|8|K|O|
+2|5|5|K|O|/e8
+0|1|1|G|H|/e8
+2|5|2|K|O|/a2TA
+2|5|H|K|O|
+2|5|1|H|K|
+2|5|1|H|K|hey
+2|5|1|H|K|play clubb penguin
+2|5|2|B|L|
+2|5|7|T|G|
+2
+1|12|1|K|L|maxcover
+1|12|3|T|K|
+1|12|2|T|K|/j14
+1|12|3|L|L|
+1
+1|12|8|M|D|maxcover
+1|12|4|D|J|
+1
+1|12|5|E|F|maxcover
+1
+1|12|3|V|L|maxcover
+1|12|4|S|G|
+1|12|1|S|I|
+1|12|2|R|E|
+1|12|2|R|E|/a2IL
+1|12|3|9|J|
+1
+1|12|5|C|L|maxcover
+1|12|7|U|L|
+1
+1|12|7|V|L|maxcover
+1|12|7|I|E|
+1

@@ -1,0 +1,384 @@
+1|5|4|9|H|haHalo99900
+1
+1|5|5|9|H|guyguyrosik
+1|5|8|9|H|
+1|5|7|K|K|
+1|5|7|d|Q|
+1
+1|5|4|X|R|guyguyrosik
+1|5|4|H|J|
+1
+1|13|6|9|H|guyguyrosik
+1
+1|13|6|X|R|guyguyrosik
+1
+1|13|1|9|H|guyguyrosik
+1
+1|6|5|9|H|Pinkie19406
+1|6|8|H|K|
+1|6|4|9|F|
+1
+1|5|5|9|H|guyguyrosik
+1|5|7|9|H|
+1|5|3|7|H|
+1
+1|5|6|9|H|guyguyrosik
+1
+1|5|4|9|H|guyguyrosik
+1|5|L|I|K|
+2|18|3|9|H|test
+2|18|1|E|K|
+2|18|6|E|K|/e1
+2|18|L|E|K|
+2|13|L|E|K|
+1|5|1|Y|R|
+1
+2
+1|5|7|X|R|guyguyrosik
+2|13|5|X|R|test
+1|5|3|X|R|
+2|13|2|P|L|
+1|5|L|X|R|
+2|13|L|P|L|
+1|5|L|G|L|
+2|13|3|I|I|
+2
+1
+3|4|4|9|H|coolpool79
+3|4|8|Q|M|
+3
+1|5|5|9|H|guyguyrosik
+2|13|4|9|H|test
+1|5|7|N|K|
+2|13|7|J|L|
+2|13|1|J|L|dites en plus !
+1|5|2|N|K|a quel sujet ?
+2|13|1|J|L|la passion pour vos site ..
+1|5|1|N|K|j'en administre 5 dons 3 qui sont a moi ..
+2|13|1|J|L|wow pas trop de boulot ?
+1|5|1|N|K|je trouve un temps pour tous
+1|5|1|N|K|et y'en a un que j'ai fait avec des amis
+1|5|1|N|K|mais je ne fait pratique =ment rien dessus
+1|5|1|N|K|un que j'ai fait avec mon frere (j'en ai deux de
+1|5|1|N|K|frere)
+1|5|1|N|K|nous formons une communauté a deux "teamcraft"
+1|5|1|N|K|car nous somme fan du jeux Minecrat
+1|5|1|N|K|Minecraft*
+2|13|1|J|L|si vous avez trois site sur quoi parlent-ils ?
+1|5|2|N|K|1pour ma cousine "clubpenguin
+1|5|2|N|K|2 pour mon pere "DJ-passion
+1|5|2|N|K|et 3 pour tous Minecraft
+2|13|8|J|L|bien ! et les deux autre ?
+1|5|2|N|K|avec mes amis Biohazard-project basé sur les jeu
+1|5|2|N|K|jeux vidéo *
+1|5|2|N|K|et avec mon frere "pac-craft serveur minecraft
+1|5|2|N|K|+communauté
+2|13|2|J|L|beaucoup de boulot ?
+1|5|2|N|K|surtout quand personne ne s'occupe de rien !
+1|5|3|N|K|/e7
+2|13|8|J|L|merci pour cet interview sur vous sites !
+2|13|2|8|G|
+2
+1|5|3|6|H|
+1
+1|17|3|9|H|guyguyrosik
+2|17|4|9|H|test
+2|17|7|L|I|
+1|17|L|H|L|
+2|17|L|L|I|
+2|17|7|L|J|
+2|17|L|L|J|
+1|17|L|M|M|
+1|17|L|H|I|
+1|17|L|d|Q|
+1
+2|17|L|d|Q|
+2
+1|17|7|X|R|guyguyrosik
+1
+1|17|8|X|R|guyguyrosik
+1
+1|1|3|9|H|Zapercappy
+1|1|1|L|B|
+1|1|L|N|H|
+1
+1|14|4|9|H|Parckour
+1
+1|10|5|9|H|ririfaery
+1|10|1|S|I|
+1
+1|5|3|9|H|reydelclub1
+1|5|L|N|L|
+1|18|2|L|L|
+1|18|6|H|M|
+1|18|4|9|K|
+1
+1|18|3|9|H|reydelclub1
+1|18|7|P|L|
+1
+1|4|5|9|H|mayu
+1|4|8|V|D|
+1|4|2|K|O|
+1|4|6|O|I|
+1|4|3|3|P|
+1|4|6|D|J|
+1|18|3|Z|H|
+1
+1|12|4|9|H|Jammy132334
+1|12|L|L|G|
+1
+2|1|1|9|H|
+2|1|7|J|K|
+2|1|4|C|I|
+2|1|8|K|E|
+2|1|3|7|H|
+2|1|3|9|H|
+2|1|7|a|P|
+2|1|7|b|P|
+2|1|4|a|N|
+2|1|1|b|T|
+2|1|5|Y|T|
+1|1|4|9|H|KittenHello
+1|1|7|U|E|
+1|1|6|U|D|
+1|1|4|H|C|
+1|1|2|O|D|
+1|1|L|J|L|
+1|1|I|Z|O|
+1|1|3|U|C|
+1|1|3|B|C|
+1
+1|8|5|9|H|cppenguin
+1|8|1|K|J|
+1|8|4|L|C|
+1
+1|13|6|9|H|rocky 233
+1|13|4|K|A|
+1
+1|13|5|X|R|rocky 233
+1
+1|1|5|9|H|lion joe 1
+1|1|6|L|B|
+1|1|6|J|E|
+1|1|1|5|O|
+1|1|3|A|J|
+1
+1|1|8|9|H|lion joe 1
+1|1|6|a|O|
+1
+2|7|3|9|H|~olivia~
+2
+1|1|6|X|R|lion joe 1
+1
+1|5|3|9|H|Joynson
+1|5|3|F|G|
+1
+1|12|8|9|H|Joynson
+1
+1|4|5|9|H|detonador
+1|4|7|K|J|
+1|4|4|9|J|
+1|4|3|7|G|
+1
+2|8|4|9|H|BlackAdder
+2|8|2|5|O|
+2|8|3|b|O|
+2
+1|18|5|9|H|detonador
+1
+2|14|5|9|H|loomydude21
+2|14|7|9|H|
+2|14|L|L|K|
+2|14|4|a|Q|
+2|14|2|U|E|
+2
+2|12|4|9|H|Bakawoopz50
+2|12|4|9|H|
+2
+1|18|4|9|H|lion joe 1
+1
+1|18|6|X|R|lion joe 1
+1
+1|4|5|9|H|lion joe 1
+1|4|5|K|C|
+1|4|1|K|H|
+1
+1|18|6|X|R|lion joe 1
+1|18|4|7|J|
+1
+1|6|4|9|H|chamaco05
+1|6|L|F|J|
+1|6|1|G|G|
+1|6|8|H|K|
+1
+1|10|5|9|H|<3Leah x3
+1|10|3|K|E|
+1|10|7|T|G|
+1|10|3|U|D|
+1|10|3|6|H|
+1
+1|17|5|9|H|Mario64game
+1|17|8|b|N|
+1|17|7|V|D|
+1
+1|4|6|9|H|Yoyo141
+1
+2|14|5|9|H|Drake5000
+2|14|4|K|B|
+2|14|4|J|I|
+2|14|3|Q|I|
+2
+1|14|6|9|H|Somebody123
+1|14|1|L|A|
+1
+1|8|5|9|H|:.jessica.:
+1|8|8|N|K|
+1|8|3|8|J|
+1
+1|5|5|9|H|:.jessica.:
+1
+1|5|4|X|R|:.jessica.:
+1
+1|1|5|9|H|Bianca653123
+1|1|3|L|F|
+1
+2|14|1|9|H|Cytroen
+2
+1|1|4|9|H|Bianca653123
+1|1|L|J|J|
+1
+1|1|7|9|H|jorge829
+1|1|5|9|M|
+1
+1|4|4|9|H|gros gorge
+1|4|3|H|J|
+1
+1|6|I|9|H|linda60853
+1|6|2|J|L|
+1|6|L|9|N|
+1
+1|17|5|9|H|linda60853
+1
+1|17|6|X|R|linda60853
+1|17|6|6|P|
+1
+2|14|4|9|H|64371k
+2|14|1|K|I|
+2|14|3|8|H|
+2
+1|17|3|9|H|linda60853
+1|17|L|K|K|
+1
+1|10|5|9|H|linda60853
+1|10|L|K|L|
+1
+1|10|6|9|H|linda60853
+1
+2|17|6|9|H|64371k
+2
+2|17|7|X|R|64371k
+2
+3|14|3|9|H|Juanes946
+3|14|1|8|J|
+3
+1|17|6|9|H|linda60853
+1|17|L|K|L|
+2|14|I|9|H|Jackson
+1
+2|14|7|K|J|
+2|14|3|K|J|/a2BJ
+2|14|3|K|J|/a2BF
+2|14|3|J|L|/a2BF
+2|14|4|J|J|
+2|14|3|L|B|
+2
+2|14|5|9|H|axello2
+2|14|H|N|H|
+2|14|I|T|F|
+2|14|7|8|S|
+2
+1|14|1|9|H|axello2
+1|14|1|U|N|
+1|14|4|A|I|
+1
+2|6|5|9|H|linda60853
+1|14|2|9|H|axello2
+2|6|L|K|L|
+1|14|3|K|K|/a26I
+1|14|7|J|K|
+1|14|L|J|K|
+1|14|L|J|K|tu juegas club penguin
+2|6|2|M|K|
+2|6|L|M|K|si
+1|14|L|J|K|hicistes una nueva cuenta en chat penguin
+1|14|L|J|K|que raro vailamos
+2|6|L|M|K|sip
+2|6|L|M|K|ajamm
+2|6|L|M|K|no hay musica
+1|14|L|J|K|en club penguin es mejor
+1|14|L|J|K|ya se
+2|6|L|M|K|si
+2|6|L|M|K|que?
+1|14|L|J|K|vamos ala tenda de puffles
+1|14|L|J|K|no hay mapa
+2|6|L|M|K|aqui no hay tienda de puffles
+1|14|L|J|K|es cierto
+2|6|L|M|K|solo hay centro y construccion
+1|14|L|J|K|ala tiena de ropa
+2|6|L|M|K|no se puede entrar
+1|14|L|J|K|ala cafeteria
+2|6|L|M|K|vamos a la cafeteria?
+2|6|L|M|K|si vamos
+1|14|L|J|K|si
+2|6|8|F|K|
+1
+2
+2|6|5|9|H|linda60853
+2
+1|14|2|9|H|axello2
+1
+1|14|3|9|H|axello2
+1|14|3|7|G|
+1
+3|5|5|9|H|HiHIHI
+4|4|6|9|H|GriffinGnG_G
+4|4|7|L|C|
+3|5|7|T|J|
+4|4|7|F|K|
+3
+4|4|1|F|K|hi
+4
+1|14|3|9|H|axello2
+1|14|1|J|F|
+1|14|3|J|M|
+1
+1|12|8|9|H|MayaHart
+1|12|7|U|E|
+1|12|1|K|K|
+1|12|L|7|J|
+1
+1|14|1|9|H|12345
+1|14|6|A|H|
+1
+1|1|5|9|H|ricardo
+1
+1|1|3|9|H|ricardo
+1
+1|12|4|9|H|ayush123
+1|12|7|E|K|
+1
+1|4|3|9|H|Salsa6
+2|14|6|9|H|weebee108
+1|4|6|P|I|
+2|14|8|O|I|
+1|4|1|7|O|
+2|14|7|c|O|
+1|4|1|9|I|
+2|14|7|C|O|
+1
+2
+1|4|5|9|H|Salsa6
+1|4|1|L|B|
+1
+1|9|K|9|H|Awesomes11
+1|9|L|I|M|

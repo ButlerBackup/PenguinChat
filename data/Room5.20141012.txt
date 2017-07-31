@@ -1,0 +1,824 @@
+1|1|7|4|D|fredmcgill
+1|1|7|P|R|
+1|1|4|E|R|
+1|1|6|d|C|
+1|1|3|2|E|
+1
+1|9|4|a|D|fredmcgill
+1|9|7|F|R|
+1
+1|10|7|4|D|pinkmiab23
+1|17|8|N|I|
+1|17|1|J|L|
+1|17|L|Y|B|
+1|17|2|O|R|
+1
+1|17|1|a|D|pinkmiab23
+1|17|1|G|L|
+1|17|2|K|K|
+1
+2|1|7|4|D|lol123doape
+1|17|6|4|D|Penguin24
+2|1|7|E|H|
+1|17|L|M|L|/a2AM
+1|17|L|R|C|
+1|16|1|Z|G|
+1|16|L|W|C|
+1|16|L|W|C|/a2KG
+1|16|L|W|C|/j11
+1|16|L|S|K|
+1|16|4|R|M|
+1|16|K|R|D|
+1|18|1|R|D|
+1|18|2|J|I|
+1|18|3|J|I|/a2BK
+1|16|8|N|L|
+2|1|5|N|G|
+1|7|1|N|L|
+1|18|1|R|K|
+1|18|2|U|F|
+1|18|3|Y|I|
+1|18|3|G|J|
+1|18|5|V|K|
+1
+1|17|3|a|D|Penguin24
+1
+1|17|7|4|D|Penguin24
+1|17|7|W|I|
+1|17|L|W|I|
+1|17|L|W|I|/a2OJ
+1|17|L|W|I|/a2QG
+1|7|1|W|I|
+1|7|1|W|I|/a2MF
+1|7|1|W|I|/a2MG
+1|7|1|W|I|/a2LH
+1|7|1|W|I|/a2NH
+1|7|3|G|I|
+1|7|3|J|M|
+1|7|L|J|M|
+1|16|L|S|J|
+2
+1
+1|17|8|4|D|fury
+1|16|7|N|G|
+1
+1|16|3|a|D|fury
+1
+1|4|8|4|D|the deadly7
+1|4|1|R|G|
+1
+1|7|7|4|D|Penguin24
+1|16|5|M|Q|
+1
+1|1|7|4|D|Hje03
+1|1|3|3|E|
+1
+1|1|1|a|D|Hje03
+1|1|2|a|D|
+1|1|3|1|C|
+1
+2|1|7|4|D|coolkid10
+2|1|1|R|F|
+2|1|3|d|B|
+2|1|3|S|D|
+2|1|3|7|E|
+2
+1|1|7|4|D|zyxd
+1|1|7|4|D|
+1
+1|4|8|4|D|Nummpy1
+1
+2|1|8|4|D|bocajnayr
+2|1|7|d|C|
+2|1|4|1|C|
+2
+2|1|5|a|D|bocajnayr
+2
+2|12|1|a|D|hussain12345
+2|12|3|6|E|
+2
+1|1|2|4|D|Yolo123
+1|1|3|X|B|
+1
+1|1|8|4|D|Yolo123
+1|17|L|K|J|
+1
+2|1|6|4|D|Zoomster16
+2|1|7|X|B|
+2|1|5|M|Q|
+2|1|1|H|O|
+2|1|5|F|R|
+2
+1|4|1|4|D|ian
+1|16|2|1|C|
+1
+1|4|7|4|D|ian
+2|1|7|4|D|Zoomster16
+1
+2|1|3|R|H|
+2
+1|4|6|4|D|ian
+1|17|1|1|D|
+1
+2|1|6|4|D|Zoomster16
+2|1|2|J|O|
+2
+1|18|7|4|D|ian
+1|16|3|D|O|
+1
+1|18|5|a|D|ian
+1
+2|18|1|4|D|SocioSocio
+2|17|1|6|M|
+2
+2|17|1|a|D|SocioSocio
+2|16|1|D|F|
+2|16|4|K|M|
+2|18|1|7|F|
+2|18|L|E|K|
+2
+1|14|6|4|D|ghhg
+1|16|3|I|K|
+1
+1|10|6|4|D|Romantic
+1|10|2|U|J|
+1
+2|7|3|a|D|CoolML
+2
+1|10|1|4|D|peacequack2
+1|10|7|1|G|
+1|10|8|F|K|
+2|13|7|4|D|cpgirl52
+2|13|1|E|N|
+2|13|1|E|N|hi
+2|13|5|E|N|/a2CJ
+2|13|5|E|N|/a2GI
+2|13|L|E|N|/e11
+2|13|8|H|N|
+2|13|4|H|N|/a2HL
+2|13|4|H|N|hi
+2|13|4|H|N|hi hi hi hi hi
+2|13|4|H|N|/a2FL
+2|13|2|K|Q|
+2|13|3|K|Q|/j10
+2|13|5|O|M|
+2|13|3|O|M|/a2EL
+1
+2
+2|13|7|4|D|cpgirl52
+2
+2|13|7|4|D|cpgirl52
+2
+2|13|7|4|D|cpgirl52
+2
+1|8|6|4|D|jocelyn49
+1|8|3|2|D|
+1
+2|17|6|4|D|sundaze
+1|18|5|a|D|dogy25
+1|18|3|9|G|
+1|18|4|9|G|/a25C
+2|17|6|O|H|
+2|16|1|S|I|
+1|18|4|9|G|how did you get that
+1|18|4|9|G|i for got
+1|18|4|V|B|
+1|18|1|O|C|
+1|18|1|O|C|sundaze
+2|16|3|6|F|
+2
+1|18|1|O|H|
+1|18|1|O|H|where did you get that
+1
+1|18|3|4|D|dogy25
+2|10|6|4|D|sundaze
+1|18|3|C|H|
+2|10|7|R|L|dude
+1|18|3|G|O|sundaze
+2|10|7|R|L|i forgot how to get ninja
+1|18|7|K|N|
+2|10|7|R|L|yes?
+1|18|8|K|N|tell me how to get that hat
+2|17|7|R|D|
+1|18|7|K|N|how?
+2|16|1|O|L|
+1|18|5|N|D|
+1|18|1|N|D|how did you get it?
+2|16|1|O|L|of coming soon
+1|18|1|L|K|
+2|17|1|O|L|
+1|18|6|R|F|
+2|17|6|T|B|
+1|18|1|Q|M|
+2|17|1|T|B|
+1|18|1|Q|M|nothing happend
+2|17|1|M|F|
+1|18|2|R|F|
+2|17|1|M|F|hmm
+2|17|7|M|H|
+2
+1|18|2|R|F|those 2 people helped me build this game
+1|18|6|U|B|
+1|18|4|B|E|
+1
+2|17|2|a|D|sundaze
+1|17|3|a|D|dogy25
+2|16|2|Q|D|
+1|17|5|V|G|
+2|16|6|M|J|
+1|16|2|K|G|
+2|16|2|P|F|right here
+1|16|2|G|K|
+2|16|2|G|O|yep
+2|16|7|Q|L|
+2|16|7|K|Q|
+1|16|2|G|K|those 2 people at the bottom helped me build thi
+2|16|7|S|K|
+1|16|3|G|K|this game
+1|16|7|N|L|
+1|16|6|N|M|
+1|16|6|R|D|
+1|16|1|I|K|
+1|16|5|M|L|
+1|17|1|J|I|
+1|16|L|K|J|
+1|16|7|N|L|/a2TM
+2|16|2|S|K|what
+1|18|1|N|L|
+1|18|1|M|L|
+2|16|2|S|K|dude
+2|16|2|S|K|i know how to change the theme on wordpress
+1|18|1|M|L|how
+1|18|7|O|L|
+2|16|2|S|K|YES I DO
+2|16|2|S|K|I SEE IT
+1|18|1|O|L|HOW
+2|16|2|S|K|OKAY SO
+1|18|L|O|L|
+1|18|8|O|L|
+1|18|L|O|L|
+1|18|L|O|L|how do you do it?
+1|18|7|Q|L|
+1|17|1|P|K|
+1|16|8|O|K|
+2|16|2|S|K|dude
+2|16|2|S|K|on ur wordpress
+2|16|2|S|K|did u do it
+1|16|1|O|K|do what
+1|16|1|O|K|tell me on snaildom
+2|16|2|S|K|ok
+2
+2|12|7|4|D|antyca123
+2|12|7|4|D|/a2RK
+2|12|5|L|K|
+2|12|6|M|B|
+2
+1
+1|13|8|4|D|violeta139
+1|13|7|d|C|
+1|13|5|Q|R|
+1|13|4|1|C|
+1
+1|13|2|4|D|SocioSocio
+1|16|1|R|D|
+1|16|3|1|C|
+1
+1|17|3|a|D|SocioSocio
+1
+1|17|3|a|D|SocioSocio
+1|17|L|N|J|
+1|16|5|Z|D|
+1
+1|16|5|a|D|SocioSocio
+1
+2|14|7|4|D|Miner
+2|17|1|1|C|
+2
+3|14|6|4|D|maximo959
+3|14|2|B|E|
+3
+3|14|7|4|D|maximo959
+3|14|L|I|N|
+3|14|1|J|J|
+3|14|L|N|I|
+3|14|L|R|G|
+3|14|L|N|K|
+3
+2|9|6|4|D|sailors
+2
+3|14|7|4|D|mimike
+3|14|7|E|F|
+3|14|2|c|C|
+3|14|4|W|G|
+3|14|1|d|C|
+3
+2|1|7|4|D|yammilko026
+2
+3|14|3|a|D|mimike
+3|14|3|L|H|
+3|14|8|3|E|
+3
+2|14|8|4|D|yammilko026
+2|14|2|b|J|
+2|17|1|U|H|
+2|17|1|L|K|
+2|16|L|R|D|
+2|16|1|L|L|
+2|16|L|K|I|
+2|16|7|1|F|
+2
+2|14|6|4|D|yammilko026
+2|16|8|Q|O|
+2|16|4|F|F|
+2|16|3|R|D|
+2|16|3|R|O|
+2|16|1|E|H|
+2|14|1|I|M|
+2|17|L|H|O|
+2
+2|17|6|4|D|yammilko026
+2
+2|17|7|4|D|yammilko026
+2|16|7|W|N|
+2
+2|1|7|4|D|kjkszpj
+2|1|1|N|E|
+1|8|6|4|D|val val val
+1|8|7|P|G|
+2|1|H|N|E|/a2O8
+1|8|2|P|G|/e5
+2|1|I|G|P|/a2GF
+1|8|H|P|G|
+1|8|H|P|G|/j12
+2|1|1|H|J|
+1|8|L|P|G|
+2|1|L|H|J|
+2|1|3|W|R|
+2|1|5|T|J|
+2|1|2|U|F|
+1|8|L|P|G|vamos a el faro
+2|1|2|1|D|
+2
+1|8|L|4|F|
+1
+1|8|3|a|D|val val val
+1|8|2|N|N|
+2|1|1|a|D|kjkszpj
+2|1|3|1|C|
+2
+1|8|4|2|C|
+1
+1|13|3|4|D|breno
+1
+1|14|7|4|D|ClubPworld33
+1|14|7|R|F|
+1
+3|14|7|4|D|STAR20045
+3
+1|4|4|4|D|johnplaypc1
+1|4|8|H|J|
+1
+2|17|5|a|D|pumpkin
+3|4|5|a|D|STAR20045
+2|17|4|S|G|
+3|4|2|Y|B|
+2|17|1|I|D|
+3|4|2|Y|B|i want a hat
+2|17|4|C|C|
+3|4|3|D|D|
+2|17|7|b|G|
+2|17|7|b|G|follow me
+3|4|4|D|D|/a2AD
+2|17|7|U|E|
+3|4|8|c|G|
+2
+3|4|3|X|F|
+3|4|1|c|H|
+3
+2|17|3|a|D|pumpkin
+2
+2|17|3|a|D|pumpkin
+3|17|3|a|D|STAR20045
+3|17|2|T|H|
+2|16|8|E|G|
+2|16|5|G|I|
+2|16|1|K|H|
+3|17|2|T|H|pumpkin meet me on penguin chat 5
+2|16|1|K|H|cl i cl the pole
+3|17|1|W|B|
+3|17|7|R|F|
+3|17|1|X|B|
+3|17|1|X|B|/a2MK
+3|17|3|T|E|
+3|17|4|P|D|
+2|16|1|K|H|theres a penguin chat 5?
+3|17|2|P|D|what
+3|17|1|P|D|yes
+2|16|2|K|H|oh ok lol
+3|17|1|P|D|meet there
+3|17|3|R|F|/a2LK
+3|17|6|V|E|
+3
+2|16|1|K|H|ok
+3|17|1|a|D|STAR20045
+3|17|3|1|D|
+3
+2|16|4|X|D|
+2|16|3|M|E|
+2|16|6|J|M|
+2|17|3|H|G|
+2|16|1|R|E|
+2|17|6|I|H|
+2|17|2|7|P|
+1|4|7|4|D|STAR20045
+1|17|4|R|F|
+1|17|8|M|B|
+1|16|6|R|D|
+1
+1|16|3|a|D|STAR20045
+1|16|3|1|D|
+1
+2
+1|17|5|a|D|STAR20045
+1
+1|9|1|4|D|Dommy
+1|16|1|F|N|
+1|17|1|P|O|
+1|18|L|2|C|
+1
+1|18|K|4|D|Dommy
+1|16|L|F|K|
+1|16|1|F|M|
+1
+1|17|2|a|D|Dommy
+1
+1|18|3|a|D|Dommy
+1
+1|18|4|a|D|Dommy
+1|18|1|A|I|
+3|8|1|4|D|STAR20045
+1|18|K|H|K|
+3|16|4|E|L|/a27H
+3|16|4|E|L|hey
+1|16|5|I|L|/e1
+1|16|3|F|N|
+3|16|4|E|L|how do you  get that suit
+1|17|1|F|N|
+3|16|1|A|L|
+1|17|1|H|M|
+3|16|1|A|L|the ninja one
+1|17|7|H|M|uh...
+3|16|8|A|L|how
+1|17|8|H|M|well...go to the edit account
+3|16|8|A|L|it wont work
+1|17|1|H|M|press new penguin
+3|16|8|A|L|ok
+1|18|1|H|M|
+3|16|7|F|N|
+1|18|1|H|M|then go to the n
+3|16|8|9|N|
+1|18|8|I|O|
+1|18|1|I|O|
+3|16|8|9|N|the what
+1|18|L|I|O|
+1|18|L|I|O|/a2WD
+1|18|7|F|O|
+1|18|7|F|O|the n
+1|18|7|F|O|then press it
+1|18|7|F|O|then press done
+3|17|2|I|I|
+1|17|L|F|O|
+3|18|1|F|K|
+3|18|1|F|K|cool
+3
+1|16|L|R|D|
+3|18|5|a|D|STAR20045
+3|18|3|1|D|
+1|16|L|O|L|
+3
+1|16|6|H|J|
+1
+4|10|6|4|D|princess8752
+4|10|6|W|C|
+4
+1|9|7|4|D|Dommy
+1
+1|17|1|a|D|Dommy
+1
+1|17|3|a|D|Dommy
+1
+1|17|3|a|D|Dommy
+1|16|5|H|H|
+1
+6|10|7|4|D|blossom
+6
+6|10|7|4|D|blossom
+6
+6|10|3|a|D|blossom
+6
+1|17|5|a|D|STAR20045
+1|16|8|R|D|
+1|16|2|O|K|
+1|16|3|c|G|
+1
+1|16|8|a|D|STAR20045
+1
+1|18|4|a|D|STAR20045
+1|16|6|P|J|
+1
+1|16|3|a|D|STAR20045
+1
+1|18|3|a|D|STAR20045
+1|16|4|F|K|
+2|14|7|a|D|StarMarine21
+2|14|3|D|E|
+1|16|7|C|L|
+2|14|2|L|J|
+2|14|2|L|J|how come ur a ninja
+1|16|7|K|M|
+1|16|7|K|M|see
+2|14|3|J|H|
+2|14|2|N|J|
+1|16|1|K|M|cuase im cool braw
+2|14|1|N|O|
+1|16|1|H|G|
+2|14|1|N|O|are u a member
+2|14|4|J|L|
+1|18|1|I|L|
+2|14|7|J|O|
+2|14|1|J|O|this game was abondoned
+2|14|5|R|E|
+2|14|1|O|N|
+2|14|3|I|M|
+2|14|3|K|O|
+2|14|3|A|M|
+2|14|3|H|K|
+2|14|7|H|K|/a2IJ
+2|14|4|K|M|/a2KO
+2|14|4|K|M|/a2FL
+2|14|4|J|O|/a2HN
+2|14|2|R|E|
+2|14|2|R|E|/a2NN
+2|14|2|R|E|/a2HK
+2|14|2|R|E|/a2VN
+2|14|2|R|E|/a2ID
+2|14|2|R|E|/a2AN
+2|14|2|R|E|/a2LC
+1|18|2|I|L|....clothes
+1|18|1|J|D|
+1|18|1|J|D|/a2I8
+2|14|2|K|O|
+1|18|1|G|H|/a2WB
+1|18|L|G|H|/j9
+1|18|L|1|E|
+1
+2
+2|7|6|4|D|morito06
+2|7|7|I|G|
+2|18|6|d|C|
+2|18|3|E|B|
+2|18|4|E|G|
+2|18|8|2|H|
+2|18|5|d|B|
+2
+2|18|3|a|D|morito06
+2|18|5|1|F|
+2
+1|14|7|4|D|flareochu
+1
+1|1|5|4|D|Ethan217
+1|1|2|2|F|
+1
+1|13|8|4|D|Tiaguinho66
+1|13|4|Q|H|
+1|13|3|F|I|
+1|13|3|1|E|
+1
+1|1|8|4|D|Billdale
+1|1|3|1|C|
+1
+1|1|3|4|D|Billdale
+1|1|2|d|C|
+1
+1|4|5|a|D|dogy25
+1
+4|1|1|a|D|Alpha Moose
+4|1|3|Q|F|
+4
+1|4|7|4|D|dogy25
+1|16|1|M|E|
+1|16|7|H|B|
+1
+1|4|7|4|D|dogy25
+2|9|7|4|D|afvw6
+1
+2|9|6|H|F|
+2|9|7|d|D|
+2|9|1|4|D|
+2
+1|17|7|4|D|dogy25
+2|9|8|4|D|afvw6
+2|9|5|I|D|
+1|16|7|K|B|
+2|9|1|F|B|
+1|16|8|F|I|
+2|9|1|F|B|Woah
+2|9|1|F|B|/a2EK
+1|16|7|P|F|
+2|9|1|K|H|
+1|16|3|H|I|
+2|9|3|Q|I|
+1|16|7|Q|F|
+2|9|2|Q|I|Am i a Truck like you?
+1|16|7|M|G|
+2|9|2|J|D|
+1|16|1|M|G|no
+2|9|1|J|E|
+1|16|7|W|G|
+2|9|1|J|E|I there Admins and Mod in this?
+1|16|2|I|K|
+2|9|1|N|G|
+1|16|7|X|G|
+1|16|4|V|G|
+1|16|2|V|G|
+1|16|1|R|D|
+2|9|1|N|G|Is there Mods and Admins in this?
+1|16|3|R|L|
+1|16|3|K|H|
+1|16|7|V|G|
+1|16|1|R|K|
+2|9|8|H|D|
+2|9|8|H|D|/a2RI
+2|9|8|H|D|/a2TH
+1|16|6|U|H|
+2|9|8|H|D|/a2PL
+2|9|8|H|D|/a2SG
+2|17|1|H|D|
+2|16|3|H|J|
+1|16|2|U|H|af you there?
+2|16|5|L|I|
+1|16|2|U|H|see
+1|16|4|Q|M|/e1
+2|16|2|L|I|Ya
+1|16|8|Q|L|
+2|16|2|L|I|:D
+2|16|4|L|I|/e1
+1|16|2|Q|L|cool right?
+2|16|2|L|I|/e8
+1|16|3|F|L|
+2|16|1|L|I|Ya
+2|17|1|L|I|
+1|16|8|F|L|this game is getting fixed
+2|17|L|L|I|
+1|16|7|I|L|
+1|17|1|I|L|
+1|17|L|I|L|
+1|17|L|I|L|/e1
+2|17|L|L|I|Aain...Is there Mod  and Admins?
+1|17|L|I|L|no
+2|17|L|L|I|Why?
+1|16|L|L|N|
+2|17|L|R|E|
+1|16|H|L|N|
+2|16|5|R|M|
+1|17|1|J|G|
+2|16|5|U|F|
+1|18|1|J|G|
+2|16|3|2|E|
+2
+1|18|8|Q|O|
+1
+2|9|8|4|D|afvw6
+1|18|6|4|D|dogy25
+1|18|8|E|L|
+2|16|7|H|M|
+2|16|7|P|B|
+2|16|7|J|O|
+2|16|7|F|C|
+1|18|8|E|L|want to know how to be a ninja
+2|16|7|F|C|Im gonna Run you over
+1|18|1|E|O|
+1|18|8|E|O|RUNS
+2|16|5|F|G|
+2|16|1|F|G|/a2HM
+1|18|4|V|E|
+2|16|7|E|P|
+1|16|3|J|I|VROOM
+2|16|6|Q|H|
+1|16|1|H|O|CRASHES IN
+1|16|1|P|H|
+2|16|2|Q|H|Where the Dojo
+1|16|1|P|H|trurns in ninja
+1|16|1|P|N|
+1|16|1|P|N|its not on it
+2|16|1|Q|H|How do you be Ninja
+1|16|1|P|N|last letter
+2|16|1|Q|H|Huh?
+1|16|1|P|N|the one at the end
+2
+1
+1|18|3|4|D|dogy25
+2|16|3|a|D|afvw6
+1|18|6|D|L|
+2|16|3|J|G|
+2|16|3|J|G|Brb Bathroom
+1|18|8|D|L|ok
+1|18|6|D|L|/a2II
+1|18|4|E|F|
+1|18|8|E|M|
+1|14|1|E|M|
+1|14|4|A|F|
+1|14|4|E|E|
+1|14|8|I|N|
+1|14|3|D|H|
+1|14|1|E|L|
+1|14|6|H|J|
+1|14|8|H|J|you back?
+1|14|2|G|H|
+1|14|2|G|K|
+1|14|5|G|B|
+1|14|5|F|J|
+2
+4|9|7|4|D|afvw6
+4|16|1|A|K|
+1|14|1|F|J|af
+4|16|4|E|L|
+4|16|1|E|L|Yes?
+1|14|1|F|J|im making my new cpps now
+4|16|1|E|L|Another one
+1|14|6|H|K|
+4|16|1|E|L|A diffrent one?
+1|14|1|H|K|yes
+1|14|8|H|K|the cpps will open tommrow
+4|16|1|E|L|Will it have Admin and Mods Prince Princess
+4|16|1|E|L|Queen and King?
+1|14|1|H|K|the game will called club penguin plus and yes
+1|14|8|K|M|
+4|16|1|E|L|Can i be one maybe
+4|16|1|E|L|How do i get it?
+1|14|8|K|M|i will open tommrow
+1|14|3|H|M|
+4|16|1|E|L|Can i have a Job
+4|16|1|E|L|On it?
+1|14|8|H|M|mods and admid wont be added on it when we open
+4|17|1|E|L|
+1|14|8|H|M|but soon
+1|14|1|H|M|
+4|17|1|I|N|
+1|14|1|H|M|lots will play it
+1|14|1|L|N|
+1|14|1|L|N|we do have lots of beta players now
+4|17|1|I|N|What rank comes from the Start?
+1|14|1|L|N|want to play the beta
+1|14|1|L|N|regular for now
+4|17|1|I|N|Ok
+1|14|1|L|N|play.clubpenguinpl.us
+1|14|1|L|N|beta test it
+1|14|1|L|N|go to server sleet
+1|14|1|L|N|go to server sleet on it
+1|14|1|L|N|af you there?
+4|17|1|I|N|Ya
+1|14|1|L|N|go on server sleet on the new game i made
+3|9|7|4|D|patenguin
+1|14|1|L|N|meet me at ski lodge
+3|9|7|J|M|
+4|17|2|I|N|Im on
+1|14|8|L|N|ok where
+3|9|1|J|M|whats good herbs?
+1
+2|4|7|4|D|GameBoy
+2|4|3|N|N|
+2|4|3|N|N|/a2LO
+2|4|2|P|J|/a2IQ
+2|4|2|P|J|Hello
+2|4|3|Q|N|
+2|4|4|S|O|
+2|4|4|V|F|
+2|4|3|K|F|
+2|16|1|M|N|
+2|16|5|L|G|
+2|16|3|2|C|
+2
+4|17|5|M|K|
+3|9|6|J|M|/a2MJ
+3|9|6|J|M|whats good
+3|9|6|c|D|
+3|9|3|1|C|
+4
+3
+1|14|4|a|D|patenguin
+1|14|5|5|H|
+1
+1|10|7|4|D|icecream
+1
+1|18|7|4|D|poptart
+1|18|3|V|C|
+1|18|7|J|D|
+1|18|3|X|B|
+1|18|L|H|K|
+1
+1|6|2|4|D|cupcakesrule
+1|6|3|A|G|
+1
+1|18|L|4|D|cupcakesrule
+1

@@ -1,0 +1,499 @@
+1|17|6|9|H|jessicaporr
+1
+1|17|4|X|R|jessicaporr
+1|17|6|M|B|
+1
+1|1|5|9|H|gecko
+1|1|3|6|I|
+1
+1|14|5|9|H|64371k
+1
+1|14|6|X|R|64371k
+1
+1|12|8|9|H|Helen 2k5
+1|12|1|D|M|
+1
+1|8|5|9|H|CPtest135
+1|8|I|E|M|
+1
+1|8|L|9|H|CPtest135
+1
+1|8|5|9|H|CPtest135
+1
+1|8|7|9|H|Bob5646
+1|8|6|N|J|
+1
+1|14|4|9|H|RSNAlL
+1
+1|12|2|9|H|aron945
+1|12|2|K|N|
+1
+1|13|5|9|H|aron945
+1
+1|9|5|9|H|lovelife123
+1
+1|9|3|9|H|lovelife123
+1
+1|14|4|9|H|aron945
+1|14|H|I|I|
+1
+1|14|7|X|R|aron945
+1|14|8|5|N|
+1|14|4|H|G|
+1
+1|5|4|9|H|M64Misho64
+1|5|5|K|E|
+1|5|L|I|M|
+1
+1|5|3|9|H|M64Misho64
+1
+1|9|5|9|H|brutalight19
+1|9|L|L|M|
+1|9|L|O|J|
+1|9|2|M|F|
+1|9|4|8|I|
+1
+1|14|3|9|H|kittyhawk
+1|14|8|N|P|
+1
+1|14|4|9|H|kittyhawk
+1|14|7|K|A|
+1
+1|14|6|9|H|kittyhawk
+1|14|3|U|E|
+1|14|7|P|D|
+1|14|8|Y|J|
+1|14|6|Z|N|
+1
+1|14|6|X|R|kittyhawk
+1
+1|14|5|X|R|kittyhawk
+1
+1|14|3|9|H|kittyhawk
+1|14|3|Y|O|
+1|14|1|c|P|
+1
+1|14|3|X|R|kittyhawk
+1
+1|1|5|9|H|PooHiya1111
+1|1|6|B|N|
+2|14|5|9|H|kittyhawk
+2|14|4|B|Q|
+1
+2
+2|17|3|9|H|kittyhawk
+2
+2|17|4|X|R|kittyhawk
+2
+2|17|5|9|H|kittyhawk
+2
+1|14|5|9|H|S A N I T Y
+1|14|3|P|I|
+2|17|5|X|R|kittyhawk
+1
+2
+2|17|4|X|R|kittyhawk
+2
+2|17|4|X|R|kittyhawk
+2
+1|14|5|9|H|S A N I T Y
+1|14|5|D|M|
+1
+2|12|5|9|H|aron945
+2
+1|14|5|9|H|jayson8534
+1|14|4|a|N|
+1|14|5|Z|I|
+1
+1|14|6|X|R|jayson8534
+1
+3|1|5|9|H|Razer123
+3
+3|1|5|9|H|Razer123
+3
+2|12|2|9|H|aron945
+2|12|L|K|L|
+2
+2|12|4|9|H|aron945
+2|12|1|c|O|
+2|12|6|P|N|
+2|12|4|K|I|
+2
+2|12|5|9|H|aron945
+2|12|2|Y|N|
+2|12|7|b|L|
+2|12|H|J|K|
+2
+2|18|3|9|H|aron945
+2
+2|18|8|X|R|aron945
+2
+2|12|3|9|H|aron945
+2
+1|5|5|9|H|racker55
+1|5|3|7|I|
+1
+2|12|5|9|H|aron945
+2|12|3|H|K|
+2
+1|14|H|9|H|paintboy20
+1|14|1|J|I|
+1
+2|12|1|9|H|aron945
+2
+2|12|6|X|R|aron945
+2
+2|1|4|9|H|Hebert 1000
+2|1|L|K|B|
+2|1|3|I|H|
+2
+1|1|1|9|H|devinp
+1
+3|1|2|9|H|paintboy20
+3|1|3|6|H|
+3
+3|1|3|9|H|paintboy20
+3|1|3|E|L|
+3|1|5|D|I|
+4|14|7|9|H|
+4|14|7|M|K|
+4|14|3|R|M|
+3
+1|18|5|9|H|Rockmelt
+1|18|2|7|H|
+1
+1|14|5|9|H|kittyhawk
+1
+1|14|6|9|H|kittyhawk
+1
+1|14|5|X|R|kittyhawk
+1
+1|8|5|9|H|Zlo8 zlo90
+1|8|6|K|K|
+1|8|3|6|H|
+1
+1|8|5|9|H|Zlo8 zlo90
+1
+1|8|3|9|H|Zlo8 zlo90
+1|8|6|I|I|
+1|8|5|K|G|
+1
+1|8|5|9|H|Zlo8 zlo90
+1|8|1|K|L|
+1
+1|8|4|9|H|Zlo8 zlo90
+1|8|1|K|K|
+1
+1|13|5|9|H|Zlo8 zlo90
+1|13|5|9|H|
+1
+1|11|7|9|H|skipper789
+1
+1|4|4|9|H|Oscar 370
+1
+1|4|5|X|R|Oscar 370
+1|4|4|B|L|
+1
+1|17|L|9|H|air3
+1|17|J|O|J|
+1
+1|17|6|X|R|air3
+1|17|I|I|M|
+1|17|3|6|H|
+1
+1|11|5|9|H|ilovepengui
+1|11|7|L|L|
+1|11|7|V|J|
+1
+1|8|5|9|H|SledRacer
+1|8|1|L|B|
+1|8|L|H|L|
+1|8|2|G|N|
+1|8|5|P|L|
+1|8|3|6|H|
+1
+1|12|4|9|H|pachi 105
+1
+1|12|3|9|H|pachi 105
+1|12|3|K|F|
+1|12|8|c|P|
+1
+1|12|3|X|R|pachi 105
+2|14|5|9|H|Zlo8 zlo90 G
+1
+2|14|1|L|M|
+1|12|5|X|R|pachi 105
+1|12|3|X|R|ola amigo
+2|14|3|I|J|
+2|14|8|I|J|oi
+2|14|8|I|J|/a2VS
+2|14|8|I|J|voc~e é de verdade?
+2|14|7|P|O|
+1|12|3|X|R|ai
+2|14|1|P|O|você é real?
+1|12|3|X|R|si
+2|14|2|P|O|em?
+3|12|8|9|H|aron945
+3|12|7|N|P|
+1|12|3|X|R|soy real
+2|14|2|P|O|de onde vc é?
+3|12|7|Q|P|
+3|12|3|U|Q|
+3|12|3|U|Q|si
+2|14|2|P|O|espanhou?
+3|12|6|X|J|
+1|12|2|U|K|
+1|12|2|U|K|si
+3|12|3|S|Q|
+2|14|1|P|O|nignuem brasileiro?
+3|12|4|V|L|
+3|12|7|W|M|
+3|12|4|L|B|
+1|12|7|E|I|
+3|12|1|O|M|dj
+1|12|1|E|I|no amigo soy de mexico
+3|12|1|C|M|
+3|12|8|I|I|
+2|14|3|P|O|nadie brasileña?
+3|12|8|I|I|y yo de venezuela
+3|12|1|I|I|no
+1|12|1|I|N|no
+3|12|8|I|J|
+3|12|7|K|M|
+1|12|5|I|N|/e5
+3|12|2|R|O|
+1|12|5|L|B|
+3|12|2|K|L|
+3|12|4|K|L|/e5
+3|12|1|J|B|
+3|12|1|J|B|dj
+2|14|3|P|O|por qué no jugar en Club Penguin es más avanzado
+1|12|8|N|J|
+3|12|1|W|R|
+3|12|3|Z|R|
+3|12|3|Z|R|al cable
+3
+3|12|6|X|R|aron945
+3|12|8|M|M|/a2QN
+1|12|1|N|J|como
+3|12|1|N|H|/a2OP
+3|12|1|N|H|/a2QH
+3|12|1|U|O|ven
+3|12|3|W|S|
+3|12|3|W|S|al cable
+1|12|2|N|J|/a2WE
+3|12|8|S|J|
+1|12|2|N|J|/a28E
+3|12|3|X|R|
+1|12|2|N|J|/a2Q7
+3|12|3|X|R|aqui ven
+3|12|4|X|R|/a2NJ
+1|12|2|N|J|/a2QM
+3
+3|12|5|X|R|aron945
+1|12|2|N|J|/a2QO
+3|12|3|X|R|ves
+2|14|1|P|O|tirar
+3|12|8|O|L|
+1|12|2|N|J|/a2NN
+3|12|8|O|L|/a2SN
+1|12|2|N|J|jajaja
+3|12|7|D|O|
+3|12|7|D|O|/a2QM
+3|12|7|D|O|/a2RM
+3|12|7|K|N|/a2PQ
+3|12|1|L|D|
+3|12|1|L|D|the penguin band
+3|12|8|J|K|
+3|12|3|Y|R|
+3|12|3|Y|R|ven
+3|12|4|Q|K|
+3|12|1|Q|K|si
+3|12|8|X|R|
+3|12|3|a|S|/j14
+3|12|L|a|S|
+2|14|7|P|O|¿Seguro que no eres de Brasil?
+3|12|3|K|L|
+3|12|2|N|N|
+2|14|4|P|O|/a2MM
+3|12|2|N|N|soy de venezuela
+3|12|3|R|O|
+2|14|4|P|O|/e3
+1|12|7|E|K|
+3|12|3|R|O|entendido
+1|12|L|E|K|
+3|12|3|2|P|
+3|12|7|H|J|
+3|12|L|H|J|ven
+3|12|L|a|R|
+3|12|3|H|K|
+2|14|4|P|O|¿por qué no jugar Penguin Chat Club Penguin?
+3|12|1|C|G|
+3|12|1|L|O|
+3|12|2|L|O|no no eres socio
+3|12|1|L|O|gratis
+3|12|1|O|N|
+3|12|1|O|N|para ser socio link free penguin
+2|14|4|K|N|
+3|12|7|N|N|/a2OM
+3|12|1|H|K|
+3|12|L|H|K|
+2|14|8|K|N|eu juego Club Penugin y no free penguin
+3|18|1|H|K|
+3|18|1|I|N|
+2|14|7|K|N|penguin*
+1|12|2|O|L|
+2|14|1|K|N|como fes isto?
+3|18|8|I|N|PARA SER SOCIO SORDO
+3|18|2|N|M|
+3|18|2|N|M|NO
+3|18|2|S|L|
+1|12|2|O|L|oye como soy ninja
+3|18|L|S|L|
+1|12|3|D|H|
+2|14|2|K|O|
+3|18|1|Q|K|
+3|18|2|Q|K|en la erramienta y les das en la n
+3|18|1|G|H|
+2|14|8|K|O|el pingüino del club es mejor que este juego
+3|18|1|G|H|en new penguin
+3|18|1|I|N|
+3|18|8|I|N|no
+3|12|1|M|N|
+3|12|3|M|N|/e5
+3|12|1|M|N|chicos
+2|14|8|K|O|¿Qué?
+3|12|7|X|R|
+3|12|3|X|R|vengan
+3|12|3|b|T|
+3|12|3|b|T|denle clik en el cable
+3
+3|12|4|X|R|aron945
+3|12|3|Q|L|
+3|12|3|Q|L|/a2EJ
+3|12|3|Q|L|/a2FF
+1|12|8|D|H|oye como me vuelvo ninja
+3|12|3|Q|L|/a2IQ
+2|14|5|K|O|el pingüino club es un juego más avanzado este
+3|12|1|K|L|/a2NP
+3|12|8|M|O|
+3|12|2|M|O|no jose
+2|14|8|K|O|juego aquí es una versión anterior
+3|12|2|M|O|VENGAN A FREE PENGUIN
+3|12|2|M|O|para ser socio sin pagar
+3|12|4|S|M|
+3|12|3|T|O|
+3|12|3|T|O|vengan
+3
+3|12|2|X|R|aron945
+3|12|1|L|L|
+3|12|1|L|L|se fue
+3|12|8|F|H|/a2JM
+3|12|8|F|H|/a2KQ
+2|14|1|K|O|sabor no es falsa Club Penguin me gusta el origi
+2|14|1|K|O|original
+3|12|8|F|H|no jose sssssssssssssssssssssssss zlo
+3|12|2|O|O|
+2|14|1|K|O|han jugado Club Penguin?
+3|12|3|8|I|
+3|12|8|8|I|ven
+3|12|1|H|M|
+3|12|1|H|M|si
+3|12|8|H|M|me cre en abril
+3|12|8|J|Q|
+2|14|8|K|O|es más fresco, ¿no?
+3|12|8|J|Q|no
+3|12|8|J|Q|salgamos de aqui
+2|14|8|K|O|¿por qué?
+3|12|3|9|E|
+3|12|8|9|E|porque si
+3|12|2|8|K|
+3|12|2|8|K|vamos
+3|12|8|H|O|
+3|12|L|E|L|
+3|12|8|8|G|
+3|12|8|8|G|vengan
+3|12|7|8|G|/a2BK
+3|12|7|F|H|
+2|14|7|K|O|el Club Penguin partido y tener más lugares que
+2|14|1|K|O|etsa
+2|14|8|K|O|tendrá La'a fiesta de Halloween el 23 de octubre
+3|12|8|H|O|
+2|14|1|K|O|aquí no séra
+3|12|7|H|O|si pero ai que la fiesta no es larga
+3|12|3|M|N|
+3|12|1|M|N|la fiesta es corta
+3|12|1|M|N|en el 23
+3|12|4|M|N|salgamos
+3|12|3|6|J|
+3|12|1|9|F|
+3|12|1|6|H|
+1
+3
+3|12|1|9|H|aron945
+3|12|7|O|O|
+3|12|2|O|O|y el amarillo
+3|12|2|M|N|
+3|12|2|M|N|se fue
+3
+3|12|1|X|R|aron945
+3|12|5|L|N|
+2|14|5|K|O|TEM MAIS mais de 10 anos, festa todos aqui Não T
+2|14|2|K|O|aqui no
+2|14|6|K|O|/a2OQ
+3|12|8|L|N|ven
+3
+2|14|6|K|O|bye jugará Club Penguin
+2|14|6|G|N|
+3|12|4|9|H|aron945
+3
+2
+3|12|5|9|H|aron945
+3
+3|12|3|X|R|aron945
+3
+1|6|6|9|H|agentes5
+1
+1|14|6|9|H|penguinnew
+1|14|2|L|B|
+1
+1|12|8|9|H|aron945
+1
+1|12|2|X|R|aron945
+1
+1|18|6|9|H|pachi 105
+1
+1|18|3|9|H|pachi 105
+1
+2|13|3|9|H|ronniehuang
+2
+1|18|7|9|H|Christian
+1|18|7|d|Q|
+1
+1|18|5|X|R|Christian
+1
+1|12|5|9|H|aron945
+1
+1|12|5|9|H|aron945
+1
+2|1|5|9|H|leuder12345
+2|1|8|D|N|
+1|12|4|9|H|aron945
+1|12|2|I|L|
+1|12|L|I|L|
+1|12|L|I|L|yupi
+2|1|L|7|I|
+2
+1|12|L|C|F|
+1
+1|4|5|9|H|rockstar5916
+1|4|2|M|G|
+1|4|6|U|D|
+1
+1|4|5|X|R|rockstar5916
+1|4|3|M|G|
+1|4|1|M|G|
+1
+1|4|5|9|H|rockstar5916
+1|4|1|M|G|
+1

@@ -1,0 +1,2402 @@
+1|14|1|K|L|Engineer
+1|14|4|J|O|
+1|14|3|D|R|
+1|14|1|B|I|
+1|14|2|K|H|
+1|14|2|Z|L|
+1
+1|14|1|K|L|potm1
+1|14|H|D|L|
+1
+1|8|1|K|L|potm1
+1|8|5|G|N|
+1|8|6|S|E|
+1
+1|4|1|K|L|Scientist44
+1|4|4|P|K|
+1|4|1|H|L|
+1|4|5|N|L|
+1
+1|4|1|K|L|Scientist44
+1
+1|4|6|E|F|Scientist44
+1|4|8|8|I|
+1|4|3|M|I|
+1|4|3|6|K|
+1
+1|14|1|K|L|yonduro
+1|14|1|K|H|
+1|14|J|A|K|
+1
+1|1|1|K|L|yonduro
+1
+1|1|3|V|L|yonduro
+1
+1|9|1|K|L|Penguinice
+1|9|K|N|D|
+1|9|7|P|I|
+2|4|1|K|L|Scientist44
+2|4|1|N|J|
+2|4|1|N|J|hi
+2|4|6|N|J|/a2RI
+2|4|1|K|L|
+2|4|L|K|L|
+2|4|L|K|L|/j14
+2|4|4|Q|L|/a2MK
+2|4|4|Q|L|/a2OF
+2|4|4|Q|L|hi penguinnice
+2|4|6|R|H|
+2|4|3|E|G|
+2|4|3|E|G|follow me
+2|4|1|E|G|/e11
+2|4|8|K|N|/e10
+2|4|2|K|N|/a2BM
+2|4|1|N|M|
+2|4|6|Q|K|/a2NI
+2
+2|4|2|V|L|Scientist44
+2|4|7|N|K|
+2|4|1|N|K|hi
+2|4|1|N|K|how are u
+2|4|4|H|G|/e1
+2|4|5|K|D|
+2
+2|4|3|M|D|Scientist44
+2|4|2|Q|J|
+2|4|2|Q|J|hello
+2|4|1|M|L|
+2|4|2|M|L|/e9
+2|4|7|U|I|
+2|4|3|6|J|
+1
+2
+1|14|1|K|L|undefined
+2|4|1|K|L|Scientist44
+1
+2|4|1|K|L|
+2|4|1|L|K|
+1|14|5|V|L|undefined
+1|14|3|L|N|hi scientist
+1|14|3|L|N|im dane on epenguin
+1|14|3|L|N|[][][][][][]
+1|14|6|L|N|sheeba dooly uh
+1|14|4|U|K|
+2|4|2|Q|L|hi
+2|4|2|Q|L|iam scientist on eepeng.us
+2|4|2|Q|L|are u dane
+2|4|2|Q|L|undefind
+2|4|2|Q|L|iam
+2|4|2|Q|L|scientist
+2|4|2|Q|L|44
+2|4|2|Q|L|on epeng.us
+2|4|7|Q|L|/a2RI
+2|4|7|Q|L|/a2XL
+2|4|7|Q|L|are u there?
+2|4|7|Q|L|hello?
+2|4|7|Q|L|are u listneing?
+2|4|7|Q|L|?????
+2|4|7|Q|L|undefind
+2|4|7|Q|L|follow me
+2|4|7|Q|L|/j4
+2|4|7|Q|L|/e9
+2|4|7|Q|L|why are u not listneing
+2|4|7|Q|L|/e9
+2|4|7|G|D|
+1
+2
+2|4|6|E|F|Scientist44
+2|4|6|E|F|
+2
+1|14|1|K|L|ghhg
+1|14|5|O|K|
+1|14|3|L|K|
+1|14|6|N|H|
+2|12|1|K|L|Scientist44
+2
+2|4|1|K|L|Scientist44
+2|4|1|K|L|
+2|4|8|K|L|hi
+1|14|1|P|L|
+1|14|1|P|L|hi XD
+2|4|1|N|N|
+2|4|1|N|N|iam online in flippr
+1|14|1|I|L|
+1|14|1|I|L|you form flippr
+2|4|1|N|N|iam in the town
+1|14|1|I|L|lol
+2|4|1|N|N|iam pilot10
+1|14|6|I|L|yeah
+1|14|6|I|L|XD
+1|14|6|I|L|yes
+2|4|3|H|N|
+2|4|8|H|N|u see me on flippr
+2|4|7|L|M|
+1|14|6|I|L|yeah
+2|4|1|L|M|hello?
+2|4|7|L|M|ok
+1|14|6|I|L|hii
+2|4|1|L|M|hi,lol
+2|4|1|L|M|hey
+2|4|1|L|M|lol
+2|4|2|L|M|can i ask u a question
+1|14|8|I|L|no
+1|14|H|G|O|
+2|4|1|L|M|please
+1|14|H|G|O|im old here
+2|4|1|L|M|how to make a cpps
+3|4|1|K|L|Batman
+2|4|1|L|M|oh
+2|4|1|I|O|really
+3|4|3|J|N|
+1|14|H|G|O|idk
+3|4|1|L|O|
+3|4|1|L|O|its me
+1|14|H|G|O|o-o
+2|4|1|I|O|are u micp
+1|14|H|G|O|mico?
+3|4|1|L|O|im from Flippr
+2|4|1|I|O|mico
+3|4|7|R|N|
+1|14|2|P|N|
+2|4|7|P|O|
+2|4|7|P|O|are u mico
+3|4|3|M|O|/a2GQ
+1|14|2|P|N|lol
+1|14|2|P|N|i too said that
+2|4|7|P|O|iam from flippr,iam in the town,iam pilot10
+3|4|3|M|O|/j9
+2|4|6|G|O|
+3|4|7|F|M|
+3|4|5|L|N|
+2|4|8|G|O|so...........
+3|4|H|L|N|/a286
+3|4|2|K|O|
+3|4|2|K|O|/a2EN
+4|8|1|K|L|iLoveMusic
+3|4|2|K|O|/e11
+4|8|8|D|K|Hello! c:
+3|4|6|K|I|
+4|8|7|I|K|
+2|4|8|G|O|hi
+1|14|2|P|N|Music
+2|4|1|I|N|
+3|4|7|T|F|
+4|8|8|I|K|yes? c:
+4|8|7|O|M|
+2|4|1|I|N|iam a scientist!
+2|4|5|O|J|
+1|14|2|P|N|you form flippr??
+3|4|1|E|O|
+4|8|2|O|M|flippr? whats that?
+3|4|7|E|O|IM BATMAN NENENENENENEOW
+1|14|2|P|P|
+1|14|2|P|P|flippr.pw
+3|4|7|E|O|a cpps
+4|8|4|O|M|/e3
+4|8|H|O|M|
+4|8|H|O|M|cpps??
+2|4|1|I|P|
+2|4|1|I|P|yes
+1|14|2|P|P|yeah
+2|4|1|L|O|
+2|4|1|L|O|club penguin private server
+4|8|H|O|M|i form cpps.me
+2|4|1|L|O|lol
+4|8|H|O|M|cpps.me is too
+3|4|8|E|O|wow
+3|4|8|E|O|lol
+2|4|1|L|O|it means ur born there
+4|8|H|O|M|lol XD
+2|4|1|L|O|lol
+1|14|5|T|M|
+2|4|1|L|O|can i ask u a question music
+2|4|1|M|M|
+4|8|H|O|M|ok
+5|4|1|K|L|Mico
+2|4|1|M|M|can i as u a question
+1|14|2|T|M|SAY NO
+5|4|5|R|N|
+2|4|1|M|M|how to make a cpps
+5|4|5|R|N|ghhg hy
+1|14|5|Q|O|
+5|4|6|R|N|/a2QO
+4|8|H|O|M|ghhg
+3|4|1|E|O|/a2SJ
+5|4|6|R|I|/a2TL
+4|8|2|S|N|
+4|8|2|S|N|ask qustion! XD
+5|4|4|J|P|
+4|8|2|S|N|idk
+3|4|3|K|N|
+4|8|1|O|O|
+5|4|2|N|P|
+4|8|1|O|O|idk is i not know
+5|4|2|N|P|ghhg
+3|4|3|E|M|
+3|4|4|K|L|
+2|4|7|Q|M|
+5|4|4|E|J|
+2|4|3|Q|M|/e10
+2|4|3|Q|M|/a2KK
+1|14|2|Q|O|idk? XD
+5|4|1|I|F|
+5|4|1|6|J|
+1|14|2|Q|O|WHAT
+5
+2|4|8|G|M|
+1|14|3|D|M|
+3|4|8|K|L|idc is i dont care
+2|4|7|R|O|lool
+1|14|8|D|M|i want too make a cpps
+1|14|8|D|M|:(
+1|14|5|I|O|
+2|4|7|R|O|even i
+3|4|8|K|L|me too
+4|8|1|J|P|
+2|4|3|K|O|
+4|8|1|J|P|Whats going on
+3|4|8|K|L|:(
+2|4|3|K|O|even i want to mae a cpps
+4|8|1|Q|L|D:
+2|4|3|K|O|come to my chat
+4|8|1|Q|L|WHAT??
+2|4|8|G|N|
+4|8|1|Q|L|wheres
+4|8|1|Q|L|XD
+1|14|7|O|P|
+2|4|7|P|M|
+2|4|7|P|M|the link for my chat is
+3|4|7|D|L|
+3
+2|4|7|P|M|go on my chat please
+2|4|7|P|M|iam the main owner of the chat
+2|4|7|P|M|i created it
+1|14|1|O|P|LOOL??
+1|14|5|R|Q|
+4|8|1|Q|L|ok
+2|4|2|P|M|please go on it
+4|8|2|Q|L|whats link?
+2|4|2|P|M|please
+1|14|2|R|Q|HOW TO MAKE CHAT
+1|14|2|Q|N|AND WHERE
+2|4|1|P|M|i told the link
+4|8|2|Q|L|tell the link
+2|4|2|P|M|i will tell u on my chat
+4|8|2|Q|L|ok
+2|4|2|P|M|i said
+2|4|2|P|M|i said the link
+4|8|3|Q|L|/e3
+2|4|2|P|M|come on
+2|4|2|P|M|fats
+1|14|2|Q|N|HOW TO MAKE CHAT
+2|4|2|P|M|fast
+2|4|2|P|M|i will tell it on my chat
+2|4|1|P|O|
+4|8|2|S|O|
+2|4|1|P|O|first come on my chat then i will tell
+2|4|2|P|O|did u go on myc hat
+2|4|2|P|O|chat
+6|1|1|K|L|Batman
+2|4|2|P|O|how much time do u take to just type
+1|14|3|M|M|
+6|1|7|L|O|
+2|4|2|P|O|come on
+1|14|4|O|P|
+5|4|1|K|L|Mico
+6|1|1|P|Q|
+2|4|2|P|O|fast
+5|4|1|H|N|
+4|8|I|U|M|
+6|1|1|P|Q|im old blue
+5|4|8|J|L|
+4|8|I|S|K|
+2|4|2|P|O|come on
+5|4|5|L|P|
+2|4|4|S|M|
+4|8|2|S|K|ghhg
+6|1|8|S|N|
+6
+2|4|3|P|J|
+6|1|3|V|L|Batman
+2|4|2|O|E|/e10
+6
+1|14|2|O|P|yeah
+1|14|5|P|N|
+2|4|1|O|E|cries
+2|4|8|O|E|/a2UJ
+4|8|2|S|K|you can go to other room
+4|8|2|S|K|XD
+2|4|8|O|E|/e10
+6|1|2|V|L|Batman
+1|14|2|P|N|whats link
+1|14|5|N|F|
+6
+1|14|5|N|F|AND WHAT YOUR CHAT
+2|4|8|O|E|cried
+1|14|5|N|F|TELL ME
+2|4|8|O|E|cries
+6|17|3|V|L|Batman
+2|4|1|K|G|
+6|17|1|P|N|
+1|14|1|N|F|I NOT KNOW WHAT CHAT
+6|17|L|L|L|
+4|8|2|S|K|conts!
+1|14|2|L|H|
+4|8|2|S|K|XD
+2|4|1|K|G|omg
+4
+2|4|1|K|G|just go on the chat!
+4|17|7|V|L|iLoveMusic
+6|17|L|O|J|
+1|14|6|N|I|
+4|17|7|V|L|
+2|4|1|K|G|/e9
+6|17|5|I|L|/a2KE
+5
+2
+6|17|7|V|O|
+1|14|1|N|I|i not know what your chat -.-
+6|17|4|V|O|/a2MJ
+2|4|7|V|L|Scientist44
+6|17|4|S|L|
+2|4|3|6|I|
+4|17|4|L|L|
+4|17|4|L|L|/e3
+2|4|3|6|I|
+4|17|J|L|L|
+2|4|1|K|L|/e10
+6|17|3|N|O|
+1|14|1|N|I|WHAT CHAT
+2|4|6|L|E|
+1|14|7|8|J|/e10
+6|17|1|O|K|
+1|14|8|F|L|/e9
+6|17|1|O|K|we r cp characters
+1|14|6|N|E|
+1|14|6|N|E|WHATS CHAT
+1|14|6|N|E|TELL
+1|14|6|N|E|ME
+6|17|7|P|N|
+1|14|6|N|E|NOW
+2|4|5|K|G|
+2|4|5|K|G|a chat is a place where we can chat
+4|17|J|L|L|o-o
+4|17|5|O|N|
+6|17|3|8|J|
+6|17|3|Y|K|
+1|14|2|N|E|is night club
+6
+4|17|4|O|N|/e3
+2|4|1|K|G|are u so slow in typing?
+4|17|2|T|K|D:
+4|17|2|T|K|whats happened
+1|14|5|I|E|
+2|4|1|K|G|slow typer
+2|4|1|K|G|lol
+1|14|6|H|I|
+2|4|8|Q|L|
+1|14|6|K|I|
+6|1|2|V|L|Batman
+2|4|8|Q|L|come to my chat please
+6|1|7|Y|K|
+6
+4|17|2|T|K|JFF
+2|4|8|Q|L|i can make u a mod on my chat
+4|17|6|E|K|
+1|14|1|O|L|
+6|17|1|V|L|Batman
+6|17|3|J|M|
+1|14|1|O|L|WHATS CHAT
+1|14|4|O|L|/e3
+6|17|8|L|N|
+2|4|2|Q|L|i told u
+6|17|8|L|N|can i be mod
+2|4|2|Q|L|i told u what is a chat
+1|14|2|O|L|WHATS LINKK
+6|17|3|R|M|
+2|4|8|I|N|yes
+2|4|8|I|N|but
+6|17|6|I|M|
+2|4|8|I|N|on my chat
+2|4|8|I|N|for being mod
+2|4|8|I|N|u ahve to take a test
+2|4|1|M|N|
+2|4|1|M|N|my chat link is
+7|1|1|K|L|Connercynn
+4|17|K|E|K|
+7|1|5|G|H|/a2FN
+2|4|1|M|N|fast
+7|1|3|L|I|
+4|17|K|E|K|link is
+2|4|1|M|N|do u type so slow
+7|1|8|L|I|Hi guys
+4|17|K|E|K|??
+4|17|K|E|K|:L
+2|4|1|M|N|come on
+7|1|6|K|P|
+6|17|7|T|M|
+2|4|4|H|J|
+6|17|4|S|O|/a2NK
+7|1|1|K|G|
+7|1|7|K|G|/e2
+4|17|K|E|K|you not told link
+6|17|8|J|L|
+2|4|1|H|J|i have told the link many times!!!!!!!!!!!!
+7|1|8|K|L|
+4|17|6|C|M|/e3
+7|1|7|K|L|/a2LK
+2|4|1|H|J|cant u see
+1|14|3|J|M|
+1|14|3|J|M|COME ON
+7
+2|4|1|H|J|i said!!!!!!!
+1|14|8|F|M|
+2|4|2|E|M|
+2|4|2|E|M|the link is
+7|1|3|M|D|Connercynn
+7|1|4|M|M|
+1|14|8|F|M|you told link but
+2|4|1|H|K|
+2|4|1|H|K|now i said the link
+1|14|8|F|M|i not see
+2|4|1|H|K|but what
+2|4|1|H|K|u not see what
+2|4|7|H|K|/a2PL
+1|14|6|F|M|and tell link
+2|4|7|H|K|/a2FM
+2|4|7|H|K|/e5
+4|17|7|Q|J|
+2|4|7|H|K|i ahve told the link so many times
+4|17|6|P|I|
+7|1|4|N|M|
+2|4|7|H|K|/e9
+7|1|6|L|M|
+6|17|7|Y|M|
+2|4|7|H|K|i will not tell it again
+6|17|L|I|K|
+6|17|L|I|K|
+7|1|5|L|M|
+7|1|3|L|L|/a2IJ
+1|14|7|I|N|
+2|4|7|H|K|iam telling the link again and again and u guys
+7|1|3|L|G|
+1|14|I|I|N|
+2|4|7|H|K|are saying iam not telling
+7|1|4|L|K|
+2|4|7|O|M|
+6|17|L|I|K|im not allowed to chat on xat
+1|14|6|H|M|
+6|17|3|O|O|
+2|4|3|F|J|
+2|4|3|Q|P|why
+4|17|H|P|L|
+7|1|8|L|K|/a2LN
+2|4|3|Q|P|who does not allow u
+7|1|1|L|G|
+7
+7|1|6|E|F|Connercynn
+2|4|2|Q|P|ok
+7|1|5|I|H|
+6|17|1|O|O|and there are strangers
+2|4|2|H|I|
+7|1|7|S|O|
+6|17|4|G|I|
+2|4|2|L|M|
+7|1|I|K|K|
+4|17|H|J|M|
+6|17|4|G|I|and im a kid thats 7 years old
+7|1|8|O|M|
+4|17|7|Q|L|
+2|4|4|E|J|
+7|1|2|S|J|
+2|4|4|E|J|ur 7?
+2|4|7|E|J|/e5
+6|17|1|G|I|yep
+2|4|1|E|J|
+2|4|1|E|J|ur 7!!!!!!!!!!
+4|17|3|J|N|
+2|4|1|E|J|OK
+4|17|8|I|N|
+2|4|1|E|J|iam 10
+7|1|1|S|J|I am 11 years old
+1|14|1|H|M|you 999 XD
+2|4|1|E|J|BHABHABHABHA
+7|1|2|N|I|
+1|14|8|J|O|
+4|17|1|I|N|o-o
+7|1|5|N|H|
+2|4|H|E|J|by
+2|4|H|E|J|bye
+4|17|1|I|N|me is 15
+7|1|8|H|K|
+7|1|8|H|K|Hi
+2|4|H|E|J|goodbye
+1|14|8|J|O|D:
+2|4|8|D|L|
+7|1|8|H|K|Bye
+1|14|8|J|O|me 14
+7|1|8|L|O|
+6|17|3|C|N|
+7|1|8|L|O|I am 11
+4|17|2|G|J|
+4|17|5|E|M|
+1|14|1|J|O|I KNOW
+7|1|5|O|N|
+1|14|1|M|O|NO TELL
+6|17|4|D|M|
+1|14|1|M|O|XD
+7|1|5|O|J|
+4|17|8|E|M|D:
+7|1|8|O|J|OK OK
+4|17|1|K|N|ghhg
+4|17|1|K|N|Bye cute
+7|1|1|I|L|
+4|17|5|K|N|be*
+6|17|8|D|M|D:
+7|1|7|O|J|
+1|14|1|M|O|bye XD
+7|1|2|J|K|
+1|14|1|M|O|be??
+1|14|1|M|O|ok
+1|14|J|Q|M|
+7|1|8|J|K|Lets have a party
+7|1|4|L|I|
+2
+6
+7
+4
+6|17|6|E|F|Batman
+6|17|1|O|K|
+1|14|J|D|D|
+1
+6
+1|14|6|E|F|ghhg
+7|1|8|M|D|Connercynn
+1
+7|1|3|O|K|
+6|17|6|E|F|Batman
+7
+4|17|3|M|D|iLoveMusic
+6
+7|1|1|K|L|Connercynn
+8|1|1|K|L|Batman
+7|1|7|D|D|
+7
+4
+8|1|6|T|J|
+7|1|6|E|F|Connercynn
+8
+7|1|7|I|M|/a2SK
+8|17|7|V|L|Batman
+7|1|7|X|K|
+7
+8|17|3|9|L|
+8
+8|17|7|C|L|Batman
+9|8|1|K|L|iLoveMusic
+9|8|6|H|L|
+8
+9|8|1|H|N|
+7|1|1|K|L|Connercynn
+7|1|2|T|N|/a2GL
+7
+9|8|5|L|K|
+7|1|1|V|L|Connercynn
+7|1|1|I|M|
+9|8|7|K|D|
+7|1|8|I|M|Hi iLoveMusic
+9|8|1|L|H|
+7|1|6|I|M|
+9|8|1|L|H|hi
+9|8|1|M|N|
+9|8|1|M|N|i relogin
+7|1|8|I|M|How are you doing?
+7|1|7|E|M|
+6|14|1|K|L|ghhg
+7|1|3|I|M|
+6|14|4|K|M|/e5
+8|17|1|V|L|Batman
+8
+7|1|8|I|M|Hi ghhg
+7|1|3|D|K|
+9
+5|14|1|K|L|iLoveMusic
+7|1|1|G|N|
+5|14|2|O|M|oops
+5|14|8|O|M|XD
+7|1|7|F|M|
+8|17|7|C|L|Batman
+5|8|1|O|M|
+7|1|6|F|M|/e1
+8|17|4|R|N|
+6|14|5|M|O|
+8|17|3|R|O|
+6|14|2|M|O|say /e5
+8|17|4|R|O|/e2
+6|14|6|P|M|
+5|8|1|O|M|/e5
+5|8|1|O|M|lol
+7|1|2|I|O|
+8|17|2|R|O|/e5
+5|8|1|O|M|its emote
+5|8|1|O|M|/e2
+7|1|4|D|L|
+5|8|1|O|M|/e4
+8|17|3|R|O|/es
+5|8|1|O|M|/e0
+5|8|1|O|M|/e9
+5|8|1|O|M|/e2
+5|8|1|O|M|/e0
+7|1|6|D|L|/e2
+8|17|3|R|O|/e6
+5|8|1|O|M|/es
+5|8|1|O|M|lol
+8|17|3|R|O|/e0
+7|1|4|H|L|
+6|14|3|I|L|
+7|1|5|I|O|
+6|14|7|L|L|
+7|1|4|F|K|
+5|8|1|O|M|/ed
+8|17|3|R|O|/e4
+5|8|1|O|M|XDD
+7|1|4|H|M|
+8|17|3|R|O|/e8
+7|1|1|9|G|
+5|8|1|O|M|/ex
+8|17|3|R|O|/et
+7|1|5|F|K|
+8|17|L|R|O|
+7|1|1|I|L|
+5|8|1|O|M|/ed
+5|8|1|O|M|/d
+7|1|1|I|L|/e10
+7|1|5|I|L|/e1
+5|8|L|O|M|
+5|8|L|O|M|XD
+8
+7|1|L|H|M|
+6|14|8|N|N|
+6|14|8|N|N|how
+5|8|L|O|M|say magic! XD
+8|17|7|C|L|Batman
+6|14|1|N|N|magic
+8|17|8|6|I|
+7|1|L|H|M|/a2BO
+8|17|7|B|K|
+5|8|L|O|M|lol
+7|1|L|H|M|/a267
+8|17|L|L|N|
+6|14|2|N|N|NO WORK
+7|1|1|I|H|
+6|14|2|N|N|HOW
+6|14|2|N|N|TO
+7|1|1|I|H|/j2
+6|14|2|N|N|DANCE
+7|1|2|F|L|
+6|14|2|N|N|ON TEXT
+6|14|2|N|N|XD
+5|8|L|O|M|wut
+5|8|L|O|M|WUT
+7|1|L|F|L|
+8|17|L|L|N|/d
+8|17|L|L|N|/w
+6|14|2|N|N|/d
+6|14|2|N|N|/w
+6|14|2|N|N|/d
+6|14|2|N|N|:(((
+8|17|L|L|N|/d
+8|17|7|J|J|
+6|14|2|N|N|HOW
+6|14|6|K|M|
+7|1|5|F|H|
+7|1|1|E|N|
+5|8|L|O|M|say Magic AGAIN XD
+7|1|6|D|K|
+7|1|1|F|H|
+8|17|8|J|J|Magic
+6|14|1|K|M|Magic AGAIN
+5|8|L|O|M|lol
+8|17|8|J|J|/e?
+7|1|5|F|J|
+8|17|8|J|J|Magic AGAIN
+7|1|1|N|F|
+7|1|6|S|E|
+7|1|8|W|L|
+8|17|7|T|F|
+6|14|6|K|M|/H
+7|1|1|Q|I|
+8|17|1|T|L|
+6|18|1|K|M|
+6|18|1|K|M|NINJA! XD
+6|18|L|K|M|lolz
+7|1|2|M|N|
+8|17|8|G|K|
+5|8|L|O|M|XD
+8|17|8|G|K|how do u be ninja
+8|17|7|I|N|
+7|1|8|M|N|HOW DID YOU UNLOCK NINJA
+8|17|8|I|N|/ninja
+7|1|8|M|L|
+6|18|L|K|M|Magic! XD
+8|17|8|G|J|
+5|8|L|O|M|lol
+5|8|L|O|M|its not magic
+5|8|L|O|M|XD
+8|17|7|F|M|
+8|17|7|F|M|how do u do it
+8|17|3|R|O|
+8|17|4|R|O|/a2ON
+7|1|8|M|L|COME ON TELL US HOW DO YOU UNLOCK HIM?
+8|17|1|O|N|
+6|18|L|K|M|when you select new penguin you need to press N
+6|18|L|K|M|LETTER
+7|1|1|I|J|
+5|8|L|O|M|what??
+5|8|L|O|M|:L
+5|8|L|O|M|/e3
+6|18|L|K|M|:l?
+7|1|8|I|J|Doesn't work
+7|1|8|G|M|
+7|1|2|I|J|
+8|17|8|O|N|:/
+7|1|1|L|J|
+8|17|1|O|N|
+8|17|1|L|O|
+6|18|L|K|M|1. select new pengui then press N letter
+7
+8|17|1|L|O|COME ON TELL US
+4|1|1|K|L|Connercynn
+4|1|1|I|N|
+5|18|1|O|M|
+5|18|1|O|M|lol
+5|18|1|O|M|its works
+5|18|1|O|M|XD
+4|1|7|I|N|It doesn't work!
+4|1|6|G|N|
+5|8|1|O|M|ok
+4|1|6|J|I|
+5|8|1|O|M|search for penguin chat 3 2014
+5|8|5|L|I|
+6|18|L|K|M|NOO
+6|18|L|K|M|NO TELL
+6|18|L|K|M|PLZ
+5|8|1|L|I|/e3
+4|1|8|I|M|
+4|1|8|I|M|pressing N doesn't work
+8|17|1|P|L|
+4|1|3|B|H|
+4|1|8|E|I|
+6|18|L|K|M|press N but not keyboard
+6|18|L|K|M|on word penguin
+4|1|1|E|I|
+5|8|1|L|I|:l
+4|1|1|E|I|oh
+8|18|1|P|L|
+8|18|1|P|L|lol
+4|1|1|E|I|wait what?
+8|18|5|P|O|
+4|1|8|D|N|
+8|18|L|P|O|
+5|8|H|I|L|
+4|1|6|F|K|
+5|8|H|I|L|contrs!
+4|1|1|G|M|
+5|8|H|I|L|XD
+4|1|7|G|M|doesn't work
+5|18|1|I|L|
+5|18|1|I|L|NINJA PARTY! XD
+4|1|8|E|L|
+8|18|L|F|N|
+5|18|L|N|M|lol
+6|18|L|K|M|XDD
+4|18|1|E|L|
+5|18|L|N|M|search for penguin chat 3 2014
+6|18|L|K|M|YAY
+6|18|L|K|M|XD
+8|18|8|F|N|NINJA PARTY
+6|18|L|K|M|lol
+4|18|1|E|L|OH N IN THE END
+6|18|L|K|M|eyerone is ninja
+4|18|8|A|K|
+5|18|L|N|M|YES!! XD
+4|18|1|A|K|
+5|18|2|R|K|
+5|18|2|R|K|loll
+5|18|2|R|K|XDD
+4|18|L|H|L|
+5|18|L|R|K|lolll
+5|18|L|R|K|xdd
+8|18|7|D|I|
+8|18|2|P|N|
+4|18|1|G|L|
+8|18|2|P|N|/d
+8|18|2|P|N|how do u dance in the text
+6|18|L|K|M|IDK
+4|18|1|G|L|
+8|18|L|P|N|
+5|18|L|R|K|MAGIC XD
+4|18|1|E|J|
+4|18|8|E|J|HIYA
+8|18|L|P|N|lol
+4|18|7|C|J|
+8|18|1|H|J|
+8|18|6|H|L|
+4|18|8|C|J|*foot gets broken
+4|18|8|C|J|OW OW OW OW OW
+6|18|L|K|M|;9
+6|18|L|K|M|:(
+4|18|7|E|K|
+8|1|1|H|L|
+4|18|1|C|I|
+5|18|L|R|K|whats problem??
+4|18|H|C|I|
+4|18|H|C|I|is dead
+4|18|H|C|I|/e11
+6|18|L|K|M|how to dance on text
+4|18|L|C|I|
+8|18|7|G|O|
+4|18|L|C|I|I AM THE GHOST OF NINJA
+5|18|L|R|K|/e3
+8|1|1|G|O|
+6|18|L|K|M|WUTT
+4|18|8|D|L|
+4|18|6|H|K|
+8|1|1|G|O|/d
+8|1|1|G|O|/dance
+5|18|L|R|K|im ghost too! XD
+4|1|7|A|M|
+5|18|L|R|K|lol
+4|1|6|C|K|
+6|18|L|K|M|lolz
+6|18|L|K|M|XDD
+4|18|1|C|K|
+8
+3|10|1|K|L|youarecute
+8|17|1|V|L|Batman
+3|10|1|K|L|hello! ^-^
+8|17|1|V|L|
+5|18|L|R|K|CUTE!!!!!!!!!!!!!
+3|10|8|O|O|
+3|10|1|O|O|MUSIC!!!!!!!!!!!!!
+3|10|1|Q|L|hugs
+6|18|L|K|M|hugs
+6|18|L|K|M|XD
+6|18|L|K|M|loll
+4|18|1|D|L|
+5|18|L|R|K|ghhg
+8|17|3|O|M|
+5|18|4|L|N|/e3
+5|18|3|R|J|
+8|17|1|O|M|/ninja\
+5|8|I|R|L|
+5|8|I|R|L|how are you? c:
+3|10|2|Q|L|good :3
+3|10|2|Q|L|you?
+5|8|I|R|L|Great!
+3|10|1|Q|L|XD
+5|8|I|R|L|lol
+8|18|1|N|O|
+6|18|L|K|M|/e3
+8|18|L|N|O|
+6|18|L|F|L|
+3|10|2|Q|L|ok
+3|10|2|Q|L|go to get hats!
+3|10|2|Q|L|XD
+5|8|I|R|L|great idea! XDD
+5|8|I|R|L|lets go
+4
+5
+3
+3|17|1|V|L|youarecute
+5|17|1|V|L|iLoveMusic
+3|17|1|V|L|
+5|17|2|P|J|XDD
+5|17|L|R|L|LOL
+5|17|L|R|L|XDD
+6|18|8|F|L|lol xdd
+3|17|3|V|L|GHHG
+3|17|7|H|K|
+3|17|7|T|L|ok
+3|17|7|T|L|llets GOO
+3|17|7|T|L|XD
+3|17|L|T|L|
+5|17|L|R|L|loll
+6
+6|18|3|M|D|ghhg
+6|18|3|M|D|
+5|17|L|R|L|XDD
+5|17|L|R|L|lol
+5|17|L|R|L|lolololol
+5|17|L|R|L|XDD
+3|17|L|T|L|-o-
+3|17|L|T|L|XD
+6
+6|18|6|E|F|ghhg
+8|18|8|O|O|
+6|18|8|H|K|
+8|18|6|X|K|
+8|18|3|J|M|
+8|18|2|Q|M|/e3
+5|17|L|R|L|today nice day
+5|17|L|R|L|lol c:
+8|18|2|Q|M|/e11
+3|17|L|T|L|yeah
+8|18|2|Q|M|/es
+5|17|L|R|L|batman
+5|17|L|R|L|go away
+8|18|1|Q|M|/eh
+8|18|4|Q|M|/e3
+8|18|3|D|N|
+5|17|L|R|L|/e3
+8|18|7|H|N|
+6|18|7|Q|L|GIRLS
+6|18|7|Q|L|GET OUT
+6|18|7|Q|L|PLZ
+6|18|7|Q|L|NOWW
+8|18|2|H|N|/d
+3|17|L|T|L|zippy
+8|18|L|H|N|
+3|17|L|T|L|STOP
+8|18|4|T|M|
+5|17|L|R|L|yeah
+8|18|2|T|M|go away urcute
+6
+5|17|L|R|L|:l
+8|18|8|X|K|
+8
+5|17|L|R|L|GO TO night club
+3|17|L|T|L|XD
+6|18|6|E|F|ghhg
+8|17|L|V|L|Batman
+6|18|8|L|L|GRRRRRRRRR
+8|17|1|J|J|
+6|18|7|T|N|
+8|17|8|K|L|
+8|18|1|P|N|
+5|17|L|R|L|what xd
+8|18|5|P|N|
+6|18|2|T|N|WHATS GOOING ON
+8|18|3|P|N|/e9
+6|18|3|A|K|
+8|18|1|S|J|
+6|18|8|A|K|GIRLS
+6|18|3|P|L|/e9
+5|17|L|R|L|what? XD
+8|18|5|K|M|
+3|17|L|T|L|batman STOP
+8|18|7|U|O|
+3|17|L|T|L|and ghhg
+3|17|L|T|L|STOP TOO
+8|18|K|U|O|
+8|18|K|U|O|NO
+5|17|L|R|L|yeah
+6|18|1|O|N|
+8|18|K|U|O|EXPLODES
+6|18|1|O|N|WHAT
+6|18|1|R|M|D:
+6|18|1|R|M|>:(
+6|18|1|P|M|NEVER
+8
+1|10|1|K|L|SunnyBunny
+1|10|1|K|I|
+1|10|1|K|I|Hello c:
+1|10|8|K|I|MUSIC
+1|10|8|K|I|CUTE!!
+1|10|8|K|I|I HAPPY TO SEE YOU
+3|17|L|T|L|sunny
+1|10|7|Y|K|
+3|17|L|T|L|JOIN'
+3|17|L|T|L|XD
+5|17|L|R|L|sunny joinn
+7|1|1|K|L|Batman
+1
+7|1|8|J|O|
+1|17|7|V|L|SunnyBunny
+1|17|7|V|L|
+7|18|7|O|O|
+1|17|L|V|L|XD
+7|18|6|O|O|/a2SM
+7|18|5|U|N|/a2SK
+1|17|L|V|L|thank you best friends c:
+7|18|7|J|L|/a2TL
+7|18|7|J|L|/a2VI
+3|17|L|T|L|no problems! XD
+5|17|L|R|L|lol
+5|17|L|R|L|Np
+5|17|L|R|L|XD
+6|18|2|P|M|OH NO
+6|18|2|P|M|3 GIRLS
+6|18|2|P|M|D:
+6|18|1|K|M|
+6|18|1|K|M|WE NEED HELP
+6|18|7|N|M|
+6|18|2|Q|L|GIRLS STOP
+5|17|L|R|L|stop what? XD
+7|18|7|J|L|>:(
+3|17|L|T|L|lol
+7|18|2|U|M|
+1|17|L|V|L|NEVER! XD
+7|18|2|U|M|STOP DRILLING
+6|18|2|Q|L|GIRLSS
+6|18|2|Q|M|
+5|17|L|R|L|/e9
+3|17|L|T|L|/e9
+1|17|L|V|L|/e9
+1
+7|18|3|U|M|/e9
+7|18|4|U|M|/a2SM
+3
+5|17|L|I|D|
+5
+7|18|4|L|L|
+7
+6|18|7|Q|M|D:
+6|18|7|Q|M|XD
+7|18|3|V|L|Batman
+7
+6|18|H|S|J|
+1|17|4|M|D|SunnyBunny
+3|17|3|M|D|youarecute
+1|17|4|M|D|
+7|18|3|M|D|Batman
+5|17|L|M|D|iLoveMusic
+3|17|3|M|D|
+6|18|2|P|K|
+7|18|1|M|H|
+5|17|L|M|D|
+6|18|2|P|K|GIRLS!!!
+6|18|2|P|K|>:(
+7|18|4|N|H|
+5|17|2|I|K|
+5|17|2|I|K|BATMAN
+5|17|2|I|K|GET OUT
+7|18|1|M|F|
+7|18|1|M|F|/ed
+5|17|2|I|K|AND STOP FOLLOW
+7|18|1|M|F|NO
+5
+3|17|1|M|D|im back!
+7
+3
+7|18|3|M|D|Batman
+1|17|1|M|D|OHH
+1|17|1|M|D|i too
+1
+7|18|6|S|F|
+7|18|3|D|H|
+7
+6
+5|17|6|E|F|iLoveMusic
+5
+7|18|6|E|F|Batman
+3|17|6|E|F|youarecute
+7
+3
+7|18|6|E|F|Batman
+7
+1|17|6|E|F|SunnyBunny
+1
+7|18|6|E|F|Batman
+7|18|6|I|K|
+6|18|7|E|F|ghhg
+6|18|8|J|J|
+6|18|8|J|J|BATMAN
+7|18|4|F|G|
+7|18|4|D|J|/a2FD
+6|18|8|J|J|GO TO NIGHT CLUB
+6
+7|18|4|D|J|/a2FF
+7|18|1|I|L|WHAT
+7
+7|18|3|M|D|Batman
+7|18|2|G|N|
+6|18|3|M|D|ghhg
+6|18|1|K|J|-.-
+7|18|2|G|N|/coffee shop
+7|18|8|G|N|-.-
+6|18|1|K|J|girls on boilar room
+6|18|1|O|L|
+6|18|1|O|L|GO THERE
+7|18|5|I|E|
+6
+7|18|1|I|D|
+7
+8|10|1|K|L|iLoveMusic
+8
+9|6|1|K|L|youarecute
+9
+5|14|1|K|L|SunnyBunny
+5
+7|18|4|M|D|Batman
+7
+7|18|6|E|F|Batman
+6|18|2|M|D|ghhg
+7
+6|18|1|K|L|
+6|18|1|K|L|WHERE ALL DID GO
+6
+6|18|2|E|F|ghhg
+6|18|2|E|F|
+6|18|8|I|I|
+6
+6|18|3|M|D|ghhg
+6
+6|18|7|C|L|ghhg
+6
+6|18|3|V|L|ghhg
+6|18|7|Y|K|
+6
+6|18|3|V|L|ghhg
+6|18|3|V|L|
+7|18|3|M|D|Batman
+7|18|8|S|K|
+6
+7|18|2|T|M|
+7
+7|18|8|V|L|Batman
+7|18|8|H|L|
+6|18|4|M|D|ghhg
+7
+6|18|4|M|D|
+6
+7|18|3|V|L|Batman
+7
+4|12|1|K|L|penguin22
+4
+5|11|1|K|L|TheWolf
+5|11|7|Y|L|
+5
+4|9|1|K|L|OoBubblesoO.
+4
+3|10|1|K|L|SunnyBunny
+3|10|7|Y|L|
+3
+2|10|1|K|L|penguin22
+2|12|1|Z|L|
+2
+1|8|1|K|L|FOX
+1|8|5|I|J|
+1|8|4|N|K|
+5|11|3|V|L|TheWolf
+7|18|4|V|L|Batman
+3|10|3|V|L|SunnyBunny
+5|11|3|V|L|
+7|18|3|M|N|
+5|11|3|J|L|hello fox
+7|18|3|M|N|OH NO
+1
+7|18|3|M|N|r u boy
+5|11|7|S|K|
+7|18|4|I|E|
+7
+6|18|3|V|L|ghhg
+6|18|3|E|K|
+5|11|3|I|L|
+3|10|3|E|H|
+2|18|3|V|L|penguin22
+2|18|6|J|H|
+7|18|K|E|F|Batman
+3|10|8|E|H|goodbye
+7|18|1|G|L|
+3|10|8|E|H|:(
+7|18|1|L|O|
+5|11|7|P|L|
+6|18|8|E|K|yay
+6|18|8|E|K|sunnybunny is get out
+5|18|2|N|N|
+5|18|I|N|N|ok
+5|18|I|N|N|im ninja again
+6|18|8|E|K|YAYY
+2|18|1|J|H|XDD
+2|18|6|H|L|
+5|18|8|L|L|lol
+6|18|8|E|K|we happy
+7|18|7|Y|K|
+3
+7
+2|18|1|H|L|Yes
+7|18|3|V|L|Batman
+6|18|8|E|K|XDD
+7|18|3|M|L|
+5|18|1|L|L|XDD
+5|18|1|L|L|lol
+7|18|5|O|L|
+5|18|1|L|L|thank you all
+5|18|6|P|J|
+1|17|4|V|L|FOX
+6|18|8|E|K|sunnybunny is BYE
+6|18|8|E|K|XD
+1|17|3|A|L|
+2|18|1|H|L|lolz
+2|18|1|H|L|XDD
+1
+7|18|3|A|L|
+2|18|8|L|N|
+7|18|6|A|M|
+6|18|8|E|K|PARTYY
+5|18|2|P|J|yea
+5|18|2|P|J|XD
+6|18|7|P|M|
+7|18|L|A|M|
+2|18|1|L|N|lol
+6|18|3|H|J|
+5|18|L|R|L|
+5|18|L|R|L|Xdd
+6|18|1|H|J|LOLOLOLOLOLOL
+2|18|2|L|N|XDDD
+8|4|1|K|L|Zippy
+8|4|1|K|L|join team EVILS
+7|18|L|A|M|r u boy?
+2|18|8|L|N|D:
+8|4|2|E|Q|
+7|18|8|J|M|
+6|18|1|H|J|evils??
+7|18|8|J|M|D:
+8|4|1|E|Q|YES
+7|18|5|E|R|
+8|4|1|K|P|
+2|18|2|G|Q|
+8|4|1|K|P|HOW TO JOIN
+7|18|7|E|R|NO
+8|4|1|K|P|1. BE RED COLOR
+2|18|1|K|N|
+2|18|1|K|N|>:(
+2|18|5|M|O|
+6|18|1|O|I|>:((
+7|18|7|E|R|>:(
+5|18|8|H|N|
+6|18|2|L|P|
+5|18|8|H|N|WE NOT JOIN
+5|18|8|H|N|NINJAS VS ZIPPY
+7|18|7|E|R|>:((((
+7|18|7|E|R|YEAH
+6|18|2|L|P|YES
+7|18|6|N|L|
+8|4|2|P|N|
+2|18|6|N|P|
+8|4|2|P|N|MWAHAHAHA
+7|18|3|N|Q|
+8|4|6|S|J|
+7|18|3|P|P|
+2|18|2|N|P|/e5
+7|18|1|P|R|
+6|18|1|L|P|ohoh
+5|18|1|H|N|:l
+7|18|3|K|Q|
+5|18|8|G|Q|
+5|18|8|G|Q|WE NOT SCARED
+7|18|3|F|O|
+5|18|5|P|J|
+8|4|2|P|N|
+7|18|3|I|P|
+8|4|H|H|K|
+8|4|H|H|K|OK
+7|18|8|F|R|
+8|4|1|J|O|BATMAN
+8|4|1|J|O|JOIN NOW
+8|4|2|H|Q|
+6|18|2|L|P|NOO
+6|18|2|L|P|NO JOIN
+6|18|2|L|P|/a2KT
+7|18|7|F|R|NO
+5|18|1|P|J|plz no
+6|18|2|G|Q|
+7|18|5|W|K|
+5|18|2|J|P|
+6|18|8|G|Q|NONONONO
+7|18|1|P|L|
+7|18|1|P|L|I SAY NO
+8|4|8|H|Q|/e9
+2|18|2|Q|N|
+8|4|5|E|M|
+8|4|8|E|M|JOIN NO
+8|4|8|E|M|NOW*
+2|18|2|Q|N|I NOT JOIN
+6|18|6|G|Q|/e9
+2|18|3|I|M|
+5|18|1|J|P|>:((
+6|18|5|G|L|
+5|18|6|G|N|
+5|18|8|G|N|STOP
+7|18|3|E|O|
+6|18|1|G|L|GRRRRR
+7|18|4|E|N|
+2|18|1|I|M|>:(
+8|4|8|E|M|>:(
+7|18|4|F|P|
+8|4|8|E|M|ALL JOIN
+8|4|8|E|M|NOW
+7|18|1|E|N|
+2|18|8|I|M|NO
+7|18|1|E|N|>>>>>>>::::::::(((((((((((((
+6|18|8|G|L|NEVERE
+6|18|5|G|L|NEVER
+7|18|1|E|N|NO
+7|18|1|E|N|NEVER
+5|18|6|H|O|
+6
+8|4|8|E|M|NEVER??
+8|4|8|E|M|>:(
+1|9|1|K|L|ghhg
+1|9|5|O|J|
+5|18|7|P|M|
+2|18|5|K|O|
+1|9|1|M|L|
+1|9|1|M|L|oops
+1|18|1|M|L|
+1|18|1|M|L|/a2EO
+9|6|1|K|L|Girlspop
+2|18|7|R|O|
+9|6|8|N|Q|
+9|6|6|T|F|
+2|18|2|R|O|HI
+9|6|2|I|N|
+9|6|2|I|N|hola
+9|6|2|I|N|HIª!
+9|6|2|I|N|HIIH!
+2|18|3|K|P|
+9|6|6|Y|J|
+8
+9
+2|18|6|K|P|Hi
+2|18|7|R|P|
+1
+1|14|1|K|L|ghhg
+2
+10|12|1|K|L|penguin22
+11|4|1|K|L|Zippy
+9|6|4|V|L|Girlspop
+9|6|3|E|K|
+5
+12|4|1|K|L|TheWolf
+7|18|7|Q|O|
+9|6|7|Q|M|
+12|18|1|K|L|
+9|6|7|H|N|
+12|18|1|Q|L|
+9|6|7|H|N|/a2PL
+11|18|1|P|J|
+9|6|7|H|N|/a2QK
+10|12|5|N|N|
+9|6|2|M|M|/a2IN
+10|18|1|M|G|
+9|6|2|M|M|!ai 133
+11|18|1|P|J|XD
+9|6|2|M|M|!ai 11
+11|4|1|P|J|
+9|6|1|L|N|
+9|6|1|L|N|item?
+9|6|1|L|N|Clothing?
+9|6|6|F|N|/a2RM
+1|18|8|G|J|
+9|6|6|F|N|/a2QJ
+1|18|1|G|J|/e9
+9|6|6|S|E|
+1
+10
+9|6|1|L|M|
+11
+12
+9|6|1|L|M|CLOTHING!!
+1|18|7|M|D|ghhg
+9|6|7|F|K|/a2QK
+9|6|2|L|M|/a2QB
+1|18|1|M|K|
+1|18|7|N|L|
+1|18|1|N|L|batman
+1|18|4|D|D|
+9
+1
+1|18|6|E|F|ghhg
+1|18|5|O|M|
+1|18|5|O|M|BATMAN
+12|18|3|M|D|TheWolf
+12
+7|18|4|E|H|
+7|18|1|E|H|what
+7|18|8|P|N|
+1|18|2|Q|O|
+1|18|2|Q|O|go to night club
+1|18|4|I|D|
+1
+7|18|4|I|D|
+7
+13|10|1|K|L|penguin22
+13
+14|4|1|K|L|Zippy
+14
+14|10|1|K|L|LoLa
+14|10|4|F|P|
+14|10|2|I|M|
+1|18|3|M|D|ghhg
+1
+14|10|4|K|L|
+14|10|5|H|L|
+14|10|H|K|K|
+1|18|4|M|D|ghhg
+1|18|4|M|D|
+13|18|4|M|D|penguin22
+13|18|L|M|L|
+7|18|3|M|D|Batman
+13|18|L|M|L|XDD
+7|18|1|N|L|
+1|18|1|O|L|
+1|18|1|O|L|LOLZ
+14|10|8|H|K|
+14|10|8|H|K|hola
+14|10|8|H|K|jaja
+7|18|1|N|L|r u boy LoLa
+14|10|8|H|K|XD
+1|18|2|O|L|XDD
+7|18|5|H|M|
+14|10|8|I|M|
+14|10|6|I|M|/a2ON
+13|18|L|M|L|lol
+14|10|6|I|M|/a2MM
+1|18|L|O|L|
+14|10|6|I|M|Clothing!
+7|18|8|H|M|??????????????
+1|18|L|O|L|no
+13|18|L|M|L|i know she is not girl
+14|10|6|I|M|/j14
+7|18|L|H|M|
+14|10|8|F|O|
+14|10|8|F|O|ITEMS!
+7|18|L|H|M|r u girl
+7|18|L|H|M|/a2CP
+7|18|1|G|O|or boy
+13|18|L|M|L|yea
+14|10|8|F|O|what?
+13|18|L|M|L|she girl
+14|10|4|G|K|
+14|10|6|S|O|
+1|18|L|O|L|yes
+7|18|6|G|O|r u girl or boy
+14
+7|18|2|U|O|
+1|18|L|O|L|/j0
+1|18|L|O|L|its lol
+7|18|4|U|O|lol
+13|18|L|M|L|lol? XD
+13|18|L|M|L|loll
+14|10|L|C|L|LoLa
+7|18|3|U|O|/j5
+14|10|7|J|K|/a2SN
+7|18|3|U|O|lol
+14|10|7|J|K|/a2MO
+13|18|L|M|L|/j2
+13|18|L|M|L|cat
+14|10|L|F|K|
+1|18|L|O|L|lolz
+1|18|L|O|L|XDD
+14|10|8|I|K|!ai 11
+1|18|L|O|L|lololololol
+1|18|L|O|L|XDD
+14|10|6|S|L|
+14|10|2|S|L|!ai 12
+7|18|3|U|O|u cant add items
+14|10|7|H|M|/a2KO
+7|18|3|U|O|we r ninjas
+14|10|1|P|K|
+13|18|L|M|L|y3s/
+13|18|L|M|L|yes.
+7|18|3|U|O|we found secret ninja penguin
+1|18|L|O|L|yeah
+13|18|L|M|L|brb
+14|10|2|P|K|As I can be ninja
+14|10|6|I|M|
+14|10|8|G|K|
+1|18|L|O|L|no ask
+7|18|4|U|O|show us then
+13|18|L|M|L|ITS SECRET
+7|18|8|G|M|
+14|10|7|O|N|
+7|18|8|G|M|yep
+13|18|L|M|L|NO TELL
+7|18|8|G|M|it secret
+1|18|L|O|L|say hello
+14|10|4|O|N|/e4
+1|18|L|O|L|XD
+14|10|1|K|N|/e10
+13|18|L|M|L|lol
+14|10|8|V|P|
+7|18|7|O|O|
+14|10|4|V|P|/e6
+13|18|L|M|L|i tell how to get hat
+14
+7|18|5|S|O|
+13|18|2|S|O|follow me
+13
+7|18|6|W|M|
+14|10|7|C|L|LoLa
+7|18|7|Q|L|
+7
+14|10|3|H|K|
+14|10|H|H|L|
+14|10|I|H|L|
+1|18|1|L|J|
+1|18|1|L|J|lola
+1
+14|10|I|H|L|what?
+1|18|3|M|D|ghhg
+1|18|2|I|L|LoLa
+14|10|3|J|L|
+14|10|8|J|L|what
+14|10|1|H|M|¿What?
+14|10|7|P|N|
+1|18|6|I|L|1. serect new penguin Then press N but no keyboa
+14|10|5|I|F|
+1|18|6|I|L|keyboard*
+14|10|1|L|J|
+14|10|7|M|K|
+14|10|6|O|K|
+15|12|1|K|L|Penguin22
+14|11|8|K|O|
+15|12|7|U|N|
+1
+14|14|5|O|M|
+14|14|2|O|M|hola
+6|14|1|K|L|ghhg
+14|14|L|S|N|
+6|14|1|K|I|
+6|14|1|K|I|when you select new penguin you need to Press N
+6|14|2|O|M|
+6|14|2|O|M|but noy keyboard
+6|14|5|P|O|
+15|12|4|J|N|
+14|14|L|S|N|wat
+14|14|L|S|N|what
+14|14|L|M|L|
+6|14|2|P|O|1. select new penguin 2. press N but no keyboard
+6|14|5|O|L|
+14|14|5|P|O|
+14|14|2|P|O|as
+14|14|4|N|O|
+6|14|1|N|O|
+14|14|2|S|K|
+6|14|4|N|O|/e3
+6|14|5|R|M|
+15|12|5|J|K|
+15
+14|14|1|N|L|
+15|12|3|M|D|Penguin22
+15
+15|12|6|E|F|Penguin22
+6|14|3|K|N|
+15|12|7|Y|L|
+15
+15|12|4|V|L|Penguin22
+6|14|6|P|K|
+15|12|4|V|L|
+14|14|5|J|M|
+14|1|1|J|M|
+15|12|2|Q|P|
+6|14|2|M|P|
+14|1|1|X|L|
+14
+6|14|6|Q|L|
+6|14|5|N|K|
+15|12|4|J|H|
+6|14|8|R|O|
+15|12|6|I|I|
+14|17|L|V|L|LoLa
+6|14|1|I|M|
+6|14|5|I|M|/e1
+14
+15|12|8|M|M|
+6|14|7|S|M|
+15|12|8|M|M|lol
+14|1|4|V|L|LoLa
+14
+15|12|7|Y|L|
+15
+6|14|7|Y|M|
+6
+5|14|1|K|L|LoLa
+5
+5|6|3|V|L|LoLa
+5|6|5|O|L|
+5
+15|13|4|V|L|Penguin22
+5|18|L|V|L|LoLa
+15|13|4|V|L|
+5|18|2|P|N|
+15|13|3|J|J|
+5|18|4|H|M|
+15|13|7|M|K|
+5|18|7|G|K|
+15|13|8|K|N|
+15|13|8|K|N|:(
+5|18|8|H|N|
+5|18|7|O|N|
+5|18|L|O|N|/e1
+5|18|3|O|K|
+15|13|7|O|N|
+15|13|4|L|I|
+15|13|7|R|I|
+15|13|3|I|L|
+5
+15|13|7|N|J|
+5|12|1|K|L|Vallet
+5|12|1|H|O|
+5|12|1|H|O|Hola, pinguinos!
+5|12|8|G|L|
+5|12|8|G|L|en este video les enseñare
+5|12|8|G|L|como ser ninja
+5|12|8|G|L|en penguin chat 3
+5|12|8|I|N|bueno
+5|12|1|I|N|Okey despues
+5|12|1|I|N|den en la herramienta
+5|12|8|I|N|de ahi
+5|18|1|I|N|
+5|18|1|I|N|Okay amigos de youtube
+15|13|2|O|J|
+5|18|1|I|N|Me despido con este video cortito
+15|18|2|M|L|
+5|18|1|I|N|CHAO!
+15|18|H|M|L|Hola
+15|18|H|M|L|XD
+5|18|1|M|N|hola
+15|18|H|M|L|que?
+5|18|8|J|M|
+15|18|H|M|L|..
+15|18|H|M|L|hola..
+5|18|8|J|M|de youtube
+5|18|3|T|M|
+15|18|H|M|L|de
+5|18|8|I|M|
+5|18|8|I|M|lo subire
+15|18|H|M|L|,,
+5|18|1|I|M|lo traducire en ingles
+5|18|1|I|M|para los demas
+15|18|6|P|N|
+15|18|4|K|J|
+5|18|7|I|M|en youtube
+15|18|3|O|M|
+6|13|3|V|L|ghhg
+15|18|3|E|J|
+6|13|5|V|L|
+15|18|8|E|J|Hola
+6|13|2|V|L|Hi
+5|18|4|L|L|
+5|18|4|L|L|/e6
+6|13|2|V|L|hola??
+5|18|2|R|M|holis
+5|18|3|M|N|
+5|18|L|R|L|
+5|18|L|R|L|spanish
+5|18|L|M|L|
+6|13|2|V|L|you talking english??
+5|18|5|M|J|
+15|18|8|E|J|SPANISH
+6|13|3|U|H|
+5|18|1|M|J|uahahaah
+15|18|5|T|L|
+5|18|L|F|P|
+15|18|2|T|L|No
+6|13|2|U|H|:L
+5|18|3|L|M|
+5|18|3|L|M|penguin22
+6|13|2|U|H|plz talk english
+6|13|2|R|K|
+5|18|3|L|M|sabes hablar ingles
+15|18|2|T|L|que
+5|18|6|S|M|
+15|18|4|R|O|
+5|18|2|S|M|¿Sabes hablar ingles?
+5|18|6|Q|P|
+15|18|2|R|O|no
+5|18|8|L|N|
+15|18|4|P|L|
+5|18|1|O|N|
+5|18|1|O|N|ni yo
+6|13|2|O|K|/e10
+5|18|1|O|N|XD
+6|13|H|O|K|
+6|13|H|O|K|i not know english
+6|13|H|O|K|oops
+6|13|H|O|K|spanish
+15|18|2|P|L|que
+15|18|3|L|M|
+5|18|3|O|N|uso el traductor de google
+6|13|H|O|K|/e10
+5|18|8|C|L|
+5|18|8|C|L|/j2
+5|18|L|C|L|/e1
+5|18|J|F|K|
+6|13|H|O|K|¡Hola
+15|18|5|L|M|/e2
+5|18|J|M|L|te digo
+5|18|J|M|L|como ser
+15|18|7|O|N|
+5|18|J|M|L|ninja
+6|13|H|Q|J|
+5|18|2|I|M|/j6
+5|18|K|I|M|/a2LL
+5|18|2|L|K|/a2CI
+5|18|2|N|L|/a2OM
+5|18|2|N|L|
+6|13|2|Q|J|cómo?
+5|18|7|F|L|/a2MM
+5|18|7|K|M|
+5|18|7|K|M|queres ser ninja?
+5|18|5|N|J|
+6|13|2|Q|J|cómo ser ninjas
+6|13|8|G|M|
+6|13|8|G|M|/e10
+5|18|1|N|J|Subire un video
+5|18|4|I|M|
+5|18|4|I|M|a youtube
+5|18|1|I|M|traducido al ingles
+15|18|2|O|N|si
+5|18|1|I|M|para ser ninja
+15|18|5|H|O|
+6|13|1|G|M|bueno
+5|18|1|I|M|despues te lo paso
+15|18|6|P|J|
+6|18|1|G|M|
+6|18|1|G|M|/e1
+6|18|L|G|M|XD
+15|18|4|P|J|/e2
+15|18|5|L|L|
+15|18|3|D|L|
+6|18|L|P|K|
+6|18|3|K|J|
+15|18|7|O|M|
+6|18|7|O|J|
+15|18|3|E|I|
+6
+15
+5
+1|14|1|K|L|Vallet
+1|14|5|K|Q|
+1
+1|18|1|V|L|Vallet
+1|18|1|V|L|
+1|18|4|O|M|
+1
+1|14|1|K|L|Vallet
+1|14|6|E|M|
+1|18|1|J|L|
+2|1|1|K|L|POLLA
+2|1|1|N|L|
+2|1|1|N|L|POLLA CHUPAME LA POLLA
+1|18|8|N|O|
+2|1|7|9|F|
+1|18|8|N|O|no
+2|1|6|6|P|
+1|18|8|N|O|quien mierda eres
+2|1|8|B|H|si chupamela
+1|18|3|A|L|
+2|1|8|B|H|te la meto por el culo
+1|18|8|8|O|
+2|1|8|D|K|
+1|18|8|8|O|quien eres
+2|1|2|M|O|
+2|1|4|M|O|/e6
+1|18|5|F|K|
+2|1|5|L|I|
+1|18|1|F|K|ok
+2|1|5|L|I|nunca lo sabras jajaja
+1|18|1|F|K|noo
+1|18|L|C|L|
+2|1|7|P|M|
+2|1|8|F|J|
+2|1|1|J|K|
+2|1|3|J|K|/a2AO
+1|18|L|C|L|soy un fantasma
+1|18|L|C|L|uuh
+1|18|L|C|L|te voy a mataaar!
+1|18|L|C|L|/a2KJ
+1|18|8|G|L|/a2AC
+1|18|8|G|L|volvi
+1|18|8|G|L|puta
+1|18|8|G|L|ajja
+1|18|6|M|I|
+1|18|L|N|K|
+1|18|1|G|M|/j12
+2
+1
+1|17|5|V|L|Vallet
+1|17|L|J|K|
+1
+1|18|4|V|L|Vallet
+1|18|3|K|L|
+1|18|5|M|M|
+1
+1|14|1|K|L|Vallet
+1|14|5|O|O|
+1|18|1|M|K|
+1|18|3|I|L|
+1|18|5|K|J|
+1|18|L|H|N|
+1
+1|18|3|M|D|Vallet
+1|18|5|T|F|
+1|18|3|G|L|
+1|18|3|F|L|
+1|18|L|J|L|
+1|18|L|X|K|
+1
+1|9|1|K|L|shelton m 1
+1|9|4|L|I|
+1|9|8|I|E|
+1|9|2|N|M|
+1|9|4|I|D|
+1
+1|9|2|M|D|shelton m 1
+1|9|4|W|H|
+1
+1|9|6|E|F|shelton m 1
+1
+1|12|1|K|L|ghhg
+1|12|3|H|J|
+1|12|7|P|M|
+1|12|4|M|H|
+2|7|1|K|L|Vallet
+2|7|4|L|K|
+2|7|1|L|K|hola
+2|7|1|L|K|¡¡HOLA!!!
+2|7|1|L|K|¡¡HOLA!!
+2|7|L|H|I|
+2|7|L|H|I|How to be ninja:
+2|7|2|T|L|
+2|18|1|T|L|
+2|18|7|I|K|
+2|9|1|L|J|
+2|9|1|H|K|
+2|9|3|H|L|
+2|9|L|P|E|
+2|9|8|J|G|hello
+1
+2
+2|9|3|M|D|Vallet
+2
+2|9|3|V|L|Vallet
+2
+2|9|6|E|F|Vallet
+2
+1|14|1|K|L|ghhg
+1|14|3|H|M|
+1
+1|1|1|K|L|Connercynn
+1|1|7|F|K|
+1|18|L|E|M|
+1
+1|8|1|K|L|Vallet
+1
+2|14|1|K|L|tailer
+1|8|3|V|L|Vallet
+1|8|3|V|L|
+1|8|1|M|L|
+1|8|1|M|L|Hola ¿Hello?
+2|14|H|K|L|
+1|8|8|J|H|
+1|8|1|M|M|
+1|8|1|M|M|English?
+1|8|1|M|M|¿Spanish? ¿English?
+1|18|1|F|M|
+2
+1
+2|8|1|K|L|tailer
+2|18|3|L|M|
+2|18|6|O|M|
+2|18|1|J|N|
+2|18|2|H|M|
+2|18|6|N|L|
+2
+2|8|1|K|L|tailer
+2|18|6|T|F|
+2
+1|9|1|K|L|piguino2490
+1|9|5|J|L|
+3|4|1|K|L|Volgom
+4|4|1|K|L|DJPOWER
+3|4|8|D|M|
+3|4|8|D|M|hola
+4|4|8|F|K|
+4|4|8|F|K|Hola
+4|4|1|M|N|
+1|9|L|J|L|hola
+4|4|1|M|N|Soy Dj Power
+1|9|L|J|L|esta cool verdad
+4|4|1|M|N|Del xat
+1|9|L|J|L|123
+3|4|2|F|O|
+4|4|1|N|K|
+4|4|1|N|K|Siganme
+1|9|L|J|L|si
+3|4|7|S|Q|
+1|9|L|J|L|miren
+4|4|7|S|F|
+3|4|H|S|Q|
+3|4|2|T|K|/j8
+3|4|L|T|K|
+4|4|2|R|I|
+3|4|L|T|K|/e1
+3|4|L|T|K|/a2GC
+1|18|2|O|K|
+3|4|L|T|K|/a2TK
+1|18|L|O|K|
+1|18|L|O|K|cool
+4|4|2|R|I|como se baila
+3|4|L|T|K|/a2PM
+1|18|L|O|K|siganme
+4|4|3|P|M|
+3|4|7|N|J|/a2PI
+4|4|6|L|M|/a2LN
+1|18|1|Q|M|
+3
+4|4|6|L|M|/a2LK
+4|4|1|O|N|
+1|18|2|Q|M|oye
+4|4|1|O|N|como te haces ninja
+1|18|2|Q|M|sigueme
+4|4|2|O|N|/j4
+1
+4|4|H|T|N|
+4|4|H|H|L|
+5|4|1|K|L|Volgom
+5
+4
+3|5|1|K|L|Volgom
+2|9|1|K|L|piguino2490
+3|5|6|T|F|
+2|9|1|I|K|
+2|9|1|I|K|hola
+3|5|4|S|F|
+2|9|4|M|I|
+3|5|1|L|L|
+3|5|1|L|L|como compro cosas
+3|5|2|P|J|
+3|5|3|P|J|/e4
+2|9|1|M|I|no puedes
+3|5|1|P|J|quiero ropa como la compro
+2|9|3|M|I|/e4
+2|9|1|M|I|no se puede
+3|5|1|P|J|pero tu te pusiste traje de ninja e.e
+2|9|1|M|I|solo puedes hacer esto
+3|5|3|J|N|
+3|5|7|L|I|
+2|18|8|I|L|/a2LN
+3|5|3|A|J|
+2|18|8|N|I|hehe
+3|5|3|R|O|
+3|5|3|R|O|como se ase
+2|18|1|N|I|solo le das a la n
+3|5|2|L|G|
+2|18|1|N|I|de penguin
+3|5|2|P|L|
+2|18|1|N|I|solo le das a la n
+2|18|1|N|I|de penguin
+2|18|1|N|I|al cambiarte el color
+3|5|2|Q|M|no sirve e.e puta madre
+2|9|1|K|M|
+3|5|8|E|J|
+2|9|7|K|M|/a2QJ
+3|5|8|E|J|y como cambio el color
+3|5|8|E|J|/a2MM
+3|5|8|Q|E|/a2JL
+3|5|8|G|J|/a2QE
+2|9|7|K|M|asi mira
+3|5|3|C|K|/a2GE
+1|4|1|K|L|Dj Power
+3|5|3|C|K|/a2IO
+1|4|1|K|L|Ya
+2|9|7|K|M|cuando vas subes la cosa del chat
+3|5|3|C|K|/a2KM
+1|4|1|K|L|me cree otro
+3|5|3|C|K|/a2JO
+2|9|2|D|O|
+2|9|8|D|O|y le das a
+1|4|1|O|Q|
+3|5|3|C|K|ok
+1|4|1|O|Q|ES ABURRIDO
+2|9|7|D|O|la llave inglesa
+2|9|7|D|O|le das
+1|4|6|K|M|
+3|5|3|O|L|
+2|9|7|D|O|new penguin
+1|4|8|J|O|
+2|9|1|K|N|
+1|4|8|J|O|eh??
+2|9|1|K|N|non es aburrido
+1|4|3|O|N|
+2|9|1|M|L|
+2|9|1|M|L|siganme
+3|14|2|F|M|
+1|4|2|O|N|no entendi
+2|9|6|Y|K|
+2
+3|10|1|F|M|
+1|4|8|J|K|
+3|10|1|J|L|no sirve
+1|4|7|X|L|
+3
+1|4|7|S|K|
+1|4|3|X|K|
+1
+2|9|3|V|L|piguino2490
+2
+4|9|1|K|L|piguino2490
+4|9|1|K|L|
+4|9|7|Y|J|
+4
+3|4|1|K|L|Volgom
+3
+3|4|3|V|L|Volgom
+3
+2|14|1|K|L|tatos2011
+2|14|7|P|M|
+2|14|H|K|M|
+3|4|7|C|L|Volgom
+3
+2
+3|4|5|M|D|Volgom
+3
+2|14|L|M|D|tatos2011
+2|14|3|W|L|
+2
+1|12|1|K|L|Dj Power
+2|14|7|V|L|tatos2011
+2
+1|12|4|I|D|
+1
+2|14|1|C|L|tatos2011
+2|14|5|I|E|
+3|9|1|K|L|piguino2490
+2
+3|9|1|K|L|hola
+3
+2|14|8|E|F|tatos2011
+2|14|8|E|F|
+2|14|8|H|H|
+2|14|4|G|N|
+2
+1|9|1|K|L|piguino2490
+1|9|6|N|I|
+1|9|7|Y|J|
+1
+1|9|3|V|L|piguino2490
+1
+1|13|1|K|L|mauricio job
+1
+1|13|L|M|D|mauricio job
+1
+1|13|4|E|F|mauricio job
+1|13|7|U|G|
+1|13|6|P|K|
+1|13|6|T|F|
+1|13|6|S|F|
+1
+1|5|1|K|L|Vallet
+1|5|8|I|K|
+1
+1|9|3|V|L|Vallet
+1|9|L|K|K|
+1
+1|17|3|V|L|Vallet
+1
+1|17|3|M|D|Vallet
+1
+1|4|1|K|L|tailer
+1|4|5|M|L|
+1|18|L|J|L|
+1|18|8|D|N|
+1
+1|14|1|K|L|tailer
+1|4|1|W|K|
+1|4|3|J|M|
+1
+1|4|4|V|L|tailer
+1
+1|17|1|V|L|tailer
+1|17|6|G|N|
+1|18|L|E|M|
+1
+1|4|4|V|L|tailer
+1|4|4|T|F|
+1|4|3|T|F|
+1|4|5|I|E|
+1|4|4|L|D|
+1
+1|4|5|M|D|tailer
+1|4|5|L|O|
+1|4|2|T|F|
+1|4|5|S|E|
+1|4|3|L|L|
+1
+1|14|1|K|L|Screengog
+1|14|2|K|M|
+1|14|4|G|M|
+1
+1|14|3|M|D|Screengog
+1
+1|12|1|E|F|Screengog
+1|12|8|J|L|
+1|12|2|O|K|
+1|18|7|R|L|
+1
+1|18|2|V|L|Screengog
+1|18|3|V|L|
+1
+1|17|L|C|L|Screengog
+1
+2|9|1|K|L|piguino2490
+2|9|3|H|M|
+1|11|4|V|L|Screengog
+1|11|1|D|K|
+1|11|6|E|M|
+1|11|6|E|M|/e1
+1|11|4|L|M|
+1|11|5|N|K|
+1|18|1|N|K|
+1|18|1|C|M|
+2|9|2|H|M|hols
+2|9|1|F|N|hola
+2|9|1|F|N|
+1|18|7|I|F|
+2|9|1|F|N|quien eres
+1
+2|9|8|I|I|
+2|18|1|K|M|
+1|18|4|M|D|Screengog
+1|18|8|D|N|
+1|18|L|D|N|/e5
+1|18|L|D|N|/e6
+1|18|L|D|N|/e1
+2|18|4|G|N|
+1
+1|17|1|C|L|Screengog
+1|17|L|L|M|
+2|18|4|D|O|
+1|17|L|L|M|/a2HM
+1|17|L|H|J|
+1|17|L|H|J|Hello
+1|17|8|M|M|
+1|17|8|H|K|
+2|18|1|I|N|
+2|18|1|I|N|Hello
+2|18|2|I|N|you are???
+1
+1|4|1|K|L|Screengog
+1|4|3|9|M|
+1|4|3|9|M|/a2KP
+1|4|3|G|N|/a2LL
+1|4|3|G|N|/a2FP
+1|4|3|A|K|/a2LK
+2|18|4|E|N|
+1|4|1|Q|J|
+2|18|4|E|N|/a2DL
+2|9|1|E|N|/a2RL
+2
+1
+2|9|3|V|L|piguino2490
+2|9|4|V|L|
+2|9|3|P|I|
+2
+2|9|6|E|F|piguino2490
+2|9|3|E|M|
+2
+1|8|1|K|L|CaelanBoyd
+1|8|6|J|N|
+2|1|1|K|L|Platplat
+2|1|2|K|L|/a2IM
+1|8|5|H|G|
+2|1|8|L|J|
+2|1|2|L|J|/j4
+2|1|H|L|J|
+2|1|H|L|J|Hello
+2|1|H|I|N|
+2
+2|1|4|E|F|Platplat
+2|1|8|T|F|
+1|8|5|M|N|
+2|1|2|M|I|
+1|8|1|M|N|Wow!
+2|1|4|M|I|/e1
+1|8|1|M|N|Another person is online
+2|1|I|M|I|
+1|8|1|M|N|Hello :D
+2|1|I|M|I|Yepp
+1|8|8|K|H|
+2|1|I|M|I|Hi!
+2|1|I|M|I|Are you the creator?
+1|8|1|K|H|Hi
+1|8|1|K|H|Oh, oh no.
+1|8|1|K|H|I uh
+1|8|1|K|H|um
+2|1|I|M|I|Hello
+1|8|1|K|H|Moderators and creators are snails
+2|1|I|M|I|Oh.
+1|8|1|K|H|not penguins
+1|8|H|K|H|
+1|8|K|K|H|
+2|1|I|M|I|Well, I got to go! Goodbye :)
+1|8|K|K|H|Do you have a youtube account?
+2|1|I|M|I|Try going on mirai.so, you can meet me there
+2|1|I|M|I|/a2MJ
+1|8|K|K|H|Oh
+1|8|K|K|H|That cpps?
+2|1|I|J|L|
+2|1|2|J|L|/a2BE
+2|1|2|M|J|
+2|1|2|M|J|yes
+2|1|2|M|J|Do you like that cpps?
+1|8|K|K|H|Not very much
+1|8|K|K|H|But still like it kind of
+1|8|L|K|H|
+2|1|4|M|J|Oh, do you have a kik?
+1|8|L|K|H|nope
+1|8|L|K|H|i have a YT
+2|1|K|M|J|
+2|1|J|M|J|
+1|8|H|K|H|
+2|1|J|M|J|whats your yt
+1|8|2|O|L|
+1|8|H|O|L|/a2NL
+1|8|H|O|L|..
+1|8|1|G|J|/a28A
+1|8|1|G|J|Theprospartaremixer
+2|1|J|M|J|okay
+1|8|1|G|J|I basically make sparta remixes ._.
+2|1|J|M|J|gtg
+2|1|J|M|J|lol
+1|8|1|G|J|Okay
+2|1|J|M|J|okay
+1|8|1|G|J|See you on mirai
+2|1|J|M|J|gtg! Bye
+2|1|J|M|J|yep
+1|8|1|G|J|(even though idk
+1|8|2|F|M|
+1|8|6|G|J|
+1|8|6|S|K|
+1|8|5|J|H|
+1|8|I|P|I|
+1|8|H|P|I|
+1|8|H|P|I|Im bored
+1|8|H|P|I|:L
+2
+1
+1|8|2|M|D|CaelanBoyd
+1
+1|8|3|M|D|CaelanBoyd
+1
+1|8|6|E|F|CaelanBoyd
+1
+1|17|3|V|L|CaelanBoyd
+1|17|L|O|M|
+1
+1|17|6|C|L|CaelanBoyd
+1
+1|17|3|V|L|CaelanBoyd
+1|17|6|V|L|
+2|12|1|K|L|santino
+2|12|4|K|L|hola
+1
+2
+1|1|1|K|L|CaelanBoyd
+1|1|K|K|N|
+1
+1|1|1|K|L|caelanboyd
+1|1|2|K|N|
+1
+1|12|1|K|L|Roxa5467
+1
+1|12|1|K|L|Roxa5467
+1|12|L|M|L|
+1|12|L|O|J|
+1|12|3|G|F|
+1|12|8|G|K|
+1
+2|9|1|K|L|CaelanBoyd
+2
+1|12|1|K|L|Roxa5467
+2|9|4|V|L|CaelanBoyd
+2
+1
+1|12|5|E|F|Roxa5467
+1|12|5|I|E|
+1|12|2|J|J|
+1|12|2|N|N|
+2|1|1|K|L|CaelanBoyd
+1|12|3|8|H|
+2|1|1|K|L|Finally
+1
+2|1|1|K|L|Someone to chat to
+1|12|3|C|L|Roxa5467
+1|12|7|H|L|/a2NL
+2
+1|12|7|H|L|/a2JN
+2|17|7|C|L|CaelanBoyd
+1
+2|17|8|I|J|
+2|17|2|W|L|
+2
+1|12|L|V|L|Roxa5467
+2|1|3|V|L|CaelanBoyd
+2|1|1|K|M|
+2|1|3|R|M|
+2|1|L|R|M|
+2|1|4|S|L|
+2|1|L|S|L|
+2|1|L|S|L|ive been delayed
+2|1|L|S|L|gotta be delayed :3
+2|1|1|R|L|
+1
+2
+1|5|1|K|L|CaelanBoyd
+1
+1|5|4|V|L|CaelanBoyd
+1|5|1|J|J|
+1|5|1|F|H|
+1
+1|5|7|E|F|CaelanBoyd
+1|5|4|E|F|
+1|5|4|O|M|
+1|5|2|T|F|
+1|5|3|K|I|
+1
+1|5|3|M|D|CaelanBoyd
+1|5|3|6|I|
+1
+1|1|1|K|L|CaelanBoyd
+1|1|2|M|L|
+1
+1|17|3|V|L|CaelanBoyd
+1
+1|17|3|M|D|CaelanBoyd
+1
+1|17|7|C|L|CaelanBoyd
+1|14|1|R|O|
+1|14|8|S|R|
+1|14|7|T|R|
+1|14|3|P|R|
+1|14|7|K|Q|
+1|14|1|N|I|
+1
+1|10|1|K|L|Vallet
+1|10|5|M|O|
+1|18|8|S|L|
+1
+1|18|3|V|L|Vallet
+1
+1|18|8|M|D|Vallet
+1
+1|4|1|K|L|KevKevin132
+1|4|4|I|O|
+1
+1|4|3|M|D|KevKevin132
+1
+1|4|1|K|L|tailer
+1|4|1|F|M|
+1
+1|1|1|K|L|RandomRyan
+1|1|7|C|I|
+1
+1|1|H|E|F|RandomRyan
+1
+1|1|3|V|L|RandomRyan
+1|1|3|6|J|
+1

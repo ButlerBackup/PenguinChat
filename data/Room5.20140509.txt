@@ -1,0 +1,274 @@
+1|14|3|a|D|Player
+1|14|3|a|D|
+1|16|3|1|D|
+1
+1|12|7|4|D|Nick200
+1|12|2|R|F|
+1|12|1|X|B|
+1|12|2|K|M|
+1
+1|18|1|4|D|onepengui
+1|17|5|M|G|
+1|17|6|C|O|
+1
+1|17|5|a|D|Glanni5
+1|17|7|R|E|
+1
+1|18|1|4|D|Glanni5
+1|17|L|F|H|
+1|16|I|M|I|
+1|16|1|J|G|
+1|16|7|c|D|
+1
+1|16|2|a|D|Glanni5
+1|17|L|H|I|
+1
+1|6|8|4|D|Candace
+1|16|7|I|B|
+1
+1|16|1|a|D|Candace
+1
+2|13|7|4|D|siju21
+2|13|4|G|R|
+2
+1|14|7|4|D|PoloFiel
+1|14|7|d|C|
+1|14|3|E|K|
+1|14|1|I|E|
+2|5|8|4|D|facusimon5
+2|5|8|4|D|
+2|5|7|4|D|/a2HF
+1|14|4|N|L|
+2|5|7|Q|F|/a2ID
+2|5|6|c|C|
+2|5|3|d|D|
+2|5|2|d|D|hola
+2|5|3|O|R|
+1|14|1|N|L|hola
+2|5|3|1|E|
+2
+1|14|1|N|L|soy famoso
+1
+2|9|7|4|D|facusimon5
+2|9|7|Z|C|
+2
+1|14|8|4|D|PoloFiel
+1|14|7|d|C|
+1|14|2|R|F|
+2|17|5|a|D|facusimon5
+2|17|1|K|F|
+2|17|1|E|I|
+2|17|L|E|I|/j6
+2|17|5|2|F|
+1
+2
+4|12|7|4|D|Gywneth.Pal
+4|16|2|R|M|
+1|4|7|4|D|Cpps.me
+1|4|8|Q|L|
+1|4|7|Q|L|/a2UN
+1|4|2|M|J|vengan
+2|14|7|4|D|PoloFiel
+2|14|8|N|K|
+3|6|8|4|D|Candace
+2|14|7|N|K|
+3|6|8|L|L|
+1|4|1|M|J|somos famosos
+2|14|6|N|K|somos famosos
+3|6|1|L|L|somos famosos
+3|6|7|L|L|/a2RL
+2|14|1|Q|K|/a2TO
+2|14|1|L|I|
+2|14|L|L|I|
+3|6|L|L|L|
+1|4|L|M|J|
+2|14|L|H|N|
+3|6|6|E|K|
+3|6|6|K|M|
+1|4|3|E|M|
+3|6|7|N|M|
+1|4|4|M|N|
+2|14|5|M|L|
+1|4|2|M|N|ven
+1|4|6|M|N|/a2SM
+1|4|6|a|E|
+1|4|2|d|C|
+1|4|3|d|C|/e1
+1|4|1|M|F|
+2|14|1|9|I|
+3|6|1|I|K|
+2|14|7|E|J|
+2|14|5|F|C|
+2|14|2|V|C|
+4
+5|5|4|4|D|Director:
+5|5|4|N|K|
+3|6|2|I|K|/a27H
+3|6|2|I|K|/e5
+3|6|2|I|K|Tia Artic
+5|5|2|N|K|Tia Artic
+3|6|5|K|M|
+5|5|7|N|L|
+2
+6|11|6|4|D|Tia Artic
+6|11|7|M|L|
+6|11|2|Q|L|
+6|11|2|Q|L|Holaa
+3|6|2|K|M|hola
+6|11|2|Q|L|somos familia artic
+5
+4|18|7|4|D|montigue000
+4|18|2|P|F|
+4|18|8|G|H|/a2HM
+4|18|5|D|G|/a2RL
+4|18|1|S|G|
+4|18|2|S|G|/a2SL
+4|16|3|D|G|
+8|9|7|4|D|Tio Artic
+4|16|7|Y|F|
+4|16|3|Y|F|/a22B
+6
+8|9|8|M|L|
+8|9|1|O|M|
+4|16|3|L|F|/a22C
+4|16|3|E|H|/a2OK
+4|16|4|4|D|
+4
+8|9|1|O|M|y el Director:
+1
+2|5|7|4|D|Tia Artic
+2|5|7|N|P|
+2|5|4|R|O|
+1|4|3|4|D|Cpps.me
+1|4|7|M|P|
+1|4|5|L|I|
+4|18|2|4|D|montigue000
+8|9|7|T|M|
+3|6|7|R|L|
+4|18|7|G|I|
+4|18|8|G|I|/a2QR
+1|4|2|S|I|
+4|18|6|J|E|
+4|18|8|Y|E|
+4|18|2|Y|E|/a2TI
+1|4|2|L|M|
+4|18|7|W|H|
+4|18|4|d|D|
+4|18|3|2|C|
+4
+2|5|3|K|O|
+2|5|6|O|N|
+9|14|7|4|D|PoloFiel
+9|14|8|P|O|
+9|14|5|S|P|
+10|5|7|4|D|Director:
+10|5|7|R|N|
+10|5|3|K|P|
+10|5|6|O|J|
+4|18|3|4|D|montigue000
+4|18|7|Y|B|/a2LO
+4|17|7|I|H|
+4|17|7|I|H|/a2MK
+4|17|7|F|K|/a2SM
+7|17|7|4|D|METEOROS
+4|17|7|R|D|
+7|17|7|I|J|
+4|17|5|F|E|
+7|17|6|N|G|
+4|17|6|F|I|
+7|17|2|N|G|as he got there???
+4|18|1|F|I|
+7|17|4|9|I|
+7|17|I|C|J|
+7|17|I|C|J|/e9
+7|17|6|C|J|/a2HF
+7|13|7|B|I|
+7|13|7|B|I|/a2MJ
+4|18|1|F|I|do you speak english by chance?
+7|13|7|B|I|/a2UM
+7|13|5|A|K|
+10|5|1|O|J|nosotros somo famosos
+4|18|1|F|I|/a2US
+4|18|1|I|I|
+7|13|8|A|K|yes y no
+4|18|8|I|I|oh...
+7|13|8|A|K|yes and no
+7|13|8|C|I|
+7|13|L|C|I|/e4
+7|13|4|D|I|
+4|18|8|I|I|yeah i knew what y meant
+10|5|L|O|J|
+4|18|8|I|I|/a2IK
+9|14|L|S|P|
+8|9|L|T|M|
+2|5|L|O|N|
+7|13|8|D|I|do not understand it well, did not speak do no
+8|9|L|T|M|nos vamos a desconectar
+7|13|8|D|I|do not understand it well, did not speak your la
+8|9|L|T|M|vamos chicos
+8|9|L|T|M|no me
+8|9|L|T|M|mejor
+7|13|8|D|I|
+7|13|8|D|I|language
+7|13|8|D|I|do not understand it well, did not speak your l
+7|13|8|D|I|lenguage
+4|18|8|I|I|fair
+7|13|8|D|I|do not understand it well, did not speak your l
+7|13|8|D|I|languahe
+7|13|8|D|I|/e9
+4|18|8|I|I|yes i know
+7|13|2|W|G|
+7|13|2|W|G|/e10
+4|18|8|4|E|
+3
+4
+10|5|L|O|J|vamos a bollywood
+7|13|3|W|D|
+10|5|L|O|J|ok
+7|13|2|T|I|
+9|14|L|S|P|ok
+7|13|3|T|I|/a2LJ
+2|5|L|O|N|ok
+7|13|3|T|I|/a2QP
+8|9|L|T|M|ok
+7|13|L|R|L|
+2|5|L|O|N|vamos
+7|13|L|b|E|
+7
+8
+9
+1
+2
+10
+3|17|5|a|D|Glanni5
+3
+4|18|7|4|D|montigue000
+4|18|4|G|G|
+4
+3|17|7|4|D|Glanni5
+3
+2|13|2|4|D|METEOROS
+2
+1|18|3|a|D|Alexvieira
+1
+1|1|7|4|D|montigue000
+1|16|4|H|F|
+1|17|6|K|J|
+1|1|1|I|I|
+1|1|1|J|G|
+1|1|4|O|L|
+1|1|8|Y|P|
+1|1|2|X|O|
+1|18|L|V|P|
+1|18|H|1|C|
+1
+2|10|7|4|D|lolowekeee3
+2|16|7|8|F|
+2
+2|10|5|a|D|lolowekeee3
+2|16|1|J|K|
+2
+1|14|1|a|D|dynasty3000
+1
+1|14|7|4|D|dynasty3000
+1

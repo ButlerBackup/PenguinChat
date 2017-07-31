@@ -1,0 +1,101 @@
+1|12|3|a|D|victorjoel9
+1|17|1|3|E|
+1|12|1|G|D|
+1
+1|18|2|a|D|Glanni5
+1|17|L|N|A|
+1
+1|1|2|a|D|Glanni5
+1|17|5|1|M|
+1
+1|17|7|4|D|Glanni5
+1|17|5|1|G|
+1
+1|5|L|a|D|Glanni5
+1
+1|9|3|a|D|TheMillion
+1|9|1|G|H|
+1|9|8|N|P|
+1
+1|5|4|a|D|ThinkCalder
+1|5|7|Z|E|
+1
+1|4|3|a|D|JetPack Guy
+1
+3|4|3|a|D|JetPack Guy
+3|4|2|c|D|
+3
+3|4|3|a|D|JetPack Guy
+3|4|5|D|A|
+3|4|8|d|D|
+3
+2|9|6|a|D|lydianb
+3|4|3|a|D|JetPack Guy
+2|9|3|L|B|
+3|4|3|J|F|better!
+2|9|7|Y|D|
+3|4|4|G|9|
+2|9|2|I|F|
+2|9|6|D|9|
+3|4|4|G|9|on teh crane
+2|9|1|D|9|
+3|4|3|G|9|on the crane
+2|17|1|D|9|
+2|17|1|D|9|cool
+2|17|2|D|A|
+3|4|2|G|9|See!
+2|17|1|D|A|
+2|17|1|D|A|yep
+3|4|1|G|9|clcik the down arrow on the chat bar
+2|17|L|D|A|
+3|4|1|G|I|
+2|17|L|D|A|i see
+3|4|L|G|I|
+2|17|L|D|A|dig dig
+3|4|4|H|F|and
+2|17|8|D|I|
+2|17|6|D|I|/e1
+2|17|8|D|I|/e11
+3|4|4|H|F|you have the oldest color in CP
+2|17|8|D|I|yippe
+3|4|2|H|F|old blue
+2|17|1|F|H|
+2|17|8|F|H|/e5
+2|17|1|D|A|
+2|17|8|D|A|/e1
+3|4|1|H|F|can we log off OldCP?
+2
+4|4|7|a|D|lydianb
+3|4|7|d|E|
+3
+4|17|1|K|K|
+3|4|3|a|D|JetPack Guy
+3|4|2|P|I|oh
+4
+3|4|7|d|E|
+3
+3|4|3|a|D|JetPack Guy
+3|4|L|a|D|
+3
+4|17|6|4|D|lydianb
+4|17|1|d|C|
+4
+5|18|3|a|D|JetPack Guy
+5
+1|9|3|a|D|Jimm
+1|9|4|B|9|
+1|17|7|c|C|
+1
+1|18|L|a|D|sebaster
+1|17|1|a|F|
+1
+1|18|7|4|D|sebaster
+1|18|4|I|G|
+1
+1|1|3|a|D|35253435
+1|1|3|1|H|
+1
+1|1|2|a|D|35253435
+1
+1|1|8|4|D|35253435
+1

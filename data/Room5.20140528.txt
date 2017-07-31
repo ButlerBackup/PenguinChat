@@ -1,0 +1,210 @@
+1
+1|6|K|4|D|Snowwhite
+1|6|3|R|F|
+1
+2|1|7|4|D|moose2.0
+2|1|4|D|H|
+2
+2|1|7|4|D|moose2.0
+2|1|7|4|D|
+2|1|7|R|F|
+1|6|7|4|D|Redette
+1|6|7|4|D|/a2OF
+2|1|L|W|B|
+1|6|7|4|D|Found u
+2|1|L|W|B|/a2SM
+2|1|L|F|H|/a2F7
+1|16|7|J|L|/a2W9
+1|16|7|J|L|wjhat\
+2|1|L|B|H|
+2|1|7|B|H|/e1
+1|16|1|M|I|
+1|16|1|M|I|help
+2|1|8|E|G|
+1|16|3|L|J|/a29J
+2|1|8|E|G|how u do that
+1|16|3|L|J|/j8
+1|16|H|L|J|/e8
+1|16|H|R|F|
+2|1|6|F|J|
+1|16|2|Q|G|
+1|16|2|Q|G|/e7
+2|1|1|I|L|HOW DID YOU DO THAT
+1|16|1|Q|G|help im a blue penguin'
+1|16|1|Q|G|halp
+2|1|8|F|G|
+2|1|1|G|G|DUDE
+1|16|5|R|H|
+2|1|1|G|G|:O
+1|16|1|R|H|WHAT
+1|16|2|N|L|
+2|1|1|G|G|how did you get that
+1|16|2|N|L|gotta get outta this
+2|1|1|G|G|I WANT A SWEET RIDE LIKE THAT
+1|6|1|N|L|
+2|1|7|9|B|
+2|17|1|C|F|
+2|17|1|C|F|LO
+1|6|2|L|N|
+2|17|1|C|F|lol
+1|6|2|L|N|/j7
+1|6|L|L|N|
+1|6|L|L|N|/e1
+2|17|1|C|F|yay, i'm old blue!
+1|6|L|L|N|um
+2|17|L|C|F|
+1|6|L|L|N|how do i change close
+1|6|L|L|N|clothes*
+2|17|6|V|B|
+1|6|4|Q|D|
+1|16|4|R|F|
+2|17|2|I|H|
+1|1|1|Q|E|
+2|17|7|P|G|
+1|16|1|Q|D|
+2|17|7|P|G|how?
+1|6|1|Q|D|
+1|6|1|3|H|
+1
+2|17|7|P|G|how'd you do that
+2|17|2|1|D|
+2
+2|17|7|4|D|moose2.0
+2|16|7|1|D|
+2
+1|6|7|4|D|Redette
+1|16|1|R|D|
+2|1|3|4|D|moose2.0
+2|1|4|4|D|
+1|17|1|M|E|
+1|17|4|N|D|
+1|6|I|N|E|/j1
+1|6|L|N|E|/a2BD
+2|16|7|O|H|
+2|16|3|T|H|/e1
+1|6|L|2|C|
+1
+2|16|2|H|K|
+2|16|6|R|F|
+1|6|7|4|D|Redette
+1
+2|16|2|L|C|
+2|16|2|J|J|
+2|16|7|L|I|
+2|16|J|M|K|
+1|17|1|4|D|Redette
+1|17|6|4|D|
+1|17|7|L|G|
+1|17|7|H|K|found y
+2|16|J|B|E|
+1|17|7|H|K|ou
+1|17|L|H|K|
+1|17|L|H|K|Moose
+1|17|8|H|K|Magic
+1|17|L|H|K|Dance wit da
+1|17|4|C|G|
+1|17|L|G|J|
+2|16|7|T|L|
+2|16|4|M|H|
+1|17|J|P|H|i-i
+1|17|J|P|H|i made out with a sign
+1|17|J|P|H|WAIT
+1|17|J|P|H|MS SIGN
+1|17|J|P|H|U HAVE
+1|17|J|P|H|A GRANDMA?
+1|17|J|P|H|THATS SO COOL I DONT HAVE A GRAMMYMA
+1|17|J|P|H|hubba hubba
+1|17|J|P|H|is ur grammy uglee
+1|17|J|P|H|okay
+1|17|J|P|H|i think its time we meet other billboards
+1|17|J|P|H|kthxbai
+1|17|J|3|F|
+2
+1
+1|4|6|4|D|Josemario
+1|4|7|D|C|
+1|4|2|d|B|
+1|4|5|Q|H|
+1|18|I|7|D|
+1
+1|18|1|a|D|Josemario
+1|18|6|F|F|
+1|18|4|J|B|
+1|18|1|Q|G|
+1
+1|18|8|4|D|Vortex
+1
+1|8|8|4|D|Macaca
+1|17|4|R|J|
+1|18|3|1|D|
+1
+1|17|L|a|D|Glanni5
+1|16|1|I|F|
+1
+3|18|8|4|D|Pinguim 44
+3|16|6|H|B|
+3|17|1|I|L|
+3|16|2|V|M|
+3
+3|18|7|4|D|Pinguim 44
+1|5|7|4|D|Glanni5
+3|16|1|K|J|
+1|16|7|R|E|
+3|16|L|C|L|
+1|16|6|O|B|
+3|17|3|L|J|
+1|17|L|K|I|
+1|16|6|O|J|
+3|17|L|L|J|
+1|16|1|Q|E|
+3|17|L|L|J|/e10
+1|16|3|N|F|
+1|16|2|R|E|
+1|16|2|R|E|whats worng
+3|17|L|L|J|eu falo  portugues
+1|17|1|P|J|
+1|17|L|P|J|
+1|17|L|P|J|no
+3|16|L|W|F|
+3|16|L|T|K|
+1|16|7|N|F|
+3|16|4|L|H|
+3|16|4|J|J|
+1|16|L|N|F|
+3|16|3|L|K|
+3|16|4|J|I|
+1|16|L|N|F|þetta er frábært
+3|16|3|O|H|
+1|16|8|G|F|
+3|16|6|B|I|
+3
+1
+1|5|7|4|D|Glanni5
+1
+1|16|4|a|D|Glanni5
+1
+1|5|7|4|D|eliot8000
+1|5|7|N|D|
+1
+1|5|7|4|D|eliot8000
+1|5|2|Q|R|
+1
+1|1|8|4|D|Rhodricad
+1
+1|5|7|4|D|milongui
+1
+1|5|2|a|D|milongui
+1|5|1|G|B|
+1|5|7|F|E|
+1
+1|5|7|4|D|pinguin28677
+1|5|7|O|E|
+1|5|2|Z|B|
+1|5|7|Z|C|
+1
+1|5|2|a|D|pinguin28677
+1
+1|7|7|4|D|vf23
+1|7|4|R|G|
+1
+1|7|8|4|D|vf23

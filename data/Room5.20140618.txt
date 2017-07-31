@@ -1,0 +1,243 @@
+1|5|7|4|D|Glanni5
+1|16|7|c|D|
+1
+1|16|1|a|D|Glanni5
+1
+1|16|3|a|D|Glanni5
+1|17|6|C|E|
+1
+1|13|1|4|D|guyguyrosik
+1|16|7|J|K|
+1
+1|16|3|a|D|guyguyrosik
+1|16|2|a|D|
+1|18|4|S|J|
+1|17|3|S|K|
+1
+1|1|7|4|D|guyguyrosik
+1|17|6|L|G|
+1
+1|13|8|4|D|guyguyrosik
+1
+1|8|1|4|D|hsedgahey
+1|8|3|5|F|
+1
+1|8|7|a|D|hsedgahey
+1
+1|18|7|4|D|chubaca12
+1|18|7|R|F|
+1|17|L|S|L|
+1|5|2|L|K|
+1|5|4|R|F|
+1|16|L|N|N|
+1
+1|18|7|4|D|chubaca12
+1|18|3|d|C|
+1|18|3|L|K|
+1
+1|18|1|4|D|chubaca12
+1|16|7|D|G|
+1|16|3|F|G|
+1|17|L|J|G|
+1
+2|7|8|4|D|awesome09781
+2|7|7|R|E|
+2|7|7|d|B|
+2
+2|7|2|a|D|awesome09781
+2
+1|18|1|4|D|Orange
+1|18|2|H|J|
+1|18|7|Q|M|
+2|18|8|4|D|Nightcore
+1|18|L|Q|M|/j5
+2|18|8|L|M|
+1|18|L|Q|M|/a2EM
+2|18|8|L|M|Hello
+1|18|L|Q|M|/e5
+2|18|L|L|M|
+2|18|L|L|M|/e1
+1|18|3|N|M|hi\
+1|18|3|N|M|
+1|18|3|N|M|cool
+2|18|L|L|M|ello
+1|18|L|N|M|
+2|18|6|U|D|
+1|18|L|N|M|wanna be friends
+1|18|L|N|M|/a2TD
+2|18|L|Q|M|
+2|18|L|Q|M|/a2N9
+1|18|6|O|I|/a2VA
+2|18|L|Q|M|sure
+1|17|1|U|D|
+2|18|L|b|D|
+2|18|2|U|H|orange
+1|17|L|U|D|
+2|18|2|U|H|how u be that penguin
+1|17|L|U|D|yes?
+2|18|3|U|G|
+1|17|L|U|D|press the hook
+2|18|2|R|F|
+1|17|1|U|D|/a2MJ
+2|17|1|R|F|
+2|17|L|X|E|
+2|17|L|X|E|/a2UE
+1|17|1|U|D|/e1
+2|17|L|N|M|
+2|17|2|Y|H|/a2RD
+1|17|1|M|I|
+2|17|H|Y|H|/a2SB
+1|17|7|L|K|woah
+2|9|2|N|M|
+1|16|6|J|G|
+2|17|1|I|N|
+1|16|8|I|M|
+1|16|4|I|M|/e5
+2|17|6|E|K|how u become that
+1|16|7|F|P|
+2|17|1|Q|L|
+1|16|2|L|O|
+1|16|2|L|O|press pole top
+1|16|6|Q|G|that
+2|17|1|Q|L|how u become that orangr
+1|16|2|M|G|
+2|16|5|L|M|
+2|16|5|L|M|OMG
+2|16|8|F|H|/e5
+1|16|2|M|G|see lol
+2|16|7|N|J|
+2|16|7|N|J|i think im gonan hurl
+2|16|2|N|J|/e11
+1|16|8|M|G|O:
+2|16|1|F|M|lol
+1|16|8|M|G|lol
+2|16|8|T|M|
+2|16|8|T|M|jk
+1|7|1|M|G|
+2|16|3|3|D|
+2|16|3|3|D|going to town
+1|7|1|M|G|Orange is orange
+2|16|8|K|J|
+1|7|1|8|E|
+1
+2|16|1|B|H|
+1|7|7|4|D|Orange
+1
+1|17|3|a|D|Orange
+2
+1|17|3|F|J|
+1
+1|18|7|4|D|Orange
+1
+1|13|7|4|D|DatSnowball
+1|17|3|L|M|
+1|16|2|L|L|
+1|16|5|2|G|
+1
+1|17|3|a|D|DatSnowball
+1|16|6|J|K|
+1
+1|17|7|4|D|DatSnowball
+1
+1|18|7|4|D|piteu ninja
+1
+1|4|7|4|D|Amolinet
+1
+1|13|L|4|D|TinkyWinky
+1|13|6|d|C|
+1
+1|13|2|4|D|TinkyWinky
+1|13|K|D|K|
+1|13|8|G|L|
+1
+2|14|5|4|D|monsterofgod
+2
+2|14|3|a|D|monsterofgod
+2
+1|4|4|4|D|fede20192
+1|17|1|K|H|
+1|17|L|T|M|
+1|17|L|E|M|
+1|17|3|3|E|
+1
+1|17|7|4|D|fede20192
+1|17|3|A|G|
+1
+1|17|6|4|D|fede20192
+1|17|5|d|B|
+1
+2|18|1|4|D|monsterofgod
+1|17|8|4|D|fede20192
+2|17|L|K|H|
+3|1|8|4|D|emi a alex
+1|17|7|S|K|
+3|1|7|P|L|
+1|17|7|S|K|tocale a la grua
+2|17|L|K|H|pene pene pene
+2|17|L|K|H|no mames
+3|1|2|R|F|
+3|1|3|F|G|
+2|17|L|K|H|/a2XG
+2|17|2|P|G|/a2GF
+3|1|3|F|G|no esta
+1|17|L|V|J|
+3|1|2|R|F|
+2|17|1|P|K|
+1|17|1|D|K|
+3|1|2|I|O|
+1|17|L|D|K|
+3|1|4|P|C|
+2|17|2|P|K|en la de mero arriba
+1|17|L|D|K|la grua de arriba
+3|1|5|R|H|
+2|17|1|P|K|
+3|1|4|S|B|
+3|1|3|A|G|
+3|1|8|A|G|no me sale
+1|17|L|D|K|tocala con la flecha del mouse
+2|18|6|G|L|
+2|18|4|G|L|hay wey
+2|18|4|G|L|me llamo
+1|17|1|C|N|
+2|18|4|G|L|Reynegritopr en club penguin
+1|17|7|C|N|como te lo ssacaste
+3|1|8|A|G|no me sale la maldita gorra
+1|17|1|L|J|
+3|1|4|K|B|
+1|17|6|D|L|
+2|18|3|G|L|En todas las N
+3|1|4|J|B|
+2|18|3|G|L|en new penguin
+3|1|1|K|B|
+1|17|6|D|L|no me lo puedo sacar
+1|17|4|D|M|
+3|1|4|L|K|
+1|17|7|D|M|cuantos hay en penguin chat
+2|18|3|G|L|no se we
+2|18|3|G|L|esperenme en la disco
+2|18|3|G|L|voy a checar
+3|1|8|L|K|tres
+1|17|4|3|E|
+1
+2|18|3|G|L|con mi puta habilidad ninja
+3|1|7|A|H|
+2|18|3|Q|K|No
+2|18|3|Q|K|
+2|18|3|Q|K|wey
+3|1|2|K|N|
+3|1|7|K|N|muy
+2|18|3|Q|K|vi a otros weyes online
+3|1|6|c|C|
+3|1|2|c|C|ñ9
+2
+3|1|2|c|C|m,
+3|1|3|K|K|
+3
+3|1|L|4|D|emi a alex
+3|1|7|R|F|
+3|1|3|1|C|
+3
+1|18|2|4|D|ninjaboy
+1|16|5|S|B|
+1|17|1|7|F|
+1

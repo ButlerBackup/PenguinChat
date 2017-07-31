@@ -1,0 +1,588 @@
+1|18|6|9|H|7sparkle7
+1|18|7|9|H|
+1
+1|18|3|9|H|7sparkle7
+1
+1|17|6|9|H|bikarado
+1|17|7|9|H|
+1|17|3|L|B|
+1|17|3|L|C|
+1|17|L|K|L|
+1|17|5|K|B|
+1|17|L|L|B|
+1|17|5|K|K|
+1|17|4|9|I|
+1
+2|13|5|9|H|Camelo8
+2
+2|13|1|9|H|Camelo8
+2|13|4|L|H|
+2
+1|14|4|9|H|julianmmiii
+1|14|4|J|K|
+1
+1|13|5|9|H|guyguyrosik
+1|13|7|U|F|
+1
+1|13|5|9|H|guyguyrosik
+1|13|8|9|H|
+1|13|5|L|A|
+1
+1|17|4|9|H|guyguyrosik
+1
+1|17|6|X|R|guyguyrosik
+1
+2|13|7|9|H|DatSnowball
+2|13|4|S|L|
+1|13|1|9|H|guyguyrosik
+1|13|2|O|L|
+1|13|2|O|L|/a29K
+1|13|2|Q|M|
+2|13|4|S|L|/e2
+1|13|2|Q|M|/a2HI
+1|13|2|R|J|
+1|13|3|R|J|/e1
+1|13|8|R|J|/a2SK
+2|13|2|S|L|/a2SB
+1|13|8|K|L|/a2TM
+1|13|8|K|L|/a2RM
+2|13|2|K|I|/a2GN
+1|13|1|O|J|
+2|13|2|K|I|/a2VN
+1|18|1|O|J|/a2RK
+2|13|2|K|I|/a2ML
+1|18|7|M|M|
+1|18|2|Q|J|/a2XL
+3|14|5|9|H|newguy
+2|13|2|K|I|/j2
+1|5|1|Q|J|/a2IL
+3|14|1|N|J|
+1|5|1|D|M|/a2LE
+3|14|1|N|J|hello
+1|5|7|K|M|
+3|14|7|E|J|
+1|5|1|O|M|
+2|13|2|K|I|hi
+1|5|1|O|M|hello !!
+1|5|7|J|M|
+3|14|7|J|K|
+1|5|3|7|H|
+1
+3|14|1|J|K|hi]
+3|14|1|J|K|hi
+1|5|5|9|H|guyguyrosik
+2|13|4|D|M|
+1|5|7|F|J|
+2|13|4|6|H|
+2
+1
+2|13|3|9|H|DatSnowball
+2|13|7|F|K|
+3|14|5|J|K|/e1
+2
+3|14|2|J|K|/a2RN
+3|14|2|P|L|
+3|14|2|9|J|
+3
+1|13|5|9|H|guyguyrosik
+1
+1|13|6|9|H|guyguyrosik
+1
+1|13|6|9|H|guyguyrosik
+1
+1|13|5|9|H|guyguyrosik
+1
+1|13|2|9|H|guyguyrosik
+1
+1|18|4|9|H|guyguyrosik
+1|18|7|6|H|
+1
+1|18|4|9|H|guyguyrosik
+1|18|4|L|J|
+1
+1|18|1|9|H|guyguyrosik
+1
+1|18|5|9|H|guyguyrosik
+1|18|7|G|I|
+1
+1|18|5|9|H|guyguyrosik
+1
+1|18|2|9|H|guyguyrosik
+1|18|3|B|J|
+1|18|4|S|K|
+1|18|3|7|H|
+1
+1|18|5|9|H|guyguyrosik
+1
+1|17|3|9|H|guyguyrosik
+1|17|7|c|S|
+1
+1|17|4|X|R|guyguyrosik
+1|17|3|7|H|
+1
+1|13|4|9|H|guyguyrosik
+1|13|4|9|H|
+1
+4|17|L|9|H|TestSnail
+1|13|5|9|H|guyguyrosik
+4|17|L|O|J|
+1|13|7|Y|Q|
+3|8|L|9|H|Chocolate
+4|17|L|O|J|dance
+1|13|3|Z|Q|
+3|8|8|M|L|
+1|13|3|Z|Q|/e5
+3|8|L|L|M|
+1|13|L|Z|Q|
+4|17|1|L|B|
+1|13|L|Z|Q|/a2KK
+4|17|2|Q|K|
+3|8|L|L|M|You are old blue.
+1|13|L|c|T|
+1
+1|13|5|X|R|guyguyrosik
+3|8|L|X|P|
+4|17|8|d|T|
+1
+4
+3
+3|8|3|X|R|Chocolate
+1|13|5|X|R|guyguyrosik
+3
+1
+4|17|7|X|R|TestSnail
+4|17|7|d|T|
+4
+4|17|L|X|R|TestSnail
+1|13|5|X|R|guyguyrosik
+4
+1|13|8|V|P|
+1
+3|8|2|X|R|Chocolate
+3
+4|7|1|9|H|TestSnail
+4
+3|8|6|9|H|Chocolate
+4|7|L|X|R|TestSnail
+3|8|1|b|T|
+3
+3|8|6|X|R|Chocolate
+4|7|3|H|J|
+3|8|3|Y|R|
+3|8|8|K|I|
+4|7|7|X|P|
+3|18|1|K|I|
+4|7|3|8|K|
+4|7|1|S|J|
+3|18|1|K|I|Do you know how to get this?
+3|18|1|O|J|
+4|7|2|S|J|yeah
+3|18|1|O|J|cool
+4|7|2|S|J|do u know how to get the truck?
+3|18|2|O|J|yep
+3|18|2|O|J|My bro showed me
+3|18|4|O|J|/e1
+4|7|2|S|J|cool
+4|7|2|S|J|lol
+3|18|L|Q|J|
+4|7|3|S|J|/e1
+3|12|7|Q|J|
+3|12|K|Q|J|
+4|7|H|S|J|
+4|7|H|S|J|boy or girl
+3|12|K|Q|J|Have you watched Frozen?
+4|7|H|S|J|yeah
+3|12|K|Q|J|Its so cool to me
+4|7|H|S|J|same
+3|12|K|Q|J|Get it?
+3|12|K|Q|J|`Cool`
+4|7|H|S|J|yeah lol
+3|12|K|Q|J|/e1
+4|7|H|S|J|just noticed :D
+3|12|K|Q|J|Hahah
+4|7|H|S|J|/e1
+3|12|K|Q|J|:D
+4|7|H|S|J|are u boy or girl
+3|12|K|Q|J|/e1
+3|12|K|Q|J|In-betweenie...
+4|7|H|S|J|/e12
+3|12|K|Q|J|Are you a girl?
+4|7|H|S|J|ya
+3|12|K|Q|J|/a2RJ
+3|12|K|Q|J|op
+3|12|K|Q|J|osp
+3|12|K|Q|J|Sorry, for throwing snowball
+4|7|H|S|J|its ok
+3|12|H|Q|J|
+4|7|H|S|J|*randomly kisses*
+3|12|K|Q|J|
+3|12|K|Q|J|O.o
+3|12|K|Q|J|I'm a fille
+4|7|H|S|J|/e2
+3|12|K|Q|J|(Girl)
+4|7|H|S|J|a waht?
+4|7|H|S|J|oh
+4|7|H|S|J|...
+4|7|H|S|J|sorry
+3|12|K|Q|J|:9
+3|12|K|Q|J|...
+4|7|H|S|J|heheh
+4|7|H|S|J|really sorry
+3|12|K|Q|J|Don't worry... It's only virtual xD
+4|7|H|S|J|/e10
+4|7|H|S|J|haha lol
+3|12|K|Q|J|Awwh.!
+4|7|H|S|J|do u play club penguin
+3|12|K|Q|J|Yeah!
+3|12|K|Q|J|Do you?
+4|7|H|S|J|same!
+3|12|K|Q|J|Cool!
+4|7|H|S|J|but disney made it bad
+3|12|K|Q|J|How?
+4|7|H|S|J|i prefer old cp from 2005-2009
+3|12|K|Q|J|They saved it though...
+4|7|H|S|J|true
+4|7|H|S|J|yeah
+3|12|K|Q|J|Disney saved Cp
+4|7|H|S|J|it was so close to closure
+3|12|K|Q|J|Cuz, Rsnail didn't have enough money
+2|13|5|9|H|guyguyrosik
+4|7|H|S|J|its nice to revist penguin chat
+3|12|K|Q|J|Basically..
+2|13|5|R|L|
+3|12|K|Q|J|Yeah
+3|12|K|Q|J|YAY!
+2|13|J|R|L|
+4|7|H|S|J|i have to go sorry
+2|13|J|R|L|ah je vous ai trouvé !!
+3|12|K|Q|J|votre dos!!!
+4|7|H|S|J|bye! its been fun talking :)
+2|13|J|R|L|/e1
+3|12|K|Q|J|same
+2|13|J|R|L|mon dos ?
+3|12|K|Q|J|He said he found us :)
+2|13|J|R|L|???
+3|12|K|Q|J|Je suis contente que tu sois de retour.
+3|12|K|Q|J|/e1
+2|13|J|R|L|merci je vous chercher aussi §
+2|13|J|R|L|/e1
+3|12|K|Q|J|Suivez-moi (follow me)
+3|12|2|D|N|
+2|13|J|R|L|/e12
+2|13|J|R|L|ok
+3|12|8|D|N|suivez moi
+2|13|3|F|M|
+3|12|5|K|M|
+2|13|6|P|L|
+4
+3
+2|13|6|H|M|
+2
+3|12|5|9|H|Chocolate
+3
+2|13|7|9|H|guyguyrosik
+2
+3|12|4|9|H|Chocolate
+3
+2|13|4|9|H|guyguyrosik
+2
+2|13|5|9|H|guyguyrosik
+2
+1|13|5|9|H|ramon daniel
+1|13|1|L|K|
+1|13|1|M|D|
+1|13|4|N|H|
+1|13|3|6|H|
+1
+1|13|5|9|H|ramon daniel
+1|13|6|M|B|
+1|13|3|X|M|
+1|13|3|7|H|
+1
+1|14|4|9|H|ramon daniel
+1|14|3|2|Q|
+1|14|7|J|C|
+1
+1|14|5|9|H|ramon daniel
+1|14|7|9|H|
+1|14|6|6|Q|
+1|14|H|a|R|
+1
+1|14|6|X|R|ramon daniel
+1|14|3|6|H|
+1
+1|4|4|9|H|Amolinet
+1|4|3|O|J|
+1|4|3|B|I|
+1|4|7|H|L|
+1|18|1|G|K|
+1|4|1|J|K|
+1|4|L|M|K|
+1
+1|8|5|9|H|alex45
+1|8|1|U|D|
+1
+1|8|6|X|R|alex45
+1|8|5|U|E|
+1|8|2|K|I|
+1|8|2|6|H|
+1
+1|14|1|9|H|ramon daniel
+1|14|3|W|R|
+1|14|4|P|L|
+1|14|3|7|H|
+1
+1|18|4|9|H|ramon daniel
+1
+1|18|3|9|H|ramon daniel
+1
+1|18|3|X|R|ramon daniel
+1|18|3|6|H|
+1
+1|5|5|9|H|Robotlion
+1|5|L|J|L|
+1|5|6|U|D|
+1|5|4|8|H|
+1
+1|5|5|9|H|Robotlion
+1|5|7|J|H|
+1|5|6|S|L|
+1|5|2|R|C|
+1|5|L|K|L|
+1
+1|18|4|9|H|Robotlion
+1
+1|18|5|X|R|Robotlion
+1
+1|4|6|9|H|Amolinet
+1|4|3|a|S|
+1
+1|4|5|X|R|Amolinet
+1
+1|18|5|9|H|Gary123
+1
+1|18|5|X|R|Gary123
+1
+3|17|3|9|H|thedragon
+3|17|1|O|J|
+3|17|1|J|L|
+2|4|6|9|H|Amolinet
+2
+1|14|5|9|H|Gary123
+1|14|7|c|Q|
+1
+2|4|4|9|H|Amolinet
+2
+2|4|4|9|H|Amolinet
+2
+2|4|3|9|H|Amolinet
+2
+2|4|5|9|H|Amolinet
+3
+2
+1|18|1|X|R|Gary123
+1
+1|1|6|9|H|Gary123
+1
+2|4|4|9|H|Amolinet
+1|1|1|9|H|Gary123
+2|4|4|L|C|
+1|1|2|L|I|
+2|4|1|P|L|
+2|4|4|W|P|
+1|1|L|L|I|
+1|1|L|U|M|
+2|4|4|L|D|
+1
+2|4|1|I|C|
+2
+1|1|6|X|R|Gary123
+1
+2|4|L|X|R|Amolinet
+2|4|2|3|S|
+1|1|H|X|R|Gary123
+1|1|2|I|K|/a22S
+2|4|5|L|L|
+1|1|2|J|N|
+1|1|2|J|N|/a22R
+2|4|L|L|L|
+1|1|2|J|N|/a2E7
+1|1|L|J|L|
+1|1|L|J|L|*Smile face*
+2|4|L|L|L|ay una de las radio no funciona la voy a arregla
+2|4|3|H|O|
+2|4|6|2|Q|
+1|1|L|J|L|*LoL face*
+2|4|J|2|Q|
+1|1|L|7|N|
+1|1|8|7|N|Ok
+1|1|7|J|L|
+1|1|L|J|L|
+2|4|J|2|Q|/e5
+2|4|J|2|Q|hay agua y granizo aqui
+2|4|J|2|Q|/e6
+1|1|L|J|L|/e1
+2|4|J|2|Q|ouch
+2|4|J|2|Q|ya funciona
+2|4|J|M|L|
+2|4|L|M|L|
+2|4|L|M|L|
+2|4|L|M|L|/e11
+2|4|H|J|Q|
+2|4|L|M|L|
+2|4|L|M|L|/e1
+2|4|L|M|L|Gary123
+1|1|L|J|L|Sii???
+1|1|1|A|P|
+2|4|L|M|L|tienes oldcp?
+1|1|1|S|H|
+2|4|2|E|O|
+2|4|6|J|J|
+1|1|2|J|L|Si
+2|4|2|L|J|
+1|1|8|G|N|
+1|1|8|G|N|Respondo al nombre de:
+2|4|2|L|J|bueno ahorita vuelvo
+1|1|6|J|J|
+2|4|2|L|J|volvi
+2|4|3|L|J|
+1|1|1|J|J|Ok
+1|1|H|J|J|
+1|1|H|J|J|/e1
+2|4|H|L|J|
+1|1|K|J|J|
+1|1|K|J|J|OldCP+Penguin Chat 3 = CP
+2|4|H|L|J|.?
+1|1|K|J|J|xD
+2|4|H|L|J|que es club penguin en 2008
+1|1|K|J|J|No
+1|1|K|J|J|es en 2007
+2|4|H|L|J|pero en moda pinguina dice marzo 2008
+1|1|K|J|J|/e3
+1|1|K|J|J|Tienes razón
+2|4|H|L|J|/e3
+2|4|H|L|J|oye tienes disney club penguin?
+1|1|K|J|J|Sii
+2|4|H|L|J|/e5
+2|4|H|L|J|/e1
+2|4|H|L|J|cual es tu usuario
+1|1|K|J|J|Es:
+2|4|H|L|J|igual gary123?
+1|1|K|J|J|No
+2|4|H|L|J|entonces cual es?
+1|1|K|J|J|/a2JH
+1|1|7|C|J|/a2MJ
+1|1|7|C|J|/a2WM
+2|4|H|L|J|cual es?
+1|1|7|C|J|/a2V6
+1|1|7|C|J|Ya te lo dije
+2|4|H|L|J|no lo vi en el chat
+1|1|1|I|J|
+1|1|7|E|J|/e3
+1|1|K|J|J|
+2|4|H|L|J|mi usuario tambien es "Amolinet"
+2|4|L|L|J|/a2V9
+2|4|2|M|J|
+1|1|K|J|J|Ok
+2|4|1|M|J|¿que?
+1|1|K|J|J|Nada
+1|1|K|A|O|
+1|1|7|S|H|
+2|4|2|M|J|ok
+1|1|1|A|P|
+1|1|1|V|P|
+2|1|1|M|J|
+1|1|7|J|L|
+1|1|2|K|L|
+1|1|L|K|L|
+2|4|1|M|J|oye
+1|1|1|H|J|
+1|1|1|H|J|¿Que?
+2|4|1|M|J|ya me tengo que irr
+2|4|1|M|J|te veo mañana
+1|1|1|K|L|
+1|1|1|K|L|Yo igual
+2|4|1|M|J|a las
+1|1|1|K|L|Si
+1|1|1|K|L|5 u 6 de la tarde
+2|4|1|M|J|3:30
+2|4|1|M|J|oh
+1|1|1|K|L|Si es que puedo
+1|1|1|K|L|La verdad...
+2|4|1|M|J|como vez
+2|4|1|M|J|tengo examenes
+1|1|1|K|L|Me conecto originalmente a las 5:30
+1|1|1|K|L|Yo igual
+2|4|1|M|J|yo a las 3:00
+1|1|3|K|L|/e5
+1|1|4|K|L|/e3
+1|1|1|K|L|Pues...
+1|1|1|K|L|Sería muy hipocrita de mi parte
+2|4|1|M|J|salgo de la escoela a las 2:30
+1|1|1|K|L|decirte que me esperes
+1|1|1|K|L|yo salgo a las 2:00
+2|4|1|M|J|OK
+2|4|1|M|J|mkay
+1|1|1|K|L|pero como tengo tarea
+1|1|7|K|L|no puedo
+3|18|5|9|H|Robotlion
+2|4|1|M|J|bueno
+3|18|7|9|H|
+3|18|8|D|L|
+2|4|1|M|J|aun asi conectate en la noche
+3|18|8|E|L|
+3|18|1|D|L|
+1|1|1|K|L|Ok
+2|4|1|M|J|adios
+1|1|3|K|L|/a2CL
+3|18|7|B|O|
+3|18|8|B|O|/a2SM
+1|1|3|K|L|Adiu
+3|18|5|D|I|
+1|1|3|L|E|
+1|1|3|L|E|/a2OM
+3|18|1|E|I|
+1|1|3|L|E|/a2OI
+3|18|1|E|I|/a2LA
+1|1|1|L|A|/a2FK
+1|1|1|L|A|/a2KM
+3|18|1|E|K|/a28B
+1|1|1|L|A|/a2MJ
+3|18|2|A|G|
+1|1|1|L|A|/a2DI
+3|18|7|d|Q|
+1|1|1|L|A|/a2CH
+3
+1|1|1|L|K|/a2AG
+1
+1|1|2|X|R|Gary123
+2
+1
+3|18|5|X|R|Robotlion
+3
+3|18|5|9|H|Robotlion
+3|18|1|H|L|
+3
+3|18|5|X|R|Robotlion
+3
+2|14|5|9|H|WaffleWolf
+2
+3|18|5|X|R|Robotlion
+3|18|7|c|Q|
+3
+3|18|5|X|R|Robotlion
+3
+3|18|4|9|H|Robotlion
+3
+2|18|6|X|R|WaffleWolf
+2
+3|18|5|X|R|Robotlion
+3
+1|9|3|9|H|AirGuitar
+1|9|3|8|H|
+1
+1|8|2|9|H|24Sharkbate
+1|8|7|a|T|
+1
+1|8|7|X|R|24Sharkbate
+1

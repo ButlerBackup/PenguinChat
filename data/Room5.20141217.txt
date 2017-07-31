@@ -1,0 +1,504 @@
+1|10|7|4|D|Lori019
+1|10|3|4|D|
+1
+1|14|7|4|D|Miru Dissan
+1|14|6|d|C|
+1
+1|14|7|4|D|lohyehmohyeh
+1|14|1|P|L|
+1
+1|1|3|4|D|andyperry
+1
+1|6|2|4|D|hiitsiceyqd
+1|6|2|b|F|
+1|6|2|Q|P|
+1
+1|8|3|a|D|higuineapig
+1
+1|18|7|4|D|rose apple
+1
+1|16|3|a|D|rose apple
+1
+1|18|3|a|D|rose apple
+1|16|3|J|I|
+1
+1|16|1|a|D|rose apple
+1
+1|18|7|4|D|rose apple
+1|18|L|E|H|
+1|18|6|C|N|
+1|18|1|H|I|
+1|18|1|H|L|
+1
+2|9|1|4|D|fallen man
+2|16|2|M|L|
+2
+2|9|7|4|D|fallen man
+2|9|3|E|Q|
+2|16|6|Q|H|
+2|16|4|S|N|
+2|16|2|L|J|
+2
+1|9|7|4|D|Daffodile765
+1
+2|13|8|4|D|reecicus
+2|13|3|1|C|
+2
+1|14|5|a|D|Connorkid101
+1
+2|4|4|a|D|11penguin111
+1|4|5|a|D|Charleneeb
+1|4|3|C|C|
+2|4|K|M|G|
+1|4|1|H|B|
+1|4|1|H|B|beach lol
+2|4|K|M|G|penguin construction inc
+2|4|K|M|G|coming soon
+2|4|K|M|G|:D
+2|4|1|L|B|
+2|4|1|L|B|hmm is there anything else
+2
+1
+1|13|5|a|D|kaylyn1125
+1|13|3|2|D|
+1
+3|14|7|4|D|patrick
+3|14|3|1|D|
+3
+3|14|7|4|D|patrick
+3|14|7|W|B|
+3|14|3|d|C|
+3|14|3|2|C|
+3
+3|14|2|a|D|patrick
+3|16|6|W|B|
+3|16|7|W|C|
+3
+3|16|5|a|D|patrick
+3|16|3|B|B|
+3
+1|14|7|4|D|ninjatoxico
+1|16|3|R|E|
+1|16|5|M|L|
+1|16|6|J|B|
+1|16|3|N|Q|
+1|16|6|a|E|
+1
+1|5|5|a|D|ninjatoxico
+1|5|6|R|G|
+1|5|3|O|C|
+1
+2|13|7|4|D|thaler
+2|13|7|d|D|
+2|13|3|1|D|
+2
+2|14|1|a|D|dj ktm
+2
+1|1|6|4|D|wancker
+1
+2|12|6|4|D|Supertux 002
+2|12|3|c|D|
+2|12|2|d|C|
+2|12|7|G|R|
+2
+1|18|1|4|D|wolf girl64
+1|18|4|I|M|
+1|10|4|Q|E|
+1|16|3|S|L|
+1|16|3|P|J|
+1|16|3|U|F|
+1
+1|16|3|a|D|wolf girl64
+1
+1|10|3|a|D|wolf girl64
+1
+1|6|7|4|D|valendemg3
+1|6|7|Z|N|
+1|6|2|2|K|
+1|6|7|c|C|
+1|6|3|d|B|
+1|6|3|1|B|
+1
+1|17|1|a|D|Jackback
+1|16|3|L|H|
+1|17|1|2|E|
+1
+2|1|7|4|D|Jackback
+2|1|7|M|G|
+2|17|L|K|J|
+2|16|6|K|L|
+2|16|8|L|K|
+2|16|L|c|D|
+2
+2|16|3|a|D|Jackback
+2
+2|17|1|a|D|Jackback
+2|17|3|K|I|
+2|17|H|K|K|
+2
+1|5|3|4|D|mojarrita 1
+3|6|5|a|D|Sophie719
+1
+4|9|5|a|D|Efeszx1
+4|9|3|3|D|
+4
+4|9|6|4|D|Efeszx1
+3
+4
+2|14|8|4|D|yoyoyoyoyo
+2
+2|14|5|4|D|yoyoyoyoyo
+2|14|6|X|C|
+2|14|2|R|J|
+2|14|4|E|O|
+2|14|3|E|I|
+2
+2|1|7|4|D|Mago
+2|1|8|V|H|
+2|1|2|O|K|
+2
+1|1|2|4|D|Mago
+1|1|7|b|D|
+1
+1|4|7|4|D|bategosho15
+1|4|7|4|D|
+1
+4|1|8|4|D|Lugikidgmain
+4|1|7|d|C|
+2|5|7|4|D|mojarrita 1
+4|1|4|E|D|
+2|16|7|V|E|
+4|1|3|1|B|
+4
+2|16|2|V|L|hek
+2|16|3|2|D|
+2
+3|11|8|4|D|kingbee
+3
+2|5|7|4|D|mojarrita 1
+3|11|2|4|D|kingbee
+2
+3|11|7|4|D|
+2|5|8|4|D|mojarrita 1
+2|5|5|5|G|/a25A
+2|5|3|A|E|/a24B
+2|5|3|A|E|/a27F
+2|16|1|R|D|/a23E
+2|16|4|8|F|
+2
+3
+1|14|3|4|D|ninjatoxico
+1|16|2|R|D|
+2|5|8|4|D|mojarrita 1
+2
+1|16|7|K|D|
+1
+1|16|3|a|D|ninjatoxico
+1
+1|5|7|4|D|pickletree0
+1|5|8|c|E|
+1|5|3|G|B|
+1
+1|4|5|a|D|Mago
+1|4|5|V|B|
+1|4|5|U|I|
+1|4|5|Q|M|
+1|4|3|1|B|
+1
+3|4|6|4|D|mako
+3
+1|11|6|4|D|tomatosauce
+1|11|6|d|B|
+1|11|3|b|E|
+1|11|3|2|C|
+1
+1|11|7|4|D|tomatosauce
+1|11|3|Y|D|
+1|11|7|c|D|
+1
+1|11|5|a|D|tomatosauce
+1
+1|14|7|4|D|sir nick
+1|14|1|I|B|
+1|18|2|L|K|
+1|17|L|I|L|
+1|17|L|W|C|
+1|16|L|R|G|
+1
+2|12|1|4|D|Llucio2006
+2|12|1|c|C|
+2|12|3|5|D|
+2
+2|12|3|a|D|Llucio2006
+2
+1|14|7|4|D|UMadBro
+1|14|8|R|F|
+1|14|2|c|G|
+1|14|5|1|F|
+1
+1|8|8|4|D|ninjatoxico
+1|17|1|N|H|
+1|16|5|W|C|
+1|16|2|M|K|
+1|16|7|I|N|
+1|16|7|K|E|
+1|16|7|b|D|
+1|16|3|R|O|
+1
+1|14|7|4|D|Toxicz
+1
+3|13|7|4|D|Jadl
+3
+3|16|3|a|D|Jadl
+3
+1|14|5|a|D|poonslayer
+1|14|2|3|F|
+1
+1|9|8|4|D|poonslayer
+1
+1|8|L|4|D|MLPlover
+1|8|3|W|D|
+2|9|8|4|D|PandaPanda
+1
+2|9|8|K|F|
+3|13|7|4|D|foodboy07
+3|13|7|V|B|
+2|9|1|d|E|
+3|13|1|X|K|
+3|13|5|W|G|
+2|9|K|d|E|
+3|13|8|O|F|
+2|9|L|d|E|
+2|9|L|d|E|/a2PD
+3|13|3|6|G|
+3
+2|9|7|A|D|
+5|7|7|4|D|Mr.Hippy23
+5|16|7|R|E|
+5|16|8|R|J|
+5|16|7|R|J|
+5
+1|8|7|4|D|MLPlover
+1|8|3|4|D|
+1
+5|16|5|a|D|Mr.Hippy23
+5|16|2|I|K|
+2
+4|18|7|4|D|montigue000
+4|18|L|U|B|
+5
+4|18|2|6|J|
+4|18|L|5|K|
+4
+4|18|2|4|D|montigue000
+4
+2|10|7|4|D|Kubleekk77
+2|17|8|3|D|
+2
+1|17|7|4|D|mattbrian
+1|16|7|M|J|
+1|16|6|B|O|
+1|16|3|1|D|
+1|16|7|c|D|
+1
+1|16|3|a|D|mattbrian
+2|14|2|4|D|Fred41796
+2|14|2|R|F|
+1|16|1|R|D|
+2|14|2|R|F|How Are You In There?
+1|16|3|E|F|
+2|14|2|Q|F|
+2|14|2|Q|F|Tell Me Please!
+2|14|H|Q|F|
+3|18|1|4|D|Brasil88
+2|14|H|Q|F|/j2
+2|14|L|Q|F|
+3|18|8|A|H|
+3|18|2|M|L|
+3|18|4|M|L|/e3
+1|16|3|E|F|hit the top of the pole
+2|14|L|Q|F|This Is Different
+3|18|L|M|L|
+2|14|5|J|H|
+2|14|7|X|D|
+3|16|3|H|M|
+3|17|1|M|L|
+2|14|2|X|D|What Pole?
+3|17|L|M|L|
+2|16|2|J|J|
+3|17|L|M|L|/e8
+2|16|7|L|L|
+3|16|L|d|D|
+3
+2|16|2|L|L|/j1
+2|16|2|R|D|
+3|16|7|a|D|Brasil88
+2|16|1|H|H|
+3|16|8|G|H|
+2|16|I|H|H|
+3|16|5|O|F|
+1|16|7|E|F|THE POLE THAT SAYS COMEING SOON
+3|16|7|X|C|
+2|16|I|H|H|I Play The Newer Version Of CP
+3|17|4|K|B|
+2|16|3|M|H|
+3|16|8|Y|O|
+2|16|1|I|D|
+3|17|8|I|B|
+2|16|2|L|H|
+3|17|5|T|K|
+1|16|7|E|F|i play club penguin
+2|16|2|L|H|Gift Shop is Called
+3|16|5|S|N|
+2|16|2|L|H|Clothes Shop!
+3|16|3|R|H|
+2|16|2|L|H|Same.
+2|16|1|H|H|
+3|16|3|R|H|play cp?
+2|16|1|H|H|/e11
+3|16|6|Y|E|
+2|16|7|N|H|/a2QI
+3|16|3|Y|E|/e3
+1|16|7|E|F|hfuvhfuvhfuvfuvhfuvhfduhfuhvkufhvkuuhv
+2|16|7|E|G|
+3|16|2|Y|E|/j14
+3|16|2|Y|E|/a2V9
+1|16|7|E|F|djfyjmvnhx hnc vhcvccnb
+3|16|2|O|J|/a2Y9
+2|16|1|E|G|I Know It!
+3|16|3|E|N|
+1|16|7|E|F|you
+2|16|1|H|J|
+3|16|4|D|J|
+2|16|1|H|J|OMG
+3|16|4|D|J|/a2BI
+3|16|2|O|K|/e11
+2|16|1|I|G|
+3|16|5|X|K|
+2|16|8|N|L|
+2|16|2|N|L|DUde
+1|16|7|E|F|i dont care i love it i love it
+2|16|4|N|L|/e2
+3|16|3|M|J|
+1|16|7|E|F|/e1
+2|16|4|N|L|/e1
+2|16|4|F|F|
+2|16|4|F|F|I Love This!
+2|16|7|Z|D|
+2|16|J|M|D|
+2|16|J|M|D|Once!
+2|16|J|M|D|I Wuz Playing New CP
+2|16|J|M|D|And
+2|16|J|M|D|I Said
+2|16|J|M|D|And gfot Banned6
+2|16|J|M|D|7593p6
+1|16|1|E|F|look up club penguin i have a club penguin a
+2|16|J|M|D|jadrien123456789
+1|16|1|E|F|acout
+2|16|J|M|D|AWESOMEEEEEEE
+1|16|1|E|F|acount
+2|16|2|J|K|
+2|16|5|J|K|/e2
+2|16|1|J|K|/e11
+1|17|1|E|F|
+2|16|2|J|K|/a2VI
+1|16|2|R|D|
+2|16|1|R|D|
+2|16|1|E|G|/j0
+2|16|1|E|G|/a2LJ
+1|16|1|R|D|go to the right
+2|16|1|a|D|
+2|16|3|Z|P|
+1|16|1|R|D|76
+2|16|2|W|I|
+2|16|3|W|I|/e1
+2|16|2|W|I|SOZ!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+3
+2|16|3|W|I|We Got No Iggy's
+2|16|3|W|I|d:
+2|16|3|W|I|OMH
+2|16|3|W|I|Gswheet835657357/y/////////////'
+1|16|1|R|D|its 5 pm
+2|16|3|W|I|THISISSWETTTTDEOYUWSf3
+1|16|2|O|I|
+2|16|3|W|I|No Its (5:30) Where I Live!
+2|16|3|W|I|(PM!!!!!!
+1|16|1|O|I|hello camp
+2|16|2|T|J|
+2|16|2|T|J|Thinknoodles Here!
+1|17|1|O|I|
+1|17|I|O|I|
+2|16|2|T|J|Sorry You Don't Reconize Me!
+2|16|4|T|J|or this CP
+2
+2|16|2|a|D|Fred41796
+1|17|I|1|C|
+2|16|2|R|I|
+1
+2|16|2|R|I|U CAN SAY ANYHING!
+1|17|6|4|D|mattbrian
+2
+1|17|7|M|H|
+1
+1|17|3|a|D|mattbrian
+1
+6|9|8|4|D|cp team
+6
+2|14|7|4|D|Fred41796
+2
+1|17|7|4|D|mattbrian
+2|16|7|a|D|Fred41796
+2|16|5|9|M|
+1
+2
+2|14|6|4|D|Fred41796
+2|16|3|Q|O|
+2
+1|5|6|4|D|mojarrita 1
+1
+3|6|I|4|D|lalolobr
+3|6|7|d|C|
+3
+1|5|7|4|D|mojarrita 1
+1
+2|13|6|4|D|Jeremy Fitz
+2|13|3|W|C|
+2|13|2|P|P|
+2
+5|4|2|4|D|disney4563
+5|4|7|F|O|
+5|4|6|R|Q|
+6|14|8|4|D|Brenow1231
+6|14|7|X|F|
+2|13|7|4|D|Jeremy Fitz
+6
+5
+2
+5|4|8|4|D|awesomeface
+5|4|1|H|M|
+5|4|6|W|B|
+5|16|2|O|I|
+5|16|L|N|D|
+5
+5|4|7|4|D|awesomeface
+5|16|7|E|C|
+5|16|1|C|K|
+5
+4|14|8|4|D|Chonono
+1|5|7|4|D|mojarrita 1
+1|5|7|G|H|
+4|14|7|c|C|
+4|14|2|O|R|
+1|5|3|1|D|
+1|5|8|L|K|
+4|14|4|1|F|
+4
+1
+1|5|8|4|D|mojarrita 1
+1
+1|5|8|4|D|mojarrita 1
+1|5|6|4|D|
+1
+1|9|6|4|D|SwagNellie
+1|9|7|1|B|
+1

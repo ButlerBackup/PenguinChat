@@ -1,0 +1,8 @@
+1|13|7|Q|G|guirinho
+1|13|8|F|E|
+1
+1|1|7|Q|G|Batman
+1|1|7|Q|G|
+1
+2|10|L|Q|G|Natália
+2

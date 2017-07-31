@@ -1,0 +1,17 @@
+1
+1|14|1|K|L|bob the bill
+1|14|2|S|N|hi
+0|1|1|L|K|What's poppin'?
+1|14|4|K|O|
+1|14|5|K|O|i dont know is it your face
+0|1|1|I|K|Hi there!
+1
+1|15|1|K|L|Anderson
+1|15|4|P|M|
+1|15|3|F|N|
+1|15|7|P|L|
+1|8|5|Q|I|
+1|8|5|P|L|
+1
+2|8|1|K|L|Rock
+2

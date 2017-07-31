@@ -1,0 +1,382 @@
+1|13|1|K|L|Mancinas012
+1|13|3|J|N|
+1|13|L|M|J|
+1|13|5|I|E|
+1
+1|13|4|E|F|Mancinas012
+1|13|7|K|M|
+1
+1|13|3|M|D|Mancinas012
+1|13|5|T|F|
+1|13|2|T|F|
+1|13|2|J|M|
+1|13|2|E|M|
+1|13|6|I|I|
+1
+1|13|3|V|L|Mancinas012
+1
+1|1|1|K|L|Seand102
+1|1|2|M|M|
+1|1|5|I|P|
+1
+1|1|1|K|L|Chip
+1|1|1|K|J|
+1|1|3|A|I|
+1|1|1|E|I|
+1
+1|1|6|E|F|Chip
+1
+1|1|1|K|L|Alexander43
+1|1|8|I|J|
+1|1|5|R|F|
+1
+1|7|1|K|L|Alexander43
+1|7|8|D|K|
+1|7|7|B|F|
+1
+1|7|4|E|F|Alexander43
+1|7|6|S|E|
+1
+1|1|1|K|L|Zayed 1
+1|1|7|S|L|
+1|1|1|F|N|
+1|1|6|M|J|
+1|1|5|I|E|
+1
+1|7|1|K|L|zayed 1
+1|7|5|K|H|
+1|7|6|E|N|
+1|13|1|T|I|
+1
+1|13|3|V|L|zayed 1
+1
+1|13|7|C|L|zayed 1
+1
+1|13|3|M|D|zayed 1
+1
+1|14|1|K|L|puppyegg
+1|14|5|N|E|
+1|14|L|7|J|
+1|14|6|Y|K|
+1
+1|12|4|V|L|puppyegg
+1|12|6|S|E|
+1|12|2|M|M|
+1
+1|6|1|K|L|Gabypt
+1
+1|6|1|K|L|Gabypt
+1|6|3|8|G|
+1
+1|12|1|K|L|bewbzzzzzz3
+1|12|1|L|L|
+1|12|2|3|M|
+1
+1|12|3|V|L|bewbzzzzzz3
+1
+1|12|3|M|D|bewbzzzzzz3
+1|12|8|I|L|
+1|12|1|S|J|
+1|12|5|T|F|
+1
+1|13|5|E|F|bewbzzzzzz3
+1
+1|13|3|V|L|bewbzzzzzz3
+1
+1|13|4|C|L|bewbzzzzzz3
+1
+1|13|2|M|D|bewbzzzzzz3
+1|13|6|S|E|
+1
+1|10|1|K|L|bewbzzzzzz3
+1
+1|14|1|K|L|Pingu47024
+1
+1|18|3|V|L|Pingu47024
+1|18|5|V|L|
+1|18|6|T|F|
+1
+1|13|1|K|L|Jasonblue15
+1|13|7|V|L|
+1
+1|14|1|K|L|pasila
+1|14|2|K|I|
+1|14|5|K|K|
+1|14|6|T|F|
+1
+1|14|5|E|F|pasila
+1
+1|14|5|M|D|pasila
+1
+1|14|3|V|L|pasila
+1
+1|14|5|C|L|pasila
+1|14|6|L|J|
+1
+1|14|1|K|L|pasila
+1
+1|14|4|M|D|pasila
+1
+1|14|3|V|L|pasila
+1
+1|14|7|C|L|pasila
+2|6|1|K|L|Aaron
+1
+2|6|3|L|K|
+2
+2|6|3|V|L|Aaron
+2|6|2|C|K|
+2
+1|5|1|K|L|weerayo0
+1|5|1|H|M|
+1|5|2|J|M|
+1|5|5|L|J|
+1|5|5|I|J|
+1
+1|5|4|M|D|weerayo0
+1
+1|5|3|M|D|weerayo0
+1
+1|14|1|K|L|Friscopolice
+1|14|1|M|M|
+1|14|4|U|L|
+1
+1|14|1|K|L|sonicxboy
+1|14|2|K|O|
+1|14|L|L|M|
+1|14|4|N|N|
+1|14|8|O|M|
+1|14|2|P|Q|
+1
+1|14|1|K|L|Toaster
+1
+1|14|7|M|D|Toaster
+1|14|6|M|D|
+1|14|6|6|I|
+1
+1|1|1|K|L|samuel
+1|1|7|S|H|
+1
+1|13|1|K|L|samuel
+1
+2|14|1|K|L|Catsgomeow
+1|13|1|M|D|samuel
+2|14|8|N|N|
+2|14|2|N|N|HAI
+1|13|1|M|K|
+1|13|1|M|K|hola
+2|14|6|H|L|/a2PC
+2|14|6|H|L|/a2OF
+2|14|6|H|L|Hai
+1|13|1|M|K|/e2
+1|13|1|M|K|/a2W8
+2|14|6|H|L|can we say cuss words?
+1|13|1|M|K|hai
+1|13|1|M|K|/e2
+2|14|6|H|L|did you see that?
+1|13|7|Y|L|
+1
+2
+2|14|L|V|L|Catsgomeow
+2|14|6|P|K|
+2
+1|4|2|V|L|samuel
+1|4|7|T|F|
+1|4|7|I|K|
+1|4|1|L|L|
+1|4|I|T|J|
+1|4|2|H|K|
+1|4|7|K|L|
+1
+1|4|3|V|L|samuel
+1
+1|4|4|M|D|samuel
+1|4|3|6|J|
+1
+3|14|1|K|L|renemario2
+2|14|3|C|L|Catsgomeow
+2|14|8|C|L|hey
+2|14|7|C|L|/a2HI
+2|14|7|G|M|
+3|14|5|K|M|
+3|14|5|K|I|
+2|14|3|H|N|
+2|14|3|H|N|lol
+2|14|3|H|N|you got owned
+2|14|3|P|I|
+2|14|8|T|M|
+2
+3
+2|14|3|V|L|Catsgomeow
+2
+1|14|1|K|L|renemario2
+1|18|2|G|N|
+1|18|2|M|M|
+1|18|L|6|J|
+1|18|8|6|I|
+1|18|7|Y|N|
+1
+1|14|1|K|L|renemario2
+1|14|1|K|L|
+1|14|4|J|F|
+1
+1|14|1|K|L|matthew
+1
+1|10|1|K|L|paholahoran
+1|10|6|S|F|
+1|10|1|N|L|
+1
+1|6|1|K|L|paholahoran
+1|6|4|D|E|
+1
+1|6|5|E|F|paholahoran
+1|6|7|S|I|
+1
+1|6|4|V|L|paholahoran
+1|6|3|5|J|
+1
+1|10|1|K|L|wobblypingu
+1|10|8|J|M|
+1
+1|10|4|V|L|wobblypingu
+1
+2|8|1|K|L|ana bela
+1|10|5|C|L|wobblypingu
+1|10|8|C|L|
+1|10|8|C|L|this place is small
+2|8|3|G|M|
+1|10|3|T|F|
+2|8|7|G|L|
+1|10|2|Q|I|
+1|10|6|S|F|
+1|10|1|T|M|
+2|8|7|G|L|hello
+1
+2|8|1|O|N|
+2|8|3|5|J|
+2
+2|8|1|K|L|ana bela
+2
+2|8|4|E|F|ana bela
+2
+2|8|7|M|D|ana bela
+2|8|3|Y|L|
+2
+1|15|1|K|L|Anderson
+1
+1|15|3|V|L|Anderson
+1|15|3|J|K|
+2|15|1|K|L|rsnail
+2
+1
+1|10|1|K|L|wobblypingu
+1|10|4|N|M|
+1
+1|14|1|K|L|Sanity15
+1
+1|1|1|K|L|Sanity15
+1|1|1|M|P|
+1|1|4|K|M|
+1|1|3|I|F|
+1
+1|1|6|E|F|Sanity15
+1|1|4|J|J|
+1
+1|13|1|K|L|Reina Elsa
+1|13|3|B|L|
+1
+2|13|1|K|L|lexdmkndkds
+2
+1|13|3|V|L|Reina Elsa
+1
+1|8|1|K|L|LilyLily
+1
+1|5|1|K|L|javier4572
+1|5|6|Q|K|
+1|5|3|M|K|
+1
+1|17|6|V|L|javier4572
+1
+1|17|3|V|L|javier4572
+1
+1|6|1|K|L|gigi89
+1|6|6|N|K|
+1
+1|6|3|M|D|gigi89
+1
+1|6|6|E|F|gigi89
+1|6|2|I|K|
+1
+1|5|1|K|L|Cpps.me Bot
+1|5|2|L|N|
+1
+1|5|3|M|D|Cpps.me Bot
+1
+1|5|3|M|D|Cpps.me Bot
+1|5|6|Q|I|
+1
+1|5|3|E|F|Cpps.me Bot
+1|5|2|P|N|
+1
+1|9|1|K|L|Mamals gal
+1|9|4|K|H|
+1|9|6|S|F|
+1
+1|9|1|K|L|Mamals gal
+1|9|8|I|E|
+1|9|L|N|M|
+1|9|3|T|G|
+1|9|L|L|M|
+1|9|L|S|G|
+1|9|5|T|F|
+1|9|1|O|L|
+1
+1|6|1|K|L|Riju :D
+1|6|8|G|M|
+2|6|1|K|L|KawaiiMasta
+1|6|7|H|N|
+1|6|6|I|O|
+2|6|1|N|J|
+1|6|6|I|O|i'm new
+2|6|1|N|J|Hai!
+2|6|1|N|J|:P
+2|6|1|N|J|me too
+1|6|6|I|O|can you show me overd
+1|6|1|M|J|
+2|6|1|N|J|i just joined seconds ago
+1|6|7|M|J|oh
+1|6|5|N|M|
+1|6|5|N|M|me to!
+2|6|1|N|J|right when i poofed here
+2|6|1|N|J|cool!
+2|6|1|N|J|:D
+1|6|5|N|M|this is the old club penguin
+1|6|5|N|M|its cool!
+2|6|1|N|J|older then the old cp
+2|6|1|N|J|ikr
+1|6|5|N|M|yep :D
+2|6|1|N|J|i played experimental penguins a while ago
+2|6|1|N|J|on a different site :3
+2|6|1|N|J|wow
+1|6|5|N|M|wanna go and explore
+2|6|1|N|J|i cant believe im playing this
+2|6|1|N|J|sure!
+1|6|5|N|M|me to!
+1|6|5|N|M|this is coo'
+2|6|2|N|J|lets go
+2|6|2|T|L|ikr
+1|6|5|N|M|kk
+2
+1
+2|6|4|V|L|KawaiiMasta
+2|6|3|S|E|
+1|17|3|V|L|Riju :D
+2|6|4|H|D|
+2
+2|6|6|M|D|KawaiiMasta
+2
+2|6|6|E|F|KawaiiMasta
+1
+2
+2|6|2|V|L|KawaiiMasta
+2|6|8|I|L|

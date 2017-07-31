@@ -1,0 +1,486 @@
+1|4|3|N|D|Ninjakrom
+1|4|3|X|R|
+1|4|6|O|C|
+1
+1|13|6|N|D|Senosi
+1|13|1|O|N|
+1|6|3|N|D|Eli
+1|6|4|N|D|
+1
+1|7|3|N|D|Spatty
+1|7|5|M|G|
+1
+1|11|5|N|D|tokm101
+1|11|5|N|I|
+1
+1|5|1|N|D|MepMepauset
+1
+1|14|7|N|D|MepMepauset
+1|14|1|G|C|
+1|14|H|H|D|
+1
+1|1|5|N|D|Oswald75
+1|1|2|M|F|
+1|1|3|Y|R|
+1|1|4|P|C|
+1
+1|14|L|N|D|C U L8ER
+1|14|6|P|C|
+1
+2|14|2|N|D|Swiss
+2
+2|14|3|N|D|Swiss
+2
+4|4|4|N|D|Ninjakrom
+4
+7|9|2|N|D|Dino Domo
+7|9|8|G|C|
+7|9|6|M|G|
+7
+10|12|2|N|D|G Billy One
+10|12|K|8|F|
+2|17|5|N|D|Swiss
+2|17|1|C|I|
+1|14|5|N|D|Gergo777
+2|17|1|C|I|what's up?
+1|14|J|H|C|
+2|17|1|G|J|
+8|13|5|N|D|Somewhat
+2|17|L|N|F|
+1|14|K|H|C|
+1|14|K|H|C|Look twitter
+8|13|1|N|D|
+8|13|1|N|D|I'm Oarca
+2|17|6|O|C|
+2
+8|13|2|K|K|remember?
+10|12|K|H|I|
+10|12|K|H|I|yay!
+10|12|5|N|G|/a2LA
+8|13|1|K|K|yep
+10|12|5|O|C|
+10
+8|13|4|K|K|/e1
+8|13|L|K|K|
+8|13|L|K|K|/j14
+2|17|2|N|D|Swiss
+8|13|1|F|G|
+8|13|7|F|G|/e1
+2|17|8|Z|R|
+8|13|1|F|G|/e11
+2|17|3|N|I|
+2|17|3|N|I|/e7
+2
+8|13|1|L|J|
+8|13|1|L|J|where did you get that color?
+8
+1
+9|12|3|N|D|Mepauset
+4|4|3|N|D|Ninjakrom
+9|12|3|N|D|
+4|4|1|X|O|
+4|4|1|X|O|/a2MC
+4|4|1|b|R|
+4|4|3|5|R|
+4|4|6|A|D|
+9|12|1|G|I|
+9|12|6|G|I|/e1
+4
+9
+11|12|3|N|D|Mister13
+11|12|5|N|E|
+11
+10|12|2|N|D|G Billy One
+10
+9|12|4|N|D|Mepauset
+9|12|K|8|F|
+9
+1|17|3|N|D|Gergo777
+1|17|K|8|F|
+13|4|4|N|D|lets rock 2
+13|4|6|J|I|
+13
+14|17|4|N|D|Ninjakrom
+14|17|3|F|D|
+14|17|J|A|E|
+14|17|H|A|E|/e12
+18|13|3|N|D|puffle fun
+1|17|K|8|F|/e12
+10|17|3|N|D|G Billy One
+18|13|3|D|H|
+1|17|K|8|F|/e7
+18|13|3|D|H|so cool!
+10|17|1|W|N|
+18|13|7|K|G|
+18|13|7|K|G|hey billy!
+10|17|K|H|I|
+1|17|K|8|F|/e2
+18|13|7|K|G|thanks to you
+10|17|8|G|F|
+18|13|7|K|G|I found this game!
+10|17|8|G|F|hiya!
+18|13|1|I|F|
+18|13|1|I|F|thanks!
+10|17|1|G|F|wat
+18|13|2|I|F|/e1
+10|17|8|G|F|np?
+10|17|8|G|F|/e1
+18|13|1|I|F|/a2JJ
+10|17|1|F|C|
+18|13|L|M|F|
+18|13|3|L|G|/e2
+10|17|K|F|C|/a2J9
+18
+10|17|7|H|H|/a2KE
+10|17|7|N|C|
+10
+16|5|7|N|D|Fxss6
+14
+16|5|2|G|H|
+16|5|8|Q|G|
+17|17|4|N|D|Mister13
+17|17|1|H|C|
+17|17|7|Q|N|
+17|17|1|V|Q|
+17|17|4|O|M|
+17
+16
+18|13|7|N|D|puffle fun
+18
+1|17|K|P|G|
+1
+18|13|3|N|D|puffle fun
+18
+10|17|5|N|D|G Billy One
+10|17|2|F|C|
+10
+24|13|L|N|D|Takashi Logo
+8|11|L|N|D|Somewhat
+24
+8|11|8|8|F|
+5|12|4|N|D|Naty
+8|11|5|X|N|
+5|12|1|Q|M|
+8|11|L|X|N|
+5|12|8|G|J|
+5|12|1|G|J|/j8
+8|11|L|O|C|
+5
+8
+4|12|5|N|D|G Billy One
+6|4|7|N|D|Cp Tour Guy
+6|4|5|N|H|
+4
+6
+4|12|5|N|D|G Billy One
+4
+26|4|4|N|D|zezo 1 2001
+26
+1|5|4|N|D|Timothystam
+1|5|K|9|I|
+1
+28|5|5|N|D|Conroy
+28
+1|5|5|N|D|Timothystam
+1
+36|18|1|N|D|
+36|18|3|D|H|
+44|17|4|N|D|swiss
+46|1|7|N|D|Lukey
+46|1|4|O|P|
+44
+46|1|5|O|C|
+46
+52|18|4|N|D|Biro
+52
+56|1|3|N|D|Coolpool
+56
+55|9|3|N|D|Penguindu01
+48|18|3|N|D|Bella Bugz
+55|9|4|8|F|
+48|18|5|F|E|
+55|9|7|I|H|
+41|14|3|N|D|PoloField
+50|4|4|N|D|zezo 1 2001
+48|18|H|E|C|
+41|14|6|C|L|
+50|4|3|9|F|
+41|14|1|N|M|
+50|4|H|9|F|
+41|14|8|G|D|
+50|4|K|9|F|
+48|18|H|E|C|This is ice!
+55|9|2|I|H|POLO ?
+48|18|H|E|C|/e2
+55|9|6|E|E|/a2HF
+41|14|1|G|D|Yeah?
+41|14|8|C|J|
+3|17|5|N|D|Thinknoodle
+43|12|3|N|D|G Billy One
+41|14|4|L|H|
+3|17|4|H|K|
+43|12|3|K|L|
+41|14|3|B|I|
+3|17|2|H|C|
+43|12|8|I|I|
+41|14|L|B|I|
+48|18|6|F|I|/e1
+3|17|1|H|C|liar
+43|12|1|G|C|
+41|14|L|K|G|
+48|18|7|N|I|
+43|12|H|G|C|
+55|9|6|E|E|Are you think ?
+3|17|1|H|C|/a2K8
+41|14|7|9|I|
+41|14|7|9|I|/e1
+43|12|4|D|C|
+3|17|1|J|N|/a2VI
+41|14|7|M|L|
+3|17|4|J|N|yes
+48|18|1|N|I|They have Crossant here!
+48|18|1|N|I|Yes!
+55|9|6|E|E|Fakes penguins
+3|17|8|F|F|
+41|14|3|H|L|
+55|9|5|J|H|
+48|18|2|N|I|Chews
+41|14|6|O|M|
+3|17|8|F|F|no'
+48|18|2|N|I|Oh
+3|17|8|G|H|iam real
+48|18|2|N|I|Ths Ish Delichuz
+41|14|3|7|O|
+55|1|1|J|H|
+3|17|5|J|J|
+43|12|8|H|K|
+3|17|8|L|N|
+43|12|7|U|G|
+41|14|7|H|N|
+43|12|3|L|E|
+55|13|1|J|H|Serious ?
+41|14|H|G|C|
+43
+3|17|7|L|N|IAM NOT FAKE
+48
+3|17|5|E|L|
+41|14|H|G|C|I Dont think
+41
+3|17|6|E|L|ASK ME QUESTIONS
+3|17|7|L|M|
+55|13|1|J|H|It s not Thinknoodle
+3|13|1|O|D|
+55|13|1|J|H|It's Thiknoodles
+62|4|4|N|D|Ninjakrom
+55|13|1|J|H|/e6
+3|13|7|I|K|
+55|13|1|J|H|/a2LC
+3|13|5|I|K|FAKE
+62|4|8|F|H|
+3|13|1|H|J|/a2I9
+60|9|4|N|D|TrollCP
+62|4|L|Y|R|
+55|13|1|J|H|You are  FAKE
+3|13|1|H|J|/a2CI
+62|4|6|N|K|
+55|13|2|J|J|
+60|9|4|N|D|
+62|4|8|F|J|lol
+3|13|1|H|J|/a2PD
+60|9|2|G|M|
+3|13|1|H|J|NO IAM REAL
+60|9|1|H|P|
+3|13|2|L|K|
+60|9|1|H|P|Chamagool, sup mate?
+55
+60|9|1|H|P|Thinknoodles, lol. You're probably fake.
+3|13|3|E|O|
+60|9|1|F|D|
+3|13|8|D|O|
+60|9|1|F|D|You couldn't even spell yourself correctly.
+3|13|7|D|O|NO
+3|13|1|H|M|
+60|9|1|X|K|
+3|13|7|H|M|IAM REAL
+60|9|6|W|L|
+3|13|2|L|H|/a29F
+46|1|3|N|D|Lukey
+60|9|2|H|D|
+3|13|2|L|H|/a2SB
+46|1|2|8|O|
+60|9|2|B|Q|/a2HK
+3|13|2|L|H|/a2TJ
+46|1|6|8|O|/a2DH
+60|9|2|8|O|
+62|4|7|L|K|
+3|13|5|O|C|
+3
+46|1|6|C|G|
+46|1|K|G|C|
+46|1|1|D|C|
+60|9|6|I|P|
+46|1|K|D|C|
+60|9|6|I|P|Chamagool?
+46|1|K|D|C|/e1
+60|9|3|N|C|
+46|1|7|E|M|
+60
+46|1|7|9|O|
+46|1|1|R|O|
+62
+50
+46|12|1|R|O|
+60|9|5|N|D|TrollCP
+60|9|5|J|O|
+60
+46
+69|12|3|N|D|JumboWario1
+69
+1|14|4|N|D|Alex Anton
+1|14|4|O|D|
+1
+62|18|4|N|D|Ninjakrom
+62
+55|13|5|N|D|Penguindu01
+55
+70|5|3|N|D|Brunocp03
+70
+66|18|5|N|D|Lukey
+66
+56|1|2|N|D|NoodleDraco
+56
+56|18|1|N|D|Gergo777
+56
+54|8|4|N|D|cristal1237
+54|8|4|I|H|
+54
+1|14|2|N|D|zygarde
+1|14|5|Q|G|
+1
+1|12|4|N|D|wakfu277
+1|12|4|N|D|
+1|12|6|L|G|
+1
+1|10|3|N|D|angel3667
+1
+1|9|4|N|D|Elite
+1
+1|13|3|N|D|Mati bkn1
+1
+1|13|2|N|D|Mati bkn1
+1
+1|1|L|N|D|Musserbuddy
+1|1|8|H|I|
+1
+1|14|5|N|D|Shadow
+1
+5|1|4|N|D|Viper
+5
+1|17|7|N|D|Penyuin
+1
+6|1|8|N|D|red
+6|1|7|O|C|
+6
+6|1|3|N|D|red
+6
+1|14|3|N|D|Michael
+1
+2|1|3|N|D|Paper
+2
+1|1|4|N|D|Aamelo
+1|1|6|G|H|
+1|1|I|I|I|
+1
+1|15|2|N|D|2Fab
+1
+2|12|6|N|D|Ross Lynch
+2|12|7|E|H|
+2|12|7|N|E|
+2
+1|15|2|N|D|2Fab
+1
+2|4|4|N|D|jason123
+2
+2|4|4|N|D|
+2|4|1|O|L|
+2|9|1|O|L|
+2|18|6|O|H|
+2|9|4|N|D|sophia
+2|9|4|N|D|
+2
+1|8|3|N|D|kennyg423
+1|8|7|7|G|
+1
+1|14|3|N|D|Bikeboy93
+1|14|1|b|R|
+1|14|6|7|P|
+1
+1|14|8|N|D|Bikeboy93
+1|14|6|O|E|
+1
+1|12|1|N|D|bikeboy93
+1|12|2|2|R|
+1|12|7|S|N|
+1|12|4|T|J|
+1
+2|1|3|N|D|Kick Penguin
+2|1|1|N|D|
+2|1|5|M|F|
+2
+1|17|5|N|D|Bikeboy93
+1
+1|13|1|N|D|Bikeboy93
+1
+2|7|3|N|D|xavi123
+2|7|8|D|I|
+2
+1|13|4|N|D|ale23152
+1|13|7|J|L|
+1
+1|13|4|N|D|ale23152
+1|13|4|N|D|
+1|13|1|P|M|
+1|9|1|E|C|
+1|9|K|F|C|
+1|9|1|S|F|
+1|9|3|5|M|
+2|12|7|N|D|fuego cp
+2|12|5|G|K|
+2|12|1|G|K|lolo
+2|12|8|b|Q|
+2|12|5|P|C|
+1|9|7|T|N|
+2
+1|9|7|V|O|chacho
+1
+2|12|6|N|D|fuego cp
+2
+4|8|3|N|D|Jennzz
+4|8|1|F|C|
+4
+8|12|4|N|D|LoMejor 619
+8
+4|17|L|N|D|LoMejor 619
+4
+5|13|4|N|D|bikeboy93
+5
+5|13|1|N|D|bikeboy93
+5
+1|8|6|N|D|JOAN
+1
+1|14|4|N|D|The 4 Star
+1|14|4|O|C|
+1
+1|14|2|N|D|The 4 Star
+1
+3|14|2|N|D|Agent
+3
+1|14|2|N|D|riyita
+1
+2|13|4|N|D|gohan
+2
+2|13|3|N|D|gohan
+2|13|5|O|C|
+2
+1|13|4|N|D|wolf of myst
+1

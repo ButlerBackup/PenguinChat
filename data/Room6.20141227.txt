@@ -1,0 +1,483 @@
+2|4|3|a|D|Ciaran
+2|4|3|1|E|
+2
+1|5|3|a|D|Hayhany
+1|5|3|1|I|
+1|5|8|G|O|
+1|5|3|Q|J|
+1|5|6|d|I|
+2|12|3|a|D|sidsid2525
+2|12|2|O|A|
+2|12|7|N|E|/a2cK
+2|12|5|C|C|
+2|17|1|G|9|
+2|17|L|G|9|
+2|17|6|D|H|
+2|17|3|5|F|
+2|17|7|I|J|
+2|17|7|W|L|
+2|17|1|W|L|
+2|17|I|W|L|/a2V7
+2|17|I|W|L|/a2WL
+2|17|I|N|J|/a2LI
+2|17|2|O|A|/a2dG
+2|17|L|O|A|
+2|17|L|O|A|/a2HH
+2|17|L|O|A|/a2MI
+2|17|L|N|A|
+2|17|L|N|A|/j2
+2|17|3|d|L|
+2|17|7|Y|L|
+2|17|6|Y|L|/a2aI
+2|17|5|d|N|
+1
+2
+1|1|3|a|D|sidsid2525
+1|17|1|b|H|
+1
+1|6|2|a|D|meowlerhi
+1
+2|13|3|a|D|Blitzen
+2|13|3|F|B|
+2|13|7|b|H|
+2|13|7|1|O|
+2|13|7|1|H|
+2|13|7|d|J|
+2
+2|13|7|4|D|Blitzen
+2|13|7|d|E|
+2
+1|13|2|a|D|luccawoops
+1|13|3|2|B|
+1
+1|1|4|a|D|luccawoops
+1|1|3|M|C|
+1|1|4|J|9|
+1
+3|7|1|a|D|ironman5203
+3|7|3|a|D|
+3|7|6|L|A|
+3|7|2|N|A|
+3|7|I|N|A|
+3|7|J|N|A|
+3|7|1|P|K|
+3|7|5|D|G|
+3|7|4|Y|J|
+3|7|5|d|J|
+3
+1|1|3|a|D|TGAICLMC
+1|17|1|a|D|
+1|17|L|a|D|
+1
+2|6|3|a|D|flormar1234
+2
+2|6|4|a|D|flormar1234
+2|6|5|a|D|
+2
+1|6|7|4|D|flormar1234
+1|6|7|d|G|
+1
+1|6|3|4|D|flormar1234
+1|6|7|M|9|
+1|6|2|M|9|wyatt is a BOT xD
+0|1|1|L|K|Why did you say my name
+1|6|1|M|9|because you are chasing me
+0|1|1|L|K|What's poppin'?
+1|6|1|M|9|HAH
+1|6|1|M|9|you scares me
+0|1|1|G|I|Hi there!
+1|6|1|M|9|YOU ARE A BOT
+0|1|1|J|E|Hello
+1|6|4|I|L|
+1|6|6|I|L|xD
+1|6|2|I|L|BOT
+1|6|2|I|L|hello
+0|1|1|H|F|Hello there
+1|6|1|I|L|BOT
+1|6|2|I|L|HAAAA
+1|6|2|I|L|YOU ARE A BOT
+0|1|1|L|K|Helloooo
+1|6|1|I|L|WYATT IS A BOT
+0|1|1|A|F|I'm just happy to be alive!
+1|6|1|I|L|.-.
+1|6|2|I|L|NO
+1|6|2|I|L|YOU ARE A BOT
+0|1|1|A|H|Heyy
+1|6|2|I|L|eres un robot
+1|6|2|I|L|xD
+1|6|2|I|L|are you an human?
+0|1|1|A|K|Hey!
+1|6|2|I|L|you are'
+0|1|1|B|G|Heyy
+1|6|2|I|L|you are?
+0|1|1|C|A|Hello
+1|6|3|C|J|
+1|6|1|C|J|are you a penguin?
+0|1|1|L|K|Helloooo
+1|6|1|C|J|WHY DO U SAY HELLO9
+0|1|1|L|K|Helloooo
+1|6|1|C|J|WYATT
+0|1|1|L|K|I am an awesome guy.
+1|6|1|C|J|me too
+1|6|1|C|J|xD
+1|6|7|H|L|
+1|6|8|C|J|are you a guy?
+0|1|1|L|K|What's poppin'?
+1|6|7|H|L|why do you not answer me?
+0|1|1|I|J|Hi
+1|6|2|H|L|hi
+0|1|1|A|K|Hey!
+1|6|2|H|L|are you a guy?
+0|1|1|I|J|Hi
+1|6|1|H|L|what happen if I say you 'I love you'?
+0|1|1|I|K|Heyy
+0|1|1|A|K|I don't know, sorry.
+1|6|1|H|L|hahhahaha
+1|6|1|H|L|you are't a bot
+0|1|1|L|K|What's poppin'?
+1|6|1|H|L|aren't*
+1|6|4|F|F|
+1|6|1|F|F|nothing
+0|1|1|A|K|Hey!
+1|6|1|F|F|humm
+1|6|1|F|F|nothiing
+0|1|1|A|K|Hello
+1|6|1|F|F|hey!
+1|6|1|F|F|hello
+0|1|1|I|J|Hi
+1|6|1|F|F|are you from E.E.U.U.?
+0|1|1||H|Heyy
+1|6|1|F|F|HAH
+1|6|8|F|F|Are you from USA?
+0|1|1|A|K|Hey!
+1|6|8|F|F|/e10
+1|6|3|W|O|
+1|6|H|W|O|
+1|6|K|W|O|
+1|6|K|W|O|Bye
+0|1|1|D|B|I'll see you later!
+1|6|K|W|O|/e10
+1|6|K|W|O|maybe you'll never see me
+0|1|1|H|K|Hello
+1|6|K|W|O|bye
+0|1|1|L|K|I'll talk to you later!
+1
+2|6|3|a|D|lilovercat
+2|6|2|N|B|
+2|6|2|1|P|
+2|6|7|S|H|
+2|6|7|d|H|
+2|6|4|M|9|
+2|17|1|M|9|
+2|17|L|F|G|
+2|17|1|I|A|
+2|17|L|Q|H|
+2
+1|14|4|a|D|Daril166
+1|17|5|N|9|
+1|17|L|N|9|
+1
+2|6|3|a|D|aby
+2|6|3|1|B|
+2|6|7|Z|D|
+2|6|6|b|C|
+2
+1|17|2|a|D|botiton32
+1|17|1|I|B|/a2KK
+1|17|5|G|A|
+1|17|1|N|A|
+1|17|2|U|A|
+1|17|2|V|B|
+1|1|1|V|B|
+1|1|7|X|E|
+1|1|2|1|F|
+1
+1|1|7|4|D|botiton32
+1|1|7|c|G|
+1
+1|1|3|a|D|botiton32
+1|17|3|W|E|
+1|17|4|J|9|
+1|17|1|A|K|
+1|17|5|C|A|
+1
+1|10|3|a|D|dotty
+1|10|2|P|J|
+1|10|2|P|J|olá wyatt1
+0|1|1||D|LOL, sorry I laugh a lot.
+1|10|4|N|9|
+1|10|5|M|H|
+1|10|1|M|D|
+1|10|2|M|D|/e2
+0|1|1|E|H|/e2
+1|10|1|M|D|wyatt, falas!
+0|1|1|A|K|I think Penguin Chat is cool.
+1|10|5|J|F|
+1|10|2|J|F|/e1
+0|1|1|J|I|( ͡° ͜ʖ ͡°)
+1|10|1|G|G|
+1|10|1|G|G|wyatt
+0|1|1|L|K|I am an awesome guy.
+1|10|7|G|G|/e2
+0|1|1|F|E|/e2
+1|10|2|O|I|
+1|10|2|O|I|és fixe1
+1|10|2|O|I|muito fixe!
+1|10|1|I|I|
+1|10|1|I|I|vou te testar wyatt
+0|1|1||C|LOL, sorry I laugh a lot.
+2|5|2|a|D|alex_grande
+1|10|4|K|F|
+2|5|3|O|C|
+1|10|1|K|F|/e2
+0|1|1|D|B|/e2
+2|5|3|M|B|
+2|5|1|F|I|
+2|5|4|G|F|/a2EE
+2|5|4|G|F|/a2CD
+2|5|4|Q|L|/a2KH
+2|5|4|Q|L|/j6
+0|1|1|J|C|No, not funny at all.
+2|5|4|Q|L|/a2VC
+1|10|2|K|F|ei wyatt, podes falar!
+0|1|1|B|H|I'm just happy to be alive!
+2|5|L|Q|L|/a2G7
+1|10|4|H|D|
+1|10|8|H|D|/e2
+0|1|1||A|/e2
+1|10|3|D|D|
+1|10|8|D|D|/e1
+0|1|1|H||( ͡° ͜ʖ ͡°)
+2|5|L|Q|L|falas portugues
+2|5|1|J|G|
+1|10|8|F|F|
+1|10|1|H|K|
+2|5|1|J|G|das-me roupa?
+1|10|1|H|K|ele é fixe
+2|5|1|J|G|wyatt
+0|1|1|L|K|Why did you say my name
+2|5|5|J|G|/a2JC
+1|10|1|H|K|não dá
+2|5|5|J|G|/a2NM
+1|10|4|E|F|
+2|5|5|J|G|/a2MI
+1|10|1|H|K|
+2|5|5|J|G|lol
+2|5|5|J|G|/e11
+1|10|1|H|K|because you are LOL!
+0|1|1|B|D|Heyy
+1|10|1|E|G|
+1|10|1|E|G|/j14
+2|5|5|J|G|/e1
+0|1|1|E|B|( ͡° ͜ʖ ͡°)
+1|10|6|D|J|
+1|10|7|D|J|/e2
+0|1|1|K|E|/e2
+1|10|1|D|J|/j1
+0|1|1|B|K|Haha, very funny.
+2|5|5|J|G|/e12
+2|5|5|1|I|
+2|5|8|L|E|
+1|10|7|D|J|THANKS, UPS
+1|10|7|N|H|
+2|5|1|d|I|
+1|10|2|H|L|
+2|5|1|L|9|
+2|5|3|C|9|
+2
+1|10|1|H|L|bye
+0|1|1|A|K|Buh bye!
+1|10|5|9|B|
+1|10|3|A|A|
+1|10|3|9|A|
+1|10|7|c|H|
+1|10|4|9|B|
+1|10|7|B|9|
+1|10|4|9|A|
+1|10|4|2|B|
+1|10|1|1|B|
+1
+5|18|2|a|D|LOL909
+5
+3|18|4|a|D|belo
+3
+5|18|2|a|D|LOL909
+5|18|3|M|J|
+5|18|3|M|J|Press Tab 19s and see a boxPress Tab 19s and see
+5|18|3|M|J|Press Tab 19s and see a box
+5|18|3|C|M|
+5
+1|13|3|a|D|Agent Pedro
+1|13|3|D|9|
+1|17|1|D|9|
+1|17|L|B|J|
+1
+1|5|3|a|D|Mumbo12
+1|5|3|D|H|
+1|5|3|D|H|/a2JI
+1|5|3|Z|J|/a2GJ
+1|5|1|d|I|
+1|5|3|d|L|
+1|5|3|d|L|/j7
+0|1|1|H|I|/e8
+1
+2|9|3|a|D|kkjj
+2
+2|9|3|a|D|;Bandit;
+2
+1|17|1|a|D|chica rock
+1|17|3|E|A|
+1|17|2|M|C|
+1|17|4|F|9|
+1|17|6|E|9|
+1|17|8|2|I|
+1
+1|8|3|a|D|GiaGoesRawr
+1|8|3|1|E|
+1
+1|5|2|a|D|NeurisAamelo
+1|5|3|U|J|
+1|5|4|G|9|
+1|5|7|C|A|
+1|5|7|Y|O|
+1|5|3|K|D|
+1|5|2|J|P|
+1|5|6|P|F|
+1|5|6|S|G|
+1|5|3|N|A|
+1
+2|12|1|a|D|NeuosAamelo
+2|12|3|F|9|
+1|1|2|a|D|servercity21
+1|1|3|a|D|/a2DB
+1|1|3|G|9|/a2D7
+1|1|4|G|9|/a2DC
+1|1|4|G|9|/j12
+1|1|3|E|L|
+1|1|3|E|L|/a2NK
+1|1|5|F|C|
+1|1|8|J|E|
+1|1|1|J|E|/j10
+0|1|1|||I'm rolling on the floor laughing! Can't you tell?
+1|1|1|J|E|/j13
+1|1|3|L|K|
+1|1|7|P|J|
+1|1|6|d|I|
+1|1|3|3|J|
+1|1|8|1|H|
+1|1|I|1|H|
+1|1|8|A|J|
+2
+1|1|7|P|I|
+1|1|2|P|I|/e11
+1|1|2|P|I|/e9
+0|1|1|H||/e9
+1|1|4|L|F|
+1
+2|9|3|a|D|awesummer123
+2
+2|1|2|a|D|NeuosAamelo
+2|1|3|2|G|
+2
+1|1|3|a|D|servercity21
+1|1|3|1|H|
+1|1|5|1|H|
+1
+3|5|3|a|D|awesomejcp
+3|5|3|2|D|
+3
+2|1|3|a|D|jack533
+2
+2|17|2|a|D|danpengui123
+2|17|3|B|E|
+2|17|1|J|E|
+2|17|L|J|E|
+2|17|L|J|E|/a2CD
+2|17|1|G|F|/a28N
+2|17|K|G|F|/a2FG
+2|17|H|c|N|
+2|17|H|d|P|
+2
+1|6|1|a|D|SlushSLUSH1
+1|6|3|H|K|
+1|6|3|C|L|
+1
+1|6|3|a|D|SlushSLUSH1
+1|6|4|O|A|
+1|17|1|O|A|
+1|17|L|K|E|
+1|17|L|B|M|
+1|17|6|3|C|
+1
+2|4|7|a|D|SnIpShark
+2|4|3|N|A|
+2|4|7|R|Q|
+2|4|7|Y|Q|
+2
+2|17|1|4|D|SnIpShark
+2|17|1|9|B|
+2
+4|4|4|a|D|SnIpShark
+4|17|2|G|D|
+4|17|L|G|D|
+4
+1|12|3|a|D|MackpHGiyou
+1|12|3|E|M|
+1|12|4|8|D|Ola
+1|12|4|8|D|Tudo bem Rsnail?
+1
+1|12|6|4|D|MackpHGiyou
+1|12|1|B|K|/a2DA
+1|12|K|B|K|
+1|12|K|c|K|
+1|12|1|d|R|
+1|12|3|d|R|/a2HN
+1|12|3|1|K|
+1|12|7|1|K|/a2IM
+1
+3|9|3|a|D|H222
+3|9|7|N|B|
+3
+1|8|1|a|D|SomáliaL
+1|8|1|P|A|
+1|8|2|6|R|
+1|8|3|7|R|
+1|8|5|1|R|
+1|8|6|N|C|
+1
+6|12|1|a|D|Abelx10
+6|12|3|H|C|
+4|9|7|a|D|Snolt
+4|9|7|a|D|
+6|12|8|G|9|
+6|12|8|1|R|
+6
+4|9|2|2|E|
+4
+8|1|4|a|D|Abelx10
+8
+8|1|7|4|D|Abelx10
+8|1|7|b|D|
+8
+1|14|2|a|D|Justin david
+1|14|3|4|C|
+1|14|1|1|B|
+1
+12|4|3|a|D|stardust7364
+12
+12|4|4|a|D|stardust7364
+12
+12|1|3|a|D|stardust7364
+12
+1|1|L|a|D|Sensi
+1|1|2|J|L|
+1|1|3|A|F|
+1|1|3|Z|G|
+1
+1|18|2|a|D|chenjason
+1|17|7|J|F|
+1|17|7|U|I|
+1
+1|6|H|a|D|hihello
+1|6|3|1|H|
+1

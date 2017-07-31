@@ -1,0 +1,662 @@
+1|4|1|K|L|Anakin2309
+1|4|6|J|M|
+1
+1|4|3|V|L|Anakin2309
+1
+1|14|1|K|L|snowcat
+1
+1|14|1|K|L|Jerry Dude
+1|14|6|G|L|
+1|14|1|Q|L|
+1
+1|14|3|M|D|Jerry Dude
+1|14|7|S|E|
+1
+1|14|6|E|F|Jerry Dude
+1
+1|14|L|V|L|Jerry Dude
+1
+1|14|6|C|L|Jerry Dude
+1|14|5|T|F|
+1|14|4|R|L|
+1|14|3|N|J|
+1|14|3|O|I|
+1|14|1|L|K|
+1|14|4|J|H|
+1|14|4|K|F|
+1|14|4|E|E|
+1
+1|14|6|E|F|Jerry Dude
+1|14|7|A|H|
+1|14|8|N|J|
+1|14|1|S|I|
+1
+1|14|6|C|L|Jerry Dude
+1|14|8|W|I|
+1
+1|14|1|K|L|jerry dude
+1
+1|15|1|K|L|Anderson
+1|15|3|H|M|
+1
+1|15|4|E|F|Anderson
+1
+1|14|1|K|L|kd5
+1|14|4|J|G|
+1|14|1|K|K|
+1
+1|14|3|E|F|kd5
+1
+1|13|1|K|L|Lmar10
+1|13|4|H|K|
+1
+1|13|6|E|F|Lmar10
+1|13|3|B|K|
+1
+1|14|1|K|L|ghhg
+1
+1|14|1|K|L|itay050
+1|14|1|R|M|
+1
+1|13|1|K|L|Sonikku
+1|13|2|N|P|
+1|13|4|Q|K|
+1
+1|13|6|E|F|Sonikku
+1|13|6|R|H|
+1|13|8|I|N|
+1|13|5|J|D|
+1
+2|14|1|K|L|itay050
+2
+1|13|4|M|D|Sonikku
+1|13|2|S|F|
+1|13|6|R|I|
+1|13|2|O|K|
+2|14|4|V|L|itay050
+2|14|4|K|J|/a2OK
+2|14|4|F|J|/a2RK
+1|13|2|O|O|
+2
+1|13|3|R|K|
+2|14|3|M|D|itay050
+2
+1|13|6|O|J|
+1
+1|17|1|V|L|Sonikku
+1|17|6|S|E|
+2|18|6|E|F|itay050
+2|18|6|T|F|
+1|17|3|6|J|
+1
+2|18|7|V|L|
+2
+1|17|7|C|L|Sonikku
+1
+1|17|4|M|D|Sonikku
+1
+1|17|5|E|F|Sonikku
+1|17|5|L|N|
+1|17|6|H|M|
+1|17|2|L|L|
+1|17|1|P|K|
+1|17|3|N|O|
+1|17|6|T|F|
+1|17|6|W|L|
+1|17|6|V|L|
+1
+1|13|2|V|L|Sonikku
+1|13|6|P|L|
+1
+1|13|4|M|D|Sonikku
+1|13|6|K|L|
+1|13|2|Q|M|
+1|13|5|S|M|
+1
+1|13|5|E|F|Sonikku
+1|13|2|T|F|
+1|13|2|J|L|
+1
+1|13|4|V|L|Sonikku
+1|13|1|Q|K|
+1|13|1|M|I|
+1|13|4|P|N|
+1
+1|13|1|K|L|Sonikku
+1|13|1|N|I|
+1|13|8|N|J|
+1|18|L|M|L|
+2|14|1|K|L|Rauffe
+1|18|3|F|K|
+2|14|8|K|M|
+1|18|7|F|K|/a2JK
+2|14|7|Y|K|
+2
+1|18|4|F|H|
+2|17|7|V|L|Rauffe
+1
+2|17|1|I|I|
+2|17|2|I|I|/a288
+2
+1|18|6|E|F|Sonikku
+1|18|2|T|F|
+1
+2|5|4|E|F|Rauffe
+2|18|1|G|M|
+2|18|2|Y|M|
+2
+1|18|4|M|D|Sonikku
+1
+1|18|4|V|L|Sonikku
+2|18|4|V|L|Rauffe
+1
+2|18|7|9|G|
+2|18|8|I|O|
+2|18|6|O|K|
+3|14|1|K|L|Lordpingo
+1|18|4|V|L|Sonikku
+2|18|6|K|J|
+1|18|5|Q|M|
+2|18|3|O|H|
+1|18|L|Q|M|
+2|18|7|W|M|
+3|14|3|N|K|
+2|18|2|T|M|/j2
+1|18|L|G|J|
+3|14|2|N|K|/j8
+2|18|L|T|M|
+1|18|L|G|J|/j4
+2|18|6|X|L|
+3|14|8|N|L|
+2|18|5|O|I|
+3|14|5|S|M|
+2
+3|14|4|M|K|
+3|14|6|L|J|
+3|14|7|P|M|
+3
+1
+1|18|3|M|D|Sonikku
+1|18|5|N|K|
+2|18|3|V|L|Rauffe
+1
+2|18|1|I|H|
+2|18|7|P|M|
+2|18|7|P|M|/a2YJ
+2|18|6|T|L|
+2|18|7|X|L|
+2
+2|18|3|V|L|Rauffe
+2
+2|17|3|V|L|Rauffe
+2
+1|12|1|K|L|Margarida
+1
+1|12|L|M|D|Margarida
+1|12|3|J|K|
+1
+1|14|1|K|L|Tazboi
+1|14|8|L|L|
+1|18|6|N|L|
+1|18|2|T|G|
+1|18|L|K|M|
+1|18|5|D|E|
+1
+1|18|6|E|F|Tazboi
+1|18|8|A|L|
+1|18|2|N|L|
+1|18|3|T|N|
+1
+1|14|1|K|L|Tazboi
+1
+1|15|1|K|L|Anderson
+1|15|8|F|M|
+1|15|7|M|K|
+1|15|6|H|L|
+1|15|4|E|L|
+1|15|5|Q|M|
+1|15|3|F|K|
+1|15|6|M|J|
+1|15|2|I|M|
+1|15|7|P|L|
+2|5|1|K|L|CoolEugene
+2|5|7|H|N|/a2PJ
+2|5|6|M|O|/a2SI
+2|5|7|G|I|/a2NJ
+2|5|7|G|I|/a2PI
+2|5|5|H|F|
+2|5|1|I|I|
+2
+2|5|3|M|D|CoolEugene
+2|5|6|P|L|
+2|5|2|R|H|/a2ON
+2|5|6|P|I|
+2|5|6|T|F|
+2|5|5|S|E|
+2
+2|14|1|K|L|CoolEugene
+2|14|7|Y|L|
+2
+1|15|3|F|K|
+1|15|7|R|K|
+2|14|4|V|L|CoolEugene
+2|14|3|6|K|
+2
+1|15|4|I|J|
+1|15|7|S|M|
+1|15|4|7|J|
+1
+3|10|1|K|L|coraline300
+2|14|5|C|L|CoolEugene
+2|14|8|C|L|
+2|14|8|C|L|Hello!
+1|15|7|C|L|Anderson
+2|14|7|C|L|/a2MJ
+1|15|2|R|M|
+1|15|2|R|M|Hi, everyone!
+2|14|4|I|N|
+2|14|8|I|N|Hello, Anderson!
+2|14|7|T|N|
+2|14|3|R|J|
+1|15|2|R|M|What's up?
+3
+2|14|1|R|J|Good.
+3|10|1|K|L|Diana123
+1|15|3|G|K|
+3|10|7|K|L|
+3|10|7|K|L|/a2UO
+1|15|3|C|L|
+3|10|2|N|O|
+1|15|8|C|L|That's great!
+2|14|2|P|K|
+2|14|2|P|K|Thanks!
+3|10|3|N|O|Hi Anderson!
+2|14|L|P|K|
+3|10|2|H|M|
+3|10|5|H|M|/e1
+1|15|7|J|O|
+2|14|1|O|K|
+3|10|L|H|M|
+1|15|7|J|O|Hello, Diana123.
+2|14|2|O|K|/a2C8
+1|15|7|V|O|
+2|14|2|O|K|/e3
+3|10|H|H|M|
+1|15|4|S|O|
+3|10|H|H|M|Hello
+2|14|2|O|K|/e1
+1|15|2|R|M|
+3|10|H|H|M|look!
+3|18|1|H|M|
+1|15|J|R|M|
+2|14|2|O|K|Hello, Anderson!
+3|18|1|H|M|Im' ninja!
+2|14|7|O|M|
+3|18|1|L|M|
+1|15|7|M|N|
+3|18|L|L|M|
+1|15|7|M|N|Good job, you found the ninja!
+2|14|3|O|M|:)
+2|14|4|O|M|/e1
+1|15|5|F|N|
+3|18|L|L|M|thank's!
+2|14|8|X|S|
+3|18|I|L|M|/a26K
+2|14|1|O|M|
+3|18|K|L|M|
+3|18|H|L|M|
+1|15|5|G|L|
+1|15|K|F|O|
+2|14|1|O|M|We'll, are moderators the founders or not?
+1|15|H|G|L|
+1|15|H|T|M|
+2|14|I|O|M|
+1|15|H|T|M|Yes, they are.
+2|14|H|O|M|
+1|15|4|T|M|/e2
+2|14|H|O|M|Cool!
+1|15|5|S|K|
+2|14|H|O|M|/e7
+1|15|7|E|I|
+1|15|8|F|K|
+2|14|H|O|M|We'll, Penguin Chat have some stuff that are
+1|15|5|C|L|
+2|14|H|O|M|unused on Club Penguin.
+1|15|8|C|L|Indeed.
+2|14|H|O|M|/e2
+1|15|8|C|L|Like the snow cats.
+2|14|H|O|M|Ok.
+3|18|H|L|M|Club Penguin and Penguin Chat is cool
+1|15|7|L|I|
+2|14|H|O|M|WOW! Cool!
+1|15|6|E|L|/e2
+1|15|8|G|N|
+3|18|H|L|M|hey!
+3|18|H|L|M|im brasillian
+1|15|2|G|N|Hi!
+1|15|2|G|N|That's cool.
+3|18|H|L|M|Hi
+1|15|L|C|L|
+1|15|8|F|N|
+2|14|H|O|M|Where's Vortex?
+1|15|8|F|N|He does not usually come online
+3|18|H|L|M|/e5
+1|15|8|F|N|I see him once every week, usually.
+2|14|H|O|M|So, he's offfline.
+2|14|H|O|M|/e5
+1|15|6|J|L|
+1|15|1|G|K|
+1|15|1|G|K|Yeah, I've seen him here before.
+3|18|H|L|M|You it's cool Anderson!
+1|15|1|G|K|We're 'partners in crime'.
+1|15|1|G|K|Thank-you.
+1|15|6|F|N|
+1|15|6|F|N|/e2
+3|10|1|L|M|
+1|15|8|H|I|
+3|10|1|L|M|/e1
+1|15|6|E|L|
+2|14|H|O|M|We'll, snails are not used in Club Penguin.
+3|18|1|L|M|Im' like Ninja
+1|15|8|J|O|
+3|18|1|L|M|yes
+2|14|H|O|M|Some of colors are not used on Club Penguin.
+1|15|2|J|O|Right
+1|15|4|C|L|
+2|14|H|O|M|Thanks!
+3|18|1|L|M|yes!
+1|15|7|F|M|
+3|18|1|L|M|Me member in Club Penguin
+3|18|H|L|M|
+1|15|8|F|M|All of the colors here are used on Club Penguin
+2|14|H|O|M|Ok.
+3|18|H|L|M|Yes
+2|14|H|O|M|We'll, Club Penguin in early...
+2|14|H|O|M|Was originally to release in 2010 but...
+1|15|8|D|J|
+1|15|L|D|J|/a2FC
+2|14|H|O|M|Was released in 2005 due to Beta testing.
+1|15|I|D|J|
+1|15|8|D|L|
+1|15|1|D|L|I know.
+1|15|6|L|H|
+2|14|H|O|M|Me too.
+2|14|H|O|M|/e7
+2|14|H|O|M|I joined Club Penguin in around of Summer 2013 .
+1|15|1|G|K|
+1|15|1|G|K|I joined Club Penguin in 2008
+1|15|1|G|K|I don't play anymore.
+2|14|H|O|M|WOW! That's cool!
+1|15|6|G|K|/e2
+1|15|4|C|L|
+3|18|H|L|M|im joined of the club penguin in 2012
+2|14|H|O|M|Did you viewed the meteorite from Club Penguin
+2|14|H|O|M|in 2012 ?
+1|15|8|F|N|
+3|18|H|L|M|No
+1|15|8|F|N|I don't play CP.
+1|15|8|F|N|(anymore)
+1|15|J|M|D|
+2|14|H|O|M|We'll, the wiki knows anything about...
+2|14|H|O|M|Club Penguin!
+3|18|H|L|M|im started in the party setembrina
+2|14|H|O|M|/e7
+2|14|H|O|M|We'll, i have an account on Scratch.
+2|14|H|O|M|(anymore)
+1|15|7|J|H|
+1|15|1|J|H|??
+2|14|H|O|M|I'm also on other sites.
+2|14|H|O|M|/e7
+2|14|H|O|M|Really.
+2|14|H|O|M|CP is awesome as well.
+2|14|H|O|M|I'm 10
+3|18|H|L|M|Im' like one direction
+1|15|3|E|J|
+3|18|H|L|M|Penguin Chat 3 is cool
+2|14|H|O|M|I know some CP memories.
+1|15|6|C|L|
+1|15|7|S|L|
+4|8|1|K|L|2Fab
+2|14|H|O|M|/j9
+4|8|5|Q|O|
+2|14|H|O|M|/e1
+1|15|3|F|M|
+3|18|H|L|M|Cp is cool  but as no bulldozers
+4|8|3|D|N|
+4|8|6|D|N|/e5
+2|14|H|H|K|
+2|14|L|H|K|
+3|18|H|L|M|hi 2fab
+1|15|7|T|L|
+3|18|H|L|M|or
+1|15|3|J|O|
+3|18|H|L|M|oi 2fab!
+1|15|4|R|O|
+2|14|L|H|M|
+1|15|4|R|O|/e2
+2|14|1|H|M|Stay there!
+3|18|H|L|M|i spoke portuguese
+1|15|4|R|O|2Fab is me, I use him for disguise
+3|18|H|L|M|2fab
+2|14|2|H|M|Hello, 2Fab!
+4
+1
+2|14|K|H|M|
+1|15|4|V|L|Anderson
+2|14|H|H|M|/e5
+1|15|1|J|L|
+1|15|K|J|L|
+3|18|H|L|M|/e5
+3|18|H|L|M|someone speaks some portuguese?
+2|14|H|H|M|I know a little bit Spanish .
+1|15|K|R|M|
+2|14|H|H|M|hola
+2|14|H|H|M|amigo
+3|18|H|L|M|/e1
+2|14|H|H|M|/e2
+2|14|K|H|M|
+1|15|4|P|O|
+1|15|5|P|K|
+1|15|3|J|L|
+3|18|H|L|M|amigo means friend!
+1|15|1|O|K|
+1|15|1|O|K|I know!
+2|14|K|H|M|Yep.
+1|15|1|S|M|
+2|14|K|H|M|amigo is very known!
+1|15|4|P|K|
+2|14|K|H|M|RocketSnail is from 1999 . Before...
+2|14|K|H|M|the 3rd milemmuim
+2|14|K|H|M|/a2DI
+2|14|K|H|M|/a2U8
+2|14|K|H|M|/e5
+3|18|H|L|M|i know how to speak a little English
+2|14|K|H|M|
+2|14|K|H|M|Say some words!
+3|18|H|L|M|I like it!
+3|18|H|L|M|Cool!
+3|18|H|L|M|sorry
+3|18|H|L|M|yes
+3|18|H|L|M|no
+3|18|H|L|M|and
+1|15|2|P|N|
+3|18|H|L|M|friend
+2|14|K|H|M|Cool!
+3|18|H|L|M|i do travel
+2|14|K|H|M|Why is Anderson is not talking yet with us?
+1|15|6|R|L|
+2|14|K|H|M|Someone knows about the...
+2|14|K|H|M|September 11 2001 disaster?
+1|15|4|O|K|
+1|15|2|O|K|Yes...
+2|14|K|H|M|Ok.
+3|18|H|L|M|/e1
+2|14|K|H|M|/e7
+1|15|5|Q|N|
+1|15|3|T|N|
+2|14|K|H|M|Club Penguin and Penguin Chat 3 is awesome!
+1|15|3|Q|N|
+3|18|H|L|M|Yes!
+1|15|2|Q|N|Thanks
+2|14|K|H|M|No poblem.
+2|14|K|H|M|problem
+1|15|3|P|E|
+2|14|K|H|M|/e1
+1|15|5|N|M|
+3|18|H|L|M|/e1
+1|15|2|N|M|/j6
+1|15|3|R|K|
+2|14|K|H|M|Is it a W-I-P anymore?
+1|15|3|L|I|
+1|15|3|Q|L|
+1|15|2|Q|L|WIP?
+1|15|3|N|I|
+3|18|H|L|M|WIP?
+2|14|K|H|M|Working in progress.
+1|15|8|N|I|This is almost complete
+3|18|H|L|M|/e5
+2|14|K|H|M|WOW! Cool!
+2|14|K|H|M|This game will have new places on puffles?
+1|15|2|P|M|
+2|14|K|H|M|Soon?
+1|15|2|P|M|No.
+2|14|K|H|M|Ok.
+1|15|2|P|M|Absolutely noy.
+1|15|2|P|M|No
+1|15|2|P|M|Puffles were not in the original PC3.
+1|15|4|N|J|
+2|14|K|H|M|When will PC4 come out?
+2|14|K|H|M|I like new versions or older.
+3|18|H|L|M|the old Club Penguin puffles did not
+1|15|3|S|M|
+2|14|K|H|M|(anymore)
+3|18|H|L|M|i'm to!
+3|18|H|L|M|i'm also
+2|14|K|H|M|We'll, i'm checking some places for bug reports.
+2|14|5|H|H|
+2|14|1|H|I|
+2|14|1|I|E|
+2|14|1|I|H|
+1|15|3|N|L|
+1|15|7|S|L|
+2
+2|14|3|M|D|CoolEugene
+2|14|7|H|M|
+2|14|8|H|M|On that red thing.
+1|15|2|O|J|
+2|14|8|H|M|carpet
+3|18|H|L|M|ovoce turned a moderators?
+1|15|8|R|N|
+2|14|8|H|M|idk
+2|14|8|H|M|I don't know.
+3|18|H|L|M|bye
+2|14|5|G|M|
+2|14|1|G|M|Bye.
+1|15|2|R|L|
+1|15|2|R|L|I'll see you guys later.
+3|18|1|C|K|
+2|14|J|G|M|
+1|15|4|R|L|/e2
+2|14|K|G|M|Ok.
+2|14|K|G|M|/e2
+3|18|1|C|K|Ok
+2|14|K|G|M|I forgot to say something!
+2|14|K|G|M|To Anderson.
+3|18|8|C|K|I go to another room
+3
+1|15|1|J|L|Yes?
+3|17|1|C|L|Diana123
+3|17|1|C|L|Look!
+3|17|L|C|L|
+2|14|4|E|M|
+1|15|2|P|K|Cool
+3|17|L|C|L|it's cool
+2|14|8|E|M|Thanks!
+3|17|4|G|J|
+1
+3|17|8|G|J|i'm goin to the room exvators
+3|17|8|G|J|Anderson?
+3|17|8|G|J|/e5
+2|14|8|E|M|He leaves.
+3|17|3|6|I|
+2|14|8|E|M|Offline.
+3|17|5|7|K|
+2|14|3|B|J|
+2|14|1|B|L|
+3|17|7|7|K|/e4
+2|14|1|B|L|/a2UH
+2|14|1|B|L|/a2RB
+3|17|8|7|K|it's not cool
+2|14|1|B|L|Oops...
+3
+2|14|1|B|L|/j13
+2|14|7|L|L|
+2
+1|1|1|K|L|Fire
+1|1|6|S|F|
+1|1|3|I|F|
+1
+1|1|4|M|D|Fire
+1
+1|1|4|E|F|Fire
+1
+1|18|3|V|L|Fire
+1|18|3|S|M|
+1|18|2|K|M|
+1
+1|14|1|K|L|blackanOkay
+1
+1|14|H|E|F|blackanOkay
+1|14|1|Q|K|
+1|14|1|T|K|
+1
+1|14|L|V|L|blackanOkay
+1|14|5|M|K|
+1
+2|14|1|K|L|Miner
+2
+2|14|1|K|L|Miner
+2|18|1|Q|E|
+2
+2|17|1|V|L|Miner
+2
+1|14|1|K|L|YourPapi
+1|14|6|E|M|
+1
+1|18|5|M|D|YourPapi
+1
+1|18|3|V|L|YourPapi
+1|18|1|T|F|
+1
+1|18|5|E|F|YourPapi
+1|18|3|X|T|
+1
+1|14|5|C|L|YourPapi
+1|14|L|O|L|
+1
+1|15|1|K|L|Anderson
+1|15|7|U|M|
+1|15|2|7|I|
+1
+1|15|3|V|L|Anderson
+1|15|2|B|K|
+1|15|2|K|M|
+1|15|3|9|L|
+1
+1|4|1|K|L|Goky
+1|4|6|N|L|
+1|4|8|Y|L|
+1
+2|1|1|K|L|cubito528
+2|1|5|7|J|
+1|1|1|K|L|Fire
+1|1|3|E|N|sup
+1|1|4|E|N|/a28I
+1|1|4|E|N|/a25K
+1|1|4|I|E|
+1
+1|1|6|E|F|Fire
+1|1|5|X|L|
+1
+2|1|6|9|G|
+2

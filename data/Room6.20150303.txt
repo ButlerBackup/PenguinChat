@@ -1,0 +1,70 @@
+1|10|3|a|D|asdfpingu
+1
+1|1|1|a|D|Tundruin
+1|17|1|N|9|
+1|17|2|O|H|
+1|17|H|O|H|/a2FG
+1|17|H|O|H|/j5
+0|1|1|I|B|/e2
+1|17|L|O|H|
+1|17|L|O|H|Wyatt
+0|1|1|J||I'm cool
+1|17|L|O|H|yeah!
+1|17|L|O|H|You say it!
+0|1|1||A|Heyy
+1|17|L|O|H|I like you!
+0|1|1|L|K|What's poppin'?
+1|17|L|O|H|You'm cool!
+0|1|1|I|J|Hi
+1|17|6|P|P|
+1|17|5|L|C|
+1|17|7|C|L|
+1
+1|8|3|a|D|tittyfish
+1|8|2|a|D|
+1|8|2|a|D|wyatt stop following me
+0|1|1|L|K|I am an awesome guy.
+1
+2|1|3|a|D|Yurigabriel
+2|1|2|a|D|HI
+0|1|1|L|K|What's poppin'?
+2|1|4|N|9|
+2|17|1|N|9|
+2|17|L|N|9|
+2|17|L|K|D|
+2
+2|17|1|4|D|Yurigabriel
+2|17|7|a|M|
+2|17|5|d|I|
+2
+2|17|3|a|D|Yurigabriel
+2
+3|1|3|a|D|jorge
+3|1|3|E|K|
+3|1|8|E|K|como antes los de penguin chat se entretenian
+3|1|8|E|K|si todo era aburrido
+3|1|5|2|K|
+3
+4|5|4|a|D|Yurigabriel
+4|17|1|a|D|
+4
+1|12|7|a|D|ooii
+1
+1|18|3|a|D|mattme7000
+1|17|3|9|H|
+1|17|5|2|J|
+1
+1|17|6|4|D|mattme7000
+1|17|6|4|D|
+1|17|1|4|D|
+1
+1|12|2|a|D|maxcover
+1|12|1|M|A|
+1|12|L|M|A|
+1|12|L|P|9|
+1|12|L|L|9|/a2MI
+1|12|L|Q|C|
+1|12|L|1|I|
+1|12|7|I|I|
+1|12|8|Q|M|
+1

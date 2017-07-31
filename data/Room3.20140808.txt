@@ -1,0 +1,107 @@
+1|18|7|Q|G|toon
+1|18|1|M|I|
+1
+2|18|7|Q|G|toon
+2|18|3|F|I|
+2|18|K|D|H|
+2|18|7|Q|F|
+2
+2|18|7|Q|G|toon
+2|18|4|L|J|
+2
+2|14|7|Q|G|toon
+2
+2|14|7|Q|G|toon
+2
+2|14|8|Q|G|toon
+3|14|8|Q|G|CampGhost
+2|14|5|H|I|
+3|14|5|R|M|
+2|14|8|H|I|ok listen
+2|14|8|H|I|this is our room now!!!
+2|14|8|H|I|get it
+3|14|2|R|M|XD
+2|14|8|H|I|yes or no!1!
+2|14|8|H|I|GET IT
+3|14|2|R|M|no
+3|14|2|R|M|XD
+2|14|8|H|I|get it
+3|14|2|R|M|np
+3|14|2|R|M|XD
+3|14|2|R|M|no
+2|14|8|H|I|go hell
+3|14|2|R|M|XD
+3|14|2|R|M|yes
+3|14|2|R|M|no
+2|14|8|H|I|listen
+3|14|2|R|M|yes
+2|14|8|H|I|lets roll
+3|14|2|R|M|no
+2|14|8|H|I|follow me
+2
+3
+2|15|7|Q|G|Vortex
+2
+3|4|8|Q|G|blaineyboo
+3
+2|5|8|Q|G|Superalvi10
+2|5|1|I|K|
+2|5|7|8|J|
+2|5|5|R|J|
+2
+2|4|7|Q|G|cheeselala
+3|12|7|Q|G|The Penguin
+2
+3|12|3|L|J|
+1|14|4|Q|G|P Chatworld
+1|14|2|Q|G|
+3|12|L|H|I|
+1|14|2|Q|G|im new here
+1|14|2|O|L|
+3|12|L|H|I|Ok
+1|14|8|I|M|
+3|12|L|H|I|Follow
+3|12|L|H|I|me
+1|14|1|K|I|
+3|12|L|O|K|
+3
+1|14|L|K|I|
+1
+1|5|6|Q|G|mariomario
+1
+2|10|8|Q|G|ondasdocp
+2|10|8|P|O|
+2
+3|17|7|Q|G|superalvi100
+3|17|3|Q|J|
+1|1|7|Q|G|Clamtheham
+3
+1|1|3|L|J|
+3|17|7|Q|G|superalvi100
+3
+1
+2|4|7|Q|G|Redfire
+2
+1|1|8|Q|G|Redfire
+1
+1|1|7|Q|G|Redfire
+1|1|2|K|L|
+1|1|5|K|H|
+1|1|L|M|E|
+1
+2|18|K|Q|G|Pedrovalle
+2|18|8|Q|F|
+2
+1|14|7|Q|G|Coppercab
+1|14|4|P|L|
+1|14|5|K|H|
+1|14|4|M|J|
+1
+4|4|7|Q|G|Redfire
+4|4|L|P|E|
+2|18|5|Q|G|sunshine3911
+4
+2|18|1|I|I|
+2
+1|7|8|Q|G|scliper3
+1

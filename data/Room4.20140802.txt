@@ -1,0 +1,380 @@
+1
+1|10|3|N|D|ahmedsaid1
+1|10|4|R|F|
+1
+1|1|4|N|D|jip
+1|1|2|c|R|
+1|1|6|N|D|
+1
+4|1|7|N|D|Mutt
+4|1|1|b|P|
+3|4|4|N|D|Cell
+3|4|8|N|M|
+4|1|3|9|J|
+4|1|L|9|K|
+3|4|2|S|H|
+3|4|6|R|H|
+3|4|4|T|G|
+3|4|2|8|F|
+3|4|H|8|F|
+3|4|K|8|F|
+3|4|K|8|F|/e12
+4
+3
+1|12|3|N|D|Moonie
+1
+1|14|3|N|D|OP Whale
+1
+1|5|3|N|D|Peng
+1|5|5|N|D|
+1
+2|18|5|N|D|mateus vidal
+2|18|1|T|H|
+2|18|2|H|M|
+2|18|5|O|E|
+2
+2|18|2|O|C|
+1|6|4|N|D|Kitanai
+1|6|K|8|F|
+1
+1|14|5|N|D|????
+1|14|2|H|I|
+1
+1|4|7|N|D|matrix2
+1|4|1|N|D|
+1
+1|1|3|N|D|zapkid
+1
+1|14|3|N|D|PingSamy
+1
+1|17|L|N|D|mateus 26
+1|17|H|8|F|
+1|17|H|G|C|
+1|17|8|E|L|
+1|17|8|L|O|
+1|17|1|G|C|
+1
+3|14|7|N|D|Fruit Boot
+3
+2|1|3|N|D|kamden8888
+3|14|4|N|D|Fruit Boot
+2|1|3|E|H|
+3|14|8|I|H|
+2|1|1|G|O|
+2|1|1|G|O|hi
+2|1|5|G|O|/a2KK
+3|14|8|I|H|hihow did
+2|1|5|G|O|/a2JF
+2|1|5|G|O|hi
+3|14|8|I|H|you turn old blue
+3|14|8|I|H|hi
+3|14|2|I|N|
+2|1|5|G|O|yes
+3|14|H|I|N|
+2|1|1|E|J|
+2|1|1|E|J|im old blue
+3|14|H|I|N|how did you turn old blue
+2|1|8|E|O|
+2|1|1|E|O|at the start when u make a account
+2|1|1|E|O|how did u find this
+2|1|8|E|O|i found it becuse of Cpworld
+2|1|8|E|O|bye
+2|1|6|O|C|
+2
+3
+3|14|4|N|D|Fruit Boot
+3
+1|12|4|N|D|mateus 26
+1|12|2|U|H|
+1|12|1|X|P|
+1|12|4|Z|R|
+1
+3|12|3|N|D|Moonie
+3|12|5|N|D|
+4|1|3|N|D|Fruit Boot
+4|1|4|L|J|
+4|1|7|L|J|hi
+3|12|7|P|M|
+4|1|3|7|G|
+3|12|8|P|M|hi
+4|1|8|N|M|
+4|18|1|N|M|
+4|18|7|K|M|
+4|18|L|K|M|
+4|18|L|K|M|do you know how to be a ninja
+3|12|3|P|M|/a2JM
+3|12|3|P|M|no :o
+4|18|1|K|O|
+3|12|3|P|M|who i can do that? :/
+4|18|1|L|M|
+3|12|3|G|F|
+3|12|2|V|H|
+3|12|2|V|H|how
+3|12|4|N|I|
+3|12|3|S|O|
+3|12|3|R|N|/ninja
+3|12|3|R|N|xD
+4|18|1|L|M|first, do you see smiley faces at the bottom of
+4|18|1|L|M|the screen?
+4|18|1|L|M|if not
+4|18|8|T|R|
+3|12|2|R|N|yeah
+3|12|3|R|N|/e11
+3|12|8|R|N|/a2TU
+3|12|3|R|R|
+3|12|4|R|R|/e2
+3|12|8|A|K|
+3|12|8|A|K|eu tenho
+3|12|7|A|K|uma cona :( xisdeeeeeeeeee
+3|12|7|L|E|
+3|12|3|9|F|
+4|18|3|J|K|
+4|1|1|J|K|
+4|1|1|J|K|there's no light purple :(
+4|1|L|G|K|
+4|1|L|G|K|hello
+4|1|4|F|E|
+4|1|3|F|E|/a2BF
+4|1|1|J|K|
+4|1|7|H|H|
+4|1|1|G|K|
+4|1|K|G|K|
+4|1|3|M|N|
+4|1|4|M|N|/e1
+4|1|8|H|H|
+3
+4
+1|18|4|N|D|mateus 26
+1|18|4|1|Q|
+1|18|6|S|E|
+1|18|3|H|G|
+1|18|5|H|P|
+1|1|L|F|K|
+1|4|5|H|H|
+1
+1|9|5|N|D|10henry10
+1|9|5|N|L|
+1
+1|9|4|N|D|Pufflepal
+1
+1|9|5|N|D|Pufflepal
+1
+1|6|4|N|D|elsa2004
+1|6|2|C|I|
+1
+3|4|4|N|D|tylorfoot6
+3
+2|14|2|N|D|Mayonnaise
+2
+1|4|4|N|D|manners
+1|4|8|W|K|
+1
+1|5|8|N|D|colorin xd
+1
+2|1|7|N|D|itay050
+2|1|8|5|R|
+2|1|6|B|M|
+2
+3|9|4|N|D|mac85007<3
+3|9|6|O|C|
+3
+2|12|L|N|D|frankypb
+1|14|3|N|D|Nodi12nodi
+2|12|8|T|I|
+2|12|2|T|I|/e11
+2|12|6|L|J|
+2
+1
+2|12|L|N|D|frankypb
+2
+2|12|L|N|D|frankypb
+2
+2|12|L|N|D|frankypb
+2|12|6|N|D|
+2
+1|18|7|N|D|rochozao
+1
+3|12|3|N|D|peppa6
+3
+2|1|5|N|D|Weather
+3|18|1|N|D|peppa6
+2|1|3|b|O|
+2|1|3|b|O|YES!
+3|18|7|N|D|
+2|1|4|K|G|
+3|18|8|a|Q|
+2|1|4|K|G|how did you get the ninja?
+2|1|8|U|O|
+3|18|3|a|Q|sin
+3|18|3|J|C|
+3|18|1|J|C|/e4
+2|1|J|C|O|
+2|1|8|9|I|
+3|10|1|H|C|
+3|10|6|O|C|
+3
+2|1|8|8|F|
+2|1|H|8|F|
+2
+1|9|4|N|D|Hiya
+1|9|5|J|I|
+1
+1|1|7|N|D|jesse
+2|14|5|N|D|Miles3546
+1
+2|14|7|M|K|
+2
+1|12|2|N|D|nemo9821
+1
+1|12|2|N|D|nemo9821
+1
+1|9|6|N|D|FelipeGuest
+2|12|2|N|D|nemo9821
+2|12|2|I|K|
+2|12|1|I|K|hi
+2|12|6|L|F|
+2|12|1|L|F|im from the future
+2|12|L|L|F|
+2|12|L|L|F|/a2D7
+2|12|H|L|F|/a2C8
+2|4|1|L|F|
+2
+1
+1|1|3|N|D|Cool dude12
+1|1|4|O|K|
+1
+1|1|3|N|D|Cool dude12
+1|1|7|U|H|
+1
+1|1|3|N|D|Cool dude12
+2|14|L|N|D|fasteddy6
+2|14|1|G|C|
+1|1|1|C|K|
+2|14|K|G|C|
+1|1|1|H|C|
+2|14|I|G|C|
+1|1|1|H|C|hi
+1|1|8|8|H|
+1|1|2|S|G|
+2|14|I|G|C|hello
+1|1|2|S|G|makes coffee
+2|14|K|G|C|
+1|1|2|S|G|drinks
+1|1|2|S|G|yum
+1|1|2|S|G|man they should make igloos
+1|1|5|E|D|
+1
+1|1|3|N|D|Cool dude12
+2|14|K|G|C|does get a little boring here with nothing to do
+1|1|1|J|C|
+1|1|1|J|C|im gonna play club penguin
+1|1|1|J|C|bye
+1|1|1|J|C|waves
+2|14|K|G|C|what server
+1|1|1|J|C|blizzard
+1|1|1|J|C|wait
+1|1|H|J|C|
+2|14|K|G|C|/e2
+1|1|H|J|C|mine is Lazerpeg555
+1|1|H|J|C|what yours
+1|1|H|J|C|oh sorry
+1|1|H|J|C|i gtg
+1|1|H|J|C|bye
+2
+1
+1|18|8|N|D|Hihg2
+1
+1|18|4|N|D|mateus 26
+1|18|1|G|C|
+1|18|6|O|J|
+1
+3|7|4|N|D|santiagof
+3|7|3|W|L|
+3
+3|7|4|N|D|santiagof
+3|7|3|M|E|
+3
+4|14|5|N|D|labprof
+4|14|1|H|G|
+4
+4|14|5|N|D|labprof
+4
+5|17|4|N|D|dragon ninja
+5|17|5|M|H|
+5
+7|10|1|N|D|
+7|10|7|N|D|
+7|10|1|N|I|
+3|7|8|N|D|santiagof
+3|7|7|O|C|
+3
+7|10|5|M|I|
+7|10|1|N|D|
+7|10|1|L|I|
+2|6|2|N|D|patsy78
+2|6|5|O|D|
+2
+1|13|6|N|D|Pingokoki00
+1
+3|4|4|N|D|Icecold555
+3
+2|1|2|N|D|waddles121
+2|1|5|F|C|
+2|1|5|O|I|
+2
+1|7|1|N|D|santiagofore
+1
+2|1|2|N|D|waddles121
+2|1|6|M|I|
+2|1|2|T|G|
+2|1|5|O|F|
+2
+2|17|5|N|D|waddles121
+2|17|3|N|D|
+3|18|3|N|D|mateus 26
+3|18|8|8|F|
+3|18|8|L|G|
+3|14|1|L|G|
+2|17|L|N|D|
+3|14|1|M|I|
+3
+2|17|L|N|D|/e8
+2
+1|17|3|N|D|santiagofore
+1|17|6|F|L|
+1
+2|1|1|N|D|waddles121
+2|1|I|H|C|
+2|1|I|S|F|
+2|1|6|U|O|
+2
+1|1|2|N|D|BryanMimo77
+1
+3|18|1|N|D|dragonn07
+3
+1|13|7|N|D|The CoolDani
+1
+1|4|4|N|D|batmandy
+1|4|6|9|I|
+1|4|7|X|M|
+1|4|4|W|J|
+1|4|5|O|D|
+1
+2|4|4|N|D|Darry
+2
+2|1|3|N|D|Brain
+2|1|4|O|M|
+2
+1|10|3|N|D|Sammysams
+1|10|6|O|C|
+1
+1|11|3|N|D|Yarp
+1|11|4|P|C|
+1
+1|1|5|N|D|zenner522
+1
+2|6|6|N|D|Stefanhia
+2|6|5|N|E|
+2
+1|1|5|N|D|Adali6
+1

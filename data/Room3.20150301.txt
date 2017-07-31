@@ -1,0 +1,47 @@
+1|17|7|Q|G|Tundruin
+1|17|6|C|J|
+1|17|8|C|J|Wyatt, what you did say
+0|1|1|I|J|Hi
+0|1|1|C|K|Ask Anderson, the owner.
+0|1|1|E|C|I'm cool
+1|17|2|R|O|
+1|17|4|L|I|
+1|17|2|L|I|NO
+1|17|2|L|I|YOU DON'T COOL, WYATT
+0|1|1|A|K|Hey!
+0|1|1|L|K|I am an awesome guy.
+1|17|2|L|I|I'M COOL
+1|17|3|P|O|
+1|17|2|P|O|no
+1|17|2|P|O|Wyatt, please don't follow me!
+0|1|1|A|K|I think Penguin Chat is cool.
+1
+1|14|7|Q|G|Oldcpv3
+1|18|1|Q|G|
+1|18|L|S|M|
+1|18|L|S|M|/e5
+0|1|1|E|H|/e5
+1|18|L|S|M|/j1
+0|1|1|H|F|Haha, very funny.
+1|18|L|S|M|/j12
+1|18|L|S|M|/j5
+0|1|1|I|A|/e2
+1|18|L|P|G|
+1
+1|18|1|Q|G|Mr jorge1
+1|18|1|Q|G|
+1|18|5|P|I|
+1
+1|18|6|Q|G|sharky123
+1|18|4|Q|K|
+1|18|7|S|F|
+1
+1|4|6|Q|G|78910
+1|4|3|B|F|
+1|4|7|Q|F|
+1
+1|18|2|Q|G|tomy
+1|18|3|J|F|
+1|18|7|O|J|
+1
+1|18|3|C|J|

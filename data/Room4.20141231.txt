@@ -1,0 +1,7 @@
+1|14|4|N|D|bob the bill
+1|14|5|M|G|
+1|14|2|M|G|hi
+0|1|1|C|I|Hello there
+1|14|2|M|G|/a2HI
+0|1|1|A|K|Hey!
+1

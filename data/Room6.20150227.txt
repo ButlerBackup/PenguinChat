@@ -1,0 +1,42 @@
+1|18|1|a|D|awesomejcp
+1|17|1|L|A|
+1|17|3|2|E|
+1
+1|5|4|a|D|awesomejcp
+1
+1|18|3|a|D|King Penguin
+1|18|3|F|I|
+1
+1|18|3|a|D|King Penguin
+1|18|3|G|F|Hi...
+0|1|1|E|G|Hi there!
+1|17|1|P|9|
+1|17|L|O|G|
+1|17|1|J|F|What is up?
+0|1|1|A|K|I don't know, sorry.
+1|17|1|J|I|
+1|17|3|F|J|
+1|17|3|F|J|Wyatt
+0|1|1|H|C|I'm just happy to be alive!
+1|17|5|1|E|
+1
+1|14|2|a|D|Pinguinmemo
+1|14|2|L|M|
+1|14|2|J|H|
+1|14|2|O|J|
+1|14|3|K|O|
+1|14|2|K|O|me la chupan
+1|14|2|K|O|cojanme
+1|14|2|K|O|denme pito
+1|14|2|K|O|fox
+1|14|2|K|O|hola
+1|14|1|F|H|
+1|14|1|F|H|/j3
+0|1|1|E|J|Excuse my language, but lol!
+1|14|1|F|H|/j13
+1
+1|14|1|a|D|WildTurtle
+1|14|2|1|F|
+1
+1|14|7|4|D|WildTurtle
+1

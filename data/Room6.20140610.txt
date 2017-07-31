@@ -1,0 +1,60 @@
+1
+1|6|3|a|D|awesomelol
+1
+1|13|3|a|D|Blue Amzar
+1|17|1|O|B|
+1|17|L|J|E|
+1
+1|17|2|a|D|RocketTest
+1|17|L|L|K|
+1
+1|14|3|a|D|kankri
+1|14|8|c|J|
+1|14|3|1|J|
+1
+2|13|1|a|D|minecraft
+2|13|8|M|P|
+2|13|5|O|M|
+2|13|1|Q|M|
+2|13|8|B|K|
+2|13|L|c|I|
+2
+2|13|7|4|D|minecraft
+2|13|5|D|H|
+2
+2|5|2|a|D|minecraft
+2
+2|5|2|a|D|minecraft
+2|5|3|E|E|
+2|5|1|F|9|
+2|5|5|1|I|
+2
+1|18|3|a|D|FrostedCoin
+1|18|H|N|A|
+2|18|3|a|D|Claus Kenta
+2|18|2|J|F|
+2|18|1|J|F|Hai
+2|18|4|K|I|
+1|18|7|M|L|
+1|18|1|L|J|Hi bro
+1|18|2|H|I|
+2|18|5|P|M|
+2|18|2|P|M|awesome game huh?
+2|18|3|L|M|
+1|18|1|H|I|yeah
+1|18|L|I|L|
+1|18|L|I|L|do dos
+2|18|L|L|M|
+2|18|L|L|M|ok
+2|18|L|L|M|kkkk
+2|18|L|L|M|okokok
+2|18|L|L|M|okk
+2|18|L|L|M|ok
+2|18|L|L|M|/a29N
+2|18|L|L|M|/a2FK
+2|18|L|U|J|
+2
+1
+1|11|3|a|D|andersito15
+1|11|2|E|L|
+1|11|L|L|D|

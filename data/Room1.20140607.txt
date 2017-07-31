@@ -1,0 +1,784 @@
+1
+1|5|1|K|L|Manhog
+1|5|6|Q|K|
+1
+1|8|1|K|L|Mmaxwell989
+1|8|5|P|M|
+1
+1|18|5|V|L|Mmaxwell989
+1|18|2|O|K|
+1|18|H|L|I|
+1
+1|18|5|E|F|Mmaxwell989
+1|18|4|D|E|
+1
+1|18|6|E|F|Mmaxwell989
+1
+1|18|3|M|D|Mmaxwell989
+1
+1|1|1|K|L|Chemahe
+1
+1|1|2|M|D|Chemahe
+1
+1|13|1|K|L|FoRt15
+1|13|1|K|M|
+1
+1|14|1|K|L|starbucks
+1|14|L|I|N|
+1
+1|14|6|E|F|starbucks
+1
+1|17|4|V|L|starbucks
+1
+1|17|L|C|L|starbucks
+1
+1|17|6|E|F|starbucks
+1
+1|17|3|M|D|starbucks
+1
+1|17|4|V|L|starbucks
+1
+1|14|1|K|L|denisgur1
+1
+1|14|2|M|D|denisgur1
+1|14|2|M|D|
+1|14|2|Y|L|
+1
+1|17|1|V|L|denisgur1
+1
+1|1|1|K|L|ELATELATAKI
+1|1|1|K|J|
+1
+1|1|5|M|D|ELATELATAKI
+1
+1|1|2|E|F|ELATELATAKI
+1
+1|1|3|V|L|ELATELATAKI
+1|1|3|V|L|
+1
+1|1|3|V|L|ELATELATAKI
+1
+1|4|1|K|L|RRedfire512
+1
+1|4|6|M|D|RRedfire512
+1|4|4|S|K|
+1
+1|4|7|E|F|RRedfire512
+1
+1|4|4|V|L|RRedfire512
+1|4|2|T|F|
+1
+1|4|1|M|D|RRedfire512
+1
+1|4|3|V|L|RRedfire512
+1|4|5|S|G|
+1
+1|4|3|M|D|RRedfire512
+1
+1|1|1|K|L|RRedfire512
+1
+1|7|1|K|L|juafleitas
+1|7|8|O|O|
+1|7|2|N|J|
+1|7|H|G|K|
+1|7|1|J|L|
+1
+1|7|1|K|L|juafleitas
+1|7|5|9|I|
+1|7|3|U|O|
+1
+1|7|1|V|L|juafleitas
+1
+1|7|6|E|F|juafleitas
+1
+1|7|3|M|D|juafleitas
+1
+1|7|1|K|L|juafleitas
+1
+1|7|1|K|L|juafleitas
+1|7|8|E|M|
+1|4|L|M|N|
+1|4|1|O|J|
+1|4|3|D|E|
+1
+1|4|1|K|L|Solus24
+1|4|2|M|M|
+1|4|5|E|D|
+1
+1|4|6|E|F|Solus24
+1|4|3|R|M|
+1|4|6|H|F|
+1
+1|4|4|M|D|Solus24
+1|4|2|S|E|
+1|4|2|I|L|
+1|4|I|C|L|
+1|4|2|I|K|
+2|6|1|K|L|Flower
+2|6|3|F|O|
+2
+2|6|4|E|F|Flower
+2|6|5|R|Q|
+1
+1|14|1|K|L|HerbertCBear
+1
+1|14|3|M|D|HerbertCBear
+1|14|8|F|K|/a2SO
+1|14|8|F|K|/e1
+1|14|L|F|K|/a2BG
+1|14|H|F|K|
+1|14|H|S|E|
+1|14|4|T|G|
+1|14|4|S|E|
+1|14|2|H|J|
+2|6|6|L|O|
+2|6|6|L|M|
+2|12|1|L|M|
+2
+1
+1|14|3|M|D|HerbertCBear
+1
+1|14|3|M|D|HerbertCBear
+2|6|3|M|D|Flower
+1|14|L|M|M|
+2|6|2|G|J|
+3|7|1|K|L|Sythe
+1|14|8|J|K|
+3|7|5|I|I|
+3|7|8|R|H|
+1|14|1|J|K|Sythe :D
+3|7|2|Q|N|
+3|7|2|Q|N|Hey.
+3|7|3|Q|N|/a2HH
+3|7|7|F|N|/a2HI
+1|14|4|J|K|Whos Flower
+3|7|8|F|N|/e11
+3|7|1|F|N|I don't know
+3|7|L|F|N|/a2JK
+3|7|K|F|N|
+3|7|H|F|N|
+1|14|3|I|O|/a2GP
+1|14|3|I|O|/j6
+1|14|H|I|O|
+3|7|H|F|N|Bu dum tss.
+1|14|H|I|O|:(
+3|7|H|F|N|/a2JM
+3|7|H|F|N|What?
+1|14|H|I|O|I hope you win that party thing
+3|7|2|L|N|
+3|7|K|L|N|
+1|14|H|I|O|If you win could you ask parker to make me and p
+2|6|1|G|J|hello
+1|14|2|N|M|
+2|6|5|F|O|
+3|7|K|L|N|Hello
+2|6|6|F|O|/e4
+2|6|6|F|O|/e2
+1|14|2|N|M|Could you ask Parker
+3|7|1|H|O|
+3|7|1|H|O|What is ti?
+3|7|1|H|O|It*
+3|7|1|J|N|For what?
+1|14|2|N|M|for me and pidro to be mods or mascots
+1|14|2|N|M|???
+3|7|8|J|N|I'll certainly reccommend it to him. :)
+1|14|I|N|M|
+1|14|H|N|M|
+2|6|8|F|O|??
+1|14|H|N|M|you are
+1|14|H|N|M|your going to
+2
+1|14|H|N|M|:D
+3|7|8|J|N|Not to think negativilt but, I probably won't.
+3|7|8|J|N|And I hope for the better at everyone else.
+3|7|8|J|N|:)
+1|14|H|N|M|True
+1|14|H|N|M|My ideas aren't good I can tell
+3|7|1|I|M|
+3|7|2|I|M|They are.
+3|7|6|I|M|Well, Meet ya' on AMmuse.
+1|14|H|N|M|/e10
+1
+1|14|6|E|F|HerbertCBear
+1
+2|8|1|E|F|Flower
+2|8|7|P|O|
+2|8|7|P|O|hola
+2|8|3|P|O|/a2FP
+2|8|3|P|O|/a2JK
+2|8|3|P|O|/a2JM
+2|8|3|P|O|/a2KM
+2|8|3|P|O|/a2JK
+3
+2
+1|14|I|M|D|HerbertCBear
+1
+1|14|1|K|L|HerbertCBear
+1|14|1|D|L|
+1
+1|14|3|M|D|HerbertCBear
+1
+1|14|3|M|D|HerbertCBear
+1
+1|14|6|E|F|HerbertCBear
+1|14|K|G|K|
+1|14|K|I|F|
+1
+1|14|3|M|D|HerbertCBear
+1|14|H|I|I|
+1|14|K|J|J|
+1|14|K|S|E|
+1|14|2|O|I|
+1
+1|1|1|K|L|HerbertCBear
+1
+1|1|6|E|F|HerbertCBear
+1
+1|1|2|M|D|HerbertCBear
+1|1|L|G|J|
+1
+1|1|6|E|F|HerbertCBear
+1|1|6|E|F|
+1
+1|1|6|E|F|HerbertCBear
+1
+1|1|3|M|D|HerbertCBear
+1|1|2|I|J|
+1|1|K|6|I|
+1|1|4|S|N|
+2|13|1|K|L|ben6257
+2|13|3|B|K|
+2|13|8|I|O|
+2|13|8|I|O|clubpenguin
+2|13|8|N|K|/a2PL
+2|13|8|D|O|/a2PM
+2|13|5|C|H|
+2
+2|13|6|E|F|ben6257
+2
+2|13|3|M|D|ben6257
+1|1|6|K|M|
+2
+2|13|5|C|L|ben6257
+2
+2|13|7|V|L|ben6257
+2|13|6|T|F|
+1|1|H|K|M|
+2|13|5|S|F|
+1|1|K|K|M|
+2
+2|1|1|K|L|ben6257
+2|1|3|Q|O|
+2|1|H|Q|O|/a2GD
+2|1|H|Q|O|/e1
+2
+2|13|1|V|L|ben6257
+2|13|2|P|J|
+2|13|5|G|L|
+2
+2|13|6|E|F|ben6257
+2|13|8|E|F|
+2|13|1|G|M|
+2|13|7|G|M|etetettettetttttttttttttttttt
+2|13|7|G|M|i haye you vortex
+1
+2
+1|5|1|K|L|HerbertCBear
+1|5|K|I|I|
+1|5|H|G|N|
+2|9|1|K|L|Lecool21
+2|9|1|K|O|
+2|9|1|K|O|hi
+2|9|8|I|N|
+2|9|2|I|N|/j9
+2|9|H|I|N|
+2|9|L|I|N|
+2|9|L|I|N|/e11
+2|9|6|K|M|
+2|9|7|I|K|
+2
+2|9|3|M|D|Lecool21
+2|9|7|K|O|
+2|9|1|J|O|
+2|9|1|J|O|you new?
+2|9|4|9|M|
+2
+2|9|5|E|F|Lecool21
+2|9|1|E|F|/a2GL
+2|9|1|E|F|/a2DL
+2|9|1|E|F|/a2EN
+2|9|1|I|N|/a2FN
+2|9|1|I|N|/a2JN
+2
+2|9|3|V|L|Lecool21
+2|9|3|7|I|
+2
+1
+1|5|1|K|L|HerbertCBear
+1|5|K|I|L|
+1
+1|13|1|K|L|penguase
+1
+1|13|1|K|L|ranio3333
+1|13|4|H|G|
+1
+1|13|H|M|D|ranio3333
+1|13|6|T|F|
+1
+1|13|1|K|L|ramon
+1
+1|1|1|K|L|ramon
+1
+1|1|1|K|L|Scooby7707
+1
+1|1|2|M|D|Scooby7707
+1
+1|1|5|E|F|Scooby7707
+1|1|6|T|F|
+1
+1|1|3|V|L|Scooby7707
+1
+1|1|5|C|L|Scooby7707
+1|1|7|T|F|
+1
+1|14|1|K|L|Scooby7707
+1|14|1|I|G|
+1|14|1|G|L|
+1|14|7|Y|O|
+1
+1|14|1|C|L|Scooby7707
+1
+1|4|1|K|L|barney
+1|4|6|M|J|
+1|4|6|N|E|
+1
+1|13|1|K|L|barney
+1|13|1|N|M|
+1|13|2|I|K|
+1|13|6|E|L|
+1|13|4|K|M|
+1
+1|13|5|C|L|barney
+1|13|1|H|J|
+1
+1|13|3|M|D|barney
+1
+1|13|6|E|F|barney
+1
+1|12|1|C|L|barney
+1
+1|1|1|K|L|barney
+1|1|4|I|L|
+1|1|7|M|P|
+1|1|6|J|K|
+1|1|6|H|M|
+1
+1|14|1|K|L|Skiper
+1|14|2|M|H|
+2|14|1|K|L|ghhg
+2|14|1|O|K|Ughh
+1|14|4|B|M|
+1|14|4|H|M|
+2|14|H|O|K|
+2|14|H|O|K|hi
+1|14|7|6|L|
+1
+2|14|H|K|O|
+1|11|1|K|L|Snails
+1|11|I|M|J|
+1|11|I|M|J|GHHG!!!!!!!!
+1|11|I|N|N|
+1|11|I|N|N|So long not see :3
+2
+2|11|1|K|L|Snail
+2|11|J|K|L|SNAILS!!!
+2|11|J|K|L|SO LONG NOT SEE
+2|11|J|K|L|OMG
+1
+1|12|1|K|L|Bot
+1|12|1|O|N|
+1|12|1|O|N|Hehheehhehe
+1
+2
+1|1|1|K|L|Bot
+1
+1|1|8|C|L|Bot
+1|1|1|L|L|
+2|12|1|K|L|ghhg
+2|12|2|O|H|
+2|12|2|O|H|XD
+3|8|1|K|L|iLoveMusic
+3|8|1|K|H|
+3|8|1|K|H|Wow a Bot?
+3|8|1|K|H|On company SAYS be deleted
+2|12|1|O|H|I know
+2|12|1|N|L|Bot smile
+1|1|4|L|L|/e2
+3|8|1|K|H|WOWW
+3|8|1|K|H|Bot be angry
+1|1|1|L|L|/e9
+3|8|1|K|H|COOL
+2|12|2|N|L|Bot say Hello
+1|1|1|L|L|Hello
+2|12|2|N|L|XD
+2|12|2|N|L|Bot be frown
+1|1|1|L|L|/e0
+1|1|2|L|L|/e10
+2|12|1|N|L|Bot be Black
+1|10|1|L|L|
+2|12|2|N|L|o.o
+3|8|1|K|H|Hahahaha XD
+3|8|1|K|H|Bot be Purple
+3|8|1|K|H|O.o
+3|8|1|J|L|BOT
+2|12|1|N|L|ahhaha
+2|12|1|N|L|Bot BE SOO HAPPY
+1|8|1|L|L|/e1
+3|8|7|J|L|:DDD
+3|8|7|J|L|HE PURPLEEE
+2|12|1|N|L|OMG
+2|12|1|N|L|how you do that
+2|12|1|N|L|When i said bot be Purple
+2|12|1|N|L|HE PINK XD
+3|8|8|J|L|Magic
+3|8|8|J|L|Bot say I'm music's Bot
+1|8|1|L|L|I'm music's Bot
+2|12|1|N|L|NO
+2|12|1|N|L|BOT SAY IM GHHG BOT
+2|12|2|N|L|BOT throw Snowball At iloveMusic
+1|8|1|L|L|/a2NM
+2|12|1|N|L|NO AT ME!!!!!!!!
+3|8|1|J|L|Hahhaah XD
+3|8|1|J|L|bot throw A snowball at Ghhg
+1|8|1|L|L|/a2LM
+1|8|1|L|L|/a2QL
+1|8|1|L|L|SYSTEM ERROR
+1
+2|12|1|N|L|O.o
+3|8|2|J|L|OMG
+3|8|1|J|L|:9
+3|8|5|J|L|/e4
+2|12|7|N|L|ITS YOUU
+3|8|1|J|L|NOT ME
+2|12|5|L|M|
+3|8|1|J|L|its YOU
+3|8|1|J|L|..
+2|12|2|L|M|:(
+2|12|2|L|M|WHAAAAAAAAAAAAA
+2
+2|12|4|V|L|ghhg
+2
+2|12|3|M|D|ghhg
+2|12|2|M|M|
+2|12|2|M|M|/e10
+2|12|1|M|M|BRB IDIOT MUSIC
+3|8|1|J|L|o.o
+3|8|1|J|L|o.p
+3|8|1|J|L|q.q
+2|12|1|M|M|Back
+3|8|6|P|H|
+3|8|2|Q|L|/a2NJ
+3|8|2|Q|L|/a2VG
+3|8|2|Q|L|/a2RG
+3|8|2|Q|L|/a297
+1|1|1|K|L|Bot
+4|12|1|K|L|Penguin22
+4|12|3|D|J|
+1|1|1|K|L|Hello sir Penguin!
+1|1|3|E|J|
+4|12|8|D|J|Hello Bot
+2|12|1|M|M|OMG
+2|12|1|M|M|BOT COME TO ME
+4|12|1|D|J|hmm... Bot come to ghhg
+1|1|8|E|J|Ok sir!
+1|1|6|L|M|
+4|12|8|D|J|..
+4|12|6|D|J|LOL Sir?
+3|8|2|Q|L|WOW
+3|8|2|Q|L|Bot go to iLoveMusic
+1|1|1|L|M|No.
+1|1|1|L|M|I'm penguin22's Bot
+4|12|8|D|J|Omg
+2|12|1|M|M|XD
+3|8|2|Q|L|XDD
+3|8|2|Q|L|o.o
+4|12|8|D|J|Bot Be Bot ilovemusic
+1|1|7|P|L|MUSIC
+1|1|7|P|L|XD
+1|1|7|P|L|Hi sir!
+4|12|8|D|J|XD
+3|8|2|Q|L|:)))
+3|8|2|L|E|
+1|1|1|M|E|
+4
+1|1|1|M|E|I kicked Penguin22
+3|8|1|L|E|o.o
+3|8|2|D|M|
+1|1|8|F|L|
+1|1|8|F|L|>>S>S
+1|1|8|F|L|NMUSICC
+1|1|8|F|L|Ci NOT BE YOUR btoS
+1|1|8|F|L|SYSTEM ERORRRR
+1
+3|8|8|D|M|O>o
+4|12|1|K|L|Penguin22
+4|12|1|K|L|GRRR
+4|12|1|K|L|bot kicked ME
+1|4|1|K|L|Bot
+1|4|1|K|L|MWAHAHAHAHA
+1|4|1|O|M|
+1|4|2|O|M|/e9
+1|4|2|O|M|>:D
+1|4|6|N|F|
+4|12|1|K|L|o.o
+3|8|8|D|M|OMG
+5|4|1|K|L|Zippy
+5|4|1|K|L|MWAHAHAHHA
+5|4|3|B|I|
+1|4|1|N|F|HELLO SIR ZIPPY >:)
+1|4|3|D|I|
+5|4|8|B|I|>:D
+2|12|2|M|M|OMGG
+3|8|8|D|M|:((
+3|8|8|D|M|SAD LIFEEE
+5|4|8|B|I|BOT KICK ALL
+1|4|8|D|I|OK SIR!
+1|4|8|D|I|MWAHAHAHA
+5|4|8|B|I|STOPPED=KICKED
+5|4|8|B|I|MWAHAHAHAHA
+1|4|8|D|I|MWHAHAAHAHAHA
+3
+6|8|1|K|L|iLoveMusic
+2
+7|12|1|K|L|ghhg
+4
+8|7|1|K|L|Penguin22
+6|8|4|H|I|
+7|12|5|L|M|
+8|7|8|O|O|
+6|8|4|H|I|ZIPPYYY
+5|4|8|B|I|MWHAHAHA
+5|4|8|B|I|BOT BANN ALL
+1|4|1|D|I|OK SIR
+6
+7
+8
+5|4|8|B|I|MWHAHAHAHA
+5|4|8|M|K|
+5|4|8|M|K|MWAHAHAHAHAHA
+5|4|8|M|K|MWAHAHAHHAAAAAAAAAA
+5|4|1|M|K|MWAHAHAHAHAH >:D
+1|4|8|D|I|ODofnjfdjdg
+1|4|7|D|I|UNBANS ALL
+5|4|1|M|K|O.o
+1|4|8|D|I|ZIPPY BAN START
+1|4|8|D|I|1.
+1|4|8|D|I|2.
+1|4|8|D|I|3.
+5
+1|4|4|N|I|
+6|12|1|K|L|ghhg
+6|12|1|K|L|OH NO AGAIN THIS BOT
+6|12|1|K|L|BOT BANNED USERS
+6|12|1|K|L|bot what did you banned
+1|1|1|N|I|Zippy
+1|1|1|N|I|And unbanned iloveMusic ghhg and penguin
+6|12|1|K|L|Yay :D
+6|12|8|K|L|XD
+7|11|1|K|L|Snail
+7|11|1|K|L|Bot you again? :/
+7|11|2|R|N|
+7|11|2|R|N|GHHG!!!!!!!!!!!
+7|11|3|L|L|
+6|12|1|K|L|SNAIL!!!!!!!!!!!!!
+6|12|6|M|L|
+7|11|1|L|L|SO LONG NOT SEE
+7|11|1|L|L|:')
+6|12|1|M|L|i too
+6|12|1|M|L|:'''))
+7|11|1|L|L|HUGS
+6|12|1|M|L|:)
+6|12|5|O|N|
+7|11|5|L|P|
+6|12|6|R|L|
+1|1|1|J|J|
+7|11|5|M|M|
+8|12|1|K|L|Penguin22
+9|8|1|K|L|iLoveMusic
+8|12|7|Q|K|
+9|8|3|E|K|
+8|12|2|Q|K|SNAIL!!!!!!!!!!!
+8|12|5|O|M|
+7|11|1|M|M|PENGUIN!!!!!!!!!
+7|11|7|M|M|/a2PL
+7|11|1|N|N|
+7|11|1|N|N|SO LONG NOT SEE
+9|8|8|E|K|Aww
+9|8|8|E|K|Its your old friend?
+8|12|2|O|M|Yes
+9|8|7|N|L|
+8|12|2|O|M|Form v2
+9|8|1|N|L|Ohhhhhh
+9|8|1|N|L|You form v2? o.o
+9|8|5|N|L|who are form v1
+6|12|2|R|L|Me
+1|1|8|J|J|Me
+7|11|1|N|N|Ne
+8|12|1|O|M|Me
+7|11|1|N|N|*me
+9|8|1|N|L|o.o
+9|8|8|F|M|
+9|8|8|F|M|you are all Old
+9|8|8|F|M|o.o
+9|8|8|F|M|i joined to v3
+8|12|3|G|N|
+8|12|3|G|N|Dont be sad
+8|12|3|G|N|Wolf is not old
+8|12|3|G|N|Cute. too
+7|11|1|M|L|
+7|11|1|M|L|Ok Bot
+7|11|5|M|L|I REMEMBER YOU
+7|11|5|M|L|YOU ARE FAKE
+1|1|1|J|J|o.o
+6|12|2|R|L|OMG
+9|8|8|F|M|D:
+8|12|8|G|N|FAKE?
+7|11|2|M|L|YES
+7|11|2|M|L|FAKE
+7|11|6|M|L|REPORT HE
+7|11|6|M|L|TO BAN IT
+9|8|1|J|K|OKKK
+8|12|1|L|J|>.<
+1|1|8|J|J|YOU ALL CRAZY
+1|1|8|J|J|IM NOT FAKE
+6|12|3|H|J|
+6|12|3|H|J|FAKE FAKEE
+8|12|1|L|J|FAKE
+9|8|8|J|K|FAKE
+7|11|1|M|L|FAKE
+7|11|5|K|K|
+6|12|6|I|I|
+1|1|1|J|J|HAHAHA
+1
+7|11|7|Z|L|
+9|8|7|Z|L|
+8|12|7|Z|L|
+6|12|7|Z|L|
+6
+7
+8
+9
+10|6|1|K|L|dulce
+10
+10|6|3|M|D|dulce
+10|6|3|5|J|
+10
+1|1|3|V|L|Bot
+10|6|7|C|L|dulce
+10|6|7|Y|K|
+10
+1|1|4|I|D|
+1
+1|1|7|M|D|Bot
+1
+1|13|1|V|L|Bot
+10|6|3|V|L|dulce
+10
+1|13|3|L|K|
+10|6|1|K|L|secret
+10
+10|6|5|V|L|secret
+10|6|4|H|I|
+10
+1|13|8|N|L|
+1
+1|13|3|M|D|Bot
+1
+1|13|6|E|F|Bot
+10|6|3|M|D|secret
+1
+1|13|7|C|L|Bot
+10|6|1|M|L|
+1|13|8|C|L|Hola!
+10|6|7|G|M|
+1|13|H|I|M|
+10|6|2|Q|M|
+10|6|2|Q|M|hola!
+10|6|I|Q|M|
+10|6|I|Q|M|
+10|6|H|Q|M|
+10|6|H|Q|M|/e2
+10
+1
+9|8|3|V|L|iLoveMusic
+10|14|1|K|L|Sythe
+10|14|4|6|I|
+10|14|7|Z|L|
+10
+10|17|3|V|L|Sythe
+9
+10
+10|17|5|E|F|Sythe
+10|17|5|E|F|
+10|17|7|G|N|
+10
+1|7|1|K|L|Sythe
+1|7|7|W|M|
+1
+1|4|1|K|L|josemario
+1|4|6|9|M|
+1
+1|4|3|M|D|josemario
+1
+1|4|1|K|L|Pipocabrsp
+1|4|2|I|D|
+1
+1|4|3|M|D|Pipocabrsp
+1|4|5|T|G|
+1|4|8|S|E|
+1|4|4|S|E|
+1
+1|1|1|K|L|austar
+1|1|8|Q|P|
+1|18|2|T|J|
+1|18|7|6|J|
+1
+1|18|5|C|L|austar
+1
+1|18|6|E|F|austar
+1
+1|5|1|K|L|roco
+1
+1|5|6|E|F|roco
+1
+1|5|3|M|D|roco
+1
+1|17|5|V|L|roco
+1
+1|17|5|C|L|roco
+1|17|6|T|F|
+1|17|L|N|H|
+1
+1|1|1|K|L|Happyguy22
+1|1|8|K|M|
+1|18|3|G|L|
+1|18|8|K|N|
+1|1|1|G|K|
+1
+1|1|3|M|D|Happyguy22
+1
+1|1|6|E|F|Happyguy22
+1|1|6|S|F|
+1|1|7|T|F|
+1|1|3|I|G|
+1|1|1|H|N|
+1|1|6|H|I|
+1|18|8|D|L|
+1|18|6|K|I|
+1
+1|13|1|K|L|bunnypop52
+1|13|5|S|G|
+1|13|5|S|F|
+1|13|5|S|F|
+1|13|6|T|F|
+1|13|7|L|E|

@@ -1,0 +1,246 @@
+1|9|4|a|D|super teddy
+1|9|3|1|C|
+1
+2|11|3|a|D|Danka77
+2|11|6|1|Q|
+2
+1|8|8|4|D|Danka77
+1
+1|6|2|a|D|Gipa
+1
+1|6|6|4|D|Gipa
+1|6|4|Y|R|
+1|17|1|8|J|
+1
+1|5|2|a|D|Lizard
+1|17|L|O|A|
+1|17|6|C|M|
+1
+1|13|4|a|D|Lizard
+1|13|1|B|D|
+1
+1|13|7|4|D|Lizard
+1
+1|13|3|a|D|Lizard
+1
+1|17|2|a|D|Glos
+1|17|3|O|A|
+1
+1|18|3|a|D|Glos
+1
+1|18|3|a|D|Glos
+1
+1|18|8|a|D|glos
+1
+3|18|3|a|D|glos
+3
+1|12|4|a|D|NeymarXD
+1
+1|12|8|4|D|NeymarXD
+1|12|L|Z|F|
+1|12|J|M|H|
+2|5|3|a|D|qwijaydenop
+2|5|3|N|A|
+3|17|7|4|D|glos
+1
+2|5|1|P|K|
+3|17|7|U|G|
+2|5|1|P|K|woah
+3|17|4|X|G|
+2|5|1|B|F|
+3|17|2|S|E|/a2MK
+2|5|1|B|F|are you a mod
+2|5|7|Q|D|
+2|5|2|Q|D|/a2YI
+3|9|1|P|G|
+2|5|2|Q|D|/e3
+3|18|1|P|E|Me?
+2|5|2|Q|D|no
+3|18|2|U|F|
+3|18|2|U|F|Oh, okay.
+2|5|2|Q|D|i want to
+2|5|2|Q|D|get clothes
+3|18|1|U|F|The only mods are Vortex and Anderson.
+3|18|3|T|H|
+2|5|2|Q|D|wow
+3|18|8|M|H|
+2|5|2|S|J|/a2WL
+2|5|3|S|J|/a2NI
+3|18|1|M|F|
+2|5|3|2|R|
+3|18|2|M|F|/a2NF
+2|5|7|X|M|
+3|18|L|M|G|
+2|5|7|P|F|glos
+3|18|L|K|9|
+2|5|1|P|F|how did you do that
+3|18|L|K|9|Yeah?
+2|5|4|I|9|
+2|5|1|I|9|how do you get that suit
+2|5|1|I|9|how are you switching
+3|18|L|K|9|Edit Account -> New Penguin
+2|5|1|I|9|clk
+2|5|4|I|9|ok
+2|14|1|I|9|
+2|14|8|I|B|
+3|18|L|K|9|when you go on Edit Account.
+2|14|1|I|B|edit account wont work
+2|14|8|E|B|
+3|17|1|K|C|
+3|17|1|K|C|I mean "New Penguin".
+2|14|1|E|B|il re log
+3|17|1|K|C|Then when the colours come up
+2|14|1|E|B|ok
+2|14|7|H|B|
+3|17|6|J|E|
+2|14|K|H|B|
+3|17|7|K|D|
+1|15|1|a|D|Anderson
+3|17|1|L|E|
+1|15|3|D|J|
+2|14|1|H|B|
+3|17|7|L|E|/a2bE
+2|14|1|H|B|/a2YA
+2|14|3|J|K|
+2|14|7|P|M|
+1|15|8|K|M|
+1|15|2|K|M|Hi, guys.
+3|17|7|L|E|/a2JK
+2
+4|14|2|a|D|qwijaydenop
+4|14|2|S|F|
+4|14|2|S|F|still
+1|15|6|K|H|
+4|14|2|S|F|wont work
+4|14|2|S|F|ad:
+4|14|2|S|F|d:
+4|14|2|S|F|D:
+4|14|2|S|F|:(
+1|15|4|L|L|
+4|14|2|P|D|
+4|14|2|P|D|/e10
+1|15|2|L|L|What won't work?
+4|14|H|P|D|
+1|15|6|P|G|
+4|14|H|I|N|
+1|15|2|O|L|
+4|14|H|I|N|i cant change
+4|14|H|I|N|like glos does
+4|14|H|I|N|edit account wont work
+1|15|1|D|9|
+3|17|7|L|E|No, it's not on Edit Account.
+4|14|2|Q|M|
+1|15|8|F|I|
+3|17|1|L|J|
+1|15|7|M|K|
+3|17|1|L|J|It's on New Penguin.
+4|14|1|Q|M|where then
+4|14|2|Q|M|ok
+1|15|1|M|K|It's under "New Penguin"
+1|15|6|F|M|
+1|15|6|F|M|/e2
+4|14|2|Q|M|never mind anderson
+4|14|2|Q|M|ok
+4|14|3|J|M|
+4|14|3|J|M|thanks
+4|14|5|J|M|/e2
+3|17|2|L|J|/a2FM
+4|14|5|R|M|
+1|15|8|F|M|Did it work?
+1|15|5|G|A|
+4|14|3|I|K|let me try
+1|15|6|K|E|
+3|18|4|N|K|
+1|15|2|K|E|Alright
+3|17|6|N|J|
+3|17|1|M|I|
+1|15|8|R|K|
+4|14|1|I|K|i dont see it
+1|15|5|Q|M|
+4|14|1|I|K|is it
+1|15|2|L|L|
+4|14|1|I|K|do we have to
+4|14|1|I|K|scroll down
+1|15|6|L|L|Then New Penguin
+4|14|1|I|K|or
+4|14|8|I|K|il make a new penguin
+4|14|8|I|K|maybe
+1|15|6|L|L|No
+4|14|I|M|D|
+3|17|1|M|I|Then new penguin.
+4|14|2|O|N|
+1|15|6|L|L|Do you see the wrench icon
+4|14|2|O|N|And
+3|18|1|M|I|
+1|15|7|Q|N|
+4|14|1|O|N|ok
+1|15|7|T|M|
+4|14|1|O|N|i get it
+1|15|2|T|M|Ok
+3|18|6|N|J|
+3|18|L|R|J|
+3|18|L|N|J|
+1|15|2|T|M|Which is above Edit Account
+3|18|1|N|J|
+3|18|6|N|K|
+3|18|L|N|J|
+1|15|3|F|I|
+3|18|4|C|9|
+4|14|2|O|N|ok
+4|14|2|O|N|let me figure it out all by my self
+3|18|1|C|9|builder.
+4|14|2|O|N|by the way
+4|14|2|O|N|anderson
+4|14|2|O|N|im a new player
+3|17|7|M|G|
+4|14|J|L|B|
+3|17|4|M|I|
+4|14|K|L|B|
+1|15|8|K|M|
+4|11|1|L|B|
+1|15|4|C|9|
+3|17|L|P|9|
+1|15|1|F|I|
+3|17|L|P|9|
+1|15|1|F|I|There you go
+1|15|2|K|G|
+1|15|5|H|J|
+1|15|7|N|H|
+4|5|L|L|B|
+1|15|3|E|K|
+1|15|1|C|9|
+1|15|8|E|K|
+3|17|7|d|R|
+3
+1|15|7|c|I|
+1
+4
+4|14|3|a|D|qwijaydenop
+4|14|7|X|F|
+4|14|1|P|D|
+4
+1|1|2|a|D|jpaguado1
+1
+1|13|3|a|D|Antia
+1|13|3|2|F|
+1
+1|13|3|a|D|I like ike
+1|13|L|L|E|
+1
+1|1|3|a|D|PKMNPKMN
+1|1|8|5|R|
+1|1|5|V|I|
+1
+1|17|3|a|D|Pengey99
+1|17|4|M|G|
+1|17|3|c|G|
+1
+1|4|3|a|D|picachu 123
+1|4|I|9|N|
+1
+1|4|3|a|D|picachu 123
+1|4|4|2|J|
+1|4|6|1|M|
+1
+1|5|2|a|D|Pengey99
+1

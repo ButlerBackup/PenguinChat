@@ -1,0 +1,79 @@
+1|1|1|Q|G|Fluffyhairs
+1|1|2|K|J|
+1
+1|17|8|Q|G|Fluffyhairs
+1|17|8|Q|G|
+1|17|2|L|L|
+1
+1|1|8|Q|G|Spike36060
+1
+1|1|6|Q|G|Spike36060
+1|1|8|P|E|
+1
+1|17|5|Q|G|Tune
+1
+1|17|7|Q|G|gingerninja
+1
+1|9|7|Q|G|HypraVENOM!
+1
+1|1|8|Q|G|Ziggy Zap
+1|1|6|J|F|
+1|1|2|F|M|
+1
+1|18|1|Q|G|marce123456
+1|18|3|K|E|
+1
+1|18|7|Q|G|mateus 26
+1|18|L|A|G|
+1
+1|14|8|Q|G|fast nitro 1
+1|14|7|S|I|
+1|14|7|N|J|
+1
+1|18|2|Q|G|silss
+1|18|4|Q|G|
+1
+1|18|5|Q|G|silss
+1
+2|1|8|Q|G|Mateusz34
+2
+1|14|7|Q|G|jack rocker
+1|14|4|S|J|
+1
+1|14|7|Q|G|jack rocker
+1|14|3|A|G|
+1
+1|18|7|Q|G|jack rocker2
+1|18|3|I|E|
+1
+1|18|5|Q|G|santino22
+1|18|7|R|K|
+1
+1|17|1|Q|G|santino22
+1|17|4|Q|G|
+1
+1|9|6|Q|G|santino22
+1
+1|17|3|Q|G|santino22
+1
+5|18|8|Q|G|NICKPIGUIRO
+5
+1|5|7|Q|G|agente 12
+1|5|3|Q|G|
+1|18|4|Q|M|
+1|18|H|F|E|
+1|18|8|E|G|
+1|18|2|I|M|
+1|18|1|M|N|
+1|18|8|L|I|
+1|18|8|9|I|
+1|18|4|O|I|
+1|5|7|P|F|
+1
+1|5|7|Q|G|agente 12
+1|5|6|V|I|
+1|5|I|K|L|
+1|18|5|D|E|
+1|18|2|H|J|
+1|18|3|Q|K|
+1

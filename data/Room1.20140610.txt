@@ -1,0 +1,508 @@
+1|13|1|K|L|nina
+1|13|5|S|E|
+1|13|4|M|P|
+1|13|3|K|O|
+1
+1|13|3|M|D|nina
+1|13|5|S|E|
+1
+1|13|3|M|D|nina
+1
+1|13|H|V|L|nina
+1|13|3|V|L|
+1
+1|14|1|K|L|ArcGust2222
+1|14|6|M|N|
+1|14|4|F|K|
+1|14|2|F|M|
+1|14|6|R|G|
+1
+1|14|1|K|L|2bg
+1|14|2|P|M|
+1
+1|14|4|M|D|2bg
+1|14|8|Q|O|
+1|14|2|I|L|
+1|14|4|U|F|
+1
+1|14|4|E|F|2bg
+1
+1|14|4|V|L|2bg
+1
+1|10|1|K|L|DelicateFlo
+1
+1|6|1|K|L|awesomelol
+1|6|6|O|J|
+1|6|1|R|H|
+1
+1|6|1|M|D|awesomelol
+1
+1|6|6|V|L|awesomelol
+1
+1|6|3|V|L|awesomelol
+1
+1|13|1|K|L|Blue Amzar
+1|13|1|G|P|
+1|13|2|I|K|
+1|18|1|M|K|
+1|18|L|J|K|
+1|18|L|M|M|
+1|18|4|N|K|
+1|18|4|L|I|
+1|13|4|N|I|
+1
+1|13|L|V|L|Blue Amzar
+1
+1|13|1|K|L|Blue Amzar
+1
+1|13|3|M|D|Blue Amzar
+1
+1|13|6|E|F|Blue Amzar
+1
+1|8|1|K|L|vanoss0
+1|8|8|H|M|
+1|8|5|N|M|
+1|8|H|L|K|
+1|8|1|N|K|
+1|8|3|G|J|
+1|8|3|I|G|
+1
+1|8|3|M|D|vanoss0
+1|8|6|R|G|
+1
+1|8|6|E|F|vanoss0
+1|8|8|H|L|
+1
+1|9|1|K|L|Roowie
+1|9|3|H|L|
+1
+1|9|6|E|F|Roowie
+1|9|L|G|M|
+1|9|H|J|I|
+1
+1|9|1|K|L|Roowie
+1|9|3|7|J|
+1|9|L|J|I|
+1
+1|14|1|K|L|messi
+1|14|1|O|M|
+1|14|3|H|M|
+1|14|L|M|L|
+1|14|8|K|M|
+1|14|5|L|I|
+1|14|4|I|K|
+1
+1|4|1|K|L|messi
+1|4|4|R|E|
+1|4|5|R|J|
+1
+1|13|1|K|L|tatito20
+1|13|5|P|P|
+1
+1|7|1|K|L|RocketTest
+1|7|7|9|H|
+1|7|L|J|L|
+1
+1|17|3|V|L|RocketTest
+1
+1|14|1|K|L|kankri
+1|14|5|J|M|
+1|14|4|U|G|
+1|14|5|R|J|
+1
+1|14|4|M|D|kankri
+1
+1|6|1|K|L|lola123
+1|6|1|M|O|
+1|6|6|T|F|
+1|6|8|N|J|
+1|6|3|9|M|
+1|6|H|7|J|
+1|6|6|L|K|
+1
+1|6|1|K|L|lola123
+1|6|1|O|P|
+1|6|7|7|I|
+1
+1|6|1|K|L|lola123
+1|6|1|N|H|
+2|13|1|K|L|minecraft
+2|13|4|L|P|
+2|13|6|S|M|
+2|13|2|P|N|
+1|6|1|N|H|hola
+2|13|3|P|N|/e10
+1|6|8|N|N|
+2|13|8|C|H|
+1|6|8|N|N|hey hola amigo
+2|13|7|I|L|
+1|6|8|D|J|
+1|6|8|D|J|que te pasa
+1|6|8|G|M|
+2|13|8|I|L|im new
+2|13|6|N|I|
+1|6|8|G|M|no tienes porque preocuparte
+2|13|1|S|H|
+2|13|5|I|F|
+1|6|8|G|M|yo tambien soy
+2
+1|6|8|G|M|nueva
+1|6|5|J|J|
+1
+1|6|4|M|D|lola123
+1
+2|13|6|C|L|minecraft
+2
+2|1|1|K|L|minecraft
+2
+2|1|3|M|D|minecraft
+2|1|6|S|G|
+2
+1|6|3|V|L|lola123
+1
+1|6|3|M|D|lola123
+2|11|1|K|L|minecraft
+1
+2|11|1|O|N|
+1|6|3|E|F|lola123
+1|6|2|S|F|
+2|11|4|F|N|
+1|6|1|P|J|aqui soy nueva bienbenido ya eres mi amigo
+2|11|5|O|M|
+1|6|3|N|N|
+2|11|5|O|M|/a2PG
+1|6|4|N|N|/e1
+2|11|5|O|M|/a2KL
+1|6|8|N|N|aqui todos somos amigos
+2|11|5|O|M|/a2KN
+2|11|5|O|M|/j8
+1|6|8|N|N|aunque no nos conocemos
+2|11|5|S|K|
+1|6|2|K|M|
+2|11|4|C|L|
+1|6|8|M|M|
+2|11|8|8|H|
+2|11|6|T|F|
+1|9|1|D|L|
+2|11|8|P|L|
+2|11|4|O|P|
+1|6|1|I|L|
+1|6|8|K|L|hey
+1|6|5|K|L|/e4
+1
+1|6|L|M|D|lola123
+1|6|3|T|F|
+1|6|1|N|O|
+1|6|1|N|O|ven}
+1|6|1|N|O|
+2
+2|5|1|K|L|minecraft
+2
+1|6|1|O|L|
+1
+2|5|4|M|D|minecraft
+2
+2|5|5|C|L|minecraft
+2
+1|6|3|V|L|lola123
+1|6|3|F|G|
+1|6|7|T|J|
+1|6|3|I|F|
+1
+1|6|3|M|D|lola123
+1
+1|6|3|V|L|lola123
+1
+1|6|6|E|F|lola123
+2|5|4|V|L|minecraft
+2|5|5|F|P|/a2GD
+2|5|5|F|P|/a2CC
+2|5|5|F|P|/a2GG
+2|5|5|F|P|/e5
+2|5|L|F|P|/a2XD
+2|5|H|F|P|/a2QK
+2|5|H|F|P|/a2M8
+2|5|H|F|P|/a2AG
+2|5|H|Q|I|
+2|5|3|D|I|
+2|5|8|D|G|/e12
+1
+1|6|1|K|L|somos amigos
+1|6|1|K|M|
+1|6|1|K|M|hey hola soy nueva
+1|6|4|E|I|
+1|6|8|E|I|como dice mi nombre
+1|6|8|E|I|somos amigos
+1|6|8|E|I|tu eres mi amigo
+1|6|6|E|I|/e1
+1|6|1|F|G|
+1|6|H|F|G|
+1|6|H|F|G|/e2
+1|6|L|F|G|
+1|6|L|F|G|somos amigos somos amigos
+2
+1|6|L|R|J|
+1
+1|6|6|E|F|somos amigos
+1
+2|5|1|K|L|minecraft
+1|6|3|M|D|somos amigos
+1|6|7|M|L|
+1|6|4|M|L|/e1
+2|5|6|P|I|
+1|6|2|M|L|amigo
+2|5|1|I|I|
+1|6|L|M|L|
+1|6|L|M|L|siii
+1|6|L|M|L|somos amigos
+2|5|8|I|I|what
+2|5|1|K|M|
+1|6|L|M|L|tu y yo amigos
+2|5|1|K|M|/e12
+1|6|L|M|L|/e1
+1|6|2|N|M|
+1|6|2|N|M|/e12
+2|5|4|S|O|
+1|6|2|M|M|
+2|5|4|S|K|
+1|6|2|M|M|ya vuelvo
+2|5|4|O|E|
+1|6|2|M|M|me esperas
+2|5|4|Q|Q|
+2|5|3|I|O|
+2|5|3|O|P|
+1|6|1|M|M|chau ya vuelvo
+2|5|1|P|P|
+2|5|1|P|P|its raining
+2|5|5|E|L|
+2|5|3|7|I|
+2
+3|6|1|K|L|lola123
+3|6|7|R|M|
+3|6|7|R|M|minecraft
+3|6|2|O|M|
+3|6|3|O|M|/e5
+3|6|2|O|M|mi otro pinguino
+3|6|3|J|M|/a2LO
+3|6|3|J|M|/a2OO
+3|6|3|R|K|/a2PM
+3|6|3|R|K|/a2PK
+3|6|3|P|L|/a2NK
+3|6|3|P|M|
+3|6|3|P|M|/a2LO
+3|6|5|D|F|
+1
+3
+3|6|6|E|F|lola123
+2|9|1|K|L|minecraft
+3|6|3|K|E|
+3
+2
+3|6|3|M|D|lola123
+3
+3|6|3|V|L|lola123
+3
+3|6|3|M|D|lola123
+3
+3|6|2|M|D|lola123
+3
+3|6|3|M|D|lola123
+3
+3|6|6|E|F|lola123
+3
+3|6|3|V|L|lola123
+3
+3|6|3|M|D|lola123
+3
+2|6|1|K|L|somos amigos
+2|6|6|I|E|
+2
+2|6|4|M|D|somos amigos
+2
+2|6|3|M|D|somos amigos
+2
+2|6|6|E|F|somos amigos
+2
+2|6|3|V|L|somos amigos
+2|6|3|V|L|
+2|6|2|I|M|
+2
+1|9|1|K|L|jake12
+1|9|5|J|H|
+1
+1|14|1|K|L|jake12
+1|18|1|C|J|
+1|18|1|J|M|
+1|18|H|S|J|
+1
+1|13|1|K|L|tatito20
+1|13|4|C|H|
+1
+1|14|1|K|L|Rauffe
+1|14|4|F|8|
+1|14|4|C|D|
+1|14|1|J|F|
+1|14|6|K|E|
+1
+1|14|1|K|L|Rauffe
+1|14|4|I|F|
+1|14|8|G|I|
+1|18|8|T|K|
+1
+1|14|1|K|L|FrostedCoin
+1|14|2|N|N|
+1|14|5|K|K|
+1|14|K|L|M|
+1|14|5|J|M|
+1|14|4|Q|L|
+1
+1|14|1|K|L|FrostedCoin
+1|14|6|N|L|
+1|14|6|L|O|
+1|18|1|J|L|
+1
+2|14|1|K|L|Claus Kenta
+2|18|1|P|M|
+2|18|3|L|M|
+2
+1|18|3|V|L|FrostedCoin
+2|18|3|V|L|Claus Kenta
+1|18|3|M|M|
+2|18|2|J|M|
+2|18|7|K|M|/a2NP
+2|18|1|L|I|/a2MO
+2|18|1|J|L|/a2LM
+2|18|8|I|I|/a2LN
+2|18|8|I|I|/j2
+2|18|8|I|I|/j0
+2|18|2|H|L|/a2QF
+2|18|1|I|K|
+2|18|1|I|K|we r the ninjas
+2|18|1|I|N|
+2|18|1|I|N|Frosted Coin
+2|18|1|I|N|Vs
+2|18|1|I|N|...
+2|18|5|H|H|
+2|18|5|H|H|Claus Kenta
+2|18|1|I|L|
+2|18|L|I|L|
+2|18|1|H|N|
+2|18|1|H|N|wanna know how to get this awesome penguin?
+2|18|1|I|L|
+2|18|1|I|L|as called the ninja penguin
+2|18|6|I|K|
+2|18|8|I|K|first make an account
+2|18|5|I|M|
+1|18|1|M|L|and then
+1|18|1|M|L|
+1|18|1|M|L|go to
+1|18|1|M|L|Edit Account thingy
+1|18|6|L|K|
+1|18|1|L|K|Press new penguin
+2|18|8|J|N|
+2|18|8|J|N|now after that press
+2|18|8|J|N|the n
+2|18|8|J|N|at the very en
+2|18|8|J|N|end
+1|18|1|L|K|
+1|18|1|N|M|
+1|18|1|N|M|and now you know how to get the ninja penguin!
+1|18|5|N|L|
+1|18|5|N|L|share this with your friends
+1|18|5|N|L|the link
+1|18|1|N|L|
+1|18|1|N|L|by Rsnail;
+1|18|1|N|L|Rsnail
+1|18|2|O|O|
+1|18|2|O|O|He is awesome
+1|18|1|N|M|
+1|18|1|N|M|but who made experimental Penguins?
+1|18|1|L|J|
+1|18|1|L|J|was that Rsnail too?
+1|18|1|N|M|
+1|18|1|N|M|Well Find out
+2|18|7|J|I|
+1|18|4|L|L|
+2|18|8|F|K|
+2|18|8|F|K|Maybe
+2|18|1|N|M|
+2|18|H|N|M|
+2|18|H|N|M|bye utube
+2|18|6|P|M|
+2|18|8|P|L|
+2|18|1|P|L|NINJAS!!!!!!!
+2
+1
+1|14|1|K|L|Claus Kenta
+1|18|1|K|M|
+1|18|6|Q|J|
+1|18|5|I|M|
+2|14|1|K|L|FrostedCoin
+2|14|4|P|K|
+2|18|1|N|N|
+2|18|1|N|N|here i am!
+2|18|2|L|K|
+2|18|L|L|K|
+1|18|L|I|M|
+1|18|L|I|M|Frostiy2013
+1|18|L|I|M|Webkinz,
+1|18|L|I|M|boot05
+1|18|L|I|M|everybody edits
+1|18|L|I|M|brookepeekas12
+1|18|7|O|F|
+1|18|7|F|L|
+1|18|7|F|L|Club Penguin Cheatz
+1|18|7|F|L|This is Penguin Chat 3
+1|18|1|I|N|
+1|18|1|I|N|by Rsnail
+1|18|1|I|N|(Rocket Snail)
+1|18|5|P|M|
+1|18|5|P|M|Frosted Coin?
+1|18|5|P|M|You There?
+1|18|5|O|N|
+2|18|1|K|M|
+2|18|1|K|M|yeah i here
+2|18|5|L|M|
+1|18|1|O|N|ok goo
+1|18|1|O|N|ok good
+1|18|1|O|M|
+1|18|1|O|M|is Penguin Chat 3 awesome?
+2|18|2|K|M|
+2|18|2|K|M|only there is 3 rooms
+2|18|2|K|M|it is still awesome
+2|18|2|K|M|has made
+2|18|2|K|M|there is an older 1
+2|18|2|K|M|called Experimental Penguins
+2|18|1|K|M|
+2|18|1|K|M|that was released July 2000
+2|18|8|J|M|
+2|18|8|J|M|almost older than my sister!
+2|18|1|I|K|
+2|18|1|I|K|my sister: 1999
+2|18|8|G|J|
+2|18|8|G|J|she was still 0
+2|18|1|H|L|
+2|18|1|H|L|her birthday is in september
+2|18|8|I|M|
+2|18|8|I|M|28
+2|18|8|K|M|
+2|18|8|K|M|u there Claus Kenta?
+2|18|6|G|L|
+1|18|1|O|M|yeah
+1|18|1|O|M|just listening to you talk
+2|18|8|G|L|oh... okay
+2|18|1|J|L|
+2|18|1|J|L|to the coffee shop!
+2|18|4|E|E|
+2
+1
+1|4|1|K|L|andersito15
+1
+1|11|3|M|D|andersito15
+1|11|2|P|H|
+1
+1|11|1|E|F|andersito15
+1
+1|11|4|V|L|andersito15
+1|11|4|7|J|
+1

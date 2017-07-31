@@ -1,0 +1,776 @@
+1|1|3|9|H|fives120
+1|1|1|U|E|
+1
+1|1|5|9|H|fives120
+1|1|1|U|E|
+1|1|4|S|L|
+1|1|6|L|B|
+1|1|2|J|K|
+1
+1|18|7|9|H|Master Jas
+1
+1|18|3|9|H|Master Jas
+1
+1|18|4|X|R|Master Jas
+1
+1|9|2|9|H|Foejoe800
+1
+1|14|7|9|H|Blacknight
+1|14|3|G|M|
+1|14|3|B|E|
+1|14|1|P|D|
+1|14|3|5|P|
+1|14|5|9|K|
+1|14|7|d|Q|
+1
+1|14|6|X|R|Blacknight
+1
+1|5|5|9|H|zach81
+1
+1|13|4|9|H|xJhonycp
+1|13|L|L|H|
+1
+2|11|4|9|H|Meat1000999
+2|11|1|b|S|
+2
+2|11|5|X|R|Meat1000999
+2
+2|11|6|9|H|Meat1000999
+2
+1|10|L|9|H|Cordalya
+1|10|4|9|H|
+1|10|5|J|I|
+1|10|4|M|L|
+1|10|3|R|F|
+1|10|7|P|K|
+1|10|5|K|L|
+1
+1|14|5|9|H|penguinguy
+1|14|1|Q|H|
+1|14|5|I|E|
+1|14|4|9|H|
+1
+1|14|2|9|H|kebefab23
+1|14|3|7|H|
+1
+1|13|L|9|H|lmpfernande
+1|13|1|L|K|
+1
+1|9|5|9|H|RainbowGirl
+1
+1|10|8|9|H|Lul5226886t6
+1|10|L|M|L|
+1
+1|10|4|X|R|Lul5226886t6
+1
+1|6|5|9|H|Zazagirl924
+1|6|L|L|I|
+1|9|1|H|J|
+1|13|1|G|K|
+1
+2|18|7|9|H|Master Jas
+1|17|L|9|H|Saltybacon2
+2
+2|18|4|X|R|Master Jas
+1|17|7|c|R|
+1
+2|18|4|7|H|
+2
+1|17|3|X|R|Saltybacon2
+1
+1|18|5|9|H|Saltybacon2
+1
+1|18|3|9|H|Saltybacon2
+1|18|1|O|A|
+2|18|3|9|H|Master Jas
+2|18|1|O|E|
+2|18|8|X|P|
+2
+2|18|5|X|R|Master Jas
+2|18|5|P|H|/a2MC
+1|18|1|N|H|
+2|18|2|M|J|/a2FB
+2|18|2|D|M|/a2QF
+1|8|1|N|H|
+2|18|8|I|J|
+1|8|2|K|M|/a2LG
+2|1|1|7|H|
+2
+1|8|2|K|M|/a29J
+1
+2|18|5|9|H|Master Jas
+1|18|8|9|H|Saltybacon2
+2|18|5|O|C|
+1|18|7|D|H|
+2|18|2|H|L|/a2L9
+1|18|7|O|F|
+2|18|2|H|N|
+2
+1|18|5|I|N|
+1
+1|18|7|X|R|Saltybacon2
+2|18|4|9|H|Master Jas
+1
+2
+3|7|5|9|H|martinko303
+3|7|L|M|K|
+3
+2|17|4|9|H|Master Jas
+2
+2|17|4|X|R|Master Jas
+2
+2|18|4|9|H|Master Jas
+1|18|4|9|H|Saltybacon2
+2|18|4|O|J|
+2
+1|18|7|c|R|
+1
+1|18|8|X|R|Saltybacon2
+2|1|1|X|R|Master Jas
+2|1|4|6|H|
+2
+1|18|6|L|B|
+1
+1|8|6|9|H|trinitirose
+1
+1|1|4|9|H|Kopeke
+1
+1|5|4|9|H|BradBunny2
+1|5|2|7|L|
+1|5|7|V|G|
+1
+1|9|5|9|H|aza12
+1
+1|9|I|X|R|aza12
+1
+2|10|5|9|H|SnowyKeily
+2|10|5|K|C|
+2|10|1|L|M|
+2
+1|5|L|9|H|BradBunny2
+1|5|8|D|K|
+1|5|3|A|J|
+1
+1|10|3|9|H|Ally15129
+1
+2|6|5|9|H|Zupert
+2
+2|6|3|9|H|Zupert
+2|6|3|V|I|
+2
+1|8|4|9|H|fuffle puff
+1|8|2|J|M|
+1|8|2|N|B|
+1|8|L|J|L|
+1|8|4|C|C|
+1|8|3|8|K|
+1
+1|8|3|9|H|fuffle puff
+1
+1|8|5|9|H|fuffle puff
+1|8|L|J|L|
+1|8|2|M|C|
+1|8|6|K|C|
+1
+1|8|4|9|H|fuffle puff
+1|8|4|8|I|
+1
+1|8|3|9|H|fuffle puff
+1
+1|8|3|9|H|fuffle puff
+1
+1|8|2|X|R|fuffle puff
+1|8|7|B|N|
+1
+1|8|5|9|H|fuffle puff
+2|1|4|9|H|rockhopper22
+1|8|2|G|L|
+1|8|2|L|I|/a2GI
+2|1|3|N|K|
+1|8|H|L|I|/j4
+1|8|L|L|I|
+2|1|1|P|R|
+1|8|L|L|I|dj max
+2|1|1|P|R|Losr
+1|8|8|Z|S|
+2|1|5|Q|K|
+1|8|3|V|Q|
+2|1|8|K|I|
+2|1|L|K|I|
+1|8|3|V|Q|ven
+1
+1|8|5|X|R|fuffle puff
+2|1|L|L|L|
+2|1|7|R|N|/a2XS
+1|8|4|M|J|
+2|1|7|R|N|/a2XQ
+1|8|4|M|J|come with me
+2|1|7|L|J|/a2OJ
+1
+2|1|8|A|I|
+1|8|6|X|R|fuffle puff
+1|8|4|E|L|
+1|8|4|E|L|/a2CL
+2|1|7|J|K|
+2|1|8|J|K|/a2XR
+1|8|4|L|B|
+2|1|3|8|J|
+1|8|3|6|I|
+1
+2|1|7|K|B|
+2
+3|1|3|9|H|Oertamn
+3|1|1|c|Q|
+3
+3|1|8|X|R|Oertamn
+3
+1|8|4|9|H|fuffle puff
+1|8|L|b|Q|
+1
+1|8|4|X|R|fuffle puff
+1
+1|1|5|9|H|HIMALAYAS
+1
+1|1|8|X|R|HIMALAYAS
+1|1|5|X|R|
+1|1|8|G|L|
+1
+1|10|5|9|H|jillfairy
+1|10|1|L|C|
+1
+2|4|5|9|H|Gui03GU9IE9
+2|4|L|H|M|
+2
+4|10|5|9|H|bigbessie66
+4
+4|10|5|X|R|bigbessie66
+4
+1|10|8|9|H|jillfairy
+1
+1|10|7|X|R|jillfairy
+1|10|8|2|P|
+3|6|5|9|H|rockycraft
+1
+3|6|1|K|J|
+3
+1|10|5|9|H|jillfairy
+1|10|8|I|I|
+3|6|5|9|H|rockycraft
+3|6|3|P|I|
+3|6|4|M|K|
+1|10|7|U|N|
+3|6|4|M|K|hi
+1|10|8|W|P|
+3|6|8|R|M|
+3|6|5|X|R|
+1
+3
+1|10|7|X|R|jillfairy
+1|10|8|L|B|
+3|6|7|X|R|rockycraft
+3|6|6|H|G|
+1|10|L|L|C|
+1|10|L|L|C|im a dj
+1|10|L|L|C|oh ya oh ya oh ya!
+3|6|2|2|P|
+3|6|H|2|P|
+1|10|7|M|E|
+3|6|H|2|P|zzzzzzzzzzzzzzzzz
+1|10|7|7|Q|
+3|6|H|2|P|zzzzzzzzzzzz
+1|10|7|3|R|
+3|6|H|2|P|snor
+1|10|7|7|Q|
+3|6|H|2|P|zzzzzzzzzzzzz
+3|6|H|2|P|mommy is that you
+1|10|7|7|Q|WAKE UPPPPPPPPPPP!!!!!!!!!!!!!!!!!!!!!
+3|6|H|2|P|aaaaaaaaaaaaaaaaa
+1|10|7|7|Q|DIES
+3|6|1|B|O|
+1|10|H|7|Q|
+3|6|1|B|O|what wappend
+1|10|H|7|Q|ble
+3|6|I|B|O|
+1|10|H|7|Q|i died
+3|6|I|B|O|zzzzzzzzzzzzzzzzz
+3|6|I|B|O|what
+3|6|1|8|P|
+3|6|2|J|K|
+3|6|7|K|B|
+3|6|J|K|B|
+3|6|1|N|B|
+3|6|K|N|B|
+3|6|K|N|B|zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+3|6|K|N|B|/j0
+3|6|K|N|B|i love pizza
+3|6|2|K|L|
+3|6|1|8|P|
+3|6|7|C|O|
+1|10|H|7|Q|ble
+1|10|H|7|Q|that is what dead people say
+1|10|H|7|Q|ble
+3|6|7|C|O|what happend here i am agent becket
+1|10|H|7|Q|i am dead
+3|6|6|C|O|/e3
+3|6|7|C|O|/e11
+1|10|H|7|Q|ble
+1|10|H|7|Q|/e11
+3|6|7|C|O|i think it was that guy
+3|6|5|K|G|
+1|10|H|7|Q|turning into skeleton!!!!!!!!!
+1|10|H|7|Q|ble
+3|6|5|K|G|i think it was you
+1|10|H|7|Q|ble ble ble
+1|10|H|7|Q|/e11
+3|6|2|8|Q|
+3|6|7|8|Q|i wish you were alive
+1|10|H|7|Q|bla
+3|6|H|8|Q|
+3|6|H|8|Q|zzzzzzzzzzzzzzzzz
+3|6|3|F|N|/a28R
+3|6|3|F|N|/a29Q
+3|6|8|6|O|/a2RJ
+3|6|2|7|O|/a2PB
+3|6|8|7|O|/a2SH
+1|10|H|7|Q|/e11
+3|6|8|7|O|/a2NF
+3|6|8|9|P|
+3|6|6|9|P|bye you
+3|6|5|J|G|
+1|10|H|7|Q|huh
+3|6|5|J|G|you you you
+1|10|H|7|Q|i have to go
+3|6|5|J|G|i know you poisoned here
+3|6|2|8|P|
+3|6|2|8|P|what why
+3|6|2|8|P|bbbbbyyyyyyyeeeeeee
+3
+1
+1|13|3|9|H|black1123
+1|13|4|6|H|
+1
+1|14|5|9|H|misr
+1|14|6|I|G|
+1
+2|14|5|9|H|reydelclub1
+2
+2|18|4|9|H|reydelclub1
+2
+1|13|1|9|H|foodboy07
+1
+2|14|5|9|H|reydelclub1
+1|13|6|9|H|foodboy07
+1|13|8|R|L|
+2|14|1|9|K|
+1|13|5|L|J|
+2|14|8|D|K|
+2|14|5|K|L|
+2|18|1|I|G|
+2|18|8|I|G|im ninja
+2|18|1|I|J|
+1|18|1|L|J|
+2|18|L|I|J|
+1|18|L|L|J|
+2|18|L|I|J|/e1
+1|18|L|M|K|/e1
+1|18|4|K|J|/a2LI
+2|18|1|I|K|
+1|18|8|K|I|
+1|13|1|K|I|
+1|13|1|K|I|/a2SF
+1|13|1|K|I|/a2HI
+2|18|8|I|K|so me go friends
+1|13|K|L|I|
+2|18|8|F|I|
+2|18|7|F|I|/e2
+1|13|2|K|J|
+2|18|8|F|I|plz
+1|13|2|K|J|ok
+1|13|4|K|J|/e1
+1|13|4|K|J|ok
+2|18|8|F|I|YAY!
+2|18|L|F|I|
+2|18|L|F|I|/e2
+2|18|L|E|K|
+1|13|4|K|J|/e1
+2|18|7|F|I|/a2LL
+2|18|2|I|I|
+1|13|L|K|J|
+2|5|1|I|I|
+2|5|6|H|I|
+2|5|L|H|I|
+2|5|L|H|I|/a2NM
+1|13|L|K|J|/a28K
+2|5|L|H|I|sorry
+2|5|L|H|I|/e4
+1|13|L|K|J|that ok
+2|5|L|G|I|
+2|5|L|G|I|foodboy07
+1|13|L|K|J|what
+1|13|L|J|H|
+2|5|L|G|I|im penguin reydelclub1
+2|5|2|G|G|
+1|13|L|J|H|cool
+1|13|L|J|H|brb
+2|5|L|G|G|
+1|13|L|J|H|back
+2|5|7|G|I|
+2|5|8|G|I|go town
+1|13|5|J|I|
+1|13|2|J|I|ok
+2
+1
+3|5|6|9|H|MigLigged
+3|5|2|R|H|
+3|5|2|U|C|
+3|5|4|A|D|
+3|5|3|5|N|
+3
+1|18|5|9|H|foodboy07
+1
+1|18|5|X|R|foodboy07
+1
+1|18|6|9|H|foodboy07
+1|18|4|I|I|
+1
+2|18|6|9|H|reydelclub1
+2
+2|5|7|9|H|reydelclub1
+2
+2|18|3|9|H|reydelclub1
+2|18|7|G|H|
+2|18|7|L|A|
+2|18|8|L|A|
+2|18|3|E|J|
+2|18|2|X|F|
+2|18|3|O|E|
+2|18|4|9|J|
+2
+1|5|6|9|H|reydelclub1
+1|5|L|C|I|
+1
+2|13|5|9|H|teco1234
+2|13|7|O|E|
+2
+1|1|2|9|H|Master Jas
+1
+1|1|5|X|R|Master Jas
+1
+1|18|5|9|H|Master Jas
+1
+4|18|6|9|H|reydelclub1
+4
+1|17|3|9|H|Master Jas
+1
+5|1|3|9|H|Mcgun40
+5|1|2|R|H|
+5|1|4|H|P|
+5
+1|18|6|9|H|Master Jas
+4|14|5|9|H|reydelclub1
+1
+4
+8|14|3|9|H|12nikos13
+8
+9|17|5|9|H|azulito2802
+9
+9|17|4|X|R|azulito2802
+9
+4|18|5|9|H|reydelclub1
+4|18|2|9|J|
+4
+1|17|6|9|H|Master Jas
+1
+1|18|3|9|H|Master Jas
+1
+1|18|5|X|R|Master Jas
+1
+4|18|4|9|H|reydelclub1
+4
+1|18|3|9|H|Master Jas
+4|18|3|X|R|reydelclub1
+1
+1|18|4|X|R|Master Jas
+4|18|3|7|H|
+4
+1|18|4|7|H|
+1
+1|18|3|9|H|Master Jas
+1
+1|18|1|X|R|Master Jas
+4|18|8|9|H|reydelclub1
+1
+4|18|7|Z|R|
+4
+4|18|8|X|R|reydelclub1
+4
+4|18|5|9|H|reydelclub1
+4
+1|18|5|9|H|Master Jas
+1
+1|18|6|X|R|Master Jas
+1
+1|18|7|9|H|Master Jas
+1
+5|13|3|9|H|George8985
+5|13|5|U|E|
+5|13|4|B|D|
+5|13|1|L|B|
+5|13|6|J|F|
+4|7|5|9|H|reydelclub1
+5|13|2|7|H|
+5
+4|7|7|c|O|
+4
+5|17|4|9|H|George8985
+5|17|6|9|H|
+5|17|7|U|D|
+5|17|3|O|B|
+5|17|5|Y|J|
+5|17|6|O|B|
+5
+3|13|3|9|H|watermelon45
+3|13|7|Z|O|
+3
+1|14|5|9|H|borderlands
+1
+1|12|4|9|H|Frdk
+1|12|1|M|K|
+1|12|3|B|D|
+2|1|4|9|H|Diggy1080
+1|12|1|A|J|
+2|1|7|F|G|
+1
+2|1|1|F|G|HEY
+1|12|5|9|H|Frdk
+2|1|4|B|E|
+1|12|8|9|H|hey
+2|1|1|E|H|
+1|12|3|5|P|
+2|1|1|E|H|whats up
+1|12|7|P|D|
+1|12|3|P|D|/e1
+2|1|2|N|E|
+1|12|3|K|L|
+2|1|2|N|E|whats up?
+2|1|3|N|E|/e1
+1|12|7|H|D|
+2|1|2|M|M|
+2|1|2|M|M|/e11
+1|12|1|H|D|hehe
+2|1|2|V|L|
+1|12|1|H|D|/e5
+2|1|2|V|L|can I  curse
+2|1|3|L|H|
+1|12|1|H|D|...
+2|1|2|L|H|XD
+1|12|8|F|N|
+2|1|1|L|H|/e8
+1|12|8|F|N|yeah i gues haha
+2|1|2|M|M|
+2|1|2|M|M|/a2H9
+1|12|8|D|M|
+2|1|2|K|M|/a2HA
+2|1|2|K|M|/a299
+1|12|1|D|M|/a286
+2|1|2|K|M|/a2DA
+2|1|2|K|M|/j13
+1|12|1|H|H|
+1|12|4|H|K|
+2|1|2|K|M|/j2
+2|1|2|K|M|follow me
+1|12|3|C|I|
+2|1|4|9|H|
+2
+1|12|8|C|I|ok
+1
+1|12|5|9|H|Frdk
+1
+2|8|4|9|H|jakewdubber
+2|8|3|6|H|
+2
+3|17|4|9|H|TurtleLover
+3|17|4|J|N|
+3
+1|4|5|9|H|Dillhen
+1|4|8|L|L|
+1|4|3|7|H|
+1
+1|4|3|9|H|Dillhen
+1
+1|4|8|9|H|Jelson120
+1|4|2|L|H|
+1|4|3|G|J|
+1|4|2|J|J|
+1
+2|18|3|9|H|mcgun40
+2|18|1|U|E|
+2|18|5|K|K|
+2
+2|17|4|9|H|mcgun40
+2|17|L|7|G|
+2
+2|13|5|9|H|Chasesky
+1|8|5|9|H|heymiska18
+2|13|2|L|J|
+1|8|2|H|J|
+2|13|L|L|J|
+1|8|L|H|J|
+1|8|L|H|J|well this
+2|13|L|L|J|dude
+1|8|L|H|J|doesnt get any people
+2|13|L|L|J|i miss dj3k
+1|8|L|H|J|this site
+1|8|L|H|J|oh
+1|8|L|H|J|but
+1|8|L|H|J|this place is lonely
+2|13|L|L|J|to it
+2|13|L|L|J|ikr
+1|8|L|H|J|people go on cp more
+1|8|L|H|J|right
+2|13|L|L|J|the only person i found was u
+2|13|7|N|A|
+1|8|L|H|J|oh
+2|13|1|M|J|
+2|13|1|M|J|aww man
+1|8|L|H|J|hes a NPC
+2|13|1|M|J|i cant do dj3k
+1|8|2|L|B|
+1|8|1|I|J|/j1
+2|13|5|H|C|
+1|8|L|I|J|
+2|13|1|K|O|
+1|8|L|I|J|there are no games
+2|13|1|K|O|dunnoo'
+1|8|L|I|J|on this
+2|13|2|P|O|
+2|13|2|P|O|oh
+2|13|1|M|I|
+1|8|L|I|J|there are no games like
+2|13|1|M|I|no wonder its calld 'penguin chat'
+1|8|L|I|J|I tryed to play beans bags
+1|8|L|I|J|yeah
+2|13|8|M|I|it didnt work?
+1|8|L|I|J|right you  are
+1|8|L|I|J|but
+1|8|L|I|J|1245654345654345
+2|13|8|M|I|you cant add friends
+1|8|L|I|J|/a2MJ
+2|13|3|M|I|/e4
+1|8|6|K|J|
+2|13|2|M|I|/e10
+1|8|8|I|J|
+1|8|8|I|J|well
+2|13|3|Z|P|/e8
+4|6|5|9|H|theyoyoyoyo
+2|13|1|L|K|
+2|13|2|L|K|/e10
+4|6|7|9|H|/a2KL
+2|13|5|C|J|
+4|6|7|F|O|
+2|13|4|E|O|/a2CI
+1|8|3|B|J|
+1|8|1|B|J|/a2LI
+4|6|6|H|H|
+2|13|4|E|O|hey
+1|8|1|K|N|
+2|13|4|E|O|i watch your youtube videos
+4
+1|8|1|K|N|the only other penguin
+2|13|4|K|I|
+1|8|5|K|N|who
+1|8|5|K|N|hers
+1|8|8|G|J|
+2|13|3|8|H|
+2
+1
+5|14|7|9|H|Kurojin12
+5
+7|18|4|9|H|mcgun40
+7
+1|18|3|9|H|Saltybacon2
+1
+1|18|3|X|R|Saltybacon2
+1|18|5|M|F|
+1
+1|1|4|9|H|Nickel500
+1|1|1|J|I|
+1
+1|18|5|9|H|mcgun40
+1|18|4|L|B|
+1
+1|1|8|9|H|Antiapple13
+1
+1|1|1|9|H|Antiapple13
+1|1|4|K|B|
+1|1|3|8|I|
+1
+1|6|6|9|H|patsy40
+1
+2|13|4|9|H|ninja nin
+2
+2|18|4|9|H|ninja nin
+1|17|5|9|H|patsy40
+2
+1|17|7|J|L|
+2|18|3|9|H|ninja nin
+2|18|7|a|Q|
+1|17|7|a|Q|
+3|14|5|9|H|Battrail
+2
+3|14|7|P|L|
+1
+3|14|L|I|L|
+3
+2|18|L|X|R|ninja nin
+1|17|L|X|R|patsy40
+1|17|4|6|H|
+2|18|3|6|H|
+2
+1
+3|4|3|9|H|CoolDudeGGG
+3|4|7|9|H|
+3
+3|4|6|9|H|CoolDudeGGG
+3
+2|14|5|9|H|ninja dude
+2|14|4|N|L|
+2|14|2|8|I|
+2
+1|4|4|9|H|ethan9000
+1|4|3|F|K|
+1
+1|4|6|9|H|ethan9000
+1|4|4|B|G|
+1|4|L|G|J|
+1
+1|1|5|9|H|kjjjjj
+1|1|1|K|F|
+1|1|8|W|J|
+1
+1|14|4|9|H|redor1
+1|14|3|G|D|
+1
+1|14|3|9|H|redor1
+1
+1|13|4|9|H|zeta120
+1|13|4|D|K|
+1
+1|18|4|9|H|coolio guy1
+1|18|1|M|G|
+1|18|2|J|K|
+1
+1|18|5|X|R|coolio guy1
+1
+1|9|5|9|H|guy fawkes
+1|9|1|K|I|
+1|9|7|V|I|
+1|9|2|C|L|
+1
+1|14|7|9|H|lunawolf
+1
+2|10|4|9|H|Bea
+2
+1|12|5|9|H|Ellen
+1|12|L|M|M|
+1

@@ -1,0 +1,613 @@
+1|5|1|4|D|guyguyrosik
+1|5|8|4|D|
+1
+1|16|7|a|D|guyguyrosik
+1|17|7|d|C|
+1|17|3|2|C|
+1
+1|17|3|a|D|guyguyrosik
+1|16|1|3|D|
+1
+1|18|8|4|D|guyguyrosik
+1|17|L|S|L|
+1|16|4|P|J|
+1
+1|13|1|4|D|guyguyrosik
+1
+1|5|1|4|D|guyguyrosik
+1|5|7|L|M|
+2|13|7|4|D|test
+2|13|8|G|I|
+1|5|4|G|K|
+1|5|1|J|L|
+1|5|5|J|L|/e1
+1|5|8|M|J|
+1|16|6|R|D|
+1|16|4|I|L|
+2|17|1|G|I|
+2|17|3|T|N|
+1|16|7|N|L|
+2|17|L|T|N|
+1|16|2|W|J|
+1|16|3|M|M|
+1|16|3|Q|N|
+2|17|L|T|N|hoho
+1|18|1|Q|N|
+1|18|2|L|M|
+1|18|L|R|M|
+1|18|L|O|M|
+2|17|4|V|M|
+2|18|1|V|M|
+2|18|L|V|M|
+2|18|L|V|M|/a2MJ
+1|18|2|O|M|
+1|18|L|O|M|
+1|5|1|O|M|
+1
+2|18|L|1|D|
+2
+1|5|7|4|D|guyguyrosik
+2|13|7|4|D|test
+2|13|7|4|D|
+1|5|3|L|J|
+1|5|3|L|K|
+2|13|6|J|H|
+2|13|8|G|K|
+2|13|8|N|H|
+1|5|2|R|I|
+2|13|2|N|H|je suis sur ton site !
+1|5|2|R|I|comment ta u l'adresse ?
+2|13|2|N|H|google est mon amis !
+1|5|2|R|I|et comment tu sait que c'est mon site !?
+2|13|2|N|H|"guyguyrosik" rosik guyguy"
+1|5|2|R|I|oui...je voit
+2|13|1|N|H|c quoi qui ta poussé a faire des sites ?
+1|5|2|R|I|bah la passion
+1|5|2|R|I|j'ai beaucoup charcher apres l'abergeur qui me f
+1|5|2|R|I|fallai
+2|13|1|N|H|sa doit etre dur ...!
+1|5|2|R|I|non pas du tous meme mon frere a changé
+1|5|2|R|I|d'hebergeur
+2|13|1|N|H|il a pris le quel ?
+1|5|2|R|I|le meme que moi
+1|5|2|R|I|il fait un site de musique...
+1|5|2|R|I|avant il etait sous mysik mais..
+1|5|2|R|I|son site ne resembler a rien
+1|5|2|R|I|et pour l'hebergeur nous sommes sous e-monsite
+1|5|2|R|I|*dans l'adresse*
+2|13|2|N|H|a je comprend tous merci !
+2|13|2|N|H|rdv disco !
+1|5|3|2|D|
+1
+2
+1|5|8|4|D|guyguyrosik
+2|9|7|4|D|test
+1|5|8|D|L|
+2|9|7|4|D|
+1|5|8|d|C|
+1|5|6|d|C|
+1|5|3|d|B|
+1
+2|9|8|K|J|
+2
+1|16|3|a|D|guyguyrosik
+2|16|3|a|D|test
+2|16|7|I|I|
+1|16|3|1|B|
+1
+2
+2|17|L|a|D|test
+1|17|L|a|D|guyguyrosik
+1|17|3|B|C|
+2|17|7|W|G|
+2|17|3|D|D|
+1|17|3|3|D|
+1
+2
+1|14|7|4|D|Parckour
+1
+1|14|1|4|D|Parckour
+1
+1|18|7|4|D|reydelclub1
+1|16|6|W|B|
+1|16|1|F|I|
+1|16|6|W|B|
+1|16|1|I|D|
+1|16|6|I|E|
+1|16|7|F|L|
+1|16|L|H|L|
+1|16|8|N|K|
+1|18|4|J|K|
+1|14|4|M|K|
+1|18|1|3|F|
+1|16|7|d|C|
+1
+1|16|4|a|D|reydelclub1
+1|16|3|1|C|
+1
+1|7|7|4|D|mayu
+1|17|1|I|J|
+1|16|L|J|L|
+1|17|1|R|D|
+1|17|1|F|M|
+1|18|1|I|J|
+1|13|1|K|K|
+1|13|2|C|G|
+1|13|2|F|L|
+1
+1|12|1|4|D|Jammy132334
+1|12|L|S|F|
+1|12|L|O|K|
+1|12|L|1|D|
+1
+1|12|3|a|D|Jammy132334
+1|12|L|1|C|
+1
+1|1|6|4|D|KittenHello
+1|1|7|c|C|
+1|1|7|B|D|
+1|1|2|2|C|
+1
+1|14|1|4|D|szymonxd1
+1|16|6|K|E|
+1|16|4|N|B|
+1
+1|13|7|4|D|rocky 233
+1|16|6|X|B|
+1
+1|16|5|a|D|rocky 233
+1
+1|13|3|a|D|rocky 233
+1
+1|11|7|4|D|lion joe 1
+1
+2|7|7|4|D|~olivia~
+2|7|3|7|E|
+2|7|2|9|D|
+2
+1|1|8|4|D|lion joe 1
+1|1|4|L|I|
+1
+1|1|7|4|D|lion joe 1
+1|1|4|R|H|
+1|1|2|O|L|
+1|1|4|C|G|
+1|1|4|G|M|
+1|1|4|M|G|
+1
+1|5|7|4|D|Joynson
+1
+1|4|6|4|D|detonador
+1
+1|14|7|4|D|detonador
+1|14|2|d|G|
+1
+1|4|7|4|D|detonador
+1|4|5|J|J|
+1|18|1|M|M|
+1|18|L|G|M|
+1|18|L|O|L|
+1|17|L|E|J|
+1|16|1|L|K|
+1|16|L|N|L|
+2|8|7|4|D|BlackAdder
+2|8|1|4|D|
+2
+1
+2|13|7|4|D|loomydude21
+2|16|1|J|H|
+2|17|L|c|F|
+2|17|3|1|C|
+2
+2|12|7|4|D|Bakawoopz50
+2|16|3|Q|G|
+2
+1|18|7|4|D|lion joe 1
+1|17|1|E|K|
+1|5|1|P|L|
+1
+1|5|7|4|D|lion joe 1
+1|5|7|K|F|
+1|16|5|Q|E|
+1|8|1|H|I|
+1|8|6|E|M|
+1|17|2|Q|K|
+1|17|L|B|G|
+1|16|6|K|L|
+1|18|1|J|C|
+1|17|6|G|G|
+2|17|7|4|D|KattyKats
+2|18|1|K|F|
+2|18|3|K|F|/a2GH
+2|18|3|K|F|hi
+2|17|1|I|F|
+2|17|8|N|L|
+2|17|1|X|B|
+2|17|H|X|B|
+1
+1|14|7|4|D|lion joe 1
+1|14|8|L|F|
+1|14|3|L|F|/e1
+1|17|1|L|F|
+2
+2|5|7|4|D|KattyKats
+2|5|1|I|F|
+2|18|1|I|F|
+2|18|1|I|F|/a2KF
+2|16|5|N|C|/a2OI
+2|16|L|N|C|
+2|16|2|N|L|
+2|17|1|R|D|
+2|17|L|O|F|
+1
+2
+1|18|6|4|D|lion joe 1
+1
+1|5|7|4|D|lion joe 1
+1|16|7|G|H|
+1
+1|1|L|4|D|chamaco05
+1|17|1|d|B|
+1|17|4|J|J|
+1
+1|18|5|4|D|lion joe 1
+1|17|1|4|D|
+1|17|1|N|N|
+1
+1|16|7|a|D|lion joe 1
+1
+1|16|4|a|D|lion joe 1
+1|16|4|E|F|
+1
+1|6|7|4|D|lion joe 1
+1|8|8|F|G|
+1|18|L|M|K|
+1|17|L|I|K|
+1|16|L|J|N|
+1|16|L|9|B|
+1
+1|8|1|4|D|lion joe 1
+1|17|8|J|M|
+1|16|4|P|N|
+1|16|1|R|D|
+1|18|1|P|L|
+1|18|2|G|M|
+1|18|J|Z|K|
+1
+1|17|8|4|D|lion joe 1
+1
+1|4|6|4|D|Mario64game
+1
+1|13|8|4|D|Drake5000
+1|17|K|N|J|
+1|17|1|N|L|
+1|17|1|1|C|
+1
+1|5|7|4|D|:.jessica.:
+1|16|1|L|J|
+1
+1|18|1|4|D|:.jessica.:
+1
+1|16|L|a|D|:.jessica.:
+1
+1|17|3|a|D|:.jessica.:
+1|16|6|X|D|
+1
+1|1|3|a|D|Bianca653123
+1
+1|1|2|4|D|jorge829
+1
+1|4|8|4|D|gros gorge
+1|4|5|d|B|
+1
+1|6|7|4|D|linda60853
+1|6|6|J|G|
+1|6|2|H|K|
+1|17|6|V|D|
+1|17|5|d|D|
+1|17|4|d|B|
+1|17|5|8|G|
+1|17|8|F|M|
+1
+1|17|5|a|D|linda60853
+1
+1|17|3|a|D|linda60853
+1
+2|14|7|4|D|64371k
+2|16|4|S|G|
+1|10|7|4|D|linda60853
+1|10|7|P|J|
+2
+1|17|1|Q|G|
+2|17|7|4|D|64371k
+1|17|7|R|G|
+2|16|7|L|F|
+1|17|1|J|F|
+2|17|1|L|F|
+2|17|L|L|F|
+2|17|L|L|F|yo
+1|17|1|J|F|as you do that?
+2|17|L|L|F|u came from india
+2|17|5|M|J|
+2|17|1|M|F|
+2|16|2|O|J|
+1|17|4|L|J|
+2|17|3|N|G|
+2|17|1|N|G|hey
+1|17|3|L|J|/e5
+2|17|8|N|G|u came from india?
+1|17|2|L|J|not
+2|17|1|N|G|oh
+1|17|1|L|J|follow me
+1|17|3|7|E|
+1
+2|17|8|N|G|i thought ur urser was india60853
+2
+2|17|7|4|D|64371k
+2
+2|14|H|4|D|64371k
+2
+2|17|7|4|D|64371k
+2
+2|16|7|a|D|64371k
+1|10|7|4|D|linda60853
+1|10|7|4|D|/a2YA
+2|17|3|4|D|
+2
+1|10|7|M|G|
+1|17|L|I|H|
+1|17|4|1|C|
+1
+1|17|7|4|D|linda60853
+1
+1|17|4|a|D|linda60853
+1|17|4|A|I|
+1
+2|17|2|4|D|64371k
+2|17|3|V|E|
+2
+2|16|3|a|D|64371k
+2
+3|14|8|4|D|Juanes946
+3|14|8|H|E|
+3|14|2|2|C|
+3
+2|14|1|4|D|axello2
+2|14|I|a|B|
+2|14|L|9|P|
+2|14|7|O|L|
+2
+2|6|7|4|D|linda60853
+2
+2|6|7|4|D|linda60853
+2|6|L|N|H|
+1|14|8|4|D|axello2
+1|14|8|N|L|
+1|14|L|N|L|
+1|14|L|N|L|/j2
+2|6|L|N|H|/a26K
+1|14|8|R|K|
+2|6|L|N|H|/a2KG
+1|14|3|R|K|/e3
+2|6|8|K|K|
+2|6|5|W|B|
+1|14|2|R|K|here is lol
+2|17|7|K|H|
+1|14|2|Q|J|
+2|17|5|O|K|
+1|14|6|W|C|
+1|14|3|Q|F|
+2|17|2|O|K|si
+1|14|2|R|G|
+2|17|1|K|I|
+2|17|L|W|B|
+1|14|2|R|G|como lo agarrastes
+1|14|1|R|G|el gorro
+2|17|2|W|B|le undes en el gancho
+1|14|7|V|G|
+2|17|2|W|B|/a2CJ
+1|14|5|W|F|
+2|17|1|W|B|/a2KL
+1|14|4|Y|B|
+2|16|3|M|F|
+1|14|2|V|C|
+2|16|6|G|L|
+2|16|6|G|L|unde el gancho
+1|14|2|V|C|no te entiendo
+2|17|4|U|F|
+1|14|2|V|C|como le hago
+2|16|8|Q|L|
+1|14|2|V|C|paranç
+2|16|2|R|H|
+2|16|3|I|K|
+1|14|2|V|C|unir el gancho
+2|16|2|O|I|/a2QF
+1|14|2|V|C|como le hsgo
+1|14|2|V|C|para este
+2|16|2|O|I|dar clik en el gancho de arriba
+1|17|1|V|C|
+2|16|6|T|E|
+2|16|8|F|J|
+1|17|2|V|B|
+1|17|L|V|B|
+2|16|8|F|D|
+2|16|8|O|O|
+2|16|8|O|O|ya!
+2|16|3|X|B|
+1|17|L|V|B|como le haces para ir en carro
+2|16|L|F|L|
+2|16|8|K|H|
+2|16|1|R|E|
+2|16|1|R|E|parate en donde estoy
+2|16|6|M|H|
+1|17|1|R|F|
+2|16|1|R|E|
+1|17|1|R|F|agora que
+2|16|2|F|L|
+1|17|L|R|F|
+2|16|2|F|L|dale clik en la bolita blanca
+2|16|6|J|K|
+1|17|L|R|F|que hago despues
+1|17|4|Q|D|
+1|16|3|I|H|
+1|16|3|U|K|yupi
+1|17|3|Q|E|
+2|16|7|G|M|
+1|16|6|Y|D|
+2|16|7|I|G|
+2|16|4|V|B|
+1|16|2|Y|D|carreritas
+2|17|1|L|K|
+2|16|6|R|D|
+2|16|2|a|F|
+2|16|2|a|F|ya!
+1|16|2|A|C|
+2|16|2|9|I|
+1|16|2|U|I|
+2|16|2|5|E|
+1|16|4|2|H|
+2|16|2|5|E|gane!
+1
+2|16|8|a|F|
+2|16|5|C|N|
+1|14|7|4|D|axello2
+1
+2|17|4|2|C|
+2
+2|17|7|4|D|linda60853
+2|16|8|K|I|
+1|17|7|4|D|axello2
+1|16|8|R|D|
+2|6|1|K|I|
+1|16|2|a|D|
+2|6|1|I|K|
+1|16|2|a|D|rrr55454
+2|6|6|R|D|
+1|16|2|a|C|
+2|16|7|L|K|
+1|16|2|a|C|1             2                               3
+2|16|3|D|K|
+1|16|3|9|E|
+2|16|7|G|F|
+1
+2|16|4|7|C|
+2
+2|6|8|4|D|linda60853
+2|16|8|L|I|
+1|14|7|4|D|axello2
+1|16|7|P|F|
+2|16|5|J|B|
+1|16|1|P|F|1                      2
+2|16|1|K|P|
+1|16|2|5|M|
+2|16|5|K|E|
+1|16|8|A|L|
+1|16|1|A|L|puta madre
+1|16|7|Q|L|
+1|16|7|N|N|
+1|16|7|N|N|por que no me suspenden
+2|16|1|K|E|grosero!!
+1|16|1|R|F|
+1|16|1|J|J|
+2|16|1|K|E|porque no hay reglas
+1|16|2|J|J|corracon
+2|16|1|K|E|no hay reglas no te suspenden
+1|16|2|J|J|aaaaaaa ok
+1|16|4|I|K|
+1|16|7|R|E|
+1|17|4|N|L|
+1|17|5|E|J|
+1|17|6|E|J|/a2JF
+1|17|4|J|C|
+2|16|7|Q|E|
+1|17|2|D|M|
+2|16|3|R|G|
+1|17|2|D|M|me hare una paja
+1|17|1|D|M|/j9
+1|17|1|D|M|/a2UD
+2|16|2|R|G|que es eso?
+1|17|1|D|M|/a2KC
+2|16|2|R|G|una paja que es?
+2|16|2|R|G|cuantos años tienes?
+1|17|1|D|M|tengo 999999999999999999999999999999999999999999
+1|17|1|D|M|y tu
+2|16|2|R|G|tienes 9 años?
+1|17|1|D|M|8 años
+2|16|2|K|O|
+1|17|1|D|M|y tu
+2|16|4|K|O|/e5
+2|16|2|K|O|10
+1|17|1|D|M|somos niños ratas jajaja
+1|17|1|D|M|pero se mucho de club penguin
+1|17|7|R|N|
+1|17|2|G|M|
+2|16|1|G|M|
+1|17|3|F|O|
+2|16|1|G|M|como que?
+1|16|8|O|I|
+1|16|3|N|N|
+1|16|3|N|N|como que que
+2|16|2|G|M|que sabes de club penguin?
+1|16|3|O|I|
+2|16|7|J|N|
+1|16|2|J|O|
+2|16|4|D|H|
+2|16|7|D|H|/e3
+2|16|7|H|I|
+1
+1|14|7|4|D|axello2
+1|14|7|R|H|
+1|14|7|R|H|ola volvi
+1|14|7|R|H|me desconecte
+1|14|7|R|H|por que
+1|14|7|R|H|no pria escribir
+1|17|1|Q|E|
+2|16|1|H|I|aaaaaa
+1|16|2|S|H|
+2|16|1|H|I|ok
+1|16|2|S|H|si se de club penguin
+1|16|2|S|H|esto me dijistes
+1|16|2|N|L|
+1|16|3|I|M|
+2|16|1|H|I|que sabes de club penguin?
+1|16|2|A|G|
+1|16|1|J|D|si
+1|16|8|K|P|
+1|16|L|T|J|
+1|16|L|T|J|/e1
+1|16|L|T|J|como es la contraseña de tu pinguino
+1|16|L|T|J|de club penguin
+1|16|L|T|J|si me dices te doy la mia
+1|16|L|T|J|de club penguin
+1|16|L|L|G|
+1|16|L|B|I|
+2|16|3|C|J|
+1|16|3|P|Q|/a2KM
+2|16|6|I|D|
+1|16|7|J|N|
+1|16|8|J|N|conectate
+1|16|8|J|N|en club penguinç
+1|16|8|J|N|dime el combre del pinguino de club penguin
+1|16|8|J|N|por     que   hablas   muy   len  to
+1|16|3|C|L|
+2|16|8|E|J|
+2|16|8|E|J|me voy
+1|16|3|W|I|
+2|16|8|E|J|a desconectar
+2|16|8|E|J|adioss
+1|16|3|W|I|conectate en club penguin
+2|16|7|c|D|
+2
+1|16|5|K|F|
+1|16|3|6|G|
+1
+1|14|7|4|D|axello2
+1
+1|12|6|a|D|MayaHart
+1
+1|12|3|4|D|MayaHart
+1|17|2|P|G|
+1
+1|12|2|4|D|ayush123
+1|12|4|E|D|
+1

@@ -1,0 +1,848 @@
+1
+1|8|1|K|L|Madi
+1|8|1|L|P|
+1|8|2|M|J|
+1|8|4|J|L|
+1
+1|1|1|K|L|hipe
+1|1|8|J|M|
+1|1|6|S|E|
+1|1|4|E|L|
+1
+1|14|1|K|L|hipe
+1|14|8|K|L|
+1|14|6|N|J|
+1
+1|14|1|K|L|HAI!!!
+1
+1|14|2|M|D|HAI!!!
+1|14|3|Q|G|
+1|14|6|S|E|
+1
+1|14|1|E|F|HAI!!!
+1
+1|14|3|V|L|HAI!!!
+1|14|8|H|G|
+1
+1|14|6|E|F|HAI!!!
+1
+1|14|3|M|D|HAI!!!
+1
+1|14|7|C|L|HAI!!!
+1
+1|14|1|K|L|spy yoyo
+1|14|4|G|M|
+1|14|7|L|E|
+1|14|5|B|E|
+1|14|K|I|D|
+1
+1|14|4|E|F|spy yoyo
+1
+1|14|3|V|L|spy yoyo
+1|14|8|7|J|
+1
+1|14|7|M|D|spy yoyo
+1|14|7|T|N|
+1|14|6|W|N|
+1
+1|1|1|K|L|spy yoyo
+1|1|6|S|F|
+1|1|2|J|P|
+1|1|1|J|L|
+1|1|2|K|L|
+1
+1|12|1|K|L|barbie
+1|12|4|O|P|
+1
+1|6|1|K|L|barbie
+1|6|5|S|E|
+1
+1|14|1|K|L|feartech101
+1|14|5|F|N|
+1
+1|14|3|M|D|feartech101
+1
+1|14|2|V|L|feartech101
+1
+1|1|1|K|L|SSmudger002
+1|1|8|L|M|
+1
+1|11|1|K|L|SSmudger002
+1|11|1|K|L|
+1|11|7|T|M|
+1|11|5|R|F|
+1|11|6|U|O|
+1
+1|1|1|K|L|rabbid2
+1|1|4|P|P|
+1|1|5|V|H|
+1|1|2|P|N|
+1
+1|1|1|K|L|rabbid2
+1|1|3|H|J|
+1
+1|1|5|E|F|rabbid2
+1
+1|1|3|M|D|rabbid2
+1
+1|1|4|V|L|rabbid2
+1|1|5|6|I|
+1|1|7|U|M|
+1|1|3|J|I|
+1|1|5|N|H|
+1|1|3|S|O|
+1|1|1|Q|O|
+1|1|5|U|F|
+1
+1|9|1|K|L|PhilPhil
+1|9|3|M|K|
+1|9|8|I|I|
+2|14|1|K|L|Vdog2Vdog24
+1|9|1|H|J|
+1|9|1|H|J|Yo VDog
+2|14|8|L|M|
+1|9|6|H|J|
+1|9|4|D|J|
+2|14|8|L|M|PDog
+1|9|5|I|E|
+1|9|8|B|J|
+1|9|7|B|J|/e6
+2|14|H|L|M|/a2KG
+1|9|2|R|L|
+2|14|H|L|M|/a2TM
+1|9|2|R|L|/a28F
+2|14|H|L|M|/a29D
+1|9|2|R|L|/a2OF
+1
+2
+1|14|1|K|L|emily123coo
+1|14|5|J|E|
+1|14|7|T|F|
+1
+1|1|1|K|L|Rsnail11
+1|1|3|G|N|
+1
+1|1|5|V|L|Rsnail11
+1
+1|1|3|M|D|Rsnail11
+1
+1|1|3|M|D|Rsnail11
+1
+1|1|5|E|F|Rsnail11
+1|1|8|E|F|
+1
+1|1|1|K|L|norge
+1|1|7|Q|L|
+1|1|7|P|N|
+1
+1|1|L|M|D|norge
+1
+2|14|1|K|L|samuel12310
+2|14|3|T|F|
+2
+2|14|6|E|F|samuel12310
+2
+2|17|3|V|L|samuel12310
+2|17|7|c|T|
+2|17|3|a|T|
+2|17|4|Y|T|
+2|17|2|Q|E|
+2
+1|4|1|K|L|lucas77391
+1|4|2|K|N|
+1|4|4|N|Q|
+1|4|6|N|K|
+1|4|1|L|L|
+1|4|1|H|O|
+1|4|1|E|F|
+1|4|2|H|M|
+2|1|1|K|L|rsnail11
+2|1|5|E|O|
+2|1|6|E|O|/a2GK
+2|1|2|H|O|oye
+1|4|2|H|M|alors que la
+2|1|2|H|O|como voy a mi iglu
+1|4|1|K|M|
+2|1|8|J|M|
+1|4|1|K|M|vous avez vu
+1|4|1|K|M|bizarre
+2|1|7|8|R|
+2|1|7|X|P|
+2|1|4|J|J|
+2|1|4|J|Q|
+1|4|2|K|M|/j4
+1|4|L|K|M|
+1|4|L|K|M|bizarre
+1|4|L|K|M|alors que la
+1|4|L|K|M|/a2LC
+1|4|L|K|M|voila
+1|4|L|K|M|/a2LS
+1|4|5|M|N|/a2JR
+1|4|1|M|N|on peut meme pas aller dans son igloo
+2
+1
+1|4|1|K|L|ZUCARITA200
+1|4|I|M|L|
+1|18|1|H|N|
+1|18|L|Y|L|
+1
+1|18|4|V|L|ZUCARITA200
+1
+1|12|1|K|L|aron945
+1
+1|12|3|M|D|aron945
+1
+1|12|2|E|F|aron945
+1
+1|12|7|C|L|aron945
+1
+1|12|4|V|L|aron945
+1
+1|4|1|K|L|dave_strider
+1|4|7|U|F|
+1
+1|4|7|E|F|dave_strider
+1
+1|4|7|M|D|dave_strider
+1|4|3|T|F|
+1|4|1|M|N|
+1|4|8|K|L|
+1
+1|14|1|K|L|jaloute
+1|14|8|L|I|
+1|14|5|H|M|
+1
+1|14|1|K|L|cpwocpworld
+1|14|1|K|N|
+1|14|2|X|J|
+1|14|5|E|M|
+1
+1|14|1|K|L|emanuelvela
+1|18|6|T|F|
+1
+1|18|4|M|D|emanuelvela
+1|18|H|G|J|
+1
+1|18|6|E|F|emanuelvela
+1
+1|17|3|V|L|emanuelvela
+1
+1|18|4|V|L|emanuelvela
+1|18|6|D|K|
+1
+1|18|3|M|D|emanuelvela
+1|18|5|F|K|
+1
+1|18|3|M|D|emanuelvela
+1
+1|12|1|K|L|luichito16
+2|13|1|K|L|marecekm
+1|12|7|G|M|
+2|13|7|P|L|
+2|13|1|M|O|hi
+2|13|3|S|K|
+1|12|6|S|G|
+2|13|4|S|K|/e1
+2|13|L|P|M|
+2|13|L|P|M|/a2RF
+1|12|2|S|G|hi
+2|13|L|S|E|/a2UF
+2|13|3|P|J|
+1|12|4|M|H|
+2|13|3|O|L|
+2|13|3|O|L|/a298
+1|12|2|M|H|/j5
+2|13|3|O|L|/a2PJ
+1|12|3|M|H|/e1
+1|12|1|T|J|
+2|13|L|O|L|!be ninja
+2|13|L|O|L|/e1
+1|12|2|I|D|
+1
+2|13|L|I|E|
+1|12|3|M|D|luichito16
+2
+1|12|6|S|F|
+2|13|6|M|D|marecekm
+2
+1|12|6|S|E|
+1|12|2|N|I|
+2|13|4|M|D|marecekm
+2|13|4|I|J|
+2|13|K|I|J|
+1|12|H|M|F|
+1|12|2|M|F|/a297
+2|13|K|I|J|I want be ninja
+1|12|2|R|L|
+2|13|4|L|L|
+1|12|2|R|L|ok
+1|12|2|R|L|come
+2|13|1|O|L|
+2|13|1|O|L|how ?
+1
+2|13|1|O|L|ok
+2
+2|13|4|V|L|marecekm
+2
+1|12|4|V|L|luichito16
+1|12|4|6|I|
+1
+2|13|1|K|L|marecekm
+1|12|3|E|F|luichito16
+2
+2|13|3|V|L|marecekm
+1|12|4|7|J|
+1
+2|13|1|I|H|
+2
+1|12|3|V|L|luichito16
+2|13|3|V|L|marecekm
+2|13|2|M|L|/e9
+2|13|1|M|L|tell me plz
+2|13|7|M|L|how I can be ninja ?
+2|13|1|R|P|
+2|13|4|Q|M|
+2|13|7|Q|M|/a2UK
+2|13|7|Q|M|/a2TO
+2|13|7|Q|M|/a2JE
+2|13|4|E|N|
+2|13|7|E|N|/a2TO
+2|13|7|E|N|/a2TM
+2|13|7|E|N|/a2UN
+2|13|5|P|L|/a2UM
+1
+2|13|2|P|L|/e9
+1|4|1|K|L|emanuelvela
+1|4|1|K|L|hola
+3|14|1|K|L|jaloute
+3|14|1|M|L|
+1|18|1|K|L|
+3|14|1|M|L|bonjour
+1|18|1|L|I|
+3|14|1|M|L|hello
+1|18|1|E|L|
+3|14|2|Q|M|
+3|14|4|Q|M|/e1
+1|18|3|D|N|
+3|14|5|H|K|
+1|18|3|N|O|
+1|18|3|N|O|/e7
+3|18|1|K|L|
+3|18|2|K|L|/j6
+1|18|1|L|M|
+1|18|1|L|M|hola
+3|18|H|I|J|
+1|18|7|C|K|
+1|18|7|C|K|/a2JI
+3|18|L|I|J|/e8
+1|18|7|C|K|/a2KH
+3|18|6|F|N|
+3|18|6|F|N|bonjour
+1|18|L|J|L|
+1|18|L|J|L|/e10
+3|18|1|J|K|
+1|18|2|K|K|
+1|18|6|K|N|
+3|18|1|J|K|is frensh
+1|18|4|H|D|
+2
+1
+3|18|4|I|E|
+3
+3|18|4|M|D|jaloute
+3
+3|18|7|V|L|jaloute
+3
+1|18|3|M|D|emanuelvela
+1
+1|18|7|M|D|emanuelvela
+1
+1|18|6|E|F|emanuelvela
+1|18|8|S|E|
+1|18|3|G|I|
+1
+1|18|1|M|D|emanuelvela
+1|18|8|L|L|
+1|1|6|L|I|
+1
+1|4|L|V|L|emanuelvela
+1
+1|4|3|M|D|emanuelvela
+1|4|8|6|I|
+1
+1|4|1|K|L|emanuelvela
+1
+1|4|4|V|L|emanuelvela
+1|4|6|H|E|
+1
+1|4|4|M|D|emanuelvela
+1
+1|4|6|E|F|emanuelvela
+1
+1|13|1|K|L|iper gato
+1|13|2|P|L|
+1|13|2|T|F|
+1
+1|13|4|M|D|iper gato
+1
+1|13|6|E|F|iper gato
+1
+1|13|4|V|L|iper gato
+1
+1|13|H|V|L|iper gato
+1|13|3|S|F|
+1|13|5|R|I|
+1
+1|13|3|V|L|iper gato
+1
+1|14|1|K|L|iper gato
+1|14|3|7|K|
+1
+1|13|1|K|L|iper gato
+1
+1|13|3|V|L|iper gato
+1
+1|13|3|V|L|iper gato
+1
+1|13|8|M|D|iper gato
+1|13|4|M|D|
+2|4|1|K|L|Jesse123
+2|4|1|K|K|
+2|4|L|K|K|
+2|4|4|H|D|
+2
+1
+1|13|7|M|D|iper gato
+1
+1|13|3|M|D|iper gato
+1
+1|13|5|M|D|iper gato
+1
+1|13|2|E|F|iper gato
+1
+1|13|3|V|L|iper gato
+1|13|3|L|G|
+1
+1|4|1|K|L|jesse123
+1|4|4|M|K|
+1
+1|4|3|V|L|jesse123
+2|10|1|K|L|:)SnowyCp(:
+1
+2|10|7|T|M|
+2|10|3|M|I|
+2|10|1|I|N|
+1|4|1|K|L|jesse123
+2|10|1|I|H|
+1|4|1|L|N|
+2|10|1|I|H|hi
+1|4|1|L|H|
+2|10|7|J|N|
+1|4|1|K|H|hi
+2|10|6|I|J|
+2|10|6|I|J|/a2OH
+1|4|I|L|I|
+1|4|2|L|K|/a28M
+2|10|8|H|E|
+1|4|3|L|L|
+2|10|8|J|I|
+1
+2|10|7|O|K|
+1|4|6|E|F|jesse123
+2|10|4|G|L|
+1|4|8|J|J|
+2
+1|4|3|K|K|/a2EO
+1
+2|10|5|E|F|:)SnowyCp(:
+2
+1|17|5|C|L|jesse123
+1
+1|4|1|K|L|philippin
+1|4|2|J|M|
+1
+1|4|4|M|D|philippin
+1|4|3|U|L|
+1|4|5|S|F|
+1
+1|4|3|V|L|philippin
+1|4|8|6|I|
+1|4|6|S|F|
+1
+1|4|6|E|F|philippin
+1|4|4|E|F|
+1
+1|12|1|K|L|Gonzalo117
+1|12|2|X|L|
+1
+1|12|7|V|L|Gonzalo117
+1
+1|10|1|K|L|im.ashleigh
+1|10|4|P|L|
+1
+1|10|4|M|D|im.ashleigh
+1|10|3|F|J|
+1
+1|10|6|E|F|im.ashleigh
+1|10|7|V|M|
+1
+1|4|1|K|L|jesse123
+1|4|3|L|I|
+1|4|5|G|M|
+1|4|6|R|I|
+1|4|3|I|D|
+1
+1|4|2|M|D|jesse123
+1|4|2|O|L|
+1|4|7|S|L|
+1
+1|14|1|K|L|berry4
+1
+1|18|4|M|D|berry4
+2|6|1|K|L|mariaalice3
+2|6|3|I|J|
+2|6|6|I|J|/a2OB
+2|6|6|I|J|/a2OB
+2|6|2|L|L|
+2|6|L|L|L|
+2|6|L|L|L|/j3
+2|6|L|L|L|/a2NG
+2|6|I|L|L|
+2|6|4|S|F|
+2|6|4|T|F|
+2|6|6|I|E|/a2KA
+2|6|6|I|E|
+2|6|7|V|O|
+2|6|5|K|M|
+2|6|6|M|J|
+2|6|8|F|I|
+2
+1
+1|1|1|K|L|iper gato
+1
+1|1|2|V|L|iper gato
+1|1|4|K|J|
+1|1|7|A|J|
+1
+2|6|1|K|L|petey1112
+2|6|6|V|L|
+2
+1|17|1|C|L|iper gato
+1
+1|17|1|C|L|iper gato
+1|17|L|Q|K|
+1|17|L|S|H|
+1
+3|10|1|K|L|duckey dave
+3
+1|1|1|V|L|iper gato
+3|10|2|M|D|duckey dave
+3
+3|17|6|C|L|duckey dave
+3
+1|1|3|Y|K|
+1
+3|17|7|V|L|duckey dave
+3
+1|17|1|V|L|iper gato
+1
+1|17|2|M|D|iper gato
+1
+1|17|L|V|L|iper gato
+1
+3|17|7|C|L|duckey dave
+3
+1|17|6|C|L|iper gato
+1
+3|10|4|V|L|duckey dave
+1|17|4|V|L|iper gato
+3
+3|10|3|M|D|duckey dave
+1|17|2|S|N|hola
+3
+1
+1|17|3|V|L|iper gato
+1
+1|17|3|M|D|iper gato
+1
+1|17|6|E|F|iper gato
+1
+3|10|6|E|F|duckey dave
+1|17|3|E|F|iper gato
+3|10|6|R|G|
+1|17|1|M|K|
+1|17|1|M|K|que ases
+3|10|5|T|F|
+1|17|4|T|H|
+3|10|6|Q|I|
+1|17|6|R|G|
+3|10|2|T|J|
+1|17|1|R|G|hola
+3|10|2|T|J|follow me
+3|10|1|S|E|
+3|10|1|S|J|
+1|17|1|R|G|quq
+1|17|1|R|G|que
+3
+3|10|3|V|L|duckey dave
+1
+1|17|4|V|L|iper gato
+3|10|4|V|L|
+1|17|1|S|M|
+1|17|1|S|M|hola
+3|10|2|S|M|
+3|10|2|S|M|what hapend
+3|10|2|P|Q|
+1|17|1|P|M|
+3|10|2|P|Q|hello
+3|10|5|U|F|
+3|10|6|S|I|
+3|10|3|N|K|
+3|10|4|G|K|
+1|17|1|L|K|
+3|10|7|N|M|/a2QK
+1|17|1|L|K|hello
+3|10|2|W|L|/a2KL
+3|10|1|L|N|
+1|17|6|T|N|
+1|17|3|M|N|
+3|10|1|L|N|follow me please
+3|10|1|R|O|
+1|17|1|P|O|ok
+3
+1
+3|10|2|V|L|duckey dave
+1|1|3|V|L|iper gato
+3|10|6|Y|J|
+3
+1|1|2|Q|M|
+3|10|3|V|L|duckey dave
+1
+1|1|8|V|L|iper gato
+3|10|2|K|N|
+3|10|3|K|N|i won
+1|1|4|R|L|
+1|1|3|D|P|
+3|10|2|K|N|want to race again
+3|10|3|K|N|/a2CO
+1|1|6|D|P|/e1
+1|1|1|D|P|/a2TL
+1|1|1|D|P|/a2RL
+1|1|1|D|P|/a2A9
+1|1|1|D|P|/a28M
+1|1|6|D|N|
+3|10|3|K|N|but follow me this time i well show u something
+1|1|L|D|N|
+3|10|3|K|N|specal
+1|1|5|F|O|
+3|10|1|9|J|
+3|10|1|9|J|come on follow me
+1
+1|1|6|C|L|iper gato
+3|10|7|H|P|
+1|1|1|B|J|
+3|10|3|A|L|
+1|1|8|F|P|
+3|10|3|7|I|
+3
+1|1|7|A|N|
+1
+3|17|3|V|L|duckey dave
+3
+1|17|6|C|L|iper gato
+1
+1|17|3|V|L|iper gato
+1
+1|17|6|E|F|iper gato
+1
+1|17|3|M|D|iper gato
+1
+1|1|3|V|L|iper gato
+2|11|1|K|L|Happy77
+1|1|2|K|I|
+1|1|2|K|I|/a2WM
+2|18|2|U|M|
+2|18|2|U|M|hello
+1|1|2|K|I|hola
+2|18|2|U|M|is happy77
+1|1|2|T|N|
+2|18|1|F|M|
+1|1|2|T|N|como lo ases
+2|18|2|P|N|
+2|18|2|P|N|joue sur oldcp
+2|18|2|S|N|
+2|18|3|S|N|aller
+2|18|3|H|J|
+1|1|1|Q|O|
+1|1|8|E|K|
+1|1|8|C|M|
+1|1|8|E|K|
+1|1|7|E|K|como ases para aserte asi
+1|1|7|E|K|happy77
+1|18|1|J|M|
+1|18|2|K|M|
+1|18|2|K|M|/a2XL
+1|18|L|K|M|/j2
+1|18|L|K|M|/a2UM
+1|18|2|P|K|/a2OD
+1|18|4|Q|O|
+1|18|3|H|L|
+1|18|8|E|J|
+1|18|1|E|J|hello
+1|18|7|X|L|
+1
+1|18|8|V|L|iper gato
+1|18|7|D|L|/e6
+1
+1|18|2|C|L|iper gato
+1|18|7|C|L|/e8
+1|18|7|C|L|/e6
+1
+1|18|7|V|L|iper gato
+1|18|8|E|L|/e9
+1|18|8|E|L|/e11
+1
+1|18|7|C|L|iper gato
+1|18|L|H|G|
+2
+1
+1|18|3|M|D|iper gato
+1
+1|18|3|V|L|iper gato
+1
+1|18|2|E|F|iper gato
+1
+1|18|1|M|D|iper gato
+1
+1|9|1|K|L|codybusted
+1
+1|9|3|M|D|codybusted
+1|9|2|M|D|
+1
+1|9|3|M|D|codybusted
+1
+2|10|1|K|L|maria123
+2
+2|18|7|E|F|maria123
+2|18|5|I|E|
+2
+1|17|3|V|L|codybusted
+1
+2|18|3|M|D|maria123
+2
+1|17|5|E|F|codybusted
+1|17|6|T|F|
+1|17|4|7|J|
+1
+1|15|1|K|L|DFATS
+1
+1|15|3|V|L|DFATS
+1
+1|15|4|M|D|DFATS
+1
+1|15|6|E|F|DFATS
+1
+1|15|3|V|L|DFATS
+1|15|5|S|E|
+1
+1|4|1|K|L|Java
+1|4|8|I|M|
+1
+1|4|6|E|F|Java
+1
+1|17|L|V|L|Java
+1|17|3|K|G|
+2|1|1|K|L|rpere
+2|1|5|M|L|/a2LF
+2|1|5|M|L|/a2MF
+2|1|3|E|D|
+2
+2|1|5|E|F|rpere
+1|17|1|Y|J|
+2|1|1|E|F|
+1
+1|17|7|V|L|Java
+2|1|1|E|F|java
+1
+2|1|7|S|M|
+2
+2|13|1|K|L|rpere
+2|13|5|I|H|
+2
+1|1|1|K|L|Java
+1
+1|1|4|M|D|Java
+1
+1|1|7|V|L|Java
+1
+2|12|1|K|L|puffles102
+2|12|5|L|N|
+2|12|2|F|O|
+2|12|2|M|M|
+2|12|4|J|L|
+2|12|4|K|H|
+2|12|8|L|P|
+2|12|L|M|I|
+2
+1|1|3|M|D|Java
+1
+1|1|4|M|D|Java
+1|1|2|B|K|
+1|1|2|S|N|
+1|1|4|7|J|
+1
+1|17|1|C|L|Java
+1|17|L|K|J|
+1
+1|1|6|V|L|Java
+1
+1|1|3|M|D|Java
+1|1|2|J|J|
+1|1|4|O|L|
+1|1|7|T|K|
+1
+1|1|4|V|L|Java
+1|1|3|V|L|
+1|1|2|7|J|
+1
+1|17|1|C|L|Java
+1
+1|1|8|V|L|Java
+1
+1|1|4|M|D|Java
+1
+1|1|2|E|F|Java
+1
+1|13|1|K|L|MrHockehmer
+1|13|4|L|I|
+1|13|5|S|H|
+1
+1|13|7|V|L|MrHockehmer
+1|13|2|8|G|
+1|13|8|M|H|
+1
+1|13|4|M|D|MrHockehmer
+1|13|4|T|F|
+1
+1|1|1|K|L|yo123
+1|1|1|M|J|
+1
+1|1|3|M|D|yo123
+1
+1|1|5|E|F|yo123
+1|1|2|M|H|
+1
+1|1|3|M|D|yo123
+1|1|2|M|J|
+1|1|1|6|I|
+1
+1|1|3|V|L|yo123
+1
+1|1|1|K|L|yo123
+1
+1|17|L|V|L|yo123
+1
+1|17|7|C|L|yo123
+1
+1|14|1|K|L|mattg4302
+1|14|4|G|H|

@@ -1,0 +1,65 @@
+1|8|3|a|D|eduardo3000
+1|8|5|E|H|
+1|8|7|1|K|
+1|8|7|d|H|
+1|8|3|a|K|
+1
+1|9|7|4|D|eduardo3000
+1
+1|14|3|a|D|AndryPop
+1
+1|4|3|a|D|AndryPop
+1|4|8|L|D|
+1|4|2|H|J|
+1|4|8|K|G|
+1|4|1|1|K|
+1
+2|14|3|a|D|ericeTester
+2|17|L|N|H|
+1|6|3|a|D|Pikachu
+1|6|L|R|J|
+2|17|1|d|G|
+2
+1|6|L|K|K|
+2|17|3|a|D|ericeTester
+2|17|1|H|H|
+1|6|7|K|A|
+2|17|1|D|9|
+1|6|1|N|J|
+1|6|1|N|J|how did you get that
+1|6|3|9|A|
+2|17|5|B|9|
+2|17|1|C|9|
+1|6|J|9|A|
+1|6|J|9|A|hat
+1|6|J|9|A|/e3
+1|6|J|9|A|im new
+1|6|H|9|A|
+1|6|L|9|A|
+2|17|1|C|9|me too
+1|6|7|N|D|
+1|6|7|9|B|
+2|17|3|C|9|
+1|6|7|9|B|how did you get that hat?
+2|17|1|H|D|
+1|6|6|B|A|
+2|17|1|D|A|
+1|6|1|E|E|
+1|6|4|E|E|/a2B8
+1|17|1|A|B|
+2|17|1|D|A|/a2BJ
+1|17|1|A|B|nvm
+2|17|1|D|A|dance
+1|17|L|A|B|
+1|17|L|A|B|zIK
+2|17|L|D|A|
+1|17|L|A|B|IK
+2|17|L|D|A|YEAH
+2|17|L|D|A|Go to the left
+1|17|L|A|B|i play the Club Penguin
+2|17|3|A|H|
+1|17|L|A|B|ok!
+1|17|2|1|I|
+1
+2|17|8|A|H|Follow me
+2

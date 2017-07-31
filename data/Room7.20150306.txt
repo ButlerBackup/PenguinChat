@@ -1,0 +1,40 @@
+1|16|8|4|D|mario16
+1|16|1|K|F|
+1|16|4|M|D|
+1|16|1|d|M|
+1|16|3|a|L|
+1|16|3|a|L|what heppend here?
+0|1|1|A|K|I don't know, sorry.
+1|16|1|S|L|
+1|16|2|S|L|the igloo can be here?
+1|16|7|E|K|
+1|16|3|E|K|i don't find my igloo can you help me?
+0|1|1|A|K|Hey!
+1|16|3|E|K|hey
+1|16|3|E|K|i need a help
+1|16|3|E|K|please, can you help me?
+0|1|1|L|K|Helloooo
+1
+1|16|1|4|D|mario16
+1|16|7|c|F|
+1|16|1|d|M|
+1|16|5|d|P|
+1|16|3|O|M|
+1|16|5|Q|C|
+1|16|L|6|K|
+1
+1|16|7|4|D|mario16
+1
+1|16|7|4|D|mario16
+1|16|7|c|D|
+1|16|3|a|R|
+1|16|4|1|C|
+1
+1|16|6|4|D|Miner
+1|16|8|4|D|
+1
+3|16|5|4|D|ufreddygold
+3|16|8|4|D|
+3|16|7|4|D|/e3
+0|1|1|A|F|/e3
+3

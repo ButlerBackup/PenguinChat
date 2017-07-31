@@ -1,0 +1,331 @@
+1|10|3|a|D|Bonnie Bell
+1|17|1|N|A|
+1|17|L|C|F|
+1
+1|18|3|a|D|jaloute
+1|17|L|N|A|
+1|17|4|H|E|
+1|14|1|K|J|
+2|14|8|a|D|krismints
+1|17|1|L|I|
+2|14|3|H|D|
+1|1|1|L|L|
+2|17|1|G|G|
+1|17|1|A|G|
+2|17|L|G|G|
+1|17|L|D|I|
+2|17|L|G|G|sup
+1|17|L|D|I|hello
+2|17|1|G|G|
+2|17|2|F|I|
+2|17|L|F|I|
+1|17|3|D|I|
+2|17|L|F|I|lol
+1|17|L|D|I|mdr
+2
+1|17|L|c|D|
+1
+1|14|4|a|D|jaloute
+1|17|2|E|I|
+1|17|6|L|I|
+1
+1|6|3|a|D|hgtthbobby
+1|6|4|d|L|
+1
+2|13|2|a|D|mightygamer
+2|17|7|J|G|
+2|17|1|d|P|
+2
+1|1|3|a|D|reydelclub1
+1
+1|17|3|a|D|reydelclub1
+1
+2|1|3|a|D|mightygamer
+2|1|3|a|D|
+2
+1|5|3|a|D|reydelclub1
+1|5|8|H|K|
+1|4|1|P|H|
+1
+1|1|3|a|D|mightygamer
+1
+1|18|2|a|D|denisgur1
+1|17|H|E|J|
+1|17|L|G|M|
+1|17|1|d|K|
+1
+2|4|3|a|D|colonito jr
+2|4|4|N|9|
+2|4|5|1|J|
+2|17|8|9|J|
+2|17|1|F|M|
+2|17|2|1|I|
+2
+2|17|7|4|D|colonito jr
+2|17|1|4|D|
+2|17|1|6|P|
+2|17|3|I|9|
+2|17|6|1|H|
+2|17|7|1|I|
+2
+3|1|8|a|D|aleeex
+3|1|L|L|9|
+3|1|L|J|G|
+3|1|6|3|I|
+3|1|8|9|H|
+3|1|7|L|K|
+3|1|6|2|K|
+3|1|7|Z|I|
+3|1|5|c|C|
+3
+2|17|7|4|D|colonito jr
+2|17|I|O|A|
+2|17|7|S|M|
+2|17|3|1|K|
+2|17|7|1|L|
+2|17|4|1|C|
+2
+2|13|1|a|D|Goku555
+2|13|1|I|9|
+2|13|1|W|F|
+1|4|7|a|D|Uncle Bob203
+1|4|I|P|I|
+1|4|I|P|I|/j7
+1|4|I|P|I|hi
+1|4|2|M|I|
+1|4|5|W|M|
+1|4|4|9|A|
+1
+2
+1|14|3|a|D|chicago ok
+1
+1|14|8|4|D|chicago ok
+1
+1|4|2|a|D|Uncle Bob203
+1
+1|4|1|a|D|Uncle Bob203
+1|4|3|b|I|
+1
+1|4|3|a|D|Uncle Bob203
+1|4|7|H|C|
+1|4|3|d|I|
+1|4|5|d|G|
+1
+1|4|7|4|D|Uncle Bob203
+1|4|8|b|K|
+1
+1|14|3|a|D|Santy78191
+1|14|7|b|I|
+1
+1|14|7|4|D|Santy78191
+1
+1|1|7|4|D|Santy78191
+1|1|7|4|D|
+1|1|2|d|I|
+1
+1|18|8|a|D|#shuah
+1|18|1|J|F|
+1|18|1|F|E|
+1
+1|18|3|a|D|#shuah
+1
+1|14|3|a|D|hahohow
+1
+1|8|3|a|D|Marchmellwo
+1|8|6|J|I|
+1
+2|9|3|a|D|420Blez
+2
+2|9|2|a|D|420Blez
+2|9|2|a|D|
+2
+2|1|7|4|D|420Blez
+2|1|7|d|H|
+2
+1|1|3|a|D|Marchmellwo
+3|17|2|a|D|The Epicster
+1
+4|4|3|a|D|uncle bob203
+3|17|1|I|E|
+4
+3|17|7|T|D|
+3|17|1|K|G|
+3|17|2|1|I|
+3|17|7|d|M|
+3|17|8|d|J|
+3|17|8|d|P|
+3
+3|17|2|a|D|The Epicster
+3
+4|4|7|a|D|uncle bob203
+4|4|2|L|C|
+4|4|7|d|H|
+4
+2|17|1|a|D|Mike10678
+2
+4|4|4|a|D|uncle bob203
+4
+4|18|3|a|D|uncle bob203
+4|17|4|d|J|
+4|17|5|d|L|
+4
+4|18|1|a|D|uncle bob203
+4|17|1|L|H|
+4
+4|18|3|a|D|uncle bob203
+4|17|5|d|J|
+4|17|3|Y|H|
+4|17|1|d|J|
+4|17|4|R|I|
+4
+4|17|3|a|D|uncle bob203
+4
+3|18|3|a|D|thinkmiranda
+4|17|3|a|D|uncle bob203
+3
+4|17|2|O|M|
+4
+3|18|7|4|D|thinkmiranda
+3
+4|17|7|a|D|uncle bob203
+4
+4|4|3|a|D|uncle bob203
+3|10|1|a|D|thinkmiranda
+4|4|2|D|G|
+3|10|3|I|J|
+3|10|6|6|J|
+4|4|2|D|G|do you see that ancor
+3|10|7|B|G|
+3|17|1|A|N|
+3|17|8|A|N|/a2TD
+3|17|8|A|N|/e12
+3|17|8|A|N|/e11
+3|17|8|A|N|/e9
+3|17|8|A|N|/e10
+3|17|8|A|N|/e8
+3|17|8|A|N|/e7
+3|17|8|A|N|/e5
+3|17|8|A|N|/e6
+3|17|8|A|N|/e4
+3|17|8|A|N|/e3
+3|17|8|A|N|/e1
+3|17|8|A|N|/e2
+3|17|1|C|H|
+3|17|1|C|H|thxs
+4|4|7|D|G|/e1
+2|18|3|a|D|RJOriginal
+3|17|J|8|L|
+2|18|3|1|F|
+2
+3|17|1|J|N|
+4|4|1|D|G|your welcome
+3|17|5|M|F|
+3|17|7|F|9|
+4|4|1|D|G|wanna be friends
+3|17|1|K|O|;o
+2|18|2|a|D|RJOriginal
+2
+3|17|7|K|O|y-e-s
+4|4|1|D|G|yay!!!
+3|17|7|K|O|gtg bu by
+4|4|7|D|G|/e1
+3|17|7|K|O|buh bye
+3|17|6|K|O|ineedtogo
+4|18|1|D|G|
+3|17|6|K|O|what grade r u in
+3|17|5|D|I|
+4|18|1|D|G|5th grade
+3|17|5|D|I|3rd for meh
+3|17|6|D|I|buh bye/
+4|18|1|D|G|whats your favorate color
+3|17|6|D|I|leaves crying
+3|17|6|D|I|purple
+3|17|6|D|I|i'm a girl
+4|18|1|D|G|are you leaving
+3|17|6|D|I|yus
+4|18|1|D|G|oh
+4|18|1|D|G|/e4
+3|17|7|D|I|/e4
+3|17|8|D|I|/e10
+3|17|2|V|K|
+3|17|2|V|K|/a2VH
+4|18|1|D|G|can you come back tomow
+3|17|L|V|K|/a2NH
+4|18|1|O|K|
+3|17|L|V|K|yus but in the noon cuz i have school
+3|17|L|L|M|
+4|18|2|O|K|what time
+3|17|2|T|I|
+3|17|2|T|I|buh bye1
+4|18|2|O|K|bye
+3|17|2|T|I|8;00 - 3;30
+3|17|5|d|Q|
+4|18|2|O|K|ok
+4|18|7|O|K|/a2eP
+4|18|3|a|M|
+4|18|4|a|F|
+4|18|4|d|K|
+3
+4
+1|4|6|a|D|Uncle Bob203
+1
+1|4|3|a|D|Uncle Bob203
+1
+1|4|5|a|D|Uncle Bob203
+1|4|5|a|D|
+1
+1|10|3|a|D|lindapitina
+1|10|3|9|K|
+1
+1|4|4|a|D|Uncle Bob203
+1|17|3|d|K|
+1
+1|4|3|a|D|Uncle Bob203
+1|4|3|a|D|
+1|18|1|G|H|
+1|18|L|M|C|
+1|18|1|W|C|
+1
+1|4|3|a|D|Uncle Bob203
+1|4|2|U|N|
+1|4|4|N|A|
+1|4|5|L|F|
+1|17|1|c|O|
+1|17|1|d|O|
+1
+1|17|3|a|D|Uncle Bob203
+1
+2|5|2|a|D|BIGDlCK
+2|5|4|U|L|
+2
+1|18|3|a|D|Uncle Bob203
+1
+2|6|3|a|D|ashleystarni
+2
+1|4|8|a|D|Uncle Bob203
+1|4|7|d|K|
+1
+1|8|3|a|D|Kurby
+1|8|7|F|K|
+1|8|5|F|H|
+1|8|6|Y|Q|
+1|8|6|3|B|
+1
+1|1|3|a|D|uptatto21345
+1
+1|1|3|a|D|starbound
+1
+1|1|H|4|D|starbound
+1|1|5|d|K|
+1
+1|9|3|a|D|Pepolz 10
+1|9|7|C|J|
+1|9|7|d|L|
+1
+1|4|3|a|D|Sackboy
+1
+2|1|4|a|D|Yolosapien
+2|17|4|J|L|
+2|17|L|1|L|
+2|17|5|d|L|
+2

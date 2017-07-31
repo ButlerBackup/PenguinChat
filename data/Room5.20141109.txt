@@ -1,0 +1,1291 @@
+1|18|7|4|D|hunterdog3
+1|17|1|B|H|
+1|17|6|G|M|
+1|5|3|K|G|
+1|16|6|K|J|
+1
+1|9|7|4|D|jo ko
+1|9|5|F|K|
+1|9|3|1|D|
+1
+1|9|1|a|D|jo ko
+1
+1|13|5|a|D|tomaswarp
+1|13|8|C|L|
+1
+1|13|3|4|D|tomaswarp
+1|16|7|W|C|
+1
+1|13|3|4|D|tomaswarp
+1|13|6|4|B|
+1|13|7|R|H|
+1|16|2|F|Q|
+1|16|1|H|O|
+1
+2|5|6|4|D|keven53
+2|5|7|d|C|
+2|5|3|1|C|
+2
+1|1|8|4|D|Duke585
+1|1|7|P|K|
+1
+1|8|6|4|D|Wasserboy08
+1|8|7|C|I|
+1|8|6|B|D|
+1|8|8|5|G|
+1
+1|6|7|4|D|Kandy85
+1|6|8|K|H|
+1|6|8|Q|K|
+1|6|6|d|D|
+1
+2|12|6|4|D|Mis fofura
+2
+1|18|7|4|D|kris3
+1|18|3|N|C|
+1|18|2|C|J|
+1|18|3|5|F|
+1
+2|13|7|4|D|davidhola1
+2
+1|1|7|4|D|AGuy
+1|16|7|N|D|
+1|16|2|S|D|
+1|16|2|9|D|
+1
+1|14|6|4|D|Ninchill256
+1
+2|4|7|4|D|ArrowBarrow
+2|4|3|3|C|
+2
+1|12|8|4|D|Lalipopcuti
+1
+1|12|5|a|D|Lalipopcuti
+1
+1|14|1|4|D|Redd
+1|16|7|W|C|
+1
+2|1|7|4|D|Xwatch1009
+2|17|6|d|C|
+2|17|2|8|F|
+2
+1|16|5|a|D|Redd
+1
+1|14|7|4|D|Redd
+1|14|3|3|E|
+1
+3|1|H|4|D|Isacc
+3|1|3|1|C|
+3
+1|14|H|4|D|Redd
+1|16|1|F|H|
+1
+2|18|8|4|D|Xwatch1009
+2
+1|18|H|4|D|Redd
+1|16|7|N|K|
+1
+3|13|8|4|D|vini41590
+3|16|8|Z|F|
+3
+3|16|3|a|D|vini41590
+3|16|3|1|D|
+3
+1|4|6|4|D|Minileandro
+1|16|6|W|B|
+1
+1|1|7|4|D|Xwatch1009
+1
+1|16|5|a|D|Xwatch1009
+1
+2|1|7|4|D|ArrowBarrow
+2
+1|1|1|4|D|Xwatch1009
+2|1|7|4|D|ArrowBarrow
+2
+1|1|7|J|G|
+1|1|3|D|G|
+1
+1|1|3|4|D|Xwatch1009
+1|1|1|L|D|
+2|1|1|4|D|ArrowBarrow
+1
+2
+1|1|6|4|D|Xwatch1009
+1
+1|1|8|4|D|Xwatch1009
+1|1|7|4|D|
+1
+2|1|3|a|D|ArrowBarrow
+2
+1|17|7|4|D|Xwatch1009
+1
+1|17|6|4|D|Xwatch1009
+2|1|7|4|D|ArrowBarrow
+1|17|L|W|B|
+2|1|7|6|E|
+1|17|L|W|B|And now
+2|1|6|6|E|now what
+2|1|7|Y|B|
+2|1|L|Y|B|
+2|1|2|U|B|
+2|1|8|U|B|So, now what?
+1|16|L|M|C|
+1|16|1|M|C|To be a Construction Worker.
+2|1|6|J|E|/a2KD
+2|1|3|V|B|
+2|1|2|V|B|Mhm?
+1|16|1|H|C|
+1|16|1|H|C|/a2MB
+1|16|1|L|G|
+1|16|1|L|G|And that's it.
+1|16|6|Q|C|
+2|1|2|Q|H|
+1|16|6|L|H|
+1|16|2|V|J|
+2|1|2|O|K|*how
+1|16|2|V|J|You wanna know how to drive?
+2|1|3|U|L|
+1|16|3|J|G|
+2|1|4|U|L|mhm
+2|1|3|9|F|
+2|1|7|F|G|
+1|16|1|L|B|
+1|16|1|L|B|And in the car
+2|1|I|F|G|
+2|1|4|N|C|/a2JD
+1|16|1|L|B|You unlock a special vehicle only zone.
+2|1|7|P|B|/a2I8
+1|16|8|G|I|
+2|1|3|P|B|/a2N9
+2|1|1|J|J|
+1|16|6|L|L|
+1|17|1|L|L|/a2V7
+2|1|1|J|J|how do i get a car
+1|17|1|L|L|/j13
+2|1|4|O|M|
+1|17|2|U|E|
+1|17|2|U|E|On top of the Coming Soon sign
+2|1|3|W|B|
+2|16|1|R|D|
+2|16|1|L|E|
+2|16|1|L|E|cool
+2|16|2|O|L|
+1|16|3|R|D|
+2|16|7|R|C|
+1|16|2|R|D|Follow me to the Vehicle Only zone.
+2|16|7|H|I|
+1
+2|16|7|N|E|
+2|16|1|R|D|
+2
+1|16|3|a|D|Xwatch1009
+2|16|5|a|D|ArrowBarrow
+1|17|1|W|B|
+2|16|3|J|K|
+1|17|1|I|F|
+2|16|2|Z|F|
+1|17|L|I|F|
+2|16|2|Z|F|/a2NE
+2|16|2|Q|F|/a2VI
+1|17|1|H|E|/a2TK
+1|17|1|H|E|/j1
+2|16|1|G|M|
+1|17|L|H|E|
+2|16|1|G|M|a bill
+2|16|3|C|C|
+2|16|2|L|F|
+1|17|L|H|E|/j12
+2|16|1|L|J|
+1|17|L|H|E|/j11
+2|16|1|L|J|Idk i just wanna stop driving and get out of the
+1|17|L|H|E|/e1
+2|16|3|H|B|
+2|16|7|C|C|/e2
+1|17|L|H|E|then you have to go back to the town
+2|16|3|B|P|
+1|17|L|H|E|and you get out of the car
+2|16|4|1|D|
+2
+1|17|L|1|C|
+2|1|7|4|D|ArrowBarrow
+1
+2|1|2|F|H|
+2|1|3|2|F|
+2
+2|1|L|4|D|ArrowBarrow
+2
+2|17|7|4|D|ArrowBarrow
+2
+2|17|1|4|D|ArrowBarrow
+2
+2|17|7|4|D|ArrowBarrow
+2|17|1|I|F|
+3|14|8|4|D|Destroyer599
+3|14|1|I|H|
+3|14|6|I|K|
+2|16|7|R|D|
+2|16|7|Q|M|
+3|14|1|I|K|how'
+2|16|7|A|H|
+2|16|7|D|I|clikc the hook
+3|14|4|I|K|/a2DL
+2|17|1|D|I|
+3|14|6|G|N|
+2|17|6|G|G|
+3|17|1|G|N|
+2
+3|17|L|G|N|
+3|17|3|1|D|
+3
+1|1|7|4|D|Xwatch1009
+1
+2|17|7|4|D|ArrowBarrow
+2|16|5|N|D|
+2|16|5|a|F|
+2
+2|16|3|a|D|ArrowBarrow
+3|1|7|4|D|Destroyer599
+2
+3|1|4|P|J|
+2|1|8|4|D|ArrowBarrow
+2
+3|1|3|X|C|
+3
+1|18|7|4|D|Xwatch1009
+1
+6|18|7|4|D|ArrowBarrow
+5|1|7|4|D|azertyuiop
+5|1|7|d|B|
+6
+5|1|7|d|C|
+5
+1|1|7|4|D|Xwatch1009
+1
+6|14|1|4|D|ArrowBarrow
+6
+1|1|8|4|D|Xwatch1009
+1
+7|4|7|4|D|sabe2001
+7
+7|13|6|4|D|MAX100000000
+6|18|7|4|D|ArrowBarrow
+6|16|7|I|F|
+7|13|3|P|Q|
+1|17|8|4|D|Xwatch1009
+6|16|7|B|D|
+7|13|1|E|M|
+6|16|6|L|D|
+1|17|7|M|L|
+1|17|7|M|L|Hello Max.
+6|16|6|M|M|
+7|13|8|E|M|how did u do that
+1|17|7|M|L|I'd like to take a moment.
+7|13|1|L|E|hi
+1|17|3|H|M|
+1|17|3|H|M|To tell you that VIP is for free!
+7|13|8|D|L|
+1|17|5|J|H|
+6|16|6|M|M|*white
+7|13|8|D|L|ok
+1|17|5|J|H|But act fast.
+1|17|5|J|H|You have to press the crane to become a
+6|16|6|M|M|Just that VIP
+1|17|5|J|H|construction worker.
+7|13|6|H|H|
+7|17|1|H|H|
+1|17|5|J|H|To get in a car, you have to press the
+7|17|5|H|H|
+1|17|5|J|H|White snowball ontop of the Coming Soon sign
+1|17|6|Q|D|
+7|16|7|R|D|
+1|16|3|N|E|
+7|16|7|V|J|
+6|16|3|K|I|
+1|16|3|F|I|
+7|16|8|E|H|
+7|16|8|E|H|weeeeeeeeeeeeeeeeeeeeeee
+6|16|7|M|J|
+7|16|8|A|K|
+1|16|6|N|D|
+7|16|7|O|G|
+1|16|6|N|D|So you're getting free VIP features!
+7|16|7|J|I|/a2JJ
+6|16|7|d|D|
+6
+7|16|1|J|F|
+6|16|7|a|D|ArrowBarrow
+6|16|1|J|K|
+1|16|1|O|L|
+1|16|4|O|L|/e2
+7|16|8|J|F|how do u get it vip
+6|16|4|K|J|
+1|16|6|M|C|
+7|16|8|J|F|/a2PK
+6|16|4|K|J|The ninja is very secret
+1|16|4|P|I|
+7|16|8|G|H|
+6|16|4|G|F|
+6
+6|18|7|4|D|ArrowBarrow
+6|18|7|M|L|
+1|18|1|K|I|
+6|18|5|H|M|
+1|18|1|K|I|Ninja is for very experienced players.
+7|16|6|I|O|
+6|18|1|J|H|
+6|18|4|J|H|/e1
+7|16|6|E|I|
+6|18|7|R|J|
+1|18|L|K|I|
+7|16|8|D|H|
+6|18|1|N|I|
+1|18|1|J|F|
+6|18|1|N|I|MMMMMHMMM
+7|16|8|D|H|sorry gtg
+1|18|7|W|B|
+1|18|7|W|B|Bye!
+6|18|2|J|C|
+6|18|2|J|C|Bye!
+1|18|2|W|B|NINJA POOF
+1|18|L|W|B|
+6|18|2|S|C|
+1|18|L|W|B|back
+1|18|I|W|B|
+1|18|I|U|I|
+6|18|2|S|C|so
+6|18|2|S|C|BRB
+1|18|1|U|I|ArrowBarrow, let's go to the other construction
+1|18|2|U|I|oh ok
+1|18|2|O|M|
+6|18|2|S|C|BACK
+6|18|2|S|C|Xwatch
+1|18|5|O|G|Yes
+6|18|2|S|C|Wanna go on Club Penguin and on icicle
+1|18|1|Q|C|
+1|18|2|J|H|
+1|18|6|N|D|
+6|18|2|S|C|do you?
+6|18|2|S|C|/e3
+6|18|2|S|C|Um, bye
+1|18|1|N|D|ok
+1|18|2|N|D|im going to iciclc
+1|18|2|N|D|icicle
+6
+7
+1
+1|13|7|4|D|MAX100000000
+1|17|4|G|D|
+1|16|L|R|E|
+1|16|L|J|M|
+1|17|1|1|C|
+1
+2|14|8|4|D|Supershox
+2|17|L|U|G|
+2|17|4|E|F|
+2
+1|17|8|4|D|MAX100000000
+1
+1|16|3|a|D|MAX100000000
+1
+1|17|L|a|D|MAX100000000
+1
+1|13|8|4|D|MAX100000000
+1|16|7|G|C|
+1
+3|5|6|4|D|Baymax
+3|16|2|1|C|
+3
+3|1|3|4|D|Baymax
+3|16|1|R|D|
+3|16|2|F|I|
+2|18|1|4|D|Sabe2001
+2|16|7|d|C|
+2
+2|16|7|a|D|Sabe2001
+2|16|3|1|C|
+2
+2|17|3|a|D|Sabe2001
+1|13|7|4|D|betasnail
+2|16|2|D|H|
+1|13|7|4|D|/a2FH
+2|16|4|4|F|
+1|13|7|S|E|
+2
+1|13|7|S|E|how are u ninja
+1|16|3|W|B|
+1|17|6|d|C|
+1|17|2|1|D|
+1
+2|18|2|4|D|Sabe2001
+2|16|7|L|K|
+4|1|8|4|D|Rosa231Rosa
+2|16|7|b|C|
+3|16|1|F|I|Hello
+1|17|7|4|D|betasnail
+2|16|3|K|Q|
+4|1|6|N|H|
+1|16|7|a|D|
+4|1|2|M|I|hi
+2|16|7|E|Q|hey
+3|16|1|F|I|How do you get ninja?
+1|16|2|G|P|
+4|1|L|M|I|
+2|16|5|H|N|
+1|16|6|H|O|
+3|16|7|Q|I|
+1|16|4|K|O|/a2IH
+2|16|8|H|N|easy
+1|16|4|L|L|/a2HF
+3|16|2|Q|M|
+4|1|L|M|I|idk
+1|16|4|K|L|/a2CL
+2|16|8|H|N|press the x
+2|16|8|H|N|thing
+3|16|2|L|O|
+4|1|L|M|I|XD
+3|16|2|L|O|ok
+2|16|8|H|N|then press new penguin
+2|16|8|H|N|then press the n on penguin
+4|1|L|M|I|my penguin looks funny
+4|1|L|M|I|lol
+4|1|L|M|I|ok
+2|16|8|H|N|ninja penguin unlocked
+2|16|6|K|H|
+2|18|8|R|I|
+3|14|4|Q|M|
+1|16|1|P|J|
+1|16|1|P|J|how
+1|17|1|P|J|
+1|17|2|R|J|/a2QM
+4|1|L|M|I|idk
+2|18|2|R|I|press the x besid ethe lightning
+4|1|L|M|I|I play the new clubpenguin
+4|1|1|H|L|
+2|18|2|R|I|then press new penguin
+4|1|1|H|L|this is penguin chat
+3|14|1|Q|M|
+2|18|2|R|I|then press the n
+3|14|1|Q|M|um
+4|1|1|H|L|XD
+2|16|7|Q|F|
+1|14|1|R|J|
+2|16|7|Y|I|
+1|14|1|T|J|
+2|16|5|R|N|
+1|14|7|M|L|
+2|16|3|S|L|
+1|14|1|M|L|
+4|1|8|H|L|the new cp is not as good
+2|16|7|S|G|
+1|14|8|N|M|
+4|1|1|F|K|
+2|16|7|E|L|
+2|16|8|E|L|got a point
+4|1|1|F|K|if you know what I mean
+1|14|1|N|M|
+3|16|3|S|N|
+2|16|8|E|L|i got banned forever
+4|1|1|J|I|
+3|16|2|R|L|
+2|16|1|O|G|
+3|16|2|J|L|
+3|16|2|J|L|How?
+1|14|8|I|M|
+4|1|1|J|I|dude why
+3|17|1|J|L|
+1|14|8|I|M|me to
+4|1|1|I|E|
+3|17|1|N|L|
+1|14|6|N|K|
+4|1|1|I|E|well im a girl
+2|16|1|O|G|used a program
+1|14|8|N|K|item adder
+3|17|2|N|L|Hello I am baymac have a lollipop
+1|14|6|K|G|
+1|17|1|K|G|
+4|1|1|I|E|I never got banned
+3|17|3|N|L|lol
+2|16|1|O|G|to get the beta hat
+3|17|H|N|L|
+3|17|H|N|L|same
+4|1|1|I|E|XD
+2|16|1|O|G|i got it
+3|17|8|E|E|
+2|16|8|E|J|
+2|16|8|E|J|i used penguin lodge
+3|17|1|E|E|I join CP in 2009
+2|16|8|E|J|and cpcheats.co
+4|1|8|S|L|
+2|16|8|H|K|
+1|17|1|K|G|me to i used program and got the beta hat
+4|1|2|S|L|I got some party hats
+2|16|8|H|K|i joined  2010
+1|17|5|O|J|
+4|1|2|S|L|from codes
+4|1|2|S|L|XD
+1|14|1|N|M|
+3|17|7|K|H|
+2|16|8|H|K|i used penguin lodge and cpcheats.co
+4|1|2|S|L|2005
+1|17|1|M|F|
+3|17|7|M|I|
+2|16|5|F|F|
+4|1|2|S|L|CLUBPENGUIN
+1|17|1|Q|L|
+4|1|2|S|L|BOOM
+2|16|8|I|O|
+4|1|2|S|L|lol
+2|16|3|H|L|
+2|16|3|H|L|club penguin
+3|17|1|M|I|Disney is paying for CP to stay open
+1|17|1|Q|L|give me ninja
+3|17|2|M|M|
+2|16|8|H|L|ITS ILLUMANATI
+4|1|2|S|L|yeah
+3|17|L|M|M|
+1|17|3|T|M|
+4|1|2|N|G|
+1|17|2|N|M|/j13
+3|17|L|M|M|Penguin chat has nothing to do
+2|16|8|H|L|FOR
+1|17|L|N|M|
+3|17|2|S|M|
+2|16|8|H|L|BUYING CP
+4|1|1|N|G|well old cp is better if you know what I mean
+2|16|1|H|L|/j13
+4|1|4|K|E|
+2|16|8|H|L|ya
+4|1|1|L|G|
+2|16|1|F|R|
+4|1|1|L|G|I am a member on new cp
+1|17|1|Q|H|
+2|16|3|E|M|
+2|17|1|Q|I|
+2|17|1|Q|I|quit
+4|1|1|L|G|yawn
+2|17|1|G|I|
+2|17|1|G|I|then
+3|17|3|J|B|
+4|1|2|G|K|
+1|17|3|K|I|
+3|17|3|C|F|
+1|17|3|1|D|
+2|17|8|C|D|
+1
+3|17|3|A|K|
+2|17|8|P|H|
+3|17|3|A|J|
+2|17|8|J|M|
+3|17|3|1|C|
+4|1|L|G|K|
+4|1|L|G|K|/e1
+2|17|8|K|Q|
+2|17|8|K|Q|i play minecraft
+3|17|8|8|H|
+3|17|8|8|H|/e11
+3|17|7|8|H|/e1
+2|17|L|K|Q|
+3|17|7|8|H|/e2
+2|17|L|K|Q|and roblox
+4|1|L|G|K|OMG ME TOO
+3|17|7|8|H|/e3
+3|17|7|8|H|/e4
+4|1|1|I|M|
+3|17|7|8|H|/e5
+3|17|7|8|H|/e6
+2|17|L|K|Q|LOL
+3|17|8|8|H|/e7
+3|17|8|8|H|/e8
+2|17|L|K|Q|SAME
+3|17|8|8|H|/e9
+3|17|8|8|H|/e10
+3|17|8|8|H|/e12
+4|1|1|I|M|I dont play roblox no more
+3|17|8|8|H|/e11
+2|17|8|G|G|
+2|18|1|G|G|
+2|18|1|G|G|i still play it
+4|1|1|I|M|some one said a bad word on it
+2|18|1|G|G|its lots of fun
+4|1|1|I|M|so
+2|18|1|G|G|dont be a cry baby
+1|17|7|4|D|betasnail
+2|18|1|G|G|just keep playing
+4|1|1|I|M|I am not allowed to play it no more
+1|17|7|A|J|
+2|18|L|G|G|
+1|17|1|E|G|
+2|18|4|L|M|
+2|18|1|L|M|oh
+1|17|8|E|G|how
+2|18|1|L|M|i understand'
+1|17|2|J|M|/e9
+2|18|4|M|K|
+4|1|1|I|M|yep
+2|18|4|M|K|someone said a bad word on roblox
+1|17|8|J|M|i want ninja
+2|18|4|I|F|
+1|17|1|O|N|
+2|18|1|M|M|
+2|18|1|M|M|i will tell you
+3|17|7|F|J|
+4|1|8|I|M|YES
+1|17|1|J|G|
+1|17|8|J|G|ninja
+4|1|8|H|M|
+1|17|3|O|M|
+1|17|2|N|N|
+3|5|1|F|J|
+4|1|1|H|M|he said the d word
+1|17|8|N|N|tell me how
+4|1|I|H|M|
+2|18|3|M|M|press the x looking icobeside the lightning icon
+1|17|4|N|N|/a2HG
+4|1|K|H|M|
+2|18|2|S|M|
+1|17|4|N|N|/a2GM
+2|18|2|S|M|then press new penguin
+1|17|4|N|N|ya
+1|17|7|Q|M|
+4|1|8|K|K|
+2|18|2|S|M|then press the n when your in new penguin
+3|4|2|M|K|
+4|10|1|K|K|
+2|18|2|S|M|then you get the secret ninja!!\
+4|10|1|K|K|COLOR
+1|17|1|Q|M|ok
+2|18|8|S|G|
+4|6|1|A|D|
+2|18|4|Q|G|
+1|9|1|Q|M|
+4|6|1|F|J|
+4|6|1|F|J|YAY
+1|16|2|P|K|
+4|6|1|G|H|
+4|6|1|G|H|XD
+3|4|1|M|K|Explain again plz?
+4|6|1|G|H|later
+3|4|1|M|K|XD
+4|6|1|G|H|brb
+1|16|5|S|M|/a2OI
+4|6|8|G|H|it means
+3|4|5|J|J|
+1|16|5|S|M|/a2OF
+4|6|1|G|H|cracking up laghing
+4|6|1|G|H|XD
+4|6|8|G|H|later
+4
+3|4|2|J|J|What happens if you say a negitive word? XD
+4|6|7|4|D|Rosa231Rosa
+3|4|6|J|J|/a2RJ
+4|6|7|Z|B|
+3|4|2|G|K|
+4|6|2|c|C|
+4|6|2|c|C|this place is small
+4|6|1|W|E|
+3|4|8|G|K|FUdge
+3|4|6|C|K|
+3|4|6|M|H|
+3|4|3|K|L|
+3|17|1|I|F|
+3|17|5|J|J|
+3
+4|6|2|W|E|go to go bye bye
+4|6|1|V|H|
+4|6|2|V|H|/j8
+4|6|2|V|H|/a27M
+4|6|2|J|M|/a2N7
+1|16|5|K|J|
+4|6|2|G|N|/a2LB
+1|16|7|I|G|
+3|17|7|4|D|Baymax
+4|6|2|G|N|/a26C
+3
+4|6|2|G|N|/a2BK
+3|17|7|4|D|Baymax
+4|6|2|G|N|/a2MK
+4|6|2|G|N|lol
+1|18|5|L|J|
+3|17|4|P|K|
+3|17|4|P|K|/a2KE
+1|18|8|5|D|
+3|17|4|P|K|/a2PF
+1|18|8|5|D|beymax
+3|17|4|P|K|ya
+1|18|2|N|J|
+3|17|4|9|G|
+5|1|7|4|D|ArrowBarrow
+3|17|7|O|K|
+5|1|5|G|J|
+1|18|8|N|J|press the rench
+3|17|4|Q|J|
+5|17|1|L|O|
+5|17|1|R|N|
+1|18|8|N|J|then new penguin
+3|17|2|Q|J|ok
+5|18|1|R|N|
+1|18|2|P|J|
+5|18|8|L|M|
+1|18|1|O|I|
+1|18|1|O|I|then
+5|18|8|K|J|
+1|18|1|O|I|press the n in penguin or in new
+1|18|5|P|J|
+1|18|6|N|L|
+3|14|1|Q|J|
+1|18|8|N|L|bay max
+5|18|2|T|M|
+5|18|1|H|J|
+5|18|6|J|K|
+3|14|1|Q|J|ya
+5|17|L|J|K|
+3|14|1|Q|J|OH
+1|18|8|N|L|it ses slect a new penguin press n at the end on
+5|18|1|R|D|
+1|18|7|S|K|
+5|16|1|E|F|
+1|18|8|M|E|
+5|16|2|Q|N|
+5|16|4|J|J|
+3|14|1|Q|J|I did
+1|18|3|3|C|
+4
+2
+1
+3|14|1|6|E|
+3
+5
+5|17|1|a|D|ArrowBarrow
+5|17|2|a|D|
+5|18|1|7|G|
+5
+3|4|7|4|D|Beemmo99
+3|16|8|7|H|
+3|16|L|1|D|
+3
+1|13|8|4|D|Rosa231Rosa
+1|13|1|I|J|
+2|17|7|4|D|NativNative
+3|4|7|4|D|Beemmo99
+2|16|1|L|E|
+3|16|7|P|K|
+2|16|L|M|I|
+3|16|2|U|I|
+2|16|1|R|D|
+2|16|1|K|F|/j13
+3|4|5|X|B|
+1
+3|17|L|T|K|
+3|16|L|L|I|
+2|16|7|K|F|/a2a8
+3|16|2|K|M|
+2|17|1|K|F|
+3|16|4|D|I|
+3|16|8|M|K|
+2|17|1|4|G|
+1|14|7|4|D|bowser7605
+1|14|7|4|D|/a2PH
+2|16|7|1|E|
+2
+2|14|7|4|D|NativNative
+3|16|8|M|K|falas portugues?
+1|14|7|L|E|
+2
+1|14|2|X|C|
+1|14|5|R|G|
+1|14|5|R|F|
+3|17|1|M|K|
+3|17|L|M|K|
+1|14|2|R|F|how do u get the worker chat
+1|14|1|O|F|
+1|14|1|O|F|hat
+1|14|3|G|C|
+1|14|8|G|C|/a2PL
+1|14|8|G|C|beemmo how
+3|17|L|M|K|/a2LM
+1|14|8|R|F|
+3|17|L|M|K|/a2CJ
+1|14|3|S|G|
+1|14|3|W|G|
+1|14|3|W|G|/a2OM
+1|14|3|W|G|/a2H7
+1|14|5|H|B|
+1|14|1|H|B|/a2CC
+1|14|1|H|B|/a2SG
+1|14|1|S|G|
+3|16|1|N|I|
+3|17|1|N|M|
+3|7|3|1|D|
+1
+3
+3|14|6|4|D|Beemmo99
+3|16|7|Y|B|
+3
+2|6|7|4|D|bribri
+2|6|7|2|E|
+2
+1|1|7|4|D|tigre602
+1|1|J|P|G|
+1
+1|17|3|a|D|tigre602
+1|17|L|C|B|
+1
+2|12|1|4|D|Soluço
+2
+2|12|J|a|D|Soluço
+2|12|3|1|D|
+1|17|7|4|D|tigre602
+2
+1|17|7|Q|J|
+2|12|3|4|D|Soluço
+5|6|7|4|D|Fofinha33
+2|12|7|M|K|
+2|12|7|M|K|/a2QG
+1|17|L|S|B|
+5|6|7|M|J|
+2|12|2|H|J|
+5|6|2|I|K|
+2|12|2|U|G|
+5|17|1|M|E|
+2|12|2|U|G|como coloca as roupas?
+5|17|5|M|K|
+2|12|3|R|E|
+2|12|4|J|D|
+2|12|4|J|D|/a2NM
+5|17|1|M|K|
+5|17|1|M|K|/a28F
+2|12|L|I|I|/j4
+5|17|H|M|K|
+5|17|H|M|K|/j9
+2|12|2|I|I|/a28J
+5|17|L|M|K|
+2|12|K|I|I|/a2BM
+1|17|2|O|G|
+1|17|2|O|G|clica no ganjo
+5|17|1|Q|I|
+1|17|2|V|B|
+5|17|2|Q|I|oie
+2|12|K|I|I|ok
+1|17|2|R|F|/j7
+5|17|7|d|E|
+1|17|2|R|F|/a2LF
+2|17|1|I|I|
+2|17|1|I|I|/e1
+5|17|2|5|H|
+1|17|J|R|F|
+2|17|L|I|I|
+5|17|6|L|K|/a2SG
+1|13|5|S|H|
+1|17|L|S|H|
+5|17|6|L|K|/e1
+1|17|L|S|H|/e11
+5|17|2|N|K|
+1|17|L|S|H|/e1
+5|17|L|N|K|/a2HH
+1|17|L|S|H|/e2
+2|17|L|L|H|
+5|17|L|N|K|/a2SG
+2|17|L|L|H|/j5
+1|17|L|S|H|/e5
+1
+5|17|7|L|K|
+2|17|L|L|H|/a2XD
+2|17|L|L|H|/a2WB
+2|17|L|L|H|/e1
+5|17|3|N|L|
+5|17|3|N|L|/e3
+5|17|3|2|E|
+5
+2|17|L|Q|I|
+2
+6|12|2|4|D|Soluço
+6|12|8|c|D|
+6
+7|4|7|4|D|ninjamurai
+7|4|2|W|C|
+7
+8|12|1|4|D|Soluço
+8
+7|17|5|a|D|ninjamurai
+7|17|1|R|F|
+7
+1|18|5|a|D|tigre602
+1|18|L|6|Q|
+8|18|5|a|D|Soluço
+1
+8
+1|18|5|a|D|tigre602
+1|18|1|a|D|
+2|18|3|a|D|Fofinha33
+1|18|3|1|D|
+1
+2|16|2|L|G|
+2|16|8|K|B|
+2|16|7|L|B|
+2|16|2|3|B|
+2
+2|18|7|4|D|Fofinha33
+2|16|7|F|L|
+2|16|7|V|B|
+2|16|1|d|C|
+2
+1|18|7|4|D|tigre602
+1
+3|9|7|4|D|benanator500
+3
+1|18|6|4|D|tigre602
+1|16|3|K|K|
+1|16|4|U|C|
+3|18|3|a|D|benanator500
+1|16|4|N|O|
+1|16|4|N|O|/e1
+3|18|3|1|D|
+3
+1|16|1|I|K|
+3|18|7|4|D|benanator500
+3|17|1|N|K|
+1|16|2|M|H|
+1|16|3|M|H|/e4
+3|17|4|Q|D|
+1|16|2|M|H|/e10
+3|16|8|E|K|
+1|16|I|M|H|
+3|16|8|J|L|
+1|16|I|J|M|
+1|16|2|J|M|/a2CF
+1|16|8|T|L|
+3|16|4|A|M|
+3|16|6|6|F|
+3
+3|18|7|4|D|benanator500
+3|16|1|M|L|
+3|16|4|V|M|
+3|16|4|V|M|/a2TL
+3|16|4|A|I|
+3|16|4|A|I|/a2TI
+3|16|7|E|I|/a2TL
+3|16|7|E|I|/a2RI
+4|14|6|4|D|samu k1
+4|14|7|4|D|
+4|14|7|4|E|
+4
+1|16|3|I|N|
+3
+1|16|5|I|L|
+1
+5|18|7|4|D|ArrowBarrow
+7|18|2|4|D|betasnail
+5|17|L|2|G|
+7|16|7|N|J|
+5|17|8|8|H|
+7
+5|17|L|8|H|
+5
+9|14|6|4|D|Deadlox
+9|14|8|R|F|
+9|14|5|d|B|
+9
+10|1|7|4|D|ArrowBarrow
+10|17|L|E|H|
+10
+4|13|4|4|D|betasnail
+4
+4|13|1|4|D|betasnail
+4|18|1|4|D|
+4
+4|18|3|a|D|betasnail
+5|4|1|4|D|belo
+4|16|3|K|I|
+5|16|7|N|L|
+5|17|1|N|L|
+5|17|I|N|L|/a2LD
+5|17|I|N|L|/j10
+5|17|L|N|L|
+5|17|L|N|L|puta
+5|17|L|d|B|
+5|17|3|1|C|
+5
+4
+5|17|5|a|D|belo
+5
+1|12|1|4|D|Luiz
+1|12|3|1|D|
+1
+1|12|8|4|D|Luiz
+1|12|3|b|B|
+1|12|4|O|R|
+1
+1|12|3|a|D|Luiz
+1|12|3|a|D|
+1
+1|5|1|4|D|Felipems1
+1|17|1|U|B|
+1|17|3|D|O|
+1
+2|12|8|4|D|CrockTok
+2
+1|14|7|4|D|mwanan
+1
+9|10|5|4|D|pen15l0ver
+9
+5|5|1|4|D|mwananv2
+5|5|6|c|B|
+5
+12|14|7|4|D|Supershox
+12|17|1|N|K|
+12|17|1|d|C|
+12
+8|5|K|a|D|snoop doggy
+8|5|6|P|D|
+5|5|K|a|D|mwananv2
+8
+5|5|7|N|G|
+8|5|7|4|D|snoop doggy
+8
+3|5|5|a|D|oi snoop w3d
+5|5|2|W|B|
+3|5|3|P|J|
+3
+5|5|3|9|E|
+5
+10|10|8|4|D|pen15l0ver
+10|10|3|d|C|
+10
+3|1|8|4|D|Xwatch1009
+3
+3|16|5|a|D|Xwatch1009
+3
+3|17|7|4|D|Xwatch1009
+3
+3|17|5|a|D|Xwatch1009
+3
+2|12|8|4|D|lui22
+2|12|3|2|C|
+2
+1|1|7|4|D|Xwatch1009
+1
+1|17|3|4|D|Xwatch1009
+1
+1|1|7|4|D|Xwatch1009
+1
+1|5|7|4|D|Infinity
+1|16|2|R|E|
+1|16|3|D|J|
+1
+1|16|8|a|D|Infinity
+1
+1|5|L|a|D|Infinity
+1
+1|18|7|4|D|Bleckaut 07
+1|18|3|N|F|
+1|16|2|V|D|
+1
+1|16|1|a|D|Bleckaut 07
+1
+2|13|6|4|D|Guzinho
+1|17|1|a|D|Bleckaut 07
+2
+1|17|3|R|E|
+1
+1|18|6|4|D|Bleckaut 07
+1
+1|16|4|a|D|Bleckaut 07
+1
+1|1|7|4|D|Bleckaut 07
+2|11|6|4|D|Guzinho
+2|11|7|D|E|
+1
+2|11|5|J|C|
+2
+1|17|L|4|D|Bleckaut 07
+1
+2|11|7|4|D|Guzinho
+2
+1|17|L|a|D|Bleckaut 07
+1
+1|1|3|4|D|Bleckaut 07
+1|1|4|E|H|
+2|11|2|4|D|Guzinho
+2
+1
+1|1|7|4|D|Bleckaut 07
+1|1|1|J|J|
+1
+1|1|7|4|D|Bleckaut 07
+1|16|7|K|L|
+2|11|7|4|D|Guzinho
+1|16|7|Q|M|
+2|11|7|C|J|
+1|16|2|9|K|
+2|11|1|N|N|
+2|11|1|N|N|to aki
+1|16|8|9|K|clica aqui
+2|11|5|C|L|
+2|11|4|C|L|/a2CH
+1|16|1|R|E|
+2|11|7|I|K|
+1|17|5|W|G|
+2|16|6|R|D|
+2|16|1|Q|L|
+1|17|2|W|G|no guicho
+1|17|1|W|G|
+2|17|1|R|D|
+1|16|3|H|E|
+2|17|8|R|J|
+1|16|1|J|J|
+2|17|L|S|E|
+1|16|1|J|J|só tem essas roupas
+2|16|3|R|D|
+2|16|2|O|M|
+2|16|2|O|M|e a de ninja
+2|16|7|K|O|
+2|16|5|Q|O|
+2|16|8|I|I|/a2JH
+2|16|4|9|K|
+1|16|8|J|J|sim
+2
+1
+2|17|8|4|D|Guzinho
+2
+1|17|2|a|D|zingo
+1
+1|5|7|4|D|zingo
+1|16|1|U|F|
+1
+1|16|3|a|D|zingo
+1
+2|17|1|a|D|tigre602
+2|17|3|K|J|
+2
+1|17|3|a|D|zingo
+1
+1|5|7|4|D|zingo
+1
+1|17|3|a|D|zingo
+1
+2|17|5|a|D|tigre602
+2|17|1|I|I|
+2|17|7|O|E|
+1|17|6|4|D|zingo
+1|16|7|H|H|
+2|16|2|K|H|
+1|17|1|I|K|
+2|16|5|M|K|
+1|17|2|P|M|
+2|16|2|Q|L|/j9
+2|16|2|Q|L|/a2II
+1|17|L|P|M|
+1|17|L|P|M|sir
+2|16|L|Q|L|/e1
+1|17|L|P|M|english
+2|16|1|N|I|
+1|17|L|P|M|tell
+1|17|L|P|M|me
+1|17|L|P|M|hwo to be a nninja
+1|17|L|P|M|ninja
+2|16|1|N|I|mas enfim vou mostrar como mudar de cor
+2|16|1|N|I|sigam o mouse
+1|17|L|P|M|i dont under stand you
+2|18|1|N|I|
+1|17|L|P|M|how
+1|17|L|P|M|:(
+2|18|1|N|I|pera gente eu vou ajudar ele aqui
+1|17|I|G|N|
+1|17|I|G|N|/e10
+2|18|4|M|L|
+1|17|I|G|N|SPECK ENGLISH
+1|17|I|G|N|god
+1|17|3|H|P|
+1|17|4|X|R|
+1|17|1|Q|M|
+1|17|3|E|J|
+1
+2|18|1|M|L|on it N pinguin
+1|17|7|4|D|zingo
+1|17|7|I|L|
+2|18|1|M|L|e não consigui ajudar o coitado
+2|18|3|M|L|/e5
+1|17|1|I|L|i am elish
+1|17|1|I|L|dude
+1|17|1|I|L|english
+1|17|7|I|L|/a2NJ
+2|18|3|8|J|
+1|17|L|G|L|
+1|17|2|E|K|
+1|17|3|E|K|/a26K
+1
+1|5|7|4|D|zingo
+1|17|1|H|F|
+3|14|6|4|D|Stevey
+3|14|7|S|I|
+3|14|4|V|N|/a2JD
+1|17|1|H|F|welcome to peguin chat
+3|14|1|V|L|
+1|17|1|H|F|i am zig
+1|17|1|H|F|zingo
+3|14|2|V|L|you currently should know me by now
+1|17|3|H|F|/a2AL
+1|17|3|H|F|wat
+1|17|3|H|F|why
+3|14|2|Y|H|
+1|17|3|H|F|.-.
+1|17|3|H|F|sir
+1|17|3|H|F|do you nopw
+1|17|3|H|F|now
+1|17|3|H|F|how t bc a ninja
+3
+1
+1|17|3|a|D|zingo
+1|17|3|D|G|
+4|6|8|4|D|DudaEmmy
+4|6|1|4|D|
+2|18|4|1|C|
+2
+4|6|8|F|K|
+4|6|8|F|K|oi finalmente alguem
+4|6|4|I|K|/a2BG
+4|6|4|I|K|/a2BJ
+4|6|4|I|K|/a2DJ
+4|6|4|R|F|/a2CE
+4|6|6|d|C|
+4|6|6|d|F|
+4|6|3|d|C|
+4|6|3|1|D|
+4
+4|6|3|a|D|DudaEmmy
+1|18|1|E|K|
+4|6|3|G|P|
+1|18|6|I|K|
+4|6|5|G|P|/e5
+4|6|4|D|G|aaaaaaaaaaaaaaa
+4|6|7|C|K|/a2GM
+1|18|1|I|K|i am nice
+4|6|3|A|I|
+4|6|3|A|I|/a2IH
+4|6|3|A|I|/a2KL
+4|6|3|A|I|vc me da medo ja ouvi fala de vc
+4|6|3|A|I|/a2JJ
+4|6|3|A|I|/a2FN
+4
+1|18|4|3|C|
+1
+4|6|3|a|D|DudaEmmy
+4
+4|6|3|a|D|DudaEmmy
+4|6|3|1|D|
+4
+1|14|7|4|D|zingo
+1|14|7|Y|N|
+1|14|5|Y|P|
+2|14|7|4|D|EmoSpiderman
+2
+1
+1|17|L|a|D|tigre602
+1|17|1|K|J|
+1|16|1|J|M|
+1|16|4|1|D|
+1
+1|1|6|4|D|$5footlong
+1|1|7|d|C|
+1

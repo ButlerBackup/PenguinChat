@@ -1,0 +1,14 @@
+1|1|7|Q|G|dddddddddddd
+1|1|3|A|I|
+1
+1|5|7|Q|G|Feromonas
+1|5|4|Q|G|
+1|5|I|L|M|
+1|5|8|F|H|
+1|5|7|J|H|
+1|5|5|Q|G|
+1
+2|18|1|Q|G|Feromonas
+2|18|1|K|H|
+2|9|L|N|N|
+2

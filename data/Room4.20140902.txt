@@ -1,0 +1,175 @@
+1
+3|12|7|N|D|Verdex11
+3|12|6|O|D|
+3|12|4|M|I|
+3
+1|18|1|N|D|Test SnaiI
+1
+1|18|3|N|D|Test SnaiI
+1
+1|1|2|N|D|Duke585
+1|1|1|N|D|
+1
+1|18|2|N|D|Test SnaiI
+1
+1|13|4|N|D|Ben10
+1|13|K|G|C|
+1|13|5|X|K|
+1
+1|18|2|N|D|Xprxtr
+1
+1|1|2|N|D|Pingu47024
+1
+1|17|4|N|D|paum788
+1|17|J|G|C|
+1|17|5|G|K|
+2|18|3|N|D|Test SnaiI
+2|18|7|P|D|
+2|18|2|P|D|/a2FN
+1|17|1|G|K|hola
+2|18|2|E|F|
+1|17|6|H|H|/a2RA
+2|18|2|8|N|
+1|17|2|J|I|
+2|18|2|8|N|Greetings!
+1|17|7|B|N|
+1|13|1|B|N|
+2|18|1|I|C|
+1|13|1|B|N|que
+2|18|H|I|C|
+1|13|1|F|I|
+1|13|L|F|I|
+2|18|H|I|C|La Espanol
+1|13|L|F|I|/a2KC
+2|18|1|K|J|
+1|13|L|F|I|si
+2|18|1|K|J|English
+1|13|7|K|K|
+1|13|5|K|K|/a2HM
+2|18|8|K|L|
+1|13|5|K|K|ok
+2|18|8|K|L|Espanol La
+1|13|5|F|I|/a2IN
+2|18|1|H|M|
+1|13|5|F|I|/a2IN
+2|18|3|A|J|
+1|13|4|I|J|/a2NK
+2|18|8|A|L|/a2SI
+1|13|1|G|H|
+1|13|1|G|H|bye
+2|18|1|D|M|/a2H8
+2|18|1|D|M|/a2SM
+1|13|6|O|C|
+1
+2|18|8|H|M|
+2|18|8|H|M|Bye
+2
+2|18|4|N|D|cot121
+2
+1|13|2|N|D|FatPenguin
+1|13|3|F|F|
+1
+1|1|4|N|D|MikeTheVen
+1|1|1|G|C|
+1
+1|8|3|N|D|Burbujitas
+1
+1|17|3|N|D|Burbujitas
+1
+2|13|4|N|D|esperto
+2
+2|4|4|N|D|uniontate
+2
+1|4|6|N|D|ProLove
+1|4|3|E|H|
+1|4|6|Q|D|
+1
+1|18|2|N|D|Test SnaiI
+1
+3|9|4|N|D|ghhg
+3
+4|4|4|N|D|Maia27672
+1|18|5|N|D|Test SnaiI
+1|18|H|5|O|
+3|9|5|N|D|ghhg
+4|4|8|J|K|
+3|9|1|W|Q|
+3|9|3|U|P|
+4|4|2|J|K|/j14
+3|9|5|R|R|
+4|4|L|J|K|
+4|4|L|J|K|/e12
+1|18|L|5|O|
+1|18|L|5|O|/e1
+1|18|L|D|J|
+1|18|5|E|J|
+4|4|L|H|N|
+4|4|4|H|N|/a2DK
+1|18|H|E|J|
+4|4|4|H|N|/a2QU
+1|18|1|C|L|
+1|18|1|C|L|/a2LG
+1|18|1|7|G|/a2NA
+4|4|4|H|N|hello
+4|4|4|H|N|i m from Brazil
+4|4|4|H|N|i can not speak english
+4|4|4|H|N|eu sou do Brasil
+4|4|4|H|N|e falo portugues
+4|4|4|H|N|/a2RP
+4|4|3|9|L|
+4|4|5|9|L|/a27I
+4|4|H|9|L|
+4|4|H|9|L|/j7
+4|4|H|9|L|/a2RD
+3
+4
+1
+1|12|5|N|D|TheTrueChai
+1|12|4|W|K|
+1
+1|5|3|N|D|rock rool
+1|5|2|K|K|
+1
+1|10|3|N|D|Beatriz
+1
+1|4|4|N|D|Waddletelle
+1|4|K|N|E|
+1
+2|9|L|N|D|daisydog1
+2|9|5|W|J|
+2
+1|13|5|N|D|PPinpin518
+1
+1|9|3|N|D|megamaxwell
+1|9|2|O|H|
+1
+2|1|3|N|D|LolGuy5
+2
+1|4|4|N|D|Verdex11
+1
+1|4|4|N|D|Zanybandz
+1|4|8|F|D|
+1|4|5|R|L|
+1
+1|4|2|N|D|Parrot
+1|4|3|O|F|
+1|4|8|G|L|
+1
+1|14|4|N|D|Fruit Boot
+1|14|1|L|K|
+1
+1|17|4|N|D|Fruit Boot
+1
+1|1|4|N|D|Fruit Boot
+1|1|4|9|I|
+1|1|1|E|C|
+1
+1|14|3|N|D|Clarimber
+1|14|6|I|L|
+1|14|8|I|K|
+1|14|3|N|L|
+1|14|3|E|I|
+1
+1|10|4|N|D|lovecheese0
+1|10|5|S|I|
+1

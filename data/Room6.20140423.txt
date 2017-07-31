@@ -1,0 +1,10 @@
+2|6|3|a|D|cansada
+2|6|8|d|E|
+2
+1|1|4|a|D|angel agente
+1
+1|14|2|a|D|alec
+1
+1|4|3|a|D|alec
+1|4|8|1|K|
+1|4|8|D|N|

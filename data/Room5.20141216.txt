@@ -1,0 +1,589 @@
+2|10|3|4|D|Peppermint
+2|17|1|a|C|
+2|17|2|2|D|
+2
+2|8|7|4|D|SantaFox
+1|1|7|4|D|scorn
+2|8|7|R|E|
+1|1|7|Q|F|
+2|8|7|E|P|
+1|1|6|K|O|
+2|17|5|N|J|
+1|1|2|B|Q|
+2|17|2|N|J|/j9
+1|1|6|E|R|
+2|17|L|N|J|
+1|1|6|M|N|
+1|1|3|A|O|
+1|1|7|C|R|
+1|1|6|K|J|
+1|1|6|d|B|
+1
+2
+1|1|5|a|D|scorn
+1|1|4|A|E|
+1|17|5|S|J|
+1|17|L|E|I|
+1
+1|17|6|4|D|scorn
+1
+3|6|7|4|D|rose apple
+3|16|8|I|K|
+3
+1|6|7|4|D|rose apple
+1|6|7|R|E|
+1|16|1|L|N|
+1
+4|1|7|4|D|niceman
+4|16|6|M|K|
+4|16|3|K|I|
+4|16|4|E|J|
+4
+2|6|5|a|D|rose apple
+2|16|1|L|J|
+2|16|7|d|D|
+2
+2|16|4|a|D|rose apple
+2
+1|14|6|a|D|PChat123
+1
+1|4|7|4|D|aligator6000
+1|4|6|b|D|
+1|4|4|G|I|
+1
+1|4|7|4|D|aligator6000
+1|4|8|4|D|
+1|4|8|J|L|
+1|4|1|J|L|
+1|4|1|R|L|
+1|4|1|M|J|
+1|4|8|O|L|
+1|14|7|Q|J|
+1
+1|14|7|4|D|Stama1
+1
+1|14|7|4|D|Stama1
+1|14|2|T|O|
+1
+1|6|6|4|D|Abbylene4
+1|6|6|b|F|
+1|6|2|W|I|
+1
+1|14|1|4|D|lupames
+1
+1|14|4|a|D|lupames
+1|14|1|O|R|
+1
+2|14|8|4|D|superozan09
+1|5|7|4|D|migel77
+2|14|3|G|E|
+1|5|1|I|F|
+2|14|7|d|C|
+2|14|2|a|E|
+2|14|2|a|E|/j5
+1|5|1|I|F|q es esto
+1|5|2|R|F|
+2|14|3|a|E|/e1
+1|5|2|R|F|mi igloo
+2|14|L|a|E|
+2|14|L|a|E|/a2WJ
+2|14|I|a|E|
+1|5|3|H|I|
+1|5|8|I|C|
+2|14|5|U|I|
+1|5|7|c|C|
+1|5|2|S|I|
+1|5|3|G|I|
+2|14|3|2|D|
+2
+1|5|3|3|I|
+1|5|1|G|F|
+1|5|8|F|I|
+1|9|6|I|I|
+1|11|H|N|M|
+2|5|7|4|D|superozan09
+1|11|3|A|H|
+2
+1
+2|11|5|4|D|mojarrita 1
+2|17|1|4|E|
+2
+4|14|3|a|D|GEO1502
+4
+5|13|7|4|D|Kieran
+1|7|3|a|D|migel77
+1|7|3|D|H|
+5
+1|7|3|3|G|
+1|7|7|R|F|
+1|7|4|H|I|
+1|7|2|2|I|
+2|18|8|4|D|mojarrita 1
+2
+2|18|7|4|D|mojarrita 1
+1
+2|16|7|Q|I|
+2|16|4|N|E|
+2|16|2|D|K|
+2
+5|18|6|4|D|mojarrita 1
+5|17|1|1|D|
+5
+1|8|8|4|D|NickyBoi
+5|17|7|4|D|mojarrita 1
+1|8|L|L|I|
+5|16|7|W|H|
+5|16|8|J|L|
+5|16|1|R|D|
+5|16|1|R|E|
+3|8|6|4|D|k money
+5|16|2|G|J|
+3|8|7|4|D|
+5|16|2|E|B|
+1|8|L|L|I|what is wrong with you
+3|8|7|X|B|
+5|16|1|I|N|
+4|6|7|4|D|emmadene
+5|16|1|I|N|hey listen
+3|17|1|W|B|
+4|6|6|C|J|
+2|9|7|4|D|Patty27
+5|16|6|L|P|
+5|16|4|L|P|/a24E
+2|17|1|J|G|
+1|8|L|L|I|listen to what
+5|16|4|8|H|/a2CL
+2|17|1|E|F|
+5|16|7|N|N|
+3|17|1|X|F|
+5|16|2|N|N|zelda!!
+3|17|2|O|L|
+3|17|2|O|L|HOWD ID YOU GET THAT
+5|16|5|R|D|
+1|8|L|V|F|
+5|17|2|W|B|
+1|8|8|W|B|
+1|8|L|W|B|
+3|17|7|U|J|
+5|17|2|W|B|construyamos club penguin
+3|17|4|N|F|
+1|8|3|W|E|
+1|8|2|Y|C|
+5|17|L|W|B|
+5|17|L|W|B|club penguin
+3|17|1|N|F|como conseguiste que
+5|17|L|W|B|que ay de club penguin?
+4|6|7|C|J|EVERYONE
+3|17|2|N|F|‎como una cuenta clubpenguin ?
+1|8|H|Y|C|
+3|17|8|N|F|MOJARRITA
+3|17|5|N|F|RISPONDERE
+5|17|1|M|H|
+5|17|1|M|H|yo?
+4|6|7|L|L|
+5|17|1|M|H|que?
+4|6|4|M|J|
+1|8|1|O|J|
+1|8|8|O|J|i dont like you
+5|17|1|H|K|
+3|17|1|N|F|¿cómo conseguiste el coche?
+4|6|6|V|F|
+3|17|5|D|J|
+5|17|7|H|K|/a2NI
+4|6|6|W|F|
+5|17|1|S|G|
+5|17|1|S|G|CLIK AQUI
+5|17|1|S|G|te mostrare
+5|17|5|R|D|
+3|17|7|R|F|
+1|8|1|O|J|sure
+3|17|6|S|E|
+5|16|3|K|H|
+3|17|2|R|E|
+1|8|4|Q|K|
+3|16|1|R|E|
+1|8|3|B|J|
+5|16|7|P|G|
+3|16|2|R|J|
+5|16|1|K|I|
+5|16|4|M|K|
+1|8|7|X|B|
+3|16|2|R|J|YAAAAAS
+5|16|8|J|M|
+1|17|1|W|B|
+3|16|3|B|K|
+1|17|1|H|I|
+3|16|1|D|L|
+1|17|8|J|E|
+5|16|8|J|M|quien juega club penguin?
+6|17|L|a|D|red
+1|17|L|J|E|
+6|17|1|O|L|
+6|16|1|Q|N|
+5|16|1|L|O|
+6|17|1|U|L|
+5|16|1|L|O|pokemon trainer red
+1|17|3|F|E|
+6|17|1|U|L|lol
+1|17|7|V|B|
+1|17|1|W|B|
+3|16|5|D|L|i do not play club penguin
+1|17|1|K|H|
+6|18|1|U|K|
+1|17|5|C|C|
+6|18|6|V|M|
+3|16|8|D|L|ive been using google translate this whole time
+1|17|7|R|I|
+5|16|5|I|P|
+6|18|4|P|E|
+3|16|6|J|I|
+1|17|2|R|L|
+5|16|1|R|M|
+6|18|2|P|E|/a2Q6
+1|17|2|R|L|ew
+3|16|3|A|F|
+6|18|5|O|F|/a2M7
+1|17|1|M|K|
+3|16|1|A|I|
+5|16|1|O|F|y tu pikachu?
+6|18|1|K|J|
+3|16|8|B|L|why ew
+1|17|3|F|J|
+5|16|8|Q|J|
+6|18|3|C|N|
+3|16|2|K|L|
+1|17|2|H|K|
+5|16|2|O|L|
+6|18|7|J|M|
+6|18|7|J|M|/a2NL
+5|16|3|N|P|
+5|16|3|N|P|/a2FL
+3|16|2|K|L|i'll run u down nickyboi
+6|18|4|D|J|
+1|17|1|H|K|all u are nasty
+3|16|1|G|I|
+6|18|1|L|E|
+3|16|3|Q|J|/a2KN
+6|18|1|L|E|suprised people go on this game
+1|17|7|R|L|
+3|16|7|G|J|
+3|16|8|G|J|/a2EN
+6|18|1|L|E|pretty cool
+1|17|6|P|H|
+3|16|3|S|L|
+6|18|I|L|E|
+1|17|7|V|B|
+6|18|H|L|E|
+1|17|2|W|B|
+3|16|3|S|L|who are you red
+5|16|3|J|F|pokemon treiner red
+1|17|L|W|B|
+3|16|3|S|L|are you from orange is the new black
+3|16|4|P|L|
+1|17|L|U|B|
+3|16|4|I|I|
+1|17|5|B|G|
+3|16|7|C|K|
+6|18|H|L|E|me?
+1|17|I|B|G|
+4|6|2|Q|N|
+5|16|1|J|F|ok....POKEMON MASTER RED
+3|16|1|C|K|IT WONT LET ME MOVE
+6|18|H|L|E|orange is the new black lol idk what that is
+4|6|4|Q|M|
+5|16|7|I|E|
+3|16|2|I|K|
+3|16|2|I|K|nvm
+5|16|7|I|E|/a2IE
+1|17|I|B|G|no the other red
+2
+5
+6|18|8|O|I|
+6|18|3|N|E|/e1
+6|18|1|N|E|/e11
+6|18|3|X|Q|
+5|18|7|4|D|mojarrita 1
+6|18|6|L|D|
+3|16|5|K|F|
+5|18|4|L|F|
+3|16|2|K|F|MOJARRITA AMGO
+5|18|8|J|K|
+3|16|2|K|F|AMIGO
+6|4|1|L|D|
+6|4|1|F|L|
+6|4|L|F|L|
+5|18|1|J|K|AMIGOO
+5|18|2|M|F|
+5|18|1|H|L|
+6|4|L|F|L|hi
+5|18|1|H|L|hellow pokemon trainer red
+5|18|2|I|P|
+5|18|1|H|L|
+3|16|7|R|H|
+5|18|1|H|L|ash ketchum ...lol
+6|4|1|D|J|
+6|4|1|D|J|lolol
+3|16|1|K|D|
+6|4|3|E|L|
+3|16|1|K|D|IM DEUCIN OUT
+4|6|1|L|K|
+3|16|1|K|D|PEACE AND BLESSINGS
+4|6|8|L|K|TAKE ME TO CHURCH
+5|18|1|H|L|search in google pokemon trainer red
+6|4|8|E|L|Thanks!
+5|18|5|B|N|
+5|18|7|B|N|/e7
+5|18|5|T|G|
+1|17|5|H|J|
+6|4|8|E|L|red from pokemon
+5|17|1|R|J|
+1|17|4|C|E|
+5|17|1|R|J|españl
+5|17|8|H|M|
+5|17|8|H|M|yes
+6|4|8|E|L|play as him in firered and pokemon red
+5|17|8|H|M|pokemon trainer red
+6|4|8|E|L|battle him in silver gold and soul silver heartg
+5|17|1|H|M|YES
+6|4|8|E|L|top of the mtn
+5|17|1|H|M|you play pokemon?
+6|4|1|E|L|yes
+4|6|4|E|H|
+5|17|L|H|M|
+6|4|1|E|L|not as much as i did when i was young
+5|17|H|H|M|/a2UL
+1|17|8|K|H|
+6|4|1|E|L|but I recently bought omega ruby
+5|17|H|H|M|/a2IN
+1|17|8|K|I|
+6|4|1|E|L|:P
+5|17|H|H|M|alpha saphire
+1|17|1|K|I|/e8
+5|17|H|H|M|you have a 3ds?
+1|17|4|A|H|
+6|4|1|E|L|yessir
+1|17|6|K|J|
+5|17|H|H|M|/a2JG
+6|4|8|E|M|
+1|17|1|X|D|
+5|17|H|H|M|wow
+1|17|1|W|B|
+1|17|1|Y|N|
+1|17|4|R|E|
+1|17|3|R|E|/a2MC
+1|17|1|K|B|/a2MD
+1|17|5|K|F|/a2JC
+1|17|5|E|C|
+1|17|7|T|B|
+6|4|K|E|M|
+1|17|1|W|B|
+1|17|L|W|B|
+1|17|1|P|L|
+1|17|3|1|C|
+4
+3
+1
+6|4|K|E|M|/e1
+5|17|2|H|M|
+6|4|K|E|M|/a2C8
+6|4|K|O|L|/a2QB
+5|17|2|H|M|i have 14 yeards old and you?
+6|4|L|J|H|
+6|4|L|J|H|17
+5|16|8|M|N|
+5|16|8|D|N|
+5|16|8|D|N|wow
+6|4|L|J|H|I just visited this cause vortex iis my friend
+5|16|8|D|N|master red
+1|17|3|a|D|NickyBoi
+6|4|L|J|H|close friend
+1|17|3|B|G|
+5|16|6|D|N|/a2aE
+1|17|3|3|D|
+1
+5|16|1|K|K|
+5|16|1|K|K|bay red
+6|4|L|J|H|ah
+6|4|L|J|H|well I gtg
+5|16|8|K|K|I have to go
+6|4|L|J|H|cya nice chatting :)
+5|16|1|K|K|still playing pokemon
+5|16|4|K|K|/e1
+5|16|1|K|K|good bay
+5|16|3|2|D|
+5
+6
+5|18|8|4|D|mojarrita 1
+5
+6|10|6|4|D|mojarrita 1
+6
+6|10|7|4|D|mojarrita 1
+6
+1|4|1|4|D|andy64
+1|16|2|I|N|
+1|16|4|6|J|
+1|16|7|R|F|
+1
+1|9|7|4|D|Christian
+1|16|3|3|C|
+1
+1|17|3|a|D|Christian
+1
+4|18|1|4|D|lyly3265
+4
+4|1|6|4|D|tiger1970
+4|1|4|L|Q|
+4
+5|17|L|a|D|lyly3265
+5|16|2|L|I|
+5|16|7|c|E|
+5
+6|1|7|4|D|tiger1970
+6|16|1|I|N|
+5|16|1|a|D|lyly3265
+6
+5|16|3|R|E|
+5|16|6|V|G|/a2dE
+5|17|1|R|D|
+5|17|1|R|D|/a2bA
+5|17|2|X|B|
+5|17|8|X|B|/a2bB
+5|17|8|d|D|
+5
+5|17|3|a|D|lyly3265
+5|17|L|X|B|
+5|16|1|P|J|
+5|17|1|P|B|
+5|17|5|N|F|
+5|18|1|C|H|
+5
+1|10|3|a|D|Maddycat04
+1
+1|14|6|4|D|garufa6
+1
+1|16|1|a|D|garufa6
+1|18|1|N|H|
+1|18|2|E|D|
+1
+2|6|7|4|D|olaf895
+2|6|7|b|C|
+2
+2|6|7|4|D|olaf895
+2
+1|14|2|4|D|mojarrita 1
+1|14|2|4|D|
+1
+1|1|5|a|D|emanue981
+1
+2|7|8|4|D|superbuddy2
+2|7|5|R|F|
+2|7|3|d|C|
+2
+1|6|5|a|D|ceelia89898
+1|6|2|T|H|
+1
+2|7|7|4|D|superbuddy2
+2
+1|13|7|4|D|adi1234567p
+1|13|1|c|E|
+1
+1|1|8|4|D|Daivis
+1
+1|4|7|4|D|nickolas12
+1
+1|17|L|a|D|Pufflecobra0
+1
+1|13|7|4|D|tybuscus
+1|17|7|O|I|
+1
+1|16|7|a|D|tybuscus
+1|16|3|Z|B|
+1|16|2|5|F|
+1
+1|11|3|a|D|Aidan
+1
+1|11|7|4|D|Aidan
+1
+1|8|2|a|D|brownbrown
+1|17|2|R|F|
+1|17|2|b|E|
+1
+1|8|7|4|D|alowisious
+1|8|3|B|H|
+1
+1|14|6|4|D|sinon77
+1|14|3|P|N|
+1|14|3|W|P|
+1|11|1|N|H|
+1
+1|11|3|a|D|sinon77
+1
+1|11|7|4|D|sinon77
+1
+1|13|6|4|D|betinho
+1
+2|5|8|4|D|mojarrita 1
+2
+2|5|7|4|D|mojarrita 1
+2|16|5|F|L|
+2|17|1|6|F|
+2
+2|8|6|4|D|Chica xD
+2|8|8|4|D|
+2|8|3|R|F|
+2|8|6|N|F|
+2
+1|1|7|4|D|Josifine957
+1
+2|13|7|a|D|Abestorrulo
+2|13|8|c|G|
+2
+2|13|5|4|D|Abestorrulo
+2
+1|14|7|4|D|NACHO7097
+1|14|7|R|C|
+1|14|2|Y|B|
+1
+1|4|7|4|D|KartKar
+1|4|1|K|I|
+1|4|2|d|B|
+1|4|3|D|K|
+1
+1|10|7|4|D|taylor 12
+1|16|8|P|H|
+1
+2|8|7|4|D|Madison8933
+2
+3|18|7|4|D|lolblah3451
+3|18|5|W|C|
+3|18|1|N|F|
+3
+1|14|8|4|D|iiRyan
+1|14|7|6|G|
+1
+1|8|3|a|D|7h1n00dl6s
+1|8|5|K|C|
+1
+1|18|1|4|D|lolblah3451
+1|17|5|Q|K|
+1|16|H|N|K|
+1
+2|1|7|4|D|Jose Marie
+2
+1|18|5|4|D|lolblah3451
+1|16|6|d|D|
+1
+1|1|7|4|D|ceelia89898
+1|1|1|d|C|
+1|1|6|b|D|
+1|1|3|d|C|
+1
+1|18|2|4|D|Jose Marie
+1
+1|4|3|4|D|ggfe
+1|4|5|I|K|
+1
+1|8|L|4|D|HollyBelle
+1
+1|11|4|a|D|PONYCORN
+1

@@ -1,0 +1,327 @@
+1|4|7|4|D|Super Guy
+1|4|3|4|E|
+1
+1|12|7|4|D|Helen 2k5
+1|12|7|d|C|
+1|12|3|1|C|
+1
+1|4|8|4|D|kkkkkk
+1
+1|10|1|4|D|gabrielle26
+1|10|H|L|F|
+1|10|K|D|O|
+1|10|L|b|D|
+1|17|L|X|H|
+1|17|3|1|D|
+1
+1|14|2|4|D|sup123
+1|14|5|d|C|
+1|14|5|H|R|
+1
+1|12|8|4|D|Helen 2k5
+1
+1|12|3|a|D|Helen 2k5
+1
+1|12|7|4|D|Helen 2k5
+1
+1|12|6|4|D|Helen 2k5
+1
+2|18|1|4|D|Christian
+2|16|7|K|E|
+2|16|7|K|H|
+2|16|4|I|J|
+2|16|3|A|G|
+2
+1|14|8|4|D|kittyhawk
+1
+1|5|7|4|D|Christian
+1|16|2|N|F|
+1|16|2|L|J|
+1|16|L|J|M|
+1|16|H|R|D|
+1|17|L|M|G|
+1|17|7|H|M|
+1|17|L|J|M|
+1|17|4|D|H|
+1
+1|1|7|4|D|norge
+1|17|1|K|F|
+1|16|L|O|O|
+1
+1|18|4|a|D|norge
+1|17|1|B|I|
+1|1|1|E|L|
+1
+1|4|3|a|D|alitastic
+1|4|2|X|D|
+1|4|3|A|F|
+1
+1|1|8|4|D|*Pin Wan*
+1|17|3|V|F|
+1
+1|1|7|4|D|*Pin Wan*
+1|1|6|E|D|
+1|1|2|O|M|
+1|17|L|N|N|
+1|17|4|L|H|
+1
+1|4|6|4|D|
+1|4|7|I|I|
+1|4|6|4|D|joni15
+1|4|7|C|I|
+1|4|8|G|I|
+1|16|7|J|H|
+1|16|5|J|G|
+1|16|3|O|J|
+1|16|3|H|J|
+1
+1|4|7|4|D|joni15
+1|4|7|U|K|
+1|4|3|2|B|
+1
+1|1|7|4|D|epic
+1|1|7|2|F|
+1
+1|1|7|4|D|epic
+1|1|7|d|C|
+1
+2|18|7|4|D|Norge
+2|16|7|K|K|
+1|5|8|4|D|epic
+1
+2
+2|18|6|4|D|Norge
+2|18|1|D|G|
+2
+4|12|6|4|D|Sophi-Chan
+4|12|1|H|D|
+4|12|7|W|B|
+4|12|3|7|F|
+4
+4|12|3|a|D|Sophi-Chan
+4|12|3|E|R|
+4
+2|13|7|4|D|Norge
+2|13|7|4|D|
+2|13|7|K|F|
+1|12|3|a|D|Sophi-Chan
+2|13|3|4|D|
+1|12|5|R|F|
+2|17|3|N|H|
+2|17|3|N|H|Hello
+1|12|L|R|F|
+1|12|1|Q|G|
+2|17|2|N|H|How are you?
+1|12|2|Q|G|hi
+2|17|6|N|K|
+1|12|2|Q|G|Where do you think the hat ?
+1|12|1|L|H|
+2|17|2|N|K|Do you know about Waffle Island?
+1|12|1|L|H|I'm brasilian
+2|17|1|H|I|
+3|1|7|4|D|epic
+1|12|1|L|H|lol
+3|1|8|I|I|
+1|12|2|J|L|
+2|17|1|H|I|It's a cool game where you can be a waffle
+1|12|6|J|L|Where do you think the hat ?
+2|17|8|F|L|
+1|12|4|J|L|yes
+3|1|1|I|I|how do you get items
+3|1|6|B|L|
+3|1|7|B|L|
+2|17|8|F|L|Is the game
+1|12|5|J|L|I also loved
+1|12|H|J|L|
+3|1|1|I|L|
+3|1|8|N|J|
+1|12|H|J|L|Where do you think item ?
+2|17|1|D|J|
+3|1|H|N|J|
+1|12|I|I|K|
+2|17|I|D|J|
+3|1|2|H|K|
+1|12|J|I|K|
+3|1|I|D|M|
+1|12|J|I|K|in?
+3|1|4|D|G|
+1|12|5|A|I|
+2|18|1|Z|E|
+3|1|4|H|G|
+2|18|2|S|B|up here
+3|1|7|S|J|
+3|1|5|P|B|
+1|12|7|A|I|Where do you think this hatw
+1|12|8|A|I|Where do you think this hat ?
+3|17|1|P|B|
+1|12|7|M|F|
+3|17|1|M|F|
+2|18|1|T|F|
+3|17|1|P|C|
+3|17|2|W|F|
+2|16|2|T|J|
+2|16|5|N|I|
+3|17|3|R|E|
+2|16|2|M|L|
+3|17|2|W|B|
+1|12|3|H|F|
+3|17|2|W|B|how do you get the other items
+3|17|1|K|G|
+1|12|4|F|G|
+3|17|4|Q|M|/a2JL
+1|12|5|I|I|
+1|12|1|I|I|yes
+3|17|J|Q|M|
+3|17|L|Q|M|
+2|16|1|M|L|You can't
+3|17|1|Q|M|
+3|17|1|K|L|
+1|12|2|F|L|
+1|12|5|E|H|
+3|17|4|O|K|
+2|16|1|L|H|
+3|17|8|J|J|
+2|16|1|L|H|Hey, do you want to play on Waffle Island?
+3|17|8|J|G|
+3|17|5|N|H|
+2|16|1|J|I|
+1|12|8|E|H|no
+1|12|8|L|N|
+1|12|3|R|F|/a2GF
+2|16|8|J|I|It's a free virtual world like club penguin
+1|12|6|I|H|
+2|16|2|J|I|
+1|12|7|V|B|
+1|12|2|V|B|/a2NE
+1|12|2|U|H|
+2|16|5|T|I|
+2|16|2|T|I|/a2B7
+2|16|2|M|L|/j3
+2|16|1|E|L|
+1|12|3|U|H|places like the hat ?
+1|12|2|U|H|places like the hat?
+1|12|4|V|C|
+1|12|8|R|J|
+1|12|2|Q|M|
+1|12|2|O|O|/a2SJ
+1|12|1|Q|N|
+2|16|8|E|L|I'm going to play on Waffle Island now
+2|16|5|K|M|
+3|17|2|N|H|same
+1|12|4|C|B|
+2|16|7|H|M|
+2|16|2|R|J|
+1|12|8|E|I|
+2|16|3|I|L|
+2|16|3|I|L|It's beta testing there!
+2|16|3|I|L|With a rare item
+2|16|6|J|G|
+1|12|8|E|I|IT
+1|12|8|E|I|it
+3|17|4|I|J|
+1|12|7|K|L|
+1|12|1|S|L|
+2|16|2|F|M|
+2|16|2|F|M|Epic, you on waffle island yet?
+3|17|7|N|K|
+1|12|3|A|G|
+3|17|2|L|J|
+1
+3|17|2|K|K|
+3|17|2|K|K|i cant
+2|16|6|F|M|
+3|17|2|K|K|internet slow :(
+2|16|8|F|M|oh
+3|17|5|C|D|
+2|16|8|F|M|Exit out of this and we will meet on ther
+3|17|8|G|F|
+2|16|6|H|E|*there
+3|17|1|J|L|
+3|17|1|J|L|ok
+2|16|1|G|K|
+2|16|1|G|K|:)
+2|16|6|G|K|/e1
+3
+2
+1|18|8|4|D|Christian
+1
+1|1|7|4|D|epic
+1|16|4|N|F|
+1|16|8|R|K|
+1|16|5|R|D|
+1|16|4|S|I|
+1|16|4|M|J|
+1|16|L|8|C|
+1
+1|5|7|4|D|michael 336
+1
+1|5|8|4|D|michael 336
+1|16|7|R|I|
+1|16|1|K|C|
+1|16|1|I|F|
+1
+2|6|8|4|D|leila1134
+2|6|7|c|C|
+2|6|3|N|M|
+2|6|5|F|P|
+2|6|1|2|B|
+2|6|3|1|C|
+2
+2|6|4|a|D|leila1134
+2
+2|9|8|4|D|gogeta 1134
+2|9|8|Q|R|
+2|9|7|V|G|
+2
+1|1|7|4|D|Ronaldo Fan
+1|1|3|2|C|
+1
+1|1|1|a|D|Ronaldo Fan
+1
+2|8|5|a|D|violeta138
+2|8|3|1|E|
+2
+2|8|7|4|D|violeta138
+2
+2|8|8|4|D|violeta138
+2
+1|13|7|4|D|paret480
+1|13|7|4|D|
+1|13|7|d|C|
+1
+1|1|3|a|D|p222
+1
+2|4|3|a|D|kLizzard
+2|4|3|B|D|
+2|4|8|B|M|
+3|10|8|4|D|Lizzie G
+3|10|7|I|P|
+3|10|8|B|G|
+3|10|1|B|G|/a2OD
+3
+1|1|8|4|D|Djonnyg21
+1|1|3|E|K|
+2
+1|1|3|C|L|/a2CM
+1|1|7|8|L|
+1|1|6|F|H|
+1|1|2|b|C|
+1|1|5|2|K|
+1
+5|14|7|4|D|dylan9721
+5|14|4|R|G|
+5
+1|6|7|4|D|edfgh
+1
+1|13|7|4|D|64371k
+1|16|1|9|B|
+1
+1|17|8|4|D|64371k
+1
+1|13|7|4|D|64371k
+1
+1|16|7|a|D|64371k
+1|17|8|E|F|
+1
+1|9|7|4|D|Pingpong824
+1

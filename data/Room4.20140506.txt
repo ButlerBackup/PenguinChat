@@ -1,0 +1,512 @@
+1|4|2|N|D|penguinraro
+1|4|3|O|C|
+1
+2|17|5|N|D|harry192
+2
+1|18|4|N|D|bk13demais1
+1|18|5|O|J|
+1
+1|5|2|N|D|wendellindo
+1|5|1|b|O|
+1
+1|4|3|N|D|Guisilva12
+1|4|1|H|I|
+1
+2|13|3|N|D|victory
+1|17|5|N|D|Guisilva12
+1
+2|13|5|N|D|
+1|17|4|N|D|Guisilva12
+1|17|1|O|I|
+1|17|1|O|I|Ei
+2|13|8|G|C|
+1|17|1|O|I|visita lá
+2|13|8|G|C|oque
+1|17|4|J|F|
+2|13|8|L|I|
+2|13|8|L|I|como
+1|17|1|X|P|
+1|17|1|X|P|ESQUEC
+1|17|3|X|P|KK
+2
+1|17|3|X|P|TEM FACEBOOK
+1
+2|18|7|N|D|victory
+2|18|K|O|H|
+1|18|4|N|D|Guisilva12
+2|18|K|7|G|
+1|18|7|6|H|
+1|18|7|W|N|TA AI
+2|18|K|7|G|zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+1|18|3|9|F|KKKKKKKKK
+2|18|K|7|G|oi
+2|18|L|7|G|
+2|18|7|O|D|
+2
+1|18|7|F|J|
+1|14|1|L|E|
+1
+2|1|4|N|D|victory
+2|1|1|P|C|
+2
+1|14|3|N|D|Guisilva12
+1
+3|11|5|N|D|flvt
+3
+4|5|3|N|D|art2h1
+4|5|7|c|R|
+4|5|7|V|K|
+4|5|7|V|H|
+4|5|3|I|D|
+4|5|1|G|H|
+4
+1|1|3|N|D|manojo2002
+1
+1|18|5|N|D|waiwai123
+1|18|3|O|G|
+1
+1|4|4|N|D|chrisaca
+1
+2|14|1|N|D|tanpinha7
+2
+2|14|4|N|D|vinicius159
+2|14|4|N|D|
+2
+1|9|4|N|D|sK1PPY1
+1|18|1|J|K|
+1
+2|13|4|N|D|TestTest
+2|13|5|N|D|
+1|7|3|N|D|super chamas
+1|7|8|G|C|
+1|7|K|G|C|
+1|7|K|G|C|/e2
+1|7|8|L|J|
+2|13|1|N|D|oi
+2|13|2|O|K|
+1|7|1|L|J|oi
+2|13|1|O|K|oii
+1|7|1|L|J|vc tem
+2|13|2|O|K|vc tem roupas?
+1|7|1|L|J|cp normal?
+2|13|2|O|K|ss
+1|7|1|L|J|não
+1|7|1|L|J|isto
+2|13|2|O|K|eu tenho
+1|7|1|L|J|é uma
+1|7|1|L|J|porcaria
+2|13|2|O|K|cp normal
+2|13|4|O|K|/a2LH
+1|7|I|L|J|
+2|13|4|O|K|eu sei
+2|13|4|O|K|kk
+1|7|K|L|J|
+1|7|K|L|J|como chama?
+2|13|4|H|I|
+2|13|4|H|I|consegui
+2|13|1|K|L|
+1|7|K|L|J|/a27B
+2|13|1|K|L|que não é meu
+1|7|K|L|J|/a2RF
+2|13|1|K|L|vou criar contas
+2|13|1|K|L|olha
+1|7|L|L|J|/a2TM
+1|7|L|L|J|o que
+2|13|2|Q|K|
+2|13|2|Q|K|usei esse
+2|13|2|Q|K|kk
+2|13|2|O|M|
+2|13|2|O|M|meu nome no cp é
+1|7|7|K|N|
+2|13|2|O|M|aa
+1|7|H|N|N|
+2|13|2|O|M|vou te darr uma dica
+2|13|2|O|M|termina com 31
+1|7|J|N|N|
+1|7|J|N|N|o q
+2|13|4|P|O|
+1|7|J|N|N|hm
+2|13|4|P|O|/e1
+2|13|1|P|O|meu nome
+1|7|J|N|N|se calhar
+2|13|1|P|O|vc me conhece
+1|7|J|N|N|pera
+2|13|1|P|O|super chamas
+1|7|J|N|N|eu sei
+2|13|1|P|O|outra dica
+1|7|J|N|N|peraa
+2|13|1|P|O|Mimmo2020
+1|7|J|N|N|dexa lembrar
+1|7|J|N|N|eu sei
+1|7|J|N|N|dexa eu pensar
+1|7|J|N|N|hm
+1|7|J|N|N|n lembro
+1|7|J|N|N|/e1
+1|7|K|N|N|
+1|7|K|N|N|vc é o?
+1|7|K|N|N|pepedroca31?
+1|7|K|N|N|hm?
+1|7|K|N|N|oi?
+1|7|K|N|N|oi
+1|7|K|N|N|caralho
+1|7|K|N|N|bem
+1|7|K|N|N|oi
+1|7|K|N|N|epa
+1|7|K|N|N|apaaaaaaaaaaaa
+1|7|K|N|N|/a2QN
+1|7|8|K|L|/a2PO
+1|7|7|K|L|/a2RR
+1|7|7|K|L|/a2NN
+1|7|7|K|L|/a2PR
+2
+1
+1|7|6|N|D|super chamas
+1
+1|18|2|N|D|darkwen
+1|18|K|7|G|
+1
+1|18|3|N|D|darkwen
+1
+1|18|3|N|D|pambo manu
+1
+1|5|4|N|D|dsew
+1
+1|10|2|N|D|Mimi99688
+1|10|8|8|F|
+1
+2|13|4|N|D|Tery
+2
+1|12|L|N|D|High Star
+1
+1|4|3|N|D|Bleni
+1
+2|17|5|N|D|beta teste
+1|17|7|N|D|Bleni
+1|17|1|H|C|
+2|17|3|J|K|
+1|17|K|H|C|
+1|17|K|H|C|/e2
+2|17|5|O|H|
+2|17|1|M|H|
+2|17|1|M|H|um cafe
+1|17|K|G|H|
+1|17|1|O|K|
+1|17|1|O|K|2 cafes
+2|17|3|X|O|
+1|17|1|E|C|
+2|17|3|M|N|
+2|17|4|M|N|/e1
+1|17|K|E|C|
+2|17|6|G|H|
+2|17|8|Z|R|
+2|17|3|7|R|
+2|17|4|2|M|
+1|17|K|E|C|vamos no club penguin original
+2|17|8|c|R|
+2|17|3|K|N|
+2|17|3|K|N|sim
+3|10|4|N|D|Cadence
+3|10|4|L|O|
+3
+1|17|K|E|C|cadence :O
+1|17|K|E|C|/a2NM
+1|17|K|F|N|cadence
+1|17|J|H|O|
+1|17|K|H|O|
+2|17|L|D|Q|
+1|17|5|J|N|
+3|18|3|N|D|Cadence
+1|4|1|J|N|
+3|18|J|P|L|
+1|4|1|M|F|pera
+3|18|2|P|L|/a2JH
+1|4|1|M|F|como fez isso
+3|18|2|P|L|/a2IB
+1|4|8|M|L|
+1|4|8|M|L|como
+3|18|L|P|L|
+1|4|1|M|L|what?
+3|18|L|P|L|facil
+1|4|1|M|L|how?
+1|4|1|M|L|como
+3|18|L|P|L|/e2
+3|18|L|P|L|clica ali
+3|18|L|P|L|/a28C
+1|4|8|M|L|onde
+3|18|L|P|L|na ferramenta
+2|17|7|J|N|/a2QI
+3|18|L|P|L|aki embaixo
+2|17|8|P|O|
+3|18|1|R|O|
+1|4|1|M|L|ta
+3|18|I|U|P|
+2|17|1|P|O|ae faz oque
+3|18|H|U|P|
+3|18|H|U|P|dps
+2|17|7|P|O|/a2VR
+3|18|H|U|P|nao tem a palavra
+1|4|1|M|L|e depois
+3|18|H|U|P|penguin?
+1|4|1|M|L|ok
+2|17|7|P|O|sim
+3|18|H|U|P|clica no n
+2|17|6|R|Q|/a2RM
+3|18|H|U|P|/e2
+2|17|2|R|Q|valeu
+1|18|2|N|M|
+1|18|4|N|M|/e1
+1|18|L|K|K|
+3|18|H|U|P|/e1
+1|18|1|O|N|
+1|18|1|O|N|sabe de mais segredos
+3|18|I|7|H|
+2|17|2|R|Q|não consegui
+1|18|I|O|N|
+3|18|K|7|H|
+2|17|4|I|M|
+1|18|K|O|N|
+3|18|K|F|P|
+2|17|7|8|F|
+1|18|K|O|N|no ultimo n
+3|18|I|F|P|
+3|18|I|F|P|vai na ferramenta dnv
+1|18|4|B|K|
+2|18|1|8|F|
+3|18|I|F|P|e dps em edit penguin
+2|18|8|K|N|
+3|18|I|F|P|e!
+2|18|2|K|M|
+3|18|7|J|H|
+1|18|8|B|K|ok
+2|18|2|3|Q|
+3|18|8|J|H|fui
+2|18|L|H|K|
+3|18|6|N|C|
+3
+1|18|8|B|K|n da
+2|18|6|H|K|/a2LG
+1|18|8|B|K|pera
+2|18|5|L|L|/a2KE
+1|18|1|M|G|
+2|18|L|I|L|
+1
+2|18|8|L|L|
+2
+3|8|5|N|D|Cadence
+2|18|6|N|D|beta teste
+3
+2|18|2|I|L|
+2|18|5|N|H|/a2KD
+2|18|5|N|O|am
+2|18|4|D|I|
+2
+1|5|2|N|D|pinguin15218
+1
+1|12|4|N|D|sasapink12
+2|10|3|N|D|verito
+1
+2|10|8|G|I|
+2
+1|12|5|N|D|mega
+1
+1|1|2|N|D|Jacomie
+1|1|4|b|R|
+1
+1|12|5|N|D|uned88
+1
+1|13|5|N|D|aekj
+1|13|3|U|K|
+1
+1|13|6|N|D|aekj
+1
+2|14|3|N|D|dj dunga11
+2
+1|13|4|N|D|aekj
+1
+1|13|4|N|D|aekj
+1
+3|12|4|N|D|cecejones
+2|14|4|N|D|dj dunga11
+2|14|3|N|M|
+3|12|1|D|P|
+1|13|4|N|D|aekj
+3|12|8|D|P|/j13
+2|14|3|U|G|
+1|13|3|I|O|
+1|13|3|I|O|chegamos
+2|14|I|U|G|
+3|12|L|D|P|
+3|12|L|D|P|/e1
+1|13|8|7|G|
+3|12|L|D|P|siim :)
+1|13|K|7|G|
+3|12|3|9|E|
+1|13|K|7|G|/e2
+3|12|2|9|E|/a28I
+1|13|K|7|G|56656
+3|12|2|9|E|/e1
+1|13|K|7|G|da para falar numero
+3|12|2|9|E|123
+1|13|K|7|G|22
+1|13|K|7|G|33
+3|12|2|9|E|siim
+1|13|K|7|G|123456789
+2|14|3|F|I|
+1|13|K|7|G|YES
+2|14|3|9|H|
+3|12|2|9|E|bem legal ne
+2|14|J|9|H|que voces vão querer?
+1|13|K|7|G|KK
+2|14|4|A|G|
+1|13|K|7|G|YES
+3|12|H|9|E|
+3|12|H|9|E|um cafezinho quente
+2|14|7|V|O|
+1|13|K|7|G|MY IS COFE
+2|14|1|S|F|
+2|14|2|S|F|ok
+2|14|K|U|J|
+3|12|H|9|E|kk
+2|14|J|U|J|
+2|14|J|U|J|/e2
+1|13|K|7|G|KK
+1|13|K|7|G|NÃO SEI FALAR INGLES
+2|14|J|U|O|
+3|12|H|9|E|kkk
+1|13|K|7|G|não sei falar ingles
+2|14|1|B|H|
+2|14|3|B|H|aqui esta
+1|13|K|7|G|direto
+1|13|K|7|G|kkk
+2|14|I|B|H|
+1|13|K|7|G|valeu
+2|14|I|B|H|bom vai ser por conta da casa
+2|14|I|B|H|/e2
+3|12|H|9|E|obg
+1|13|K|7|G|/e1
+2|14|I|T|F|
+2|14|3|U|H|
+1|13|K|7|G|perai
+1|13|K|7|G|aqui
+2|14|4|K|K|
+1|13|K|7|G|pode falar
+3|12|H|9|E|/e7
+2|14|4|L|I|
+1|13|K|7|G|deixa
+2|14|2|L|I|sera que da pra falar palavrão?
+2|14|2|L|I|vou ver
+1|13|K|7|G|/e5
+2|14|2|L|I|filho da puta
+2|14|2|L|I|da
+1|13|K|7|G|não
+1|13|K|7|G|lol
+2|14|4|L|I|/e1
+1|13|K|7|G|/a2NJ
+1|13|K|7|G|/a2MF
+2|14|1|L|I|porra
+3|12|H|9|E|vamos  no dance club
+1|13|K|7|G|/a2MJ
+3|12|8|G|J|
+1|13|K|7|G|/e9
+3|12|1|G|J|/a2IC
+1|13|K|7|G|/a2KG
+3|12|1|G|J|/a2JJ
+2|14|3|P|N|
+2|14|2|P|N|/a2TJ
+1|13|K|7|G|/a2EL
+3|12|1|8|H|/a2NJ
+2|14|2|P|N|/a2E6
+1|13|K|7|G|/a2DK
+3|12|7|8|H|/a2NM
+1|13|4|A|I|/a27I
+2|14|2|P|N|/a2EK
+3|12|7|I|H|
+1|13|4|A|I|/a29E
+2|14|K|P|N|
+2|14|K|P|N|/a2ID
+1|13|4|F|K|/a2AH
+3|12|4|O|D|
+3
+1|13|8|J|J|/a2RP
+2|14|K|P|N|/a2MI
+1|13|8|J|J|/a2OL
+1
+2|14|7|O|D|
+2
+1|13|4|N|D|aekj
+1
+1|14|3|N|D|Dinholuis
+1|14|L|I|N|
+1
+3|10|2|N|D|cecejones
+3|10|H|G|C|
+4|14|5|N|D|dj dunga11
+4|14|1|E|C|
+4|14|K|E|C|
+3|10|L|G|C|/e2
+4|14|K|E|C|tinha bugado
+4|14|K|E|C|/e1
+3|10|H|G|C|
+3|10|H|G|C|/e7
+4|14|K|E|C|/e7
+4|14|K|E|C|posso perguntar uma coisa
+3|10|H|G|C|pode]
+4|14|K|E|C|quantos amigos voce tem no cp de hoje em dia?
+3|10|H|G|C|520
+3|10|H|G|C|e vc
+4|14|K|E|C|/e1
+4|14|K|E|C|não sou muito beta
+4|14|K|E|C|no cp
+3|10|H|G|C|vc joga cp desde de quando?
+4|14|K|E|C|eu comesei a jogar na festa da operação puffle
+4|14|K|E|C|/e4
+3|10|H|G|C|/e4
+3|10|H|G|C|u foi
+3|10|H|G|C|que foi
+4|14|K|E|C|queria ser beta no cp de hoje en dia
+4|14|K|E|C|/e4
+3|10|H|G|C|que?
+4|14|K|E|C|bom eu vou pasear um poco
+4|14|K|E|C|tchau
+4
+3
+1|12|6|N|D|cecejones
+1
+1|12|4|N|D|cecejones
+1
+1|12|4|N|D|bern
+1|12|6|E|L|
+1
+1|13|3|N|D|brianjpjogo
+1
+1|13|6|N|D|pedrolegal
+1|13|5|N|D|
+1
+2|14|2|N|D|tomas16177
+2|14|8|E|H|
+2|14|2|I|I|
+2|14|8|C|J|
+2|14|6|N|C|
+2
+1|9|L|N|D|gsari1000
+1|9|5|O|L|
+1
+2|17|3|N|D|caradofoguet
+2
+2|17|6|N|D|caradofoguet
+2|17|3|8|F|
+2|17|4|U|L|
+2|17|4|S|H|
+2
+1|4|3|N|D|PenyPeng
+1
+2|1|3|N|D|linolino23
+2|1|8|K|N|
+2|1|5|N|F|
+2
+2|1|2|N|D|linolino23
+2
+1|14|2|N|D|putinha
+1
+1|12|2|N|D|moshilina345
+1

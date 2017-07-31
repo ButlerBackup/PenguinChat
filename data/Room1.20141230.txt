@@ -1,0 +1,17 @@
+1
+1|13|1|K|L|DEAD
+1|13|4|K|L|/a2KM
+1|13|4|N|N|/a2KL
+1|13|6|S|F|
+1|13|2|S|F|/j6
+0|1|1|I|D|No, not funny at all.
+1|13|L|S|F|
+1|13|L|S|F|/e1
+0|1|1|C|C|( ͡° ͜ʖ ͡°)
+1|13|H|S|F|/a2FO
+1|13|H|S|F|/e11
+1|13|H|I|K|
+1|13|4|I|K|/a2DD
+1|13|4|I|K|im being forced to get off
+1|13|4|O|M|/e3
+0|1|1||I|/e3

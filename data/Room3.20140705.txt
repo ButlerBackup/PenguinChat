@@ -1,0 +1,204 @@
+1|4|8|Q|G|technich
+1|4|3|J|G|
+1
+1|17|7|Q|G|waddle
+1|17|2|Q|G|
+1|17|2|M|M|
+1
+1|18|1|Q|G|waddle
+1|18|2|J|I|
+1
+1|18|8|Q|G|hi1234
+1|18|4|M|J|
+1
+1|13|2|Q|G|pangui902
+1|13|7|U|J|
+1
+1|18|1|Q|G|Pingu47024
+1
+1|18|7|Q|G|Pingu47024
+1
+1|1|1|Q|G|Penguin5664
+1|1|1|Q|G|
+2|6|1|Q|G|Cadence 56
+2|6|5|J|E|
+2|6|7|K|G|
+2|6|6|M|F|
+1|1|2|Q|G|Hey, Cadence 56!!!
+1|1|2|G|L|
+2|6|5|A|G|
+1|1|2|M|J|
+2|6|8|B|F|
+1|1|2|M|J|Esto no es divertido, o si??
+1|1|4|D|I|
+1|1|3|C|G|
+2|6|8|B|F|quema...!QUEMA¡
+1|1|3|E|F|/a2BI
+2|6|4|J|J|
+1|1|3|E|F|AHHHHHHHHHHHHH
+2|6|6|J|J|/e4
+2|6|3|J|J|/e3
+1|1|6|B|F|
+2|6|3|D|K|
+2|6|J|A|K|
+2|6|J|A|K|
+1|1|1|B|F|Hola...
+1|1|5|B|G|
+2|6|J|A|K|yo prefiero ver...no acercarme
+2|6|J|A|K|/e10
+2|6|J|A|K|/e3
+1|1|1|B|G|Ahhh!! Quema!!
+1|1|3|O|J|
+1|1|3|O|J|/e4
+1|1|3|E|G|
+1|1|1|8|L|
+2|6|5|A|M|
+1|1|J|8|L|
+2|6|2|8|J|
+2|6|I|8|J|
+2|6|J|8|J|
+1|1|J|8|L|Eh... Que pasa??, Cadence 56.
+1|1|J|B|N|
+1|1|I|A|L|
+1|1|I|A|L|/a298
+1|1|I|A|L|Eh... Cadence 56.Quiero apagar ese tonto fuego!!
+2|6|J|8|J|no acer.....
+1|1|1|A|I|
+1|1|J|C|L|
+2|6|5|Q|F|
+2
+1|1|2|N|J|
+2|6|5|Q|G|Cadence 56
+1|1|7|E|G|
+2|6|2|Q|L|
+1|1|1|A|G|
+2|6|2|Q|L|hola nuevamente
+1|1|H|A|G|
+1|1|K|A|G|
+1|1|K|A|G|Hola.
+2|6|3|Q|L|no.....!CUIDADO¡
+1|1|K|A|G|Cadence 56...
+2|6|3|B|J|
+1|1|K|A|G|Que.. que??
+2|6|6|8|J|
+1|1|K|A|G|Ahhhhhhhhhh, no otra vez!
+2|6|7|8|J|te....
+1|1|3|E|E|
+2|6|7|8|J|quemaras..
+1|1|2|F|I|
+2|6|7|8|J|/e3
+1|1|4|C|K|
+1|1|8|A|J|
+1|1|8|A|J|/e12
+1|1|3|A|J|/a2AG
+1|1|3|A|J|Casi lo apago..
+1|1|2|9|I|
+1|1|H|9|I|
+1|1|H|K|G|
+2|6|8|8|J|sigueme, entendido.....Si o No.
+1|1|3|B|J|
+2|6|7|O|I|
+1|1|1|B|J|Si!!!
+2|6|5|Q|G|
+1|1|1|L|J|
+2
+1|1|1|L|J|espera!!
+1
+2|6|6|Q|G|Cadence 56
+2|6|6|8|J|
+1|1|7|Q|G|Penguin5664
+1|1|1|A|I|/a2DJ
+2|6|2|9|K|
+1|1|1|A|I|/a2B7
+2|6|H|8|K|
+2|6|H|8|K|/j3
+1|1|1|A|I|/a2XH
+2|6|H|8|K|/a2DB
+1|1|1|A|I|/a2AM
+1|1|1|A|I|/a2RC
+1|1|1|A|I|/a2W9
+1|1|1|A|I|/j3
+2|11|1|8|K|
+1|4|1|A|G|
+1|4|1|A|G|soy de fuego
+1|7|1|A|G|
+1|7|1|A|G|/e1
+2|4|1|C|J|
+2|4|1|9|H|
+2|4|K|9|H|
+1|7|K|A|G|
+1|7|I|A|G|
+1|7|I|A|G|veo... al horno.
+1|5|1|A|G|
+2|4|H|9|H|
+2|4|J|9|H|
+1|1|J|A|G|
+2|10|1|9|H|
+1|1|J|A|G|ah!!!!!!!!!!!!!!!!!! quema!!!!!!!!!!!!!!!!!!!!!!
+2|10|1|9|H|/e7
+1|1|3|E|F|
+2|10|3|B|K|
+1|1|1|D|E|
+2|10|5|A|I|
+1|1|8|C|F|
+1|1|8|C|F|/e10
+2|10|8|A|G|
+1|1|8|J|L|
+2|7|1|A|G|
+1|1|7|A|I|
+1|1|7|A|I|/e5
+2|7|4|9|H|
+1|1|1|A|I|uh-oh.
+1|1|7|I|E|
+2|7|7|9|H|PASA SI QUIERES
+1|1|1|D|G|
+1|1|1|A|G|
+1|14|1|A|G|
+2|14|4|9|H|
+1|14|1|A|G|oh.
+2|14|3|9|H|
+2|14|I|9|H|
+1|14|1|E|F|
+2|14|7|A|I|
+2|14|I|A|I|
+2|14|I|A|I|camuflate rapido
+1|14|1|E|F|vamos
+1|14|7|B|I|
+1|14|7|B|I|/e2
+1|14|I|B|I|
+2|14|I|A|I|revisemos si se fue
+1|14|I|B|I|que. Nos va a asesinar??
+1|14|5|C|H|
+1|14|7|9|I|
+1|14|J|9|I|
+2|14|I|A|I|no nos va a reportar pues no puede
+1|14|J|9|I|pensara que es un fondo
+1|14|J|9|I|sabes??
+1|14|J|9|I|esto??
+2|14|I|A|I|no nos dañara
+2|14|5|Q|I|
+2
+2|14|7|Q|G|Cadence 56
+2|14|3|P|L|
+2|14|7|H|L|
+2|14|7|H|L|me dio meyo....
+1|14|J|9|I|Los moderadores. Los que reportan
+2|14|7|K|E|
+2|14|2|L|E|
+2|14|I|L|E|
+1|14|J|9|I|Son Vortex y Anderson
+2|14|I|L|E|y..
+1|14|J|9|I|Y los moderadores pueden ser caracoles
+1|14|J|9|I|eso es triste. No??
+1|14|J|9|I|me gustaria ser un caracol.
+1|14|J|J|E|
+1|14|7|J|E|/a2JH
+1|14|4|M|E|/a2KC
+1|14|4|B|I|
+2|14|I|L|E|bueno si pero ven averiguemos si esta
+1|14|1|A|I|
+2|14|5|R|H|
+1|14|J|P|G|
+1
+2|14|2|Q|G|
+2

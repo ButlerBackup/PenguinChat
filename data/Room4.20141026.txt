@@ -1,0 +1,436 @@
+1|1|3|N|D|fives120
+1
+1|18|4|N|D|Master Jas
+1
+1|9|4|N|D|Foejoe800
+1
+1|14|3|N|D|Blacknight
+1
+2|11|4|N|D|Meat1000999
+2|11|4|L|F|
+2
+2|11|7|N|D|Meat1000999
+2
+2|12|5|N|D|Helen 2k5
+2
+2|12|8|N|D|Helen 2k5
+2
+1|14|4|N|D|penguinguy
+1|14|3|O|C|
+1
+1|14|5|N|D|kebefab23
+1
+1|9|2|N|D|RainbowGirl
+1
+1|10|2|N|D|Lul5226886t6
+1|10|H|G|D|
+1
+1|6|6|N|D|Zazagirl924
+1
+2|1|3|N|D|Master Jas
+2
+2|1|5|N|D|Master Jas
+2|1|K|8|F|
+1|8|6|N|D|Saltybacon2
+1|8|6|H|I|
+1|18|3|F|C|
+1|18|1|G|C|
+2|18|K|8|F|
+1|18|H|G|C|
+2|18|K|L|D|
+2
+1
+2|18|2|N|D|Master Jas
+2
+3|7|4|N|D|martinko303
+3|7|2|c|R|
+3|7|J|G|C|
+3
+2|17|4|N|D|Master Jas
+2
+1|8|3|N|D|trinitirose
+1
+1|1|3|N|D|Kopeke
+1|1|1|N|D|
+1|1|8|N|O|
+1
+2|10|6|N|D|SnowyKeily
+2|10|6|T|G|
+2|10|1|F|C|
+2|10|1|N|E|
+2
+1|10|2|N|D|Ally15129
+1|10|4|N|D|
+1
+1|8|3|N|D|Empress
+1|8|3|G|I|
+1
+1|8|6|N|D|fuffle puff
+1|8|2|Q|G|
+1|8|1|N|J|
+1|8|6|N|C|
+1
+1|8|2|N|D|fuffle puff
+1|8|4|T|J|
+1|8|5|O|D|
+1
+3|1|2|N|D|Oertamn
+3|1|6|I|J|
+3
+1|8|5|N|D|fuffle puff
+1|8|L|D|C|
+1|8|4|R|F|
+1|8|1|P|F|
+1|8|2|I|O|
+1
+2|4|7|N|D|Gui03GU9IE9
+2
+1|10|L|N|D|jillfairy
+1|10|K|8|F|
+1|10|K|O|C|
+1
+3|6|4|N|D|rockycraft
+1|10|4|N|D|jillfairy
+3|6|7|C|K|
+1|10|6|I|H|
+3|6|1|K|F|
+1|10|1|8|F|
+3|6|1|G|C|
+1|10|H|8|F|
+3|6|H|G|C|
+1|10|K|8|F|
+3|6|H|G|C|/e1
+1|10|K|8|F|come sit with me
+3|6|L|G|C|
+1|10|K|8|F|wit i know
+3|6|L|F|J|
+3|6|8|7|G|
+1|10|K|8|F|i will take ur order
+3|6|I|7|G|
+1|10|K|U|I|
+1|10|7|S|G|
+3|6|7|B|I|
+1|10|4|T|H|
+3|6|2|N|H|
+1|10|2|T|H|hello ma'am what would you like
+3|6|7|N|H|hello i will have coffee please
+3|6|L|N|H|
+1|10|2|T|H|would you like whipped cream
+3|6|L|N|H|yes
+1|10|2|T|H|ok
+1|10|8|S|E|
+1|10|2|T|G|
+1|10|2|T|G|here you go
+1|10|3|T|G|/e1
+1|10|1|I|F|
+3|6|L|N|H|hurry up i need to go to the bathroom
+1|10|1|J|K|
+1|10|1|J|K|follow me
+3|6|L|L|K|
+1|10|1|J|K|i already gave it to you
+3|6|7|J|G|
+3|6|5|J|M|
+1
+3|6|J|8|F|
+3|6|J|O|C|
+3
+4|10|4|N|D|bigbessie66
+4
+1|10|4|N|D|jillfairy
+1|10|1|I|K|
+1
+4|14|7|N|D|
+4|14|2|J|M|
+4|14|2|J|M|/j6
+4|14|L|J|M|/a2WG
+4|14|H|J|M|
+3|6|4|N|D|rockycraft
+3|6|2|R|F|
+3|6|I|F|C|
+3
+1|1|4|N|D|black1123
+1
+1|14|4|N|D|misr
+1
+1|18|4|N|D|foodboy07
+1
+1|14|L|N|D|armansan
+1|14|6|J|I|
+1
+2|14|2|N|D|reydelclub1
+2|14|L|F|H|
+2|14|L|O|H|
+2
+2|18|2|N|D|reydelclub1
+2|18|1|G|C|
+1|13|4|N|D|foodboy07
+1
+2|18|1|G|G|
+2
+2|5|5|N|D|reydelclub1
+2|5|6|N|D|
+2
+3|5|4|N|D|MigLigged
+3|5|L|J|L|
+3|5|3|F|D|
+3|5|1|F|J|
+3|5|4|I|I|
+3
+2|5|4|N|D|reydelclub1
+1|13|4|N|D|foodboy07
+2|5|K|8|F|
+1|13|4|H|K|
+2|5|K|8|F|
+1|13|3|6|H|
+2|5|K|8|F|
+1|13|J|6|H|
+1|13|K|6|H|
+1|13|K|6|H|
+2|5|K|8|F|/e3
+1|13|I|6|H|
+2|5|K|8|F|/j4
+1|13|I|6|H|/e1
+2|5|K|8|F|Show Lost
+1|13|I|6|H|oh
+2|5|K|8|F|/j10
+1|13|I|6|H|/e1
+1|13|I|6|H|/j0
+1|13|4|6|H|
+3|18|3|N|D|MigLigged
+2|5|K|8|F|/e1
+3|18|4|B|K|
+3|18|4|B|K|Hi!
+1|13|4|6|H|knock knock
+2|5|K|8|F|hi mig
+3|18|4|B|K|I am the ninja.
+1|13|8|6|H|hi
+3|18|4|B|K|hi
+2|18|1|8|F|
+3|18|4|B|K|Do you
+2|18|K|8|F|
+3|18|4|B|K|speak poryuguese?
+1|13|8|6|H|yeah
+3|18|2|B|K|portuguese
+1|13|8|6|H|no
+2|18|K|8|F|Im ninja!
+3|18|5|B|K|Woh1
+1|13|7|6|H|brb
+1
+3|18|4|B|K|Woh!
+3|18|4|B|K|Ah!
+1|18|1|N|D|foodboy07
+3|18|7|V|H|
+1|18|3|7|G|
+3|18|6|J|F|
+1|18|2|6|H|back
+2|18|K|8|F|emm im reydelcub1
+3|18|1|B|H|
+2|18|2|F|F|
+3|18|8|9|L|
+2|18|8|8|F|
+3|18|8|G|J|
+2|18|7|I|K|
+3|18|7|D|M|
+1|18|I|6|H|
+2|18|1|J|I|
+3|18|7|S|L|
+3|18|4|C|M|
+1|18|4|H|L|
+3|18|L|C|L|
+2|18|1|J|I|NINJAS
+3|18|L|L|I|
+2|18|1|J|I|TIME
+3|18|L|L|I|Yeah!
+2|18|8|J|I|COFFEE
+1|18|6|I|J|
+2|18|8|D|J|
+3|18|3|E|M|
+1|18|L|H|L|
+1|18|L|A|I|
+3|18|6|E|M|/a2HK
+2|18|2|9|N|
+3|18|6|C|M|/a2DM
+1|18|7|B|K|
+3|18|7|7|G|
+2|18|L|9|N|
+3|18|I|7|G|
+3|18|J|7|G|
+3|18|L|C|O|
+2|18|L|9|N|hi food
+3|18|L|K|H|
+3|18|8|E|M|
+3|18|3|E|M|hi
+1|18|1|B|K|hi
+3|18|L|E|M|
+1|18|L|B|K|
+2|18|L|9|N|im ghost BOO!
+2|18|2|J|L|
+1|18|3|A|J|
+2|18|8|J|L|Emm mig
+2|18|3|8|M|
+3|18|L|E|M|bye
+2|18|5|E|P|
+3|18|5|O|D|
+2|18|7|T|P|
+3
+2|18|2|T|P|ahhh
+2|18|4|H|L|
+2|18|1|D|K|
+1|18|5|D|J|
+2|18|8|D|K|food go town
+2
+1
+2|5|4|N|D|reydelclub1
+2|5|3|N|D|
+2|5|8|8|F|
+2
+1|18|4|N|D|foodboy07
+1
+2|18|3|N|D|reydelclub1
+2|18|2|N|D|
+2
+1|18|1|N|D|foodboy07
+1|18|6|I|H|
+1
+2|5|4|N|D|reydelclub1
+2|5|2|N|D|
+2|5|1|G|G|
+2
+2|18|1|N|D|reydelclub1
+2|18|7|T|H|
+2|18|L|B|H|
+2|5|L|P|I|
+2|18|4|J|G|
+2
+1|1|4|N|D|bombom444
+1|1|4|X|K|
+1
+3|9|3|N|D|Cutiepie334
+3|9|8|Q|L|
+1|1|4|N|D|Master Jas
+3
+1|1|8|J|I|hi
+1
+1|18|4|N|D|Master Jas
+1
+4|18|2|N|D|reydelclub1
+3|17|3|N|D|Cutiepie334
+3|17|K|D|C|
+4
+3|17|K|D|C|x3
+1|17|3|N|D|Master Jas
+3
+1|17|J|I|C|
+1
+5|14|1|N|D|Mcgun40
+5
+7|4|2|N|D|mcgun40
+7|4|1|K|L|
+7|4|6|O|C|
+7
+1|1|1|N|D|Master Jas
+8|14|2|N|D|12nikos13
+1
+8
+9|17|3|N|D|azulito2802
+9|17|8|A|J|
+9|17|7|W|K|
+9
+1|17|3|N|D|Master Jas
+1
+1|18|4|N|D|Master Jas
+1
+5|13|4|N|D|George8985
+5|13|1|K|H|
+5|13|5|C|L|
+5|13|L|N|E|
+5
+1|11|1|N|D|Master Jas
+1|11|K|F|C|
+1
+6|14|5|N|D|spook246
+6
+3|13|5|N|D|watermelon45
+3|13|2|O|M|
+3
+1|14|4|N|D|borderlands
+1
+1|12|4|N|D|Frdk
+1
+1|12|3|N|D|Frdk
+1
+1|1|6|N|D|Rockstomp
+1
+1|4|2|N|D|Dillhen
+1
+1|4|5|N|D|Jelson120
+1|4|4|N|D|
+1|4|5|N|G|
+1
+1|8|4|N|D|heymiska18
+1|8|6|N|D|
+1|8|1|L|J|
+1
+3|14|L|N|D|Kurojin12
+3
+6|6|4|N|D|lova
+2|13|4|N|D|Chasesky
+6|6|6|H|G|
+2|13|2|I|I|
+2
+6|6|4|K|J|
+1|8|4|N|D|heymiska18
+1|8|3|G|H|
+1|8|K|7|G|
+1|8|K|7|G|to bad no games
+1|8|K|7|G|/e11
+1|8|4|L|C|
+1|8|4|M|F|
+1
+7|18|4|N|D|mcgun40
+6
+7|18|3|N|D|
+7|18|6|I|I|
+7|18|6|I|I|/a2PA
+7|18|6|L|L|
+7|18|5|L|L|/a2OC
+7|18|7|B|I|
+7|18|7|L|K|
+7|18|5|N|E|
+7
+7|18|1|N|D|mcgun40
+7|18|4|O|C|
+7
+1|1|3|N|D|Antiapple13
+1|1|1|P|L|
+1
+1|6|3|N|D|patsy40
+1
+3|14|8|N|D|Battrail
+3|14|6|O|C|
+3
+3|4|2|N|D|CoolDudeGGG
+3
+2|14|4|N|D|ninja dude
+2|14|1|L|F|
+2
+1|1|5|N|D|ethan9000
+1|1|6|P|D|
+1
+1|1|2|N|D|kjjjjj
+1
+1|13|L|N|D|zeta120
+1
+1|9|4|N|D|guy fawkes
+1|9|4|W|K|
+1
+1|14|4|N|D|lunawolf
+1|14|8|9|E|
+1
+2|10|4|N|D|Bea
+2|10|1|G|C|
+2
+1|12|3|N|D|Ellen
+1|12|3|E|C|
+1
+1|12|K|P|C|

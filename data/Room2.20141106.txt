@@ -1,0 +1,794 @@
+1|8|5|9|H|Penguin8pUF
+1|8|4|I|H|
+1|8|H|R|N|
+1|8|3|9|K|
+1
+1|4|5|9|H|Pufflez4Life
+1|4|1|K|H|
+1
+1|4|5|X|R|Pufflez4Life
+1|4|6|G|J|
+1
+1|4|3|9|H|Pufflez4Life
+1|4|1|L|K|
+1|4|7|U|R|
+1
+1|4|5|X|R|Pufflez4Life
+1
+1|4|5|9|H|Pufflez4Life
+1|4|L|L|K|
+1
+1|4|5|X|R|Pufflez4Life
+1
+1|14|5|9|H|Badboy
+1
+1|14|7|X|R|Badboy
+1
+1|1|1|9|H|Pufflez4Life
+1|1|8|K|L|
+1|1|3|9|H|
+1
+1|1|6|9|H|Pufflez4Life
+2|1|6|9|H|storage
+2|1|1|K|L|
+1|1|L|d|Q|
+1
+1|1|4|X|R|Pufflez4Life
+1|1|4|6|H|
+1
+2|1|1|U|L|
+2|1|3|C|J|
+2
+1|13|5|9|H|diamond7anis
+1|13|6|L|B|
+1|13|2|B|L|
+1
+1|13|7|9|H|diamond7anis
+1|13|7|b|N|
+1
+1|13|6|X|R|diamond7anis
+1|13|4|X|R|
+1|13|3|7|H|
+1
+1|14|7|9|H|Pufflez4Life
+1|14|1|M|F|
+1|14|3|K|K|
+1
+1|14|5|9|H|Badboy
+1|14|2|Z|R|
+1
+1|14|5|X|R|Badboy
+1
+1|14|4|9|H|Badboy
+1
+1|4|5|9|H|pofinho2
+1|4|4|H|M|
+1
+1|6|4|9|H|jana445
+1|6|L|M|J|
+1
+1|6|6|9|H|jana445
+1
+1|6|8|X|R|jana445
+1|6|6|8|I|
+1
+1|13|3|9|H|aekj
+1
+1|13|5|X|R|aekj
+1
+3|17|5|9|H|TheUser101
+3|17|7|b|N|
+3|17|1|P|C|
+3|17|1|P|K|
+3
+1|9|7|9|H|coral
+1|9|6|L|I|
+1
+1|1|5|9|H|coolyo89
+1
+1|13|8|9|H|legomovie
+1|13|L|K|M|
+1|13|L|Q|K|
+1
+1|13|5|9|H|legomovie
+1
+1|13|1|X|R|legomovie
+1
+1|10|5|9|H|chloychloy2
+1|10|L|K|L|
+1|10|6|8|G|
+1
+1|14|5|9|H|Pepolz 10
+1
+1|14|4|9|H|Dimarto2006
+1
+1|14|7|9|H|Dimarto2006
+1|14|8|K|A|
+1|14|2|R|M|
+1|14|4|K|L|
+1
+1|5|5|9|H|Bobbyalien1
+1|5|1|V|F|
+1|5|3|6|I|
+1
+1|5|5|9|H|ZACK89011
+1|5|5|L|K|
+1
+2|5|4|9|H|Bobbyalien1
+2
+4|8|4|9|H|Yole cp
+4|8|L|I|L|
+4
+6|4|2|9|H|abrik
+7|4|5|9|H|emomesval
+6|4|7|Z|I|
+7|4|7|d|R|
+7
+3|18|1|9|H|yugo fox
+6|4|1|I|J|
+3|18|7|Y|K|
+6|4|7|d|R|
+6
+3|18|4|S|E|
+3|18|8|W|N|
+3|18|4|Y|O|
+3
+6|4|6|X|R|abrik
+6
+6|4|3|9|H|abrik
+6
+3|18|4|X|R|yugo fox
+3
+6|17|6|9|H|abrik
+6
+6|17|5|X|R|abrik
+6
+5|13|7|9|H|yugo fox
+5|13|3|K|J|
+5|18|1|a|R|
+5
+1|5|5|9|H|aaronstrada
+1|5|5|9|H|
+1|5|7|K|G|
+1
+1|17|4|9|H|paint me
+1|17|3|L|C|
+1|17|3|U|D|
+1|17|4|P|J|
+1
+1|17|5|9|H|paint me
+1|17|3|9|H|
+1
+1|1|4|9|H|penguinss
+1|1|L|J|K|
+1
+2|7|4|9|H|yayday
+2
+1|13|5|9|H|yuniol03
+1|13|2|L|B|
+1|13|5|L|F|
+1|13|2|H|J|
+1
+2|4|8|9|H|yayday
+2|4|7|J|K|
+2|4|1|L|C|
+2|4|1|G|H|
+2
+1|13|3|9|H|jameser6
+1|13|8|9|H|
+1
+1|13|3|9|H|jameser6
+1
+5|1|7|9|H|Pufflez4Life
+5|1|L|L|M|
+5
+2|12|6|9|H|JhonecpxD
+2
+5|4|L|9|H|papà rojito
+5|4|7|L|H|
+5
+5|18|3|9|H|papà rojito
+5
+1|14|5|9|H|yayday
+2|5|3|9|H|Bowser7605
+1|14|L|J|K|
+2|5|6|9|H|
+2
+2|5|6|9|H|Bowser7605
+2
+2|4|5|9|H|Legiso Jr
+2|4|7|I|K|
+2|4|1|L|E|
+2|4|1|F|I|
+2|4|1|G|M|
+2|4|1|G|M|/j14
+2|4|L|G|M|
+1
+2|4|6|7|K|
+2
+1|1|3|9|H|gideonascien
+1|1|7|H|K|
+4|7|5|9|H|legu456
+4|7|7|M|J|
+4|7|1|N|L|
+3|1|5|9|H|yayday
+2|4|2|9|H|Legiso Jr
+3|1|1|G|K|
+2|4|2|K|L|
+3|1|7|E|P|
+2|4|L|K|L|
+4|7|L|N|L|
+2|4|L|K|L|/a28G
+4|7|L|N|L|/e11
+4|7|L|N|L|/e1
+2|4|2|L|B|/a2KN
+4|7|L|N|L|/a29M
+2|4|H|L|H|
+2|4|H|L|H|/e11
+3|6|1|D|H|
+3|6|1|D|H|/j11
+2|4|H|L|H|/a2WL
+4|7|L|N|L|/a2MD
+1|1|5|K|J|
+3|6|I|D|H|
+2|4|H|L|H|/a27O
+4|7|H|N|L|
+1|1|8|G|F|
+3|6|K|D|H|
+2|4|H|J|F|
+4|7|4|Q|N|
+1|1|8|G|F|no existe
+3|6|L|D|H|
+2|4|7|K|B|
+1|1|6|G|J|
+2|4|7|J|F|
+4|7|5|N|J|
+1|1|5|N|B|
+2|4|7|J|F|ahí esta
+4|7|2|N|J|muevete
+1|1|4|P|F|
+2|4|5|K|J|
+4|7|4|N|F|
+1|1|7|G|C|
+2|4|1|J|L|
+4|7|4|S|N|
+1|1|7|Q|N|
+2|4|L|J|L|
+4|7|3|S|N|/a2BJ
+1|1|1|Q|N|es creado por danpenguicp
+4|7|3|S|N|/a2PM
+3|6|L|B|M|
+5|10|6|9|H|perlalinky
+1|1|5|F|P|
+3|6|7|B|M|/a2SK
+4|7|3|S|N|/a2WC
+4|7|3|S|N|/j3
+5|10|3|M|L|
+1|1|1|F|L|
+3|6|7|B|M|/a2V8
+5|10|8|M|L|
+1|1|L|F|L|
+3|6|1|L|C|
+4|7|L|S|N|/e3
+3|6|1|L|C|HOLA!
+5|10|1|M|L|hola
+2|4|2|J|M|no
+2|4|1|H|L|ve el blog de rsnail
+3|6|1|L|C|WHY DID THE CHICKEN  EAT AWAY?
+2|4|6|K|H|
+2|4|3|P|J|
+2|4|3|P|J|/a2GM
+1|1|L|F|L|No hay misterio
+2|4|3|8|L|
+1|1|4|H|K|
+3|6|1|L|C|BECAUSE OF THE GIANT WAFFLE
+1|1|4|H|K|y como es que
+2|4|8|A|M|sí hay
+1|1|4|H|K|usted solo conoce la historia?
+3|6|2|G|N|
+1|1|7|G|N|
+5|10|8|W|P|
+2|4|8|A|M|rsnail habla de él
+5|10|5|M|B|
+2|4|8|D|N|rsnail es el dueño
+5|10|1|C|Q|
+2|4|8|D|N|por que nosotros lo volvimos a encontrar
+3|6|8|G|N|:(
+5|10|6|C|Q|/e1
+3|6|2|J|L|
+5|10|L|C|Q|
+2|4|7|P|J|
+5|10|L|C|Q|/a2A8
+1|1|3|A|N|
+2|4|7|O|K|
+5|10|H|M|F|
+3|6|5|J|L|BETA CLUB OENGUIN :D
+1|1|3|A|N|y como es que
+2|4|2|O|K|sino no estuviera ahí
+3|6|3|7|H|
+4
+3
+1|1|3|A|N|aparece solo en eventos de dan
+5|10|6|C|N|
+2|4|2|E|M|
+1|1|7|S|L|
+5|10|2|J|G|
+2|4|7|G|O|
+1|1|7|S|L|como es que aparece en eventos de danpengui
+5|10|L|J|G|
+2|4|4|8|G|
+2|4|1|8|I|
+1|1|5|Q|M|
+2|4|7|L|M|
+6|1|5|9|H|Puqii1
+6|1|7|J|I|Hola legiso
+2|4|7|L|M|es de penguin chat
+1|1|3|Q|M|/a2KJ
+2|4|7|L|M|no de cp
+6|1|8|N|K|
+6|1|8|N|K|Soy puqii1
+2|4|8|L|M|holaa
+1|1|3|I|N|/a2NK
+6|1|2|N|L|
+2|4|7|J|M|
+6|1|2|N|L|:)
+6|1|2|N|L|¿Que tal?
+1|1|5|H|K|
+2|4|5|J|M|/e1
+1|1|8|J|O|legiso
+6|1|1|D|J|
+7|8|5|9|H|joiner
+2|4|3|8|H|
+3|17|3|9|H|yayday
+2
+1|1|8|J|O|me agregas en cp?
+6|1|1|H|M|
+7|8|8|G|N|
+3|17|8|9|H|
+1|1|3|9|M|
+6|1|1|H|M|Oye, me debes agregar a cp e,e
+3|17|2|N|L|
+6
+1|1|7|9|I|
+3|17|L|N|L|
+7
+1
+2|4|6|9|H|Legiso Jr
+5
+2
+3|17|L|N|L|/a2CJ
+3
+1|4|5|9|H|gideonascien
+6|1|5|9|H|Puqii1
+6
+1|4|7|I|K|
+7|8|4|9|H|joiner
+7|8|4|9|H|
+7
+6|1|5|9|H|Puqii1
+6|1|3|6|H|
+6
+7|8|6|9|H|joiner
+7|8|6|9|H|
+7
+11|10|4|9|H|perlalinky
+11|10|2|P|I|
+11|10|5|N|B|
+8|14|4|9|H|bowser7605
+11|10|1|O|L|
+8|14|7|9|H|/a2ON
+11|10|1|O|M|
+8|14|7|K|K|
+8|14|3|K|K|/a2FI
+8|14|3|L|B|
+11|10|1|L|G|
+11|10|5|K|B|
+11|10|2|M|K|
+12|1|4|9|H|Puqii1
+12|1|7|9|H|/a2OL
+12|1|7|R|L|/a2KE
+11|10|2|K|N|
+12|1|2|R|L|FRANKLIN
+11|10|2|K|N|/e11
+12|1|3|8|H|
+11|10|2|K|N|/e12
+2|4|4|9|H|Legiso Jr
+11|10|5|K|N|/e2
+11|10|L|K|N|/a2SE
+2|4|4|G|J|
+11|10|L|K|N|/a2IL
+12|1|7|D|G|Legiso
+11|10|2|N|L|
+12|1|7|D|G|esto no mola xddddddd
+12|1|7|D|G|jajaja
+2|4|1|E|K|
+12|1|1|J|H|
+11|10|2|N|L|legiso pero el es algo
+2|4|8|D|I|
+2|4|8|D|I|??
+12|1|H|J|H|
+11|10|2|N|L|mudo XD
+12|1|H|J|H|/a2CI
+2|4|7|L|L|
+8
+11|10|2|N|L|es mas es una estatua¡¡¡
+2|4|7|L|L|lol
+2|4|7|L|L|es de pocas palabras
+12|1|H|J|H|lo he agregado a cp
+2|4|1|M|G|
+11|10|2|N|L|o no??? XD
+7|8|5|9|H|joiner
+12|1|H|J|H|Legiso
+11|10|5|L|A|
+2|4|1|M|G|es que no es penguin chat
+2|4|1|M|G|esto solo es copia
+12|1|H|J|H|esta historia es real?
+7|8|7|J|G|
+11|10|2|M|A|
+2|4|1|M|H|
+7|8|7|J|G|bro no pude
+11|10|2|M|A|aaa
+2|4|2|M|L|
+12|1|H|L|H|
+7|8|7|P|I|
+2|4|2|M|L|parte de ella
+11|10|4|N|M|
+2|4|2|N|G|la mayoría
+12|1|2|O|H|
+12|1|2|O|H|xd
+11|10|2|P|L|
+2|4|2|M|B|
+11|10|2|P|L|quien la hico esta cool¡¡¡
+12|1|2|O|H|Es tipo bot
+2|4|2|W|J|
+7|8|3|P|I|/e5
+2|4|2|W|J|/a2HA
+11|10|2|P|L|somos historia XD
+12|1|1|O|H|Lo hizo Anderson
+7|8|2|T|K|
+2|4|2|L|J|
+12|1|2|O|H|/a2JN
+11|10|2|P|L|/a2DJ
+12|1|6|V|D|
+12|1|3|J|G|
+12|1|3|J|G|Este cp estaba aburrido xdddé
+11|10|2|P|L|/a278
+13|5|4|9|H|Rafer300
+7|8|2|T|K|viva legiso!!!
+11|10|2|9|I|
+13|5|I|E|J|
+11
+12|1|3|J|G|Oye legiso, ¿donde esta la plaza?
+7|8|3|O|J|
+7|8|4|O|J|/a2KI
+13|5|L|E|J|
+12|1|L|K|I|
+7|8|4|O|J|/a2GN
+13|5|L|E|J|¡Legiso!
+11|10|2|9|H|perlalinky
+11|10|8|G|M|
+7|8|4|O|J|este es penguin chat 3
+11|10|8|G|M|demasiado aburrido
+2|4|1|G|K|hola
+13|5|L|E|J|Que genial es viajar en el tiempo :'o
+2|4|1|D|N|
+11|10|8|G|M|es UNA COPIA
+2|4|1|D|N|así era antes
+7|8|4|O|J|solo estaba el centro
+13|5|1|H|E|
+13|5|1|H|E|Me dan ganas de llorar
+2|4|1|I|L|
+11|10|1|G|M|SI VIAJAMOS XD
+12|1|L|K|I|xd
+13|5|2|J|F|
+13|5|2|J|F|/e1
+7|8|5|N|F|
+11|10|2|J|N|
+2|4|1|I|L|esto es club penguin en el pasado
+12|1|L|A|M|
+13|5|5|N|E|
+7|8|6|P|E|
+12|1|L|A|M|Legiso pero por lo menos
+11|10|I|J|N|
+2|4|3|Q|I|
+12|1|L|A|M|teniamos el betahat
+11|10|2|O|K|
+2|4|4|J|F|
+11|10|2|O|K|JAJAJ DE HECHO
+13|5|I|N|E|
+2|4|4|J|F|antes del accidente
+11|10|3|O|N|
+12|1|8|E|K|
+7|8|L|P|E|
+2|4|2|H|G|
+13|5|I|N|E|/e5
+12|1|8|E|K|Sí,
+7|8|L|P|E|si
+12|1|8|E|K|cuando happy era un caracol
+2|4|8|M|J|
+7|8|I|P|E|
+2|4|1|L|L|
+12|1|8|E|K|Y estaba snail,
+2|4|1|L|L|si
+2|4|1|L|L|jajaja
+2|4|L|L|L|/e1
+12|1|8|E|K|/e7
+11|10|6|T|I|
+2|4|L|L|L|rsnail
+2|4|L|L|L|/e1
+13|5|I|N|E|¡Dame tu autografo!
+12|1|1|E|K|/j2
+2|4|I|I|E|
+2|4|J|I|E|
+12|1|6|V|L|
+12|1|4|S|K|
+2|4|J|I|E|contesta
+11|10|2|T|I|BUENO AHORITA VENGO
+12|1|3|S|K|/e1
+2|4|J|I|E|pon una buena canción
+13|5|5|O|F|
+2|4|J|I|E|esa está muy vieja
+2|4|J|I|E|okno
+12|1|L|N|L|
+7|8|I|P|E|xD
+13|5|2|N|I|
+2|4|J|I|E|eres viejo
+13|5|2|N|I|xDDD
+12|1|L|N|L|XD LOL LEGISO
+12|1|L|N|L|SE LE TRABO LA PC XD
+2|4|2|H|E|
+13|5|3|M|H|
+1
+2
+7|8|I|P|E|/e1
+12|1|L|N|L|JAJA
+12|1|L|N|L|XD
+12|1|L|N|L|SA
+12|1|L|N|L|JAJAJJAJ
+2|4|5|X|R|Legiso Jr
+12|1|L|N|L|ASE LE TRABO LA PC
+13|5|8|M|H|Tiene una pc muy vieja
+12|1|L|N|L|LOLLLLLLLLLLLLLLLLLLL JAJAJAJ
+2|4|4|N|L|oigan!
+7|8|I|R|M|
+2|4|4|N|L|todos
+13|5|1|I|H|
+12|1|1|I|I|
+12|1|1|I|I|LEGISO JAJA
+7|8|3|8|H|
+2|4|1|H|L|
+12|1|1|I|I|PC VIEJA
+13|5|2|I|H|Sí?
+2|4|1|H|L|descubrí algo
+7|8|7|J|L|
+12|1|3|L|K|
+13|5|2|O|G|
+2|4|2|Q|M|
+2|4|2|Q|M|vengan
+7|8|1|J|L|chao bro
+12|1|8|C|H|
+13|5|H|O|G|:o
+2|4|2|Q|M|síganme
+12|1|1|J|L|Dinos :o
+2
+12|1|4|T|O|
+13|5|3|U|E|
+7|8|1|J|L|recuerda tu fan #1
+12|1|3|F|M|Donde se fue
+13|5|5|V|O|
+12|1|7|Z|T|
+11
+12
+2|4|7|X|R|Legiso Jr
+13|5|5|P|L|
+7
+2|4|2|N|M|
+2|4|2|N|M|no me siguieron
+2|4|8|d|T|
+2
+12|1|7|X|R|Puqii1
+12
+13|5|8|W|S|
+13
+7|8|1|9|H|joiner
+7|8|2|8|I|
+7
+2|4|6|X|R|Legiso Jr
+12|1|7|X|R|Puqii1
+12|1|3|V|P|
+12|1|3|V|P|Legiso te queremos!
+12|1|4|T|K|
+13|5|6|X|R|Rafer300
+13|5|6|O|M|
+12|1|1|V|P|
+12|1|1|V|P|Legiso lee tw
+13|5|5|O|P|
+1|10|3|9|H|perlalinky
+2
+12|1|L|V|P|
+1|10|7|N|I|
+12|1|8|Y|R|
+12
+12|1|5|X|R|Puqii1
+1|10|3|H|N|
+1|10|4|F|J|
+12|1|4|6|H|
+12|1|8|E|K|/e12
+1|10|2|R|C|
+12|1|8|E|K|/e11
+12|1|8|E|K|/e9
+12|1|8|E|K|/e10
+1|10|1|R|C|ok
+13|5|5|L|G|
+12|1|6|E|K|/e2
+13|5|2|P|F|
+12|1|6|E|K|/e1
+12|1|7|E|G|
+13|5|L|P|F|
+13|5|L|P|F|Tututututututut
+12|1|7|N|F|Vamos a la plaza,
+13|5|L|P|F|Mueve el bote
+12
+13|5|L|P|F|No que no había?
+13|5|2|9|I|
+13
+12|17|3|9|H|Puqii1
+1|10|2|L|G|
+1|10|4|I|P|/a29G
+12|17|4|E|J|
+1|10|4|I|P|/a2LS
+12|17|L|E|J|:3
+1|10|4|M|E|/a2NO
+12
+1|10|3|A|H|
+1
+13|5|5|9|H|Rafer300
+13|5|7|d|T|
+13
+2|12|4|9|H|L30n
+2|12|7|I|D|
+1|14|H|9|H|anzoategui12
+1|14|H|9|H|
+1|14|8|K|G|OH
+1|14|1|K|A|
+1|14|1|K|A|ES
+1|14|1|K|A|UN FANTASMA
+1|14|1|K|A|APARECE
+1|14|1|K|A|EN CLUB PENGUIN
+2|12|1|O|G|
+1|14|1|K|A|CADA 31 DE OCTUBRE
+2|12|1|O|G|Donde  esta legiso
+1|14|1|L|G|
+2|12|4|O|G|/a2M9
+1|14|1|M|F|
+1|14|1|L|Q|
+1|14|1|L|Q|LEGISO
+1|14|5|L|I|
+1|14|5|L|I|EL BLOGGER
+1|14|5|L|I|ESE LEGISO
+2|12|4|O|G|Aja
+2|12|4|O|G|/j0
+2|12|4|O|G|Aja
+1|14|1|M|F|
+1|14|1|M|F|COÑO NOSE
+1|14|1|M|F|ESTO
+1|14|1|M|F|ESTA JUGANDO
+1|14|7|J|H|/a2OG
+1|14|7|J|H|/a2LH
+1|14|5|L|J|
+1|14|5|L|G|
+1|14|1|L|G|y dan
+1|14|1|M|F|
+1|14|1|M|F|sigueme
+1|14|7|P|D|
+1|14|7|B|G|/a2MG
+1|14|7|B|G|SIGUEME}+
+1
+1|17|6|9|H|anzoategui12
+1|17|7|9|H|/e1
+1|17|L|I|H|
+1|17|1|L|B|
+1|17|1|L|B|TU
+1|17|1|L|G|
+1|4|1|L|G|
+2
+1
+1|14|4|9|H|yayday
+1|14|7|9|H|
+1
+2|10|4|9|H|Violetta201
+2|10|5|L|E|
+2
+4|8|1|9|H|jessi
+4|8|3|H|B|
+5|1|4|9|H|davdavey324
+5|1|4|L|L|
+4|8|L|K|M|
+5
+4|8|L|K|M|/e11
+4
+4|8|H|X|R|jessi
+4|8|7|E|K|
+4|18|1|B|J|
+4
+4|10|4|9|H|jessi
+4
+5|1|4|9|H|davdavey324
+5
+1|18|5|9|H|yayday
+5|13|5|9|H|davdavey324
+1|18|H|G|J|
+5|13|6|F|M|
+1|18|L|G|J|
+5|13|1|F|M|whos dat guy
+5|13|5|O|I|
+5|13|2|O|I|hes a dj
+5|13|2|O|I|i think
+5|13|4|O|I|MOVE
+5|13|4|O|I|Y R U STANDING STILL
+5|13|5|O|I|DJ IM TALKIN' TO YA
+5|13|7|J|M|
+1|18|1|I|E|
+1|18|1|I|E|he doesent talk much
+5|13|6|Q|D|
+1|18|1|I|E|i know alot of about club penguin,
+5|13|4|J|L|
+5|13|2|J|L|IS HE FAKE
+1|18|2|D|M|
+1|18|8|D|M|no.
+5|13|2|I|P|
+1|18|8|D|M|he rly isint a masct
+1|18|8|D|M|im gonna look up penguin chat 2
+5|13|1|G|P|
+5|13|1|G|P|okeydokey
+5|13|2|H|M|
+5|13|1|J|L|
+5|13|3|I|N|
+5|13|3|L|B|
+5|13|1|L|C|
+5|13|1|L|B|
+5|13|1|L|B|yay now im a dj
+5|13|1|P|H|
+5|13|3|J|N|
+5|13|5|L|I|
+5|13|4|H|L|
+1|18|1|D|M|back
+1|18|4|D|M|
+5
+1
+2|14|5|9|H|lok
+2|14|8|c|T|
+2
+2|14|5|X|R|lok
+2
+1|18|5|9|H|yayday
+1|18|3|b|P|
+1|18|3|D|M|
+1|18|6|M|C|
+1
+1|13|3|9|H|coolgirl878
+1|13|1|6|H|
+1
+1|14|5|9|H|DJ checo056
+1|14|2|D|M|
+1
+1|14|5|9|H|Kurojin12
+1|14|L|G|N|
+1
+1|14|3|9|H|Kurojin12
+1|14|7|U|E|
+1|14|4|c|P|
+1|14|2|H|J|
+1|14|7|a|N|
+1|14|8|P|C|
+1|14|2|7|K|
+1
+1|14|3|9|H|Kurojin12
+1
+1|5|5|9|H|Beta Kid
+1|5|4|9|I|
+1|5|1|U|I|
+1|5|1|K|K|
+1
+1|5|1|9|H|Pufflez4Life
+1|5|L|K|L|

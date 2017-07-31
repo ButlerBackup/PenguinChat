@@ -1,0 +1,64 @@
+1
+1|9|1|Q|G|Yubby Nub
+1|9|2|H|I|
+1|9|1|Q|G|
+1
+1|18|2|Q|G|drelegal
+1|18|4|Q|G|
+1
+1|14|8|Q|G|p2123
+1|14|7|P|F|
+1
+1|14|4|Q|G|p2123
+1|14|4|Q|G|
+1|14|5|R|E|
+1
+1|1|1|Q|G|p2123
+1
+1|18|L|Q|G|Undefines
+1|18|1|H|L|
+1
+3|18|8|Q|G|xboxdgbr
+3
+3|18|7|Q|G|xboxdgbr
+3|18|1|I|G|
+3
+3|18|7|Q|G|xboxdgbr
+3|18|1|J|J|
+3
+3|14|7|Q|G|xboxdgbr
+3|14|1|H|F|
+3|14|6|N|G|
+3
+2|17|6|Q|G|sensei4285
+2|17|6|B|G|
+2|17|7|A|G|
+2
+2|17|3|Q|G|sensei4285
+2
+2|17|1|Q|G|sensei4285
+2
+2|17|6|Q|G|sensei4285
+3|14|7|Q|G|xboxdgbr
+2
+2|17|7|Q|G|sensei4285
+3|14|1|N|J|
+2
+3|14|1|N|J|isso q eu queria dizer pra vc
+2|17|7|Q|G|sensei4285
+3
+2|17|1|O|L|
+2
+2|17|6|Q|G|sensei4285
+2|17|1|Q|G|
+2
+1|1|1|Q|G|bleckaut 70
+1|1|1|F|N|
+1|1|4|H|I|
+1|1|L|K|I|
+1|1|1|K|H|
+1
+1|1|2|Q|G|bleckaut 70
+1
+1|18|8|Q|G|bleckaut 70
+1

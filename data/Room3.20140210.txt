@@ -1,0 +1,12 @@
+1|4|7|Q|G|MemoriesCP
+1|4|4|J|J|
+1
+1|18|8|Q|G|Vortex
+1|18|7|F|K|
+1
+1|18|7|Q|G|Vortex
+1
+1|18|6|Q|G|Vortex
+1|18|2|D|G|
+1|18|8|O|J|
+1

@@ -1,0 +1,34 @@
+1|12|3|N|D|Venus 200
+1
+1|14|4|N|D|igor 800
+1
+1|14|4|N|D|igor 800
+1
+1|1|4|N|D|matthew
+1
+3|4|4|N|D|eliezerbosca
+3
+3|4|2|N|D|eliezerbosca
+3|4|1|G|C|
+3
+1|1|1|N|D|matthew
+1|1|K|I|I|
+1
+1|7|5|N|D|P1Brawl2000
+1|7|2|O|E|
+1
+1|18|2|N|D|Pingu47024
+1|18|2|N|D|
+1|18|1|M|K|
+1
+1|14|K|N|D|starbucks
+1|14|5|E|K|
+1
+1|12|5|N|D|jazon
+1
+1|4|3|N|D|spyteam123
+1|4|3|c|R|
+1|4|7|N|E|
+1
+1|1|3|N|D|Boogs
+1

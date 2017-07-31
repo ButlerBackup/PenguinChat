@@ -1,0 +1,368 @@
+1|5|4|N|D|nextthousand
+1
+1|18|4|N|D|moo moo1
+1|18|5|O|D|
+1
+1|14|3|N|D|Bassplayer
+1|14|1|N|D|
+1
+1|1|3|N|D|Badboy
+1|1|6|O|C|
+1
+1|14|6|N|D|Badboy
+1|14|3|F|C|
+1|14|8|M|H|
+1|14|2|Y|O|
+1|14|6|J|H|
+1
+1|14|3|N|D|Badboy
+1|14|1|E|F|
+1|14|L|K|J|
+1|14|6|M|D|
+1
+1|14|5|N|D|Dragon123476
+1
+2|9|2|N|D|majdkhalid2
+2|9|1|T|G|
+2|9|J|G|C|
+2
+1|12|3|N|D|gooy gold
+1|12|3|N|D|
+1
+1|14|3|N|D|Phcool23
+1|14|3|b|R|
+1|14|6|3|Q|
+1
+1|12|4|N|D|Kay Vermelho
+1|12|8|G|H|
+1
+1|12|3|N|D|Kay Vermelho
+1|12|1|D|K|
+1|12|3|4|Q|
+1|12|8|U|G|
+1|12|2|T|K|
+1
+3|13|4|N|D|asdf penguin
+3
+1|12|5|N|D|Kay Vermelho
+1
+2|13|2|N|D|bobbybigboy
+2
+4|5|5|N|D|hlane2003
+4|5|1|8|I|
+4|5|4|X|R|
+4
+3|9|5|N|D|Deusio
+3|9|7|X|N|
+3|9|7|W|I|
+3|9|3|8|H|
+3|9|8|O|C|
+3
+2|1|5|N|D|jonnycash12
+2|1|4|N|D|
+2
+1|18|5|N|D|Kay Vermelho
+1|18|8|X|L|
+1
+1|11|2|N|D|Huss
+1
+2|1|J|N|D|youkiozexal4
+2
+1|8|8|N|D|clubedoi
+1|8|6|L|I|
+1
+2|1|L|N|D|youkiozexal4
+2
+2|13|7|N|D|jaylen9421
+2|13|3|K|N|
+2
+3|1|5|N|D|carson
+3|1|5|O|D|
+2|6|3|N|D|Elsa789
+2|6|1|G|C|
+2|6|J|G|C|
+2|6|H|G|C|/a2II
+2|6|H|X|R|
+3|1|2|7|G|
+2
+3|1|6|O|D|
+3
+1|1|3|N|D|meepthefirst
+1|1|1|O|E|
+1
+1|11|3|N|D|08 Genio
+1|11|4|U|M|
+1|11|L|J|J|
+1|11|5|N|L|
+1|11|1|G|J|
+1
+1|14|6|N|D|mokster
+1|14|6|O|D|
+1
+1|1|3|N|D|sonic 12
+1|1|4|P|F|
+1
+8|4|3|N|D|alejomarin1
+8|4|H|H|K|
+8|4|5|G|G|
+8|4|5|J|H|
+8
+10|14|6|N|D|alejomarin1
+10|14|1|H|D|
+10|14|4|J|F|
+10
+16|12|5|N|D|Kobe Bryant
+16|12|8|I|L|
+16|12|4|L|C|
+16
+23|14|L|N|D|Engineer
+13|1|L|N|D|AsdafPerfec
+23|14|H|H|C|
+14|13|L|N|D|AttractiveW
+13|1|2|J|H|
+18|9|L|N|D|Grotersup
+14|13|2|F|L|
+19|14|L|N|D|Montorch
+20|10|L|N|D|skycolor
+21|9|L|N|D|Rockerysia
+19|14|L|N|D|
+1|9|L|N|D|FreezingRae
+20|10|L|N|D|
+22|10|L|N|D|cibby
+21|9|L|N|D|
+24|10|L|N|D|partypengu
+1|9|L|N|D|
+22|10|L|N|D|
+24|10|L|N|D|
+18|9|7|V|N|
+18|9|1|U|K|
+18|9|2|U|K|/a2EE
+18|9|H|U|K|/a2IG
+19|14|8|8|G|
+19|14|H|8|G|
+20|10|L|E|C|
+20|10|1|E|C|/a2MG
+20|10|H|E|C|
+21|9|7|J|C|
+21|9|H|9|E|
+1|9|1|T|E|
+1|9|4|U|H|
+22|10|2|J|C|
+22|10|H|J|C|
+24|10|8|6|H|
+24|10|H|6|H|
+14|13|6|O|J|
+13|1|2|N|H|
+13|1|1|N|H|one please
+23|14|8|H|C|
+19|14|4|8|G|
+19|14|5|9|H|
+20|10|6|E|D|
+21|9|8|9|E|
+22|10|3|J|C|
+24|10|6|7|G|
+19|14|L|9|H|
+23|14|8|H|C|how
+14|13|2|O|J|oh ok
+18|9|H|U|K|one coffe coming up
+19|14|L|9|H|dance everyone
+20|10|6|F|C|
+20|10|1|F|C|idk
+21|9|8|9|E|i dont want to dance
+1|9|2|U|H|ONE COFFEE
+22|10|1|J|C|i think he umm
+13|1|2|N|H|ONE COFFE PLEASE
+14|13|2|O|J|ME TOO
+18|9|H|U|K|ONE COFFEE
+19|14|L|9|H|DANCE GUYS
+20|10|1|F|C|but how did he do?
+21|9|8|9|E|i dont wanna dance
+22|10|1|J|C|he did great
+24|10|8|7|G|NOO
+24|10|8|7|G|/a2BF
+24|10|8|7|G|server update
+24|10|8|7|G|we have to log off
+13|1|2|N|H|WHAT
+14|13|2|O|J|WH
+14|13|2|O|J|WHY
+18|9|H|U|K|aww
+19|14|L|9|H|BUT I WANNA DANCE
+20|10|1|F|C|and we were talking
+21|9|8|9|E|dang
+19
+22
+14
+20
+18
+24
+1
+21
+13
+23
+1|6|4|N|D|kittycat 67
+1|6|5|O|D|
+2|10|4|N|D|scoopddoop
+1
+2|10|2|J|G|
+2|10|3|M|K|
+2
+1|4|2|N|D|cot121
+1|4|2|N|D|
+1|4|8|F|D|
+1|4|6|F|F|
+1|4|1|F|K|
+1|4|6|O|C|
+1
+2|14|2|N|D|nickdelol
+2
+2|1|2|N|D|Miketheven
+2
+3|4|5|N|D|Djmax
+3|4|5|N|D|
+2|1|2|N|D|Miketheven
+3|4|6|G|J|
+2|1|4|F|G|
+3|4|6|G|J|/a2MC
+3
+2|1|4|C|E|
+2|1|2|O|D|
+2
+1|6|3|N|D|rockie band
+1
+1|6|2|N|D|rockie band
+1
+1|1|L|N|D|Kitty
+1|1|L|K|I|
+1
+2|17|4|N|D|rockie band
+2
+1|13|4|N|D|felipe bom
+1
+1|17|4|N|D|nnt32dre
+1|17|8|H|I|
+1|17|6|M|F|
+1
+1|17|L|N|D|nnt32dre
+1|17|2|G|L|
+1|17|4|9|G|
+1
+1|1|5|N|D|lolpenguin2
+1
+1|13|2|N|D|LikeABoss08
+1
+1|14|2|N|D|Yogo Soh
+1|14|3|L|K|
+1|14|3|R|L|
+2|7|4|N|D|Wawsome
+1|14|5|6|H|
+2|7|5|X|L|
+1|14|8|6|H|/a2J8
+1|14|8|6|H|/a2M8
+1|14|8|6|H|/a2CA
+1|14|8|6|H|/a2OE
+1|14|8|6|H|/a2WK
+1|14|8|R|H|/a2WL
+1|14|2|R|H|/a2IC
+1|14|2|R|H|/a2XM
+1|14|2|R|H|/a2XI
+1|14|2|R|H|/a2WL
+1|14|2|R|H|/a2XL
+1|14|2|R|H|/a2YL
+1|14|2|R|H|/a2XM
+1|14|2|N|K|
+1|14|5|H|H|
+1|14|8|H|H|"L;/-p=0l0iou9k.uy8tn6t5uh
+3|13|5|N|D|kblue234567
+1
+3|13|4|M|G|
+1|14|4|N|D|Yogo Soh
+2|7|4|X|L|/a2MH
+1|14|1|N|D|
+1|14|1|N|J|
+1|14|1|N|J|hola a todos
+1|14|1|J|K|
+1|14|7|3|P|
+1|14|L|3|P|
+1|14|H|A|E|
+2
+1|14|I|7|G|
+3
+1|14|K|7|G|puto
+1
+1|14|4|N|D|Yogo Soh
+1
+1|14|L|N|D|Yogo Soh
+1|14|6|L|I|
+1
+1|14|3|N|D|Yogo Soh
+1|14|2|O|C|
+1
+3|18|1|N|D|sebaster
+3|18|3|b|R|
+3
+6|6|1|N|D|mabugianabu
+6|6|6|Q|P|
+6|6|L|W|Q|
+6|6|L|N|L|
+6|6|4|O|E|
+1|17|2|N|D|Yogo Soh
+6
+1|17|J|S|G|
+5|17|2|N|D|taison
+1|17|1|N|F|
+1|17|2|N|F|/e5
+5|17|5|V|N|
+1|17|5|N|F|/a2NC
+1|17|5|H|H|/a2PD
+1|17|6|G|K|/a2PB
+5|17|3|G|M|
+1|14|1|E|K|
+5|17|8|G|M|que
+1|14|1|E|M|
+1|14|1|E|M|oyeeee
+1|14|6|E|M|/a2LB
+1|14|7|J|G|
+1|14|6|J|G|/a2PC
+1
+1|14|3|N|D|Yogo Soh
+6|18|2|N|D|sebaster
+5|17|6|P|C|
+5
+1|14|3|L|K|
+6|18|3|P|M|
+6|18|4|M|N|/a2MF
+1|14|3|L|K|/e5
+1|14|1|L|K|aaaaaaaaaaaaa
+6|18|1|M|F|
+1|14|5|O|C|
+1
+1|14|8|N|D|Yogo Soh
+6|18|1|M|F|como q tarado
+1
+6
+5|17|3|N|D|taison
+5
+7|1|4|N|D|Bitzu
+7|1|4|L|M|
+7|1|3|K|H|
+7|1|4|L|O|
+7
+7|1|4|N|D|Bitzu
+7|1|6|H|L|
+7
+5|14|2|N|D|
+5|14|1|M|F|
+5|14|5|O|C|
+1|18|2|N|D|taison
+1|18|8|N|O|
+1|18|2|I|N|
+1|1|1|P|M|
+1|18|H|E|N|
+1|18|5|N|L|
+1
+1|1|2|N|D|Bio Dynamo
+1|1|4|N|D|
+1|1|H|G|C|
+1
+1|17|4|N|D|pieisnice
+1

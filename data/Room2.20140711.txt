@@ -1,0 +1,204 @@
+1|5|4|9|H|Seabass
+1
+1|17|3|9|H|waddle
+1|17|1|J|J|
+1|17|1|J|B|
+1
+1|17|3|9|H|Anill
+1|17|2|K|I|
+1|17|2|Z|M|
+1
+1|13|5|9|H|Anill
+1
+1|14|L|9|H|Anill
+1
+1|14|5|9|H|Anill
+1
+1|14|7|X|R|Anill
+1
+1|14|5|9|H|Anill
+1|14|8|b|L|
+1
+1|14|7|X|R|Anill
+1|14|6|7|I|
+1
+1|8|5|9|H|Kenley
+1
+1|8|3|X|R|Kenley
+1
+1|8|7|X|R|Kenley
+1
+4|14|7|9|H|Shock Frost
+4|14|3|K|J|
+4
+4|17|2|9|H|eslipy2
+4|17|2|K|K|
+4
+2|14|4|9|H|Web199
+2
+3|18|3|9|H|Jedi
+3|18|5|K|L|
+3|18|7|R|K|
+3
+3|18|4|9|H|Jedi
+3
+3|18|3|X|R|Jedi
+3|18|4|K|F|
+3|18|1|7|H|
+3
+2|1|I|9|H|Frootcakes
+2
+2|18|3|9|H|Anill
+2
+1|14|4|9|H|Penrock13
+1
+1|14|4|X|R|Penrock13
+1
+1|18|6|9|H|sebaster
+1|18|1|L|B|
+1|18|1|L|A|
+1|18|8|d|S|
+1
+1|1|4|9|H|arron47
+1|1|4|O|J|
+1
+1|18|7|9|H|Jedi
+1
+1|18|3|9|H|Jedi
+1
+1|18|3|X|R|Jedi
+1
+1|1|5|9|H|Slippery99
+1|1|H|K|K|
+1|1|8|L|G|
+1|4|1|N|M|
+1
+1|7|4|9|H|Jo han dani
+1|7|4|9|H|
+1
+2|14|4|9|H|Shock Frost
+2|14|3|L|G|
+2
+1|9|5|9|H|destructor
+1|9|7|L|I|
+1|9|L|6|H|
+1
+4|13|6|9|H|Shock Frost
+1|9|L|9|H|destructor
+4|13|L|J|L|
+1|9|7|H|G|
+4|13|L|J|L|the old night club!
+1|9|1|H|G|club penguin
+4|13|7|H|A|
+4|13|2|L|F|
+4|13|3|K|G|
+4|13|2|K|G|yes..
+6|8|5|9|H|kiss123
+4|13|2|L|F|
+6|8|1|K|L|
+4|13|L|L|F|
+6|8|8|K|L|el viejo club penguin esta bueno
+4|13|1|L|B|
+6|8|L|K|L|
+4|13|1|N|J|
+6|8|L|H|H|
+4|13|1|N|J|I cant speak spanish :P
+6|8|3|O|L|
+4|13|L|M|M|
+6|8|6|E|K|
+1|9|2|H|G|yo soy de club penguin
+1|9|L|H|G|
+6|8|8|E|K|the old club penguin is good
+4|13|1|H|L|yes
+6|8|5|L|I|
+1|14|1|H|G|
+4|13|1|H|L|si
+4|13|2|J|L|/e7
+4|13|L|J|L|
+1|14|1|H|G|/e1
+6|8|L|N|M|
+6|8|L|P|K|
+1|14|1|H|G|what
+6|8|2|M|J|/j6
+6|8|4|R|M|/a2JH
+6|8|8|F|J|/a2JI
+6|8|8|F|J|el viejo cp esta bueno
+1|14|1|H|G|maldision
+6|8|8|F|J|no
+6|8|1|F|J|que pasa
+6|8|1|F|J|destructor
+6|8|8|F|J|que pasa
+1|14|1|H|G|lastima haqui no hay iglus
+4|13|L|J|L|bye
+4|13|K|J|N|
+6|8|1|F|J|no
+6|8|6|F|J|que mal
+6|8|1|F|J|sabias que hay un juego
+1|14|1|H|G|juegas club penguin
+6|8|8|F|J|llamado penguin chat 4 podes ser ninja de sombra
+6|8|1|F|J|yo soy
+1|12|1|H|G|que
+6|8|1|F|J|y si tengo cp
+1|12|3|J|K|
+4
+6
+1|12|1|M|G|
+1|12|3|6|H|
+1
+1|12|3|9|H|destructor
+1
+1|12|3|9|H|destructor
+1
+1|12|5|9|H|destructor
+1
+1|12|3|9|H|destructor
+1
+6|17|3|9|H|kiss123
+6
+1|17|6|9|H|destructor
+1
+1|17|3|9|H|destructor
+1
+1|17|6|9|H|Jack1189
+1
+1|17|3|9|H|Jack1189
+1
+1|9|6|9|H|LUKAS
+1
+1|14|4|9|H|shock frost
+1
+1|14|8|9|H|shock frost
+1|14|8|d|T|
+1
+1|14|2|X|R|shock frost
+1
+2|5|4|9|H|peartree
+2
+1|5|7|9|H|Smelly1217
+1
+1|5|7|9|H|Smelly1217
+1
+1|5|5|X|R|Smelly1217
+1
+1|7|5|9|H|Smelly1217
+1
+2|18|7|9|H|RealDFATS
+2
+1|18|1|9|H|fermin1311
+1
+1|6|5|9|H|Happy 77
+1|6|H|K|K|
+1
+1|10|6|9|H|Happy 77
+1|10|1|T|G|
+1|10|H|6|H|
+1
+1|8|5|9|H|poderoso213
+1|8|2|K|I|
+1
+1|1|5|9|H|jose11220
+1
+1|1|8|9|H|jose11220
+1|1|1|D|L|
+1|1|5|K|J|
+1

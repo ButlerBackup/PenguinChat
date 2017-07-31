@@ -1,0 +1,29 @@
+2|5|8|Q|G|Glanni5
+2
+1|18|7|Q|G|detonafredo
+1|18|7|N|G|
+1
+1|12|8|Q|G|Julieta 1913
+1
+2|9|7|Q|G|CPdylan
+2|9|7|X|K|
+2
+1|1|1|Q|G|rorpi
+1|1|6|D|J|
+1|18|1|J|L|
+1
+1|5|5|Q|G|filipe
+1|5|1|J|E|
+1|5|6|R|I|
+1
+1|5|8|Q|G|filipe
+1
+1|18|5|Q|G|filipe
+1|18|2|M|J|
+1|5|3|K|J|
+1
+1|17|7|Q|G|pedro gamer
+1
+1|17|7|Q|G|pedro gamer
+1|17|5|F|L|
+1

@@ -1,0 +1,30 @@
+1|16|7|4|D|cow
+1|16|7|d|I|
+1|16|3|1|G|
+1
+2|16|6|4|D|peaches399
+2|16|7|d|L|
+2|16|3|5|H|
+2|16|2|1|J|
+2|16|2|1|I|
+2|16|5|2|Q|
+2
+1|16|7|4|D|Mendorean
+1|16|8|d|G|
+1|16|2|Q|N|
+1|16|2|1|F|
+1
+2|16|6|4|D|papà rojito
+2|16|8|4|D|
+2|16|8|4|D|hello
+0|1|1||H|Hello
+2|16|8|L|Q|
+2|16|8|L|Q|¡aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa!
+2|16|6|d|D|
+2|16|3|1|B|
+2|16|3|1|B|you is saniti
+0|1|1|L|K|What's poppin'?
+2
+1|16|7|4|D|maximoyou
+1|16|7|c|H|
+1

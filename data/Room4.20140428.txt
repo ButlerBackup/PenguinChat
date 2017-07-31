@@ -1,0 +1,17 @@
+1|12|4|N|D|ghhg
+1
+2|1|4|N|D|DoctorGlove
+2|1|8|K|N|
+2|1|4|N|N|
+2|1|7|P|C|
+2
+1|12|5|N|D|ghhg
+1
+2|1|4|N|D|DoctorGlove
+2
+1|8|4|N|D|club club
+1|8|6|U|F|
+1|8|4|7|G|
+1|8|K|V|O|
+1|8|8|L|N|
+1

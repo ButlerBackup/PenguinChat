@@ -1,0 +1,227 @@
+1|17|7|Q|G|guyguyrosik
+1|17|3|J|G|
+1|17|6|M|J|
+1
+1|17|7|Q|G|guyguyrosik
+1
+1|13|4|Q|G|guyguyrosik
+1
+1|13|4|Q|G|guyguyrosik
+4|17|8|Q|G|TestSnail
+3|8|L|Q|G|Chocolate
+3
+1
+3|8|7|Q|G|Chocolate
+4|17|1|K|I|
+4|17|1|K|I|Cool!
+1|13|6|Q|G|guyguyrosik
+3|8|1|M|I|
+3|8|1|M|I|hi
+4|17|2|K|J|
+1|13|L|F|L|
+3|8|2|T|L|
+3|8|2|R|L|/a2CC
+4|17|4|H|J|
+4|17|8|H|J|hi
+3|8|2|R|L|/a2FA
+1|13|L|F|L|!!!
+3|8|2|R|L|/e1
+4|17|8|H|J|follow me for secret
+1|13|L|F|L|hi
+4
+1|13|L|F|L|/e7
+1|13|4|L|I|
+3|8|2|R|L|salut
+4|17|7|Q|G|TestSnail
+4|17|L|Q|G|
+1|13|8|R|K|
+4|17|L|Q|G|/a28I
+1|13|5|Q|L|
+4|17|L|Q|G|/a2LC
+4|17|L|Q|G|ill be back soon
+1|13|1|Q|J|
+4
+1|13|7|Q|L|
+1
+1|13|7|Q|G|guyguyrosik
+3
+1|13|2|M|M|
+1|13|2|M|M|/e12
+4|7|7|Q|G|TestSnail
+4|7|L|Q|G|
+4
+3|8|1|Q|G|Chocolate
+3
+1
+1|14|H|Q|G|ramon daniel
+1|14|3|C|K|
+1
+1|8|8|Q|G|alex45
+1|8|6|Q|E|
+1
+1|18|7|Q|G|ramon daniel
+1|18|5|R|G|
+1
+1|18|7|Q|G|Robotlion
+1|18|2|H|J|
+1|18|1|H|J|
+1|18|2|O|L|
+1|18|5|Q|H|
+1
+1|4|6|Q|G|Amolinet
+1
+1|18|7|Q|G|Gary123
+1
+1|14|7|Q|G|Gary123
+1|14|6|J|E|
+1|5|1|K|N|
+1
+1|1|4|Q|G|Gary123
+2|4|1|Q|G|Amolinet
+1|1|8|9|H|
+2|4|3|Q|G|
+2|4|1|J|I|
+2|4|2|Q|O|
+1|1|J|9|H|Calientito, Calientito
+2|4|H|Q|O|
+2|4|3|A|G|
+2|4|1|A|G|AAHAHAHAHAHAHAAHAHAJAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+2|4|8|A|G|ME QUEMO
+1|1|J|K|L|
+1|1|J|K|L|sE QUEMA
+2|4|8|A|G|/e11
+1|1|2|K|L|Se quema
+1|1|2|K|L|voy por un extintor
+1
+2|4|I|E|K|
+1|1|3|Q|G|Gary123
+1|1|1|H|M|
+1|1|5|H|M|/e3
+1|1|1|H|M|Ya se quemo
+1|1|6|H|M|/e4
+2|4|2|J|K|
+2|4|H|J|K|
+1|1|1|H|K|
+2|4|H|J|K|/e5
+2|4|H|9|J|
+1|1|K|H|K|
+1|1|K|H|K|¡¡¡Sigue vivo!!!
+1|1|K|H|K|/e1
+1|1|7|7|J|
+1|1|7|7|J|¿No te pasó nada?
+2|4|1|9|J|mira que hay en la caldera
+2|4|3|G|J|
+1|1|7|7|J|/e5
+1|1|1|A|G|
+1|1|1|A|G|Ahhhhh
+1|1|1|A|G|Me quemo
+1|1|1|A|G|Me muero
+2|4|8|G|J|/e5
+1|1|1|A|G|Disfruto y...
+2|4|1|G|J|/e11
+1|1|8|A|G|/e11
+2|4|3|G|J|/a28E
+1|14|H|A|G|
+2|4|3|G|J|/a29I
+1|14|I|A|G|
+2|4|3|G|J|/a29H
+2|4|3|G|J|/a2AG
+2|4|3|G|J|/a2BE
+2|4|4|A|H|
+2|4|I|F|K|
+2|4|6|D|J|
+1|14|I|A|G|*Descanse en paz player Gary123*
+2|18|6|H|F|
+2|18|8|F|I|
+2|18|8|F|I|/e5
+2|18|1|B|M|
+2|18|L|8|J|
+2|18|6|D|F|
+1|18|1|A|G|
+2|18|7|X|K|
+2|18|L|X|K|
+1|18|I|A|G|
+1|18|I|A|G|*RIP Gary123*
+2|4|2|V|I|
+1|18|I|F|L|
+2|4|6|V|I|bzbzbzzbzbzbzbzbzbzbzbzbzb waaaaaah!
+2|4|J|Q|K|
+2|4|1|O|K|
+2|4|3|O|K|/e3
+1|18|1|F|L|*Resusitacion de Gary123 por Amolinet*
+2|4|5|K|F|
+1|1|1|F|L|
+2|4|3|L|K|
+2|4|4|L|K|/e2
+1|1|4|J|I|/e1
+1|1|1|J|I|Volvi de los muertos
+2|4|2|L|K|/e11
+2|4|1|L|K|XD
+1|1|1|J|I|Y  todo te lo  agradesco a ti Amolinet
+2|4|5|A|K|
+1|1|5|J|H|
+1|1|1|J|K|
+2|4|7|A|K|/e7
+2|4|1|A|K|pero si
+2|4|1|A|K|adentro de la
+2|4|1|A|K|caldera
+1|1|1|J|K|Vamos a hacer el baile de la victoria
+2|4|1|A|K|habia
+1|1|1|J|K|En la Disco
+2|4|1|A|K|mis calcetines XD
+1|1|3|J|K|/e5
+1|1|5|J|K|/e1
+1|1|1|J|K|XD
+2|4|8|A|K|*poker face*
+1|1|6|C|K|
+2|4|1|G|K|
+1|1|8|C|K|*troll face*
+2|4|K|G|K|
+1|1|7|K|J|
+2|4|L|G|K|
+1|1|1|I|K|
+2
+1|1|H|I|K|
+1
+3|18|7|Q|G|Robotlion
+1|1|1|Q|G|Gary123
+3|18|5|H|L|
+1|1|6|N|I|/a2TH
+1|1|2|Q|I|/a2V7
+3|18|1|F|K|
+1|1|2|Q|I|/a2BB
+3|18|L|F|K|
+1
+3|18|L|F|K|/a2S9
+3|18|7|O|K|
+3
+3|18|7|Q|G|Robotlion
+3
+3|18|7|Q|G|Robotlion
+3|18|L|F|G|
+2|14|1|Q|G|WaffleWolf
+2|14|1|O|L|
+2|18|L|O|L|
+2|18|6|F|N|
+2|18|5|F|N|/a2DH
+2|18|3|H|J|
+2|18|8|F|M|
+3|18|1|K|I|
+2|18|8|F|M|Hey
+3|18|8|K|I|Hey!
+3|18|2|K|L|/a2EN
+3|18|1|L|M|
+2|18|7|F|M|YAY!
+3|18|1|L|M|Follow me.
+2|18|5|F|M|/e1
+3
+2|18|8|J|M|
+3|18|7|Q|G|Robotlion
+3
+3|18|7|Q|G|Robotlion
+2
+3|18|1|P|L|
+3
+1|8|6|Q|G|24Sharkbate
+1|8|7|I|E|
+1

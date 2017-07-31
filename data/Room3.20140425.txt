@@ -1,0 +1,52 @@
+1|18|7|Q|G|ghhg
+1|18|7|Q|G|
+1
+2|18|8|Q|G|Sine
+2|18|L|A|L|
+2|14|J|H|K|
+2|14|H|Q|F|
+2
+4|17|8|Q|G|TheBeatles
+4
+1|18|8|Q|G|LordLion
+1|18|1|A|G|
+2|17|7|Q|G|Jesse
+2|17|2|M|J|
+2|17|3|M|J|/e5
+2|17|4|K|J|
+1|18|K|A|G|/e3
+2|17|1|M|I|
+1|18|5|F|J|
+2|17|8|M|I|Oh no!
+2|17|8|M|I|Your in my lair! D:
+1|18|8|F|J|yeah
+1|18|8|F|J|YEAH
+2|17|8|S|L|
+1|18|8|F|J|DC
+2|17|3|P|I|
+1|18|8|F|J|D
+1|18|8|F|J|C DC
+2|17|3|P|I|>:(
+1|18|7|F|J|/e6
+1|18|3|B|I|
+2|17|3|P|I|You will pay for this.
+1|18|1|C|J|
+1|18|1|C|J|NO I WONT
+2|17|3|P|I|I will be back.
+1|18|1|C|J|HA
+3|17|1|Q|G|Skippy
+3|17|6|K|L|/a2PG
+1|18|2|I|K|
+1|18|3|I|K|/e5
+3|17|3|Q|K|/a2OF
+3|17|1|L|J|
+1|18|1|I|K|YOU CAME BACK
+2
+3
+1
+1|13|1|Q|G|abaker1
+1|13|4|N|I|
+1
+1|17|8|Q|G|abaker1
+1|17|4|G|F|
+1

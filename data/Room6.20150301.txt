@@ -1,0 +1,208 @@
+1|18|3|a|D|Kinimodd
+1|18|3|L|F|Hello
+0|1|1|I|J|Hi
+1|18|3|O|L|/a2LJ
+1|18|2|L|L|
+1|18|1|F|J|
+1|18|1|F|J|???
+1|18|L|F|J|/e12
+1|18|5|H|K|
+1|18|4|C|K|
+1|18|1|H|M|Wyatt
+0|1|1|L|K|Why did you say my name
+1|18|8|H|M|IDK
+1|18|8|H|M|Do you want to be friends?
+0|1|1|H|J|Hello
+1|18|2|O|L|
+1|18|3|D|P|Hello
+0|1|1|C|G|Hello there
+1|18|3|D|P|Wyatt, do you want to be friends?
+0|1|1|A|K|Hey!
+0|1|1|L|K|I am an awesome guy.
+1|18|6|D|P|/e1
+0|1|1|F|K|( ͡° ͜ʖ ͡°)
+1|18|8|B|N|
+1|18|8|B|N|Am I cool
+1|18|8|B|N|Bye
+0|1|1|C|G|I'll see you later!
+1|18|8|B|N|Are you okay?
+0|1|1|L|K|What's poppin'?
+1|18|8|A|G|
+1|18|8|A|G|Me!
+1
+1|14|3|a|D|TMBeats
+1|14|3|a|D|
+1|14|3|C|F|
+1|14|5|1|K|
+1
+1|1|3|a|D|Tundruin
+1|1|3|4|H|
+1|1|1|K|A|
+1|1|4|K|9|
+1|1|1|K|9|/a2JH
+1|1|2|N|I|/a2LL
+1|1|3|R|N|
+1|1|2|R|N|I have a question
+1|1|2|R|N|Have you making Penguin Chat 3?
+0|1|1|I|J|Hi
+1|1|1|c|N|
+1|1|3|c|N|/e3
+0|1|1|A|J|/e3
+1
+1|1|2|a|D|Alfie
+1|1|3|M|M|
+1|1|2|M|M|/j10
+0|1|1|G|A|I'm rolling on the floor laughing! Can't you tell?
+1|1|3|I|F|
+1|1|4|J|B|
+1|1|4|J|B|are you a robot
+0|1|1|E||Heyy
+1|1|2|A|F|
+1
+1|5|2|a|D|DedlyD2
+1|5|3|G|G|
+1|5|7|1|H|
+1|5|7|d|H|
+1|5|1|d|M|
+1|5|1|d|R|
+1|5|6|d|L|
+1
+1|18|1|a|D|Oldcpv3
+1|18|3|3|J|
+1|18|2|2|K|
+1
+1|18|6|4|D|Oldcpv3
+1|18|6|4|D|
+1
+1|17|7|4|D|Oldcpv3
+1|17|7|d|D|
+1
+1|17|7|4|D|Oldcpv3
+1
+1|10|3|a|D|lexiexiex
+1|10|3|M|9|
+1|10|3|I|9|
+1|10|2|M|9|
+1|10|7|2|H|
+1
+1|18|1|a|D|Mr jorge1
+1|17|1|2|G|
+1
+1|18|L|4|D|Mr jorge1
+1|18|7|b|G|
+1
+1|1|3|a|D|sharky123
+1|1|3|7|H|
+1|1|1|A|K|
+1|1|4|1|E|
+1
+1|1|8|4|D|sharky123
+1|1|7|d|I|
+1|1|7|a|K|
+1|1|2|d|K|
+1|1|3|c|M|
+1|1|3|c|M|/e1
+0|1|1|J|J|( ͡° ͜ʖ ͡°)
+1|1|7|d|K|
+1|1|7|T|G|
+1
+1|8|3|a|D|Kelly99478
+1|8|3|a|D|/a2KK
+2|1|3|a|D|sharky123
+2|1|2|K|P|
+2|1|5|N|B|
+2|1|4|O|R|
+2|1|3|O|R|/a27A
+2|1|3|K|E|
+2|1|3|1|D|
+2
+1
+1|17|7|4|D|sharky123
+1|17|1|4|D|
+1|17|1|M|C|
+1|17|1|M|C|/a2MM
+1|17|1|M|C|/a2GI
+1
+1|17|2|a|D|sharky123
+1|17|1|a|D|
+1
+2|17|3|a|D|mattme7000
+2|17|1|O|A|
+2|17|1|1|D|
+2
+1|18|3|a|D|aliciabri8
+1|18|3|C|L|
+1|14|1|C|L|
+1|14|1|C|O|
+1|14|L|C|O|
+1|14|L|2|H|
+1
+1|14|5|a|D|ShadowChaos
+1|14|3|4|O|
+1
+1|14|6|4|D|ShadowChaos
+1|14|7|b|G|..
+1
+1|14|7|4|D|ShadowChaos
+1|14|7|P|N|/j7
+0|1|1|E|J|/e8
+1|14|2|P|N|/a2KL
+1|14|H|P|I|
+1|14|3|Q|K|/a2EL
+1|14|3|X|L|
+1
+1|14|5|a|D|ShadowChaos
+1|14|3|1|P|
+1
+1|4|8|a|D|Javier Ramon
+1|4|2|B|9|
+1|4|8|S|Q|
+1|4|8|S|Q|/j8
+0|1|1|B|H|Haha, very funny.
+1|4|3|S|Q|/e9
+0|1|1|E|F|/e9
+1|4|H|S|Q|
+1|4|2|O|N|
+1|4|2|O|N|/e10
+1|4|5|d|K|
+1|4|4|c|Q|
+1|4|4|c|Q|/a2GF
+1|4|4|c|Q|/a2EI
+1
+1|13|4|4|D|Javier Ramon
+1|13|8|d|G|
+1
+1|17|3|a|D|dollartiger
+1|17|1|2|G|
+1|17|1|2|G|/j0
+0|1|1|G|H|/e1
+1
+1|17|6|4|D|dollartiger
+1|17|1|4|D|
+1|17|1|4|D|National Geographic Kids Presents... ANIMAL JAM!
+0|1|1|A||Hello there
+1|17|8|F|J|
+1|17|1|F|J|I love you
+0|1|1|L|K|What's poppin'?
+1|17|2|F|J|cAN YOU dANCE?
+0|1|1|L|K|Helloooo
+1|17|8|F|J|Please Dance..
+1|17|L|F|J|
+1
+1|7|3|a|D|santres
+1|7|3|K|G|
+1
+1|12|3|a|D|sunset16
+1|12|3|a|D|/a2KM
+1|12|3|a|D|/a2JN
+1|12|3|U|F|/a2MJ
+1|12|3|U|F|/a2II
+1|12|3|U|F|!ai 3212
+1
+1|18|2|a|D|tomy
+1|18|4|N|B|
+1|17|1|N|B|
+1|18|2|O|H|
+1|18|L|O|H|
+1|18|H|2|E|
+1

@@ -1,0 +1,694 @@
+1|4|3|N|D|DriftedX
+1
+2|17|3|N|D|undefined61
+2|17|8|Q|J|
+2|17|7|W|I|
+2
+1|13|3|N|D|marecekm
+1
+1|17|6|N|D|marecekm
+1|17|3|Z|R|
+1|17|6|K|C|
+1
+1|13|7|N|D|marecekm
+2|17|2|N|D|bab dude
+1|13|4|O|C|
+1
+2
+1|13|4|N|D|marecekm
+1
+2|17|7|N|D|bab dude
+2
+2|17|3|N|D|bab dude
+1|17|5|N|D|marecekm
+2
+2|17|4|N|D|bab dude
+1|17|K|E|C|
+2
+1|17|K|E|C|/a2AD
+2|17|4|N|D|bab dude
+2|17|2|I|J|
+2|17|1|U|G|
+2|17|3|U|G|/e1
+2|17|2|U|G|do you like coffiee
+2|17|3|U|G|/e1
+1|17|6|O|G|
+2|17|3|M|D|
+2
+2|17|4|N|D|bab dude
+2|17|1|K|I|
+1|17|6|K|F|
+1|17|6|K|F|/a2MD
+2|17|1|K|I|oops
+1|17|L|K|F|
+2|17|2|U|G|
+2|17|2|U|G|ok
+1|17|1|K|N|
+1|17|1|Y|N|
+2|17|2|U|G|gives coffiee
+1|17|7|N|H|
+2|17|4|S|N|/e1
+1|17|7|N|H|thanks
+2|17|H|F|C|
+1|17|4|O|J|/e1
+2|17|K|F|C|
+2|17|K|P|L|
+1|17|H|J|C|
+1|17|L|J|C|
+2|17|K|P|L|eww theres a nose on the counter
+1|17|L|J|C|/j14
+2|17|4|N|I|
+1|17|8|I|H|
+1|17|4|I|H|/e1
+1|17|L|I|H|
+2|17|1|N|I|THERES A NOSE ON THE CONTER
+2|17|1|N|I|LOOK
+2|17|8|P|J|
+1|17|8|J|K|
+1|17|8|J|K|ok
+2|17|3|N|I|
+1|17|7|O|K|
+1|17|2|S|L|
+2|17|1|N|I|DANCE OFF
+2|17|1|N|I|WAIT
+1|17|H|S|L|
+1|17|H|S|L|/e1
+2|17|1|N|I|MY FRIEND IS COMING
+1|17|H|S|L|ok
+2|17|4|N|K|
+2|17|1|N|K|hes iballisticsquid
+2|17|1|N|K|know him
+2|17|1|N|K|do you know him
+2|17|I|P|L|
+2|17|K|P|L|
+1|17|H|S|L|no
+1|17|H|S|L|/e1
+3|13|4|N|D|Squid
+2|17|5|O|E|
+3|13|4|N|D|
+2|17|2|L|E|/e5
+1|17|H|K|H|
+2|17|1|L|E|SQUID
+1|17|7|O|F|
+1|17|5|M|G|/a2NE
+3|13|1|N|D|yes
+1|17|4|J|H|
+3|13|3|J|E|
+1|17|5|M|F|
+1|17|L|M|F|
+2|17|1|L|E|uhh are you iballisticsquid
+2|17|5|G|E|
+2|17|8|G|E|wow
+3|13|1|K|H|
+3|13|1|K|H|marecekm do you know me
+1|17|L|M|F|/e2
+2|17|8|H|F|
+3|13|8|M|I|
+1|17|2|N|G|
+2|17|8|M|I|
+1|17|2|N|G|hmm
+1|17|H|N|G|
+2|17|2|P|J|
+2|17|7|P|J|hes stampylongnoses friend
+2|17|6|K|H|
+1|17|L|N|G|ok
+3|13|1|M|I|yep
+1|17|H|N|G|
+2|17|2|K|H|/a2KI
+2|17|2|K|H|/j1
+3|13|2|M|I|/j5
+1|17|H|N|G|/j8
+1|17|H|N|G|/e1
+1|17|H|E|F|
+2|17|2|K|H|/e1
+1|17|3|U|K|
+2|17|2|H|J|
+3|13|3|M|I|/e1
+1|17|I|T|K|
+4|5|6|N|D|kostarik
+3|13|1|G|H|
+1|17|H|T|K|
+4|5|2|N|D|/a2KM
+3|13|1|G|H|buggy moth party
+4|5|2|N|D|/a2DJ
+3|13|4|L|J|
+1|17|4|J|G|
+4|5|2|N|D|/a2EL
+2|17|1|I|I|ok
+1|17|1|J|G|ok
+4|5|5|I|G|/a2TM
+1
+4|5|8|G|G|
+4|5|1|G|G|hi
+1|13|3|N|D|marecekm
+4|5|7|G|I|
+1
+4|5|4|K|G|
+4
+2|17|1|I|L|
+1|13|3|N|D|marecekm
+4|5|4|N|D|kostarik
+2|17|1|I|L|yeah
+1|13|2|N|D|
+4|5|1|L|H|
+1|13|2|N|D|/e5
+3|13|4|H|J|
+4|5|2|L|H|hoj marku
+2|17|1|H|L|
+1|13|L|K|F|
+2|17|8|L|O|
+2|17|8|L|O|brb
+1|13|L|K|F|ahoj XD
+1|13|L|K|F|/a2ID
+2|17|2|L|O|im back
+1|13|L|K|F|/j6
+6|14|4|N|D|Junkworld
+3|13|8|H|J|ok
+1|13|L|K|F|/e1
+4|5|K|L|I|
+6|14|2|H|J|
+4|5|K|L|I|/a2PE
+1|13|1|G|C|
+4|5|L|L|I|
+1|13|K|G|C|
+6|14|6|D|G|
+3|13|8|I|N|
+6|14|7|K|L|
+3|13|8|I|N|hi im iballisticsquid
+4|5|L|L|I|dnechtel jsem si tu davat jmeno ktere mam v cp
+1|13|L|I|H|
+6|14|1|K|L|i love you all
+6|14|1|K|L|<3
+4|5|1|J|F|
+4|5|3|F|G|
+1|13|L|I|H|ok
+4|5|7|F|G|/a2JI
+6|14|7|W|N|
+1|13|2|H|I|
+4|5|6|F|G|
+6|14|3|F|I|
+1|13|2|H|I|/a2AI
+4|5|1|E|H|Huosma
+6|14|1|H|J|
+6|14|1|H|J|oh baby
+1|13|2|H|I|/a2GE
+4|5|7|E|H|/e1
+1|13|2|H|I|/a2EJ
+4|5|L|E|H|
+4|5|L|E|H|/a2UL
+1|13|1|G|G|/a2OD
+1|13|1|G|G|/e1
+4|5|L|E|H|/a2J8
+1|13|L|G|G|/a2EF
+4|5|L|E|H|/a2SD
+1|13|L|G|G|/a2HK
+4|5|H|E|H|/a2VO
+4|5|H|E|H|/a2YC
+1|13|L|K|E|/a2GI
+1
+4|5|1|C|G|/a2AO
+4|5|1|C|G|/a2SK
+4|5|1|C|G|/a2KB
+1|17|3|N|D|marecekm
+7|7|4|N|D|stampylong
+3|13|6|M|H|
+1|17|1|G|G|
+7|7|4|N|D|
+3|13|4|O|K|
+6|14|L|H|J|
+1|17|L|G|G|
+6|14|L|H|J|/j12
+7|7|5|J|L|
+6|14|L|H|J|/a2II
+1|17|L|G|G|/j8
+6|14|L|H|J|/a2WI
+7|7|8|B|N|
+6|14|H|H|J|/a2CD
+6|14|H|H|J|
+7|7|8|B|N|its me stampy
+1|17|L|G|G|/e1
+7|7|5|H|O|
+6|14|K|H|J|
+6|14|K|H|J|/e11
+3|13|3|E|N|
+3|13|3|E|N|hi bud
+3|13|2|K|M|
+1|17|L|G|G|/e5
+4|5|1|C|G|/e5
+3|13|2|I|O|
+1|17|1|E|C|
+4|5|3|E|G|
+3|13|2|I|O|who plays minecraft
+1|17|1|F|G|
+4|5|7|D|G|
+3|13|7|E|L|
+1|17|7|F|G|/e1
+2|17|2|L|O|i do
+4|5|8|I|G|
+2|17|4|L|L|
+4|5|1|I|D|
+1|17|H|F|G|
+7|7|1|H|O|wow
+4|5|1|J|H|
+6|14|K|H|J|i do
+1|17|J|F|G|
+4|5|H|J|H|
+6|14|1|5|P|
+2|17|2|L|L|im your biggest fan
+4|5|H|J|H|
+6|14|6|G|J|
+2|17|3|J|N|
+1|17|L|F|G|
+6|14|8|J|L|
+3|13|5|D|O|
+1|17|K|F|G|
+6|14|1|H|J|
+7|7|8|H|O|thanks
+6|14|5|6|N|
+1|17|1|J|C|
+7|7|8|H|O|i cant add you to my love garden though
+1
+4|5|H|J|H|/a2HM
+4|5|H|J|H|/a2NE
+2|17|2|J|N|WHY NOT
+1|17|5|N|D|marecekm
+1|17|2|N|D|
+7|7|1|H|O|because its not minecraft
+1|17|1|O|D|
+1|17|2|L|G|
+3|13|8|D|O|nevermind
+6|14|6|C|K|
+1|17|8|9|F|
+2|17|4|H|J|
+1|17|8|G|G|
+6|14|7|Y|N|
+4|5|4|J|I|
+1|17|L|G|G|
+2|17|1|H|J|guys we must  record
+6|14|4|a|N|
+2|17|7|G|K|
+3|13|1|J|M|why
+1|17|L|G|G|ok
+1|17|L|G|H|
+2|17|1|G|K|BEACAUSE ITS YOU
+2|17|5|I|L|
+7|7|1|H|O|AND ME
+1
+7|7|4|D|M|
+2|17|1|I|L|DANCE OFF
+1|13|4|N|D|marecekm
+7|7|8|G|O|OK
+1|13|8|H|G|
+7|7|L|G|O|/a2LP
+1|13|K|H|G|/e1
+1|13|K|H|G|/a2DQ
+7|7|L|G|L|
+1|13|K|H|G|/a2HN
+2|17|L|I|L|
+1|13|K|H|G|/a2LK
+3|13|L|J|M|
+1|13|L|H|G|/a2LG
+2|17|L|I|L|OK
+2|17|L|I|L|WHOS RECORDING
+2|17|5|M|L|
+7|7|L|G|L|me
+1|13|L|H|G|Kostarik
+1|13|L|H|G|/e1
+2|17|2|M|L|ok
+2|17|1|L|J|
+2|17|L|L|J|
+7|7|L|G|L|its because i couldnt fit it
+2|17|L|L|J|oh ok
+3|13|1|M|K|
+3|13|1|M|K|hey babdude
+3|13|1|M|K|wheres that colour from
+2|17|L|L|J|oh go to the construction site
+2|17|5|J|L|
+3|13|2|M|K|ok
+1|13|L|H|G|yes
+3|13|2|M|K|brb
+4
+3
+1|13|L|H|G|/e1
+1
+2|17|8|L|N|
+2|17|8|L|N|ok
+3|17|3|N|D|Squid
+1|17|3|N|D|marecekm
+3|17|1|K|I|
+1|17|L|G|G|
+3|17|1|K|I|im back
+2|17|2|L|N|great
+1|17|1|F|C|
+1|17|H|F|C|
+7|7|L|G|L|squid that suits you
+1|17|K|F|C|
+1|17|K|F|C|/j13
+1|17|K|F|C|/j9
+1|17|K|F|C|/e1
+7|7|L|G|L|maybe we should do it in our penguin series
+2|17|4|L|N|/e5
+1|17|K|F|C|/e5
+2|17|2|L|N|a new series
+2|17|2|L|N|when
+1|17|K|F|C|/a2DJ
+1|17|K|F|C|
+7|7|L|G|L|im starting the series in a month
+3|17|1|J|L|
+3|17|1|J|L|yup
+2|17|2|L|N|wow
+2|17|4|G|F|
+2|17|4|G|F|marec
+2|17|4|G|F|you recording this
+3|17|2|H|N|
+3|17|8|C|G|
+3|17|8|C|G|what
+1|17|K|F|C|no
+7|7|1|F|H|
+2|17|1|G|F|why
+3|17|1|C|L|
+3|17|L|C|L|
+7|7|L|E|M|
+2|17|6|H|D|
+2|17|H|I|C|
+1|17|K|F|C|I don´t know
+7|7|L|G|M|
+1|17|K|F|C|/a2GG
+1|17|K|F|C|/e1
+2|17|H|I|C|RECORD THEN
+1|17|K|F|C|
+2|17|H|I|C|THEY ARE FAMOUS
+2|17|H|I|C|RECOR THIS
+1|17|K|F|C|I can´t
+3|17|2|I|K|
+2|17|H|I|C|Why
+3|17|1|I|K|hey look
+3|17|7|Y|M|
+7|7|L|V|O|
+7|7|4|a|P|
+2|17|1|J|D|
+1|17|K|F|C|I don´t know what
+2|17|1|J|D|yeah look
+1|17|K|F|C|/e1
+2|17|8|U|N|
+2|17|4|J|E|
+2|17|4|J|E|so as you were saying
+7|7|3|a|P|hes called junkworld
+1|17|K|F|F|
+7|7|4|W|M|
+3|17|3|Y|M|really
+1|17|2|F|G|
+3|17|4|Z|P|
+1|17|I|F|G|
+2|17|7|I|G|
+1|17|H|F|G|
+2|17|1|I|G|so what
+1|17|K|F|G|
+2|17|I|C|H|
+1|17|J|F|G|
+2|17|I|C|H|
+1|17|I|F|G|
+2|17|K|C|H|
+1|17|J|F|G|
+2|17|K|C|H|marec
+1|17|H|F|G|
+1|17|J|F|G|
+1|17|H|F|G|
+1|17|H|F|G|what ?
+2|17|K|C|H|record
+1|17|H|F|G|/e4
+7|7|2|W|M|record who
+1|17|5|K|N|
+7|7|3|G|I|
+1|17|3|M|O|
+3|17|3|F|J|
+1|17|3|I|P|
+3|17|8|K|N|hey
+1|17|6|L|O|
+3|17|8|K|N|you ok
+3|17|4|N|N|
+1|17|2|L|O|yes
+2|17|K|C|H|well your stampy
+1|17|2|G|C|
+2|17|K|C|H|and i dont have a camera
+7|7|5|D|F|
+3|17|3|F|L|
+6
+3|17|4|F|J|
+1
+2|17|K|C|H|im only 9
+1|13|4|N|D|marecekm
+3|17|1|F|J|thats ok
+1|13|1|I|I|
+3|17|2|E|H|
+1|13|5|I|I|/e1
+1|13|1|I|C|
+3|17|8|E|H|marec
+3|17|8|G|F|
+1|13|H|I|C|
+3|17|8|G|F|you mind recording for this fella
+2|17|3|C|G|
+7|7|3|8|F|
+7|7|K|8|F|
+1|13|H|I|C|/e3
+1|13|H|I|C|/e1
+2|17|5|F|H|
+1|13|H|I|C|/e5
+3|17|1|G|F|well
+1|13|H|I|C|/e1
+3|17|K|9|E|
+2|17|H|7|G|
+2|17|K|7|G|
+3|17|K|9|E|
+2|17|K|7|G|please
+7|7|K|8|F|yeah
+3|17|K|9|E|why
+1|13|H|I|C|
+3|17|K|9|E|id record but i lost my pc recorder
+1|13|H|I|C|
+3|17|K|9|E|so i record xbox
+1|13|H|I|C|/e1
+2|17|6|C|G|
+1|13|H|I|C|´
+2|17|1|C|G|what
+2|17|6|C|G|its sad its lost
+2|17|7|C|G|/e4
+1|13|H|I|C|
+1|13|H|I|C|´´
+2|17|8|7|G|
+2|17|8|7|G|thats sad squid
+7|7|K|8|F|yeah]
+1|13|H|I|C|/a28H
+1|13|H|I|C|/a29H
+3|17|5|I|K|
+1|13|H|I|C|/e1
+3|17|5|I|K|/a2KA
+1|13|H|I|C|/a2KH
+3|17|8|F|C|
+1|13|H|I|C|/a2KL
+3|17|L|F|C|
+1|13|2|I|K|
+3|17|1|A|H|
+1|13|L|I|K|
+1|13|7|T|F|
+1|13|8|N|G|
+3|17|1|A|H|cmon guys lets go somewhere without him
+1|13|7|Q|K|
+3
+2
+1|13|7|F|E|
+7
+1
+10|9|4|N|D|zack6010
+10
+12|18|1|N|D|coolguy
+12
+1|13|5|N|D|marecekm
+1
+8|17|8|N|D|Pomik
+8|17|8|J|H|
+8|17|4|H|D|
+8
+11|8|4|N|D|Squid
+10|12|4|N|D|bab dude
+8|7|4|N|D|Stampylong
+11|8|1|L|I|
+10|12|2|E|I|
+11|8|2|G|L|
+8|7|1|J|K|
+8|7|3|F|M|
+8|7|1|B|G|
+8|7|1|E|O|
+8|7|8|D|K|
+8|7|7|F|J|
+8|7|1|F|J|hi
+8|7|1|F|J|squib is mea
+8|7|8|F|J|mean
+8|7|8|F|J|
+8|7|8|F|J|
+8|7|2|E|J|
+11|8|8|G|L|
+10|12|1|E|I|
+11|8|7|G|L|i3tw2
+8
+8|17|3|N|D|Stampylong
+8|17|5|J|I|
+11|8|1|J|M|
+8|17|1|J|I|really
+10|12|8|E|I|ya
+10|12|7|E|I|iioioiooio
+10|12|7|E|I|T OI
+10|12|7|E|I|POO
+11|8|4|A|H|
+11|8|4|C|N|
+11|8|6|G|I|
+11|8|6|E|L|
+10
+5|5|6|N|D|bab dude
+11|8|7|I|M|
+5|5|2|H|J|
+11|8|4|J|L|
+11|8|1|H|J|
+11|8|3|H|J|/a2CF
+5|5|3|9|L|ok
+11|8|6|G|J|
+8|17|2|K|M|
+8|17|2|K|M|zippy
+8|17|6|E|H|
+4|9|4|N|D|Brown POO
+4|9|7|I|M|
+11|8|1|I|L|
+11|8|1|I|L|hi brown poo
+11|8|6|J|H|
+4|9|1|I|M|HOI
+4|9|4|F|I|
+5|5|8|9|L|OH GOD
+5|5|8|9|L|BROWN POO
+11|8|4|I|L|/a2EH
+11|8|5|M|D|
+8|17|7|N|E|
+8
+3|11|7|N|D|bab duďe
+5|5|6|L|F|
+5
+3|11|1|L|H|
+3|11|2|L|H|/e5
+4
+3
+11
+4|9|2|N|D|Brown POO
+4
+1|1|2|N|D|bab dude
+1
+1|8|4|N|D|anisita
+1|8|3|T|F|
+1|8|I|O|L|
+1|8|1|F|H|
+1|8|8|E|K|
+1|8|8|C|L|
+1|8|1|D|J|
+1
+1|13|4|N|D|marecekm
+1
+1|13|4|N|D|marecekm
+1|13|7|L|D|
+1
+1|9|3|N|D|Ghokan137
+1|9|1|N|D|
+1
+1|14|4|N|D|MeuPau
+1|14|2|K|K|
+1|14|6|G|L|
+1|14|5|I|M|
+1|14|2|M|I|
+1
+1|6|5|N|D|catlover501
+1|6|1|G|C|
+1|6|8|7|G|
+1|6|K|I|H|
+1|6|7|H|G|
+1|6|L|N|L|
+1|6|4|E|H|
+1
+1|10|7|N|D|Acacia
+1
+1|18|2|N|D|Finlayb
+1|18|6|N|D|
+1
+1|8|1|N|D|salinda07
+1|8|L|K|M|
+1|8|8|K|O|
+1|8|8|H|M|
+1|8|8|J|L|
+1|8|4|O|C|
+1
+2|1|6|N|D|SeanpriSean
+2
+2|1|7|N|D|SeanpriSean
+2
+2|13|2|N|D|el101
+2
+1|7|5|N|D|tatan76
+1|7|1|V|L|
+1|7|1|H|G|
+1|7|7|V|L|
+1|7|I|E|C|
+1|7|I|L|H|
+1|7|6|N|D|
+1
+2|1|2|N|D|9291wety
+2|1|2|F|M|
+2|1|8|I|K|
+2
+1|4|4|N|D|jaylen9421
+1|4|8|F|L|
+1
+1|13|4|N|D|jaylen9421
+1|13|8|8|F|
+1
+2|13|4|N|D|raybird
+2
+3|1|5|N|D|9291wety
+3
+2|1|5|N|D|belle
+2|1|4|U|H|
+1|1|4|N|D|Jadl
+1|1|7|K|J|/a2SH
+1|1|5|L|D|
+1
+4|6|3|N|D|milagrosayou
+4|6|8|N|D|/a2RG
+4|6|8|N|D|/a2EE
+4|6|L|N|D|
+4|6|L|N|D|/e2
+2
+4
+1|5|4|N|D|holis
+1|5|4|X|N|
+1
+1|9|4|N|D|lesli 1505
+1|9|1|S|G|
+1|9|5|P|G|
+1
+1|14|5|N|D|whip lash1
+1|14|8|H|N|
+1
+1|9|4|N|D|Coolguy6654
+1
+2|18|4|N|D|12345678910
+2
+1|4|3|N|D|Djmax
+1|4|5|N|I|
+1|4|6|M|J|
+1
+1|14|I|N|D|Dragon999
+1|14|K|H|C|
+1|14|5|N|F|
+1
+2|1|8|N|D|LikeABoss08
+2
+2|1|8|N|D|LikeABoss08
+2
+1|4|4|N|D|fast nitro 1
+1|4|5|M|H|
+1

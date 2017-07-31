@@ -1,0 +1,15 @@
+1|10|8|Q|G|lilypop
+1|10|6|J|J|
+1|10|6|U|G|
+1
+1|12|1|Q|G|max extremo
+1|12|7|D|M|
+1
+3|18|8|Q|G|Legal6
+3|18|5|L|L|
+5|18|7|Q|G|coolwh
+3
+5
+1|14|6|Q|G|Neezzuss
+1|14|2|I|K|
+1

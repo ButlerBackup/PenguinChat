@@ -1,0 +1,634 @@
+1|13|1|K|L|tuguin 12
+1|13|I|P|K|
+1|13|2|J|M|
+1|13|3|6|J|
+1
+2|14|1|K|L|teteu23
+2|14|4|T|P|
+2
+1|4|1|K|L|tuguin 12
+1
+1|17|1|C|L|tuguin 12
+1
+1|17|7|V|L|tuguin 12
+1|17|3|H|O|
+1|17|5|J|D|
+1
+1|17|3|M|D|tuguin 12
+2|14|3|V|L|teteu23
+2|14|5|M|Q|
+2|14|4|B|J|
+2|14|1|M|O|
+2|14|4|a|M|
+2
+2|14|7|V|L|teteu23
+2|14|6|Z|N|
+1
+2
+2|14|1|V|L|teteu23
+2
+2|14|4|V|L|teteu23
+2|14|4|P|L|
+2|14|8|P|N|
+2
+2|14|8|V|L|teteu23
+2
+2|14|3|V|L|teteu23
+2|14|1|J|J|
+2|14|7|D|L|
+2|14|4|I|O|
+2
+1|14|1|K|L|teteu23
+2|4|1|K|L|tuguin 12
+1|14|5|G|L|
+2|4|4|N|N|
+1|14|7|R|M|
+2|4|3|I|L|
+1|14|6|X|L|
+2|4|6|Q|K|
+1|14|5|X|J|
+1|14|3|O|M|
+1|14|3|W|K|
+2|4|6|U|K|
+1|14|6|X|L|
+1
+2|4|6|V|I|
+2
+1|14|7|V|L|teteu23
+2|4|4|V|L|tuguin 12
+1
+2|4|4|T|L|
+2
+1|14|3|M|D|teteu23
+1
+2|4|3|M|D|tuguin 12
+2|4|3|M|D|
+1|14|6|E|F|teteu23
+1|14|3|R|G|
+1|14|5|S|F|
+1|14|4|T|G|
+1|14|7|R|E|
+1|14|5|U|G|
+1|14|5|S|G|
+1|14|7|Q|E|
+1|14|2|T|F|
+1|14|2|T|F|/e5
+1|14|2|T|F|cuu
+1|14|2|T|F|fodadse
+1|14|3|T|F|cu
+1|14|3|I|K|
+1
+2
+1|14|1|K|L|RedPenguin
+1
+1|14|3|M|D|RedPenguin
+1|14|2|J|N|
+1|18|4|F|E|
+1
+1|18|7|E|F|RedPenguin
+1|18|7|X|L|
+1
+1|18|2|V|L|RedPenguin
+1
+1|18|4|V|L|RedPenguin
+1
+1|18|3|M|D|RedPenguin
+1
+1|18|1|V|L|RedPenguin
+1|18|4|H|N|
+1|18|8|D|O|
+1|18|H|N|E|
+1|18|7|T|F|
+1
+1|18|3|V|L|RedPenguin
+2|10|1|K|L|flowerqm2222
+1
+2|10|7|H|L|
+2
+1|18|6|E|F|RedPenguin
+1|18|7|I|G|
+1
+2|10|4|M|D|flowerqm2222
+2|10|7|T|H|
+2|10|6|X|L|
+2|10|5|S|F|
+2
+1|18|3|M|D|RedPenguin
+2|10|7|E|F|flowerqm2222
+1
+2|10|3|I|I|
+1|18|6|E|F|RedPenguin
+2
+1|18|6|T|L|
+1
+2|13|1|K|L|flowerqm2222
+2|13|7|G|K|
+2|13|1|G|I|
+2|13|4|I|E|
+2
+1|13|1|K|L|chubbygirl22
+1|13|5|G|N|
+1|13|5|G|K|
+1
+1|14|1|K|L|Stub990
+1|14|4|J|N|
+1|14|4|J|D|
+1
+2|6|1|K|L|chubbygirl22
+1|14|3|M|D|Stub990
+2|6|4|J|J|
+2|6|5|L|I|
+1|14|7|J|M|
+1|14|7|Q|O|Hello
+2|6|8|G|L|
+1|14|3|Q|O|Do you play real club penguin
+2|6|8|G|L|oh yeah im chubby
+1|14|3|C|L|
+2|6|8|G|L|no
+2|6|8|G|L|i have to
+1|14|8|C|L|Oh i do im stub990 on there
+2|6|8|G|L|wait
+1|14|2|C|L|what?
+2|6|8|G|L|i do reno5m
+1|14|2|C|L|cool ill search you
+1|14|2|C|L|and add you to my buddy list
+1|14|7|M|J|
+2|6|8|M|O|
+2|6|1|O|M|
+1|14|1|M|J|This is amazing its the birth of club penguin
+1|14|1|M|J|right before my eyes
+1
+2|6|2|O|M|yeah
+2|6|3|N|F|
+2|6|6|J|N|
+1|14|6|E|F|Stub990
+1|14|5|I|D|
+2|6|4|O|J|
+2|6|5|L|N|
+1|14|5|N|L|
+2|6|5|I|I|
+1|14|4|H|M|
+2
+1
+2|6|3|M|D|chubbygirl22
+2
+1|14|3|M|D|Stub990
+2|6|6|E|F|chubbygirl22
+2|6|2|M|H|
+1|14|7|T|F|
+1|14|3|J|I|
+1|14|3|J|I|reno5m right
+1|14|3|J|I|i searched and added you on cp just accept
+1|14|8|C|N|
+2|6|1|M|H|ok
+1|14|7|O|M|
+2|6|1|M|H|im playing real club penguin now bye
+2|6|1|M|H|and this
+1|14|7|Z|L|
+1
+1|14|2|V|L|Stub990
+1|14|3|7|J|
+1
+2|6|3|J|L|
+1|14|3|V|L|Stub990
+3|6|1|K|L|flowerqm2222
+1|14|3|F|M|
+3|6|1|I|I|
+1|14|8|F|M|Hey welcome
+3|6|2|C|M|
+4|9|1|K|L|alfajormucho
+3|6|6|G|G|
+4|9|2|L|O|
+3|6|7|A|M|/a2MJ
+3|6|7|A|M|hi
+4|9|2|N|N|
+4|9|2|N|N|hola
+4|9|5|N|P|
+3|6|7|A|M|thats my sister'
+4|9|1|N|L|
+4|9|1|N|L|perdon no hablo ingles
+1|14|8|F|M|its the beginning of club penguin here
+4|9|4|M|P|/e3
+1|14|8|F|M|oh
+3|6|7|A|M|thats my sister
+1|14|3|D|M|/a28L
+4|9|2|M|J|
+1|14|3|D|M|LOL
+2|6|7|C|N|
+1|14|3|D|M|/a2QK
+2|6|3|C|N|yah
+4|9|2|M|J|NO HABLO INGLES
+1|14|1|J|Q|
+1|14|1|J|Q|espanol?
+1|14|7|R|K|
+4|9|1|M|J|sí
+1|14|2|R|K|He said i dont speak english
+1|14|2|R|K|yes
+3|6|7|I|K|
+3|6|7|I|K|oh
+4|9|3|M|J|/e4
+4|9|1|M|J|bueno
+1|14|2|R|K|tranductor?
+4|9|1|M|J|adios
+1|14|2|R|K|good
+4
+1|14|2|R|K|bye
+3|6|1|I|K|what did he say
+1|14|2|R|K|i know spanish
+4|9|6|E|F|alfajormucho
+1|14|2|R|K|he said i dont speak english goodbye
+4|9|7|R|N|
+3|6|8|I|K|oh
+4|9|2|V|N|
+4
+1|14|2|R|K|tranductor?
+2|6|2|G|L|
+1|14|2|R|K|it means translator
+3|6|8|I|K|what
+3|6|8|I|K|oh
+1|14|3|R|K|/e5
+3|6|8|I|K|you
+1|14|L|R|K|
+1|14|L|R|K|/j10
+3|6|8|I|K|play
+1|14|L|R|K|/a2WA
+3|6|8|I|K|real
+1|14|H|R|K|
+3|6|8|I|K|club penguin
+1|14|H|R|K|yes i do
+4|9|3|V|L|alfajormucho
+1|14|H|R|K|im stub990  on real club penguib
+4|9|4|9|K|
+3|6|8|I|K|do you play real club penguin
+4
+2|6|2|L|J|
+1|14|H|R|K|Yes
+3|6|8|I|K|me too
+3|6|8|I|K|im
+3|6|8|I|K|pinkie yo
+3|6|8|I|K|on real cp
+1|14|H|R|K|yea
+3|6|8|I|K|who r u on club penguin
+1|14|H|R|K|stub990
+3|6|8|I|K|oh
+3|6|8|I|K|im
+3|6|8|I|K|pinkie yo
+3|6|8|I|K|send me a friend request
+3|6|8|I|K|on real cp
+1|14|H|R|K|added
+3|6|2|I|K|lets play club penguin
+2|6|1|M|K|
+1|14|H|J|N|
+3|6|8|I|K|lets play real club penguin'
+1|14|8|J|N|ok
+3|6|3|I|K|bye
+3|6|2|I|K|wait
+1|14|2|J|N|yes?
+3|6|1|I|K|whAT SERVER
+3|6|1|I|K|what server
+1|14|1|J|N|sub zero
+1|14|1|J|N|box dimension
+3|6|1|I|K|no
+3|6|1|I|K|ice berg
+1|14|1|J|N|im already on
+1|14|1|J|N|sub zero
+3|6|1|I|K|oh
+3|6|1|I|K|but
+1|14|1|J|N|so is she
+5|14|1|K|L|ClayClayton
+3|6|1|I|K|do
+1|14|7|O|L|
+5|14|6|O|P|
+3|6|1|I|K|ice burg
+5|14|3|O|P|hello
+1|14|1|O|L|hi clayclayton
+1|14|2|O|L|brb
+5|14|5|O|P|brb
+1
+3|6|8|I|K|im playing now
+1|1|1|K|L|Stub990
+5|14|3|O|P|its so cool
+1|1|5|Q|M|
+3|6|1|I|K|bye\
+1|1|1|Q|M|ikr its the old club penguin
+5|14|3|O|P|can play old cp
+2|6|1|K|Q|
+1|1|1|Q|M|by
+5|14|3|I|H|
+1|1|1|Q|M|yup
+5
+1|1|1|Q|M|its the birth of club penguin
+2|6|1|K|Q|do you play new club penguin
+2|6|5|I|D|
+2
+1
+5|14|4|M|D|ClayClayton
+5|14|7|T|F|
+5|14|1|Q|J|
+1|1|3|M|D|Stub990
+5|14|3|9|I|
+5
+1|1|7|A|L|
+1|1|5|T|F|
+1|1|2|N|J|
+5|14|3|E|F|ClayClayton
+1|1|3|6|I|
+1|1|8|7|J|this way
+5|14|6|T|F|
+5|14|3|C|K|
+1|1|8|7|J|it looks just like the beta picture
+5|14|3|C|K|ok
+1
+5|14|3|C|K|yeah
+5
+3
+6|6|1|K|L|flowerqm2222
+6|6|1|G|L|
+6
+1|1|3|V|L|Stub990
+1
+5|14|4|V|L|ClayClayton
+1|1|3|V|L|Stub990
+1|1|3|9|J|
+5|14|2|K|N|
+1|1|4|9|K|
+1
+5
+1|1|3|V|L|Stub990
+1
+1|1|3|V|L|Stub990
+5|17|5|C|L|ClayClayton
+5|17|1|I|L|
+1|1|5|J|K|
+5|17|6|T|F|
+1
+5|17|5|F|L|
+5
+5|17|3|M|D|ClayClayton
+5
+1|1|6|E|F|Stub990
+1
+5|17|5|E|F|ClayClayton
+5
+1|1|2|M|D|Stub990
+1|1|7|T|F|
+5|17|3|M|D|ClayClayton
+5|17|3|M|D|hey
+5|17|3|M|D|this way
+5|17|8|H|F|
+5|17|1|H|F|is something cool
+1|1|6|G|H|
+5
+1
+1|1|3|M|D|Stub990
+1
+1|1|6|E|F|Stub990
+1|1|1|M|H|
+1|1|2|I|N|
+5|17|2|M|D|ClayClayton
+5|17|1|K|L|
+1
+1|1|3|M|D|Stub990
+5|17|1|K|L|i have to
+1|1|3|N|M|where did you go?
+5|17|1|K|L|say you
+5|17|1|K|L|to the
+1|1|2|N|M|you
+5|17|1|K|L|come whit me
+1|1|2|N|M|ok
+5
+1|1|7|G|L|
+5|17|3|M|D|ClayClayton
+5|17|1|M|D|this way
+1|1|1|L|N|
+1|1|1|L|N|say you
+5|17|5|I|F|
+1|1|8|L|N|lag
+1|1|1|K|G|
+1|1|1|K|G|where im confused
+5|17|1|I|F|lag?
+1|1|1|K|G|so where r we going
+5|17|1|I|F|this is
+1|1|6|E|M|
+1|1|4|J|G|
+5|17|1|I|F|this way
+5|17|5|I|D|
+5
+1|1|1|J|G|night club?
+1
+1|1|4|M|D|Stub990
+1
+1|1|4|V|L|Stub990
+1|1|4|N|I|
+1
+1|6|1|K|L|lola123
+1
+1|6|3|V|L|lola123
+1
+1|6|5|M|D|lola123
+2|1|1|K|L|Pin Wii
+2|1|7|Q|M|
+2|1|2|Q|M|/j1
+2|1|L|Q|M|
+2|1|L|Q|M|/e1
+2|1|H|Q|M|/a2TK
+2|1|8|K|L|
+2|1|7|S|F|
+2|1|1|K|J|
+2|1|4|M|N|
+2|1|8|H|J|
+2|1|6|H|J|/a2PD
+2|1|5|6|I|
+1
+2
+1|14|1|K|L|Pin Wii
+1
+1|14|3|M|D|Pin Wii
+1|14|7|X|K|
+1
+1|14|1|K|L|Gary123
+1|14|6|Q|O|
+2|7|1|K|L|biscoto
+2|7|3|M|J|
+2|7|6|G|M|
+1|14|3|J|O|
+1|14|3|J|O|Hola
+1|14|3|J|O|Hello
+2|7|6|D|N|
+2|7|7|N|M|
+1
+2|7|4|N|N|
+3|9|1|K|L|tuguin 12
+3|9|8|K|L|/a2LL
+2|7|1|S|G|
+3|9|8|H|L|/a2PQ
+2|7|1|L|J|
+2|7|1|L|J|tutu
+3|9|2|R|K|
+1|18|1|V|L|Gary123
+2|7|1|E|N|
+3|9|8|Q|N|
+3|9|7|L|O|/a2UJ
+1|18|8|J|K|
+2|7|1|E|N|ou artur
+1|18|8|J|K|Hola
+3|9|7|U|O|
+1|18|8|J|K|Hello
+2|7|7|O|L|
+3|9|7|Y|L|
+3
+1|18|8|J|N|
+2|7|7|T|M|
+2
+1
+1|18|2|V|L|Gary123
+1
+1|18|2|C|L|Gary123
+1
+1|14|3|M|D|Gary123
+1
+1|18|1|V|L|Gary123
+1
+1|18|3|M|D|Gary123
+1
+1|14|6|E|F|Gary123
+1
+1|14|1|K|L|Gary123
+1|14|5|N|P|
+1|18|1|L|G|
+1|18|1|L|P|
+1|18|6|T|F|
+1|18|2|O|J|
+1
+1|18|4|M|D|Gary123
+1|18|3|J|O|
+1
+1|18|6|E|F|Gary123
+1
+1|10|1|K|L|alfajorrico2
+1
+1|10|1|K|L|Olivia
+1|10|6|S|F|
+1|10|1|I|D|
+1
+1|10|4|M|D|Olivia
+1
+1|10|3|C|L|Olivia
+1
+1|10|6|E|F|Olivia
+1
+1|10|4|V|L|Olivia
+1
+1|10|3|V|L|Olivia
+1|10|4|S|E|
+1
+1|9|1|K|L|miguelpte3
+1|9|8|B|I|
+1
+1|4|1|K|L|Amolinetee
+1|4|1|I|K|
+1
+1|4|4|M|D|Amolinetee
+1
+1|4|4|E|F|Amolinetee
+1|4|4|E|F|
+1
+1|4|1|K|L|Amolinetee
+1|4|5|N|O|
+1|4|6|H|J|
+1|4|2|R|I|
+1|4|3|Y|K|
+1
+1|4|3|V|L|Amolinetee
+1|4|5|J|K|
+1|4|1|L|K|
+1
+1|1|1|K|L|amolinetee
+1|1|2|S|F|
+1|4|1|L|L|
+1|4|4|J|E|
+1
+1|4|3|M|D|amolinetee
+1
+1|4|2|E|F|amolinetee
+1
+2|5|1|K|L|sonico123
+2|5|3|J|K|
+2|5|1|T|H|
+2|5|3|I|K|
+2
+2|1|1|K|L|sonico123
+2
+2|5|1|K|L|sonico123
+2|5|8|L|G|
+2
+1|5|1|K|L|sonico123
+1
+1|5|1|K|L|sonico123
+1|5|6|H|L|
+1
+1|18|3|M|D|sonico123
+1
+1|5|3|V|L|sonico123
+1|5|3|K|L|
+1|18|3|N|M|
+1|18|4|H|J|
+1
+2|13|1|K|L|Flames
+2
+2|13|8|M|D|Flames
+1|18|6|C|L|sonico123
+2|13|7|U|F|
+1|18|5|M|M|/a2OE
+1|18|2|S|J|
+2|13|2|O|O|
+2|13|2|O|O|hi
+2|13|8|O|K|
+1|18|3|S|J|joder por fin en la historia hay un pinguino mas
+1|18|3|T|M|
+1|18|3|T|M|mierda
+1|18|L|R|O|
+2|13|1|O|K|d//d/g
+2|13|1|O|K|d/
+2|13|1|O|K|dg//d
+2|13|1|O|K|gd
+2|13|1|O|K|g/d
+2|13|1|O|K|dgd
+1
+2|13|1|O|K|dgs
+2|13|1|O|K|sd
+2|13|1|O|K|bsd
+2|13|1|O|K|bsdb
+2|13|1|O|K|sdb
+2|13|1|O|K|sdbs
+2|13|3|8|K|
+2
+1|18|5|M|D|sonico123
+1
+1|18|2|V|L|sonico123
+1
+1|18|6|E|F|sonico123
+1
+1|5|1|K|L|sonico123
+1|18|4|K|N|
+1|18|3|H|L|
+1
+1|18|5|C|L|sonico123
+1
+1|18|K|E|F|sonico123
+1|18|6|D|K|
+1
+1|18|6|C|L|sonico123
+1
+1|5|1|K|L|sonico123
+1|5|4|M|M|
+1|18|3|S|E|
+1|18|6|S|F|
+1|18|3|P|M|
+1
+1|5|1|K|L|sonico123
+1|5|3|M|O|
+1|5|5|P|Q|
+1
+1|4|1|K|L|amolinetee
+1

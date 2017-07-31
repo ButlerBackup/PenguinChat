@@ -1,0 +1,342 @@
+1|14|3|a|D|HAI!!!
+1
+1|14|8|4|D|HAI!!!
+1
+1|14|6|4|D|spy yoyo
+1
+1|14|6|4|D|spy yoyo
+1|14|6|R|E|
+1|14|6|J|N|
+1|14|4|Y|C|
+1|14|2|P|G|
+1|14|2|W|J|
+1
+1|14|2|4|D|feartech101
+1|14|1|I|M|
+1|14|L|c|D|
+1|14|2|1|C|
+1
+1|14|3|a|D|feartech101
+1
+1|11|6|4|D|SSmudger002
+1|16|7|P|F|
+1
+1|1|1|4|D|rabbid2
+1|1|5|d|C|
+1|1|4|B|I|
+1|1|4|1|D|
+1
+1|1|6|4|D|rabbid2
+1|1|5|d|C|
+1|1|1|R|I|
+1|1|3|R|G|
+1|1|8|S|G|
+1
+1|1|3|4|D|Rsnail11
+1|16|8|R|F|
+1|16|1|Q|L|
+1|16|3|1|G|
+1
+1|1|6|4|D|norge
+1|16|2|H|K|
+1|16|7|V|L|
+2|14|3|a|D|samuel12310
+2|14|2|a|D|/a2XM
+2|14|5|V|M|
+2|14|5|V|M|/a2YK
+2|14|4|R|E|
+2|17|1|R|E|/a2XK
+2|17|L|V|M|
+2|17|L|3|C|
+2
+1
+1|4|7|4|D|lucas77391
+1|4|1|J|F|
+1
+1|18|L|4|D|ZUCARITA200
+1|17|1|U|H|
+1|17|L|M|G|
+1|17|8|d|B|
+1|17|4|Y|H|
+1|18|4|1|D|
+1|18|4|2|C|
+1
+1|12|7|4|D|aron945
+1|16|4|1|B|
+1
+1|18|8|4|D|emanuelvela
+1|18|2|d|C|
+1|17|I|G|K|
+1|17|8|L|L|
+1|17|7|Q|K|
+1|17|3|7|G|
+1
+1|17|L|a|D|emanuelvela
+1
+1|17|7|a|D|emanuelvela
+1|16|7|O|G|
+1|18|K|M|J|
+1|18|4|2|F|
+1
+1|12|6|4|D|luichito16
+2|13|7|4|D|marecekm
+2
+1|16|6|I|I|
+2|13|7|4|D|marecekm
+2|16|7|R|D|
+1|16|3|R|H|
+2|16|2|N|I|what now ?
+1|16|7|S|H|
+2|16|4|X|I|
+1
+2
+1|16|5|a|D|luichito16
+1
+1|16|3|a|D|luichito16
+2|16|4|a|D|marecekm
+2|16|3|H|I|
+1|16|7|O|R|
+2|16|7|N|I|do you know how I can be ninja ?
+1|16|4|2|E|
+2|16|2|K|Q|
+1
+2|16|4|1|C|
+2
+2|13|7|4|D|marecekm
+2
+1|12|3|a|D|luichito16
+2|13|2|a|D|marecekm
+1|12|3|1|D|
+1
+2|13|1|P|I|
+2
+3|18|8|4|D|jaloute
+3
+3|17|L|a|D|jaloute
+3
+1|1|7|4|D|emanuelvela
+1|1|7|N|J|
+1|16|7|Z|K|
+1|16|1|T|J|
+1
+1|4|7|4|D|emanuelvela
+1|17|2|d|D|
+1|17|L|J|E|
+1|17|6|c|D|
+1
+1|17|L|a|D|emanuelvela
+1|16|1|L|J|
+1|16|4|5|F|
+1
+1|13|8|4|D|iper gato
+1|13|1|S|E|
+1|13|2|Y|F|
+1|13|1|3|D|
+1
+1|13|8|a|D|iper gato
+1|13|2|L|F|
+1|13|L|L|H|
+1|13|L|Q|F|
+1|13|H|1|C|
+1
+1|13|8|4|D|iper gato
+1|17|2|V|C|
+1|17|L|X|B|
+1|16|8|T|C|
+1|16|5|N|H|
+1
+1|13|6|4|D|iper gato
+1|17|2|W|C|
+1|17|L|W|B|
+1|16|4|d|D|
+1
+1|16|3|a|D|iper gato
+1|16|3|J|D|
+1
+1|17|8|a|D|iper gato
+1|16|3|1|C|
+1
+1|13|3|a|D|iper gato
+1
+1|4|7|4|D|jesse123
+1|4|L|I|H|
+1|4|3|C|C|
+1
+1|4|8|4|D|philippin
+1|4|3|V|M|
+1|4|3|1|C|
+1
+1|4|7|4|D|philippin
+1|4|2|P|R|
+1
+1|12|6|4|D|Gonzalo117
+1
+1|10|6|4|D|im.ashleigh
+1|10|L|E|J|
+1|10|H|Q|L|
+1
+1|1|7|4|D|iper gato
+1|16|7|X|B|
+1
+1|16|3|a|D|iper gato
+1|17|2|V|C|
+1|16|L|W|C|
+1|16|2|1|B|
+1
+1|17|3|a|D|iper gato
+1|17|4|T|D|
+1|17|L|W|B|
+1
+1|16|2|a|D|iper gato
+1
+1|17|7|4|D|iper gato
+1|16|7|3|F|
+1|16|5|b|D|
+1|16|1|1|D|
+1
+3|17|7|4|D|duckey dave
+3|17|6|X|B|
+1|1|3|4|D|iper gato
+1|17|7|V|B|
+3|17|7|C|C|
+1|17|L|V|B|
+1|17|L|V|B|hola
+3|17|7|R|H|
+1|17|L|A|E|
+3|17|2|R|H|
+1|16|8|T|I|
+1|16|1|M|G|
+3|17|2|4|B|
+3
+1|16|2|M|G|/a2EM
+3|17|7|4|D|duckey dave
+3|17|8|L|M|
+1
+1|17|8|4|D|iper gato
+3|17|3|B|C|
+1|17|3|N|L|
+1|17|8|9|C|
+3|17|1|B|C|how do u get that
+3|17|8|C|E|
+3|17|L|C|E|/j0
+1|17|8|9|C|que
+3|17|L|C|E|/a2XE
+1|17|L|9|C|
+3|17|1|D|H|
+3|17|1|D|H|yes
+3|17|7|E|H|/e1
+3|17|7|c|E|
+3
+1
+1|17|7|4|D|iper gato
+1|17|6|d|C|
+1
+3|17|2|a|D|duckey dave
+3|16|4|1|D|
+1|17|3|a|D|iper gato
+3
+1|17|3|6|F|
+1
+1|17|7|4|D|iper gato
+1
+3|10|8|4|D|duckey dave
+3
+1|17|8|4|D|iper gato
+1
+3|10|6|4|D|duckey dave
+1|17|6|4|D|iper gato
+3|16|2|7|E|
+1|17|6|6|H|
+3|16|8|S|R|
+3|16|1|Y|B|
+1|16|7|P|Q|
+1|16|6|U|B|
+3|16|2|Y|B|over here
+3
+1
+3|16|4|a|D|duckey dave
+1|16|6|a|D|iper gato
+3|16|3|D|B|
+1|16|2|K|I|
+1|16|7|H|G|
+3|16|1|D|B|come
+3
+1|16|2|C|H|
+1
+3|10|6|4|D|duckey dave
+3
+1|1|7|4|D|iper gato
+1
+3|17|4|a|D|duckey dave
+3
+1|17|7|a|D|iper gato
+1
+1|17|7|4|D|iper gato
+1
+1|17|1|4|D|iper gato
+1
+1|16|7|a|D|iper gato
+1
+1|17|2|a|D|iper gato
+1
+1|16|8|a|D|iper gato
+1
+1|18|7|4|D|iper gato
+1
+1|18|7|4|D|iper gato
+1
+1|18|3|a|D|iper gato
+1
+1|18|7|4|D|iper gato
+1
+1|9|6|4|D|codybusted
+1|16|5|Q|H|
+1|16|4|K|F|
+1|16|7|R|E|
+1
+1|16|5|a|D|codybusted
+1|17|1|R|D|
+1|17|2|4|E|
+1
+2|18|3|4|D|maria123
+2|17|L|M|G|
+2|16|7|I|K|
+2
+1|15|7|4|D|DFATS
+1
+1|15|3|a|D|DFATS
+1
+1|4|7|4|D|Java
+1|17|1|H|I|
+1
+1|17|1|4|D|Java
+1
+2|1|7|4|D|rpere
+2|1|L|R|F|
+2|1|K|7|C|
+2
+1|1|1|4|D|Java
+1|16|7|O|B|
+1|16|7|C|J|
+1|16|7|L|L|
+1
+1|17|L|4|D|Java
+1|16|6|1|C|
+1
+1|1|7|4|D|Java
+1
+1|17|7|4|D|Java
+1
+1|13|6|4|D|MrHockehmer
+1
+1|1|7|4|D|yo123
+1|1|8|d|B|
+1|1|2|R|M|
+1|1|5|M|G|
+1|1|3|d|C|
+1
+1|1|7|4|D|yo123
+1|1|7|4|D|
+1|17|1|d|C|
+1|17|1|G|I|
+1
